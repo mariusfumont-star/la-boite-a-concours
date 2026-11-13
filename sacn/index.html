@@ -1730,7 +1730,7 @@ async function computeAccess(){
   const abFin = ab && ab.jusqu && ab.jusqu.toMillis ? ab.jusqu.toMillis() : 0;
   const passFin = ab && ab.pass_jusqu && ab.pass_jusqu.toMillis ? ab.pass_jusqu.toMillis() : 0;
   if(abFin > Date.now()){ ACC = {kind:"abonne", fin: abFin>=ILLIMITE-DAY ? null : abFin, cree, pass: passFin > Date.now() && passFin >= abFin - DAY ? passFin : null}; return; }
-  if(cree && cree + ESSAI_JOURS*DAY > Date.now()){ ACC = {kind:"essai", fin: cree + ESSAI_JOURS*DAY, cree}; return; }
+  if(ESSAI_JOURS > 0 && cree && cree + ESSAI_JOURS*DAY > Date.now()){ ACC = {kind:"essai", fin: cree + ESSAI_JOURS*DAY, cree}; return; }
   ACC = {kind: c ? "expire" : "none", fin:null, cree};
 }
 const PC_KEY = LS+"-pc";
@@ -2236,7 +2236,7 @@ function gStatut(r){
   const now=Date.now();
   if(ADMIN_EMAILS.includes(r.email)) return {k:"admin",t:"Gestionnaire",c:"ok"};
   if(r.abFin>now) return r.abFin>=ILLIMITE-DAY ? {k:"abonne",t:"Abonné · illimité",c:"ok"} : {k:"abonne",t:"Accès jusqu'au "+new Date(r.abFin).toLocaleDateString("fr-FR"),c:"ok"};
-  if(r.cree && r.cree+ESSAI_JOURS*DAY>now){ const j=Math.ceil((r.cree+ESSAI_JOURS*DAY-now)/DAY); return {k:"essai",t:"Essai · J-"+j,c:"acc"}; }
+  if(ESSAI_JOURS > 0 && r.cree && r.cree+ESSAI_JOURS*DAY>now){ const j=Math.ceil((r.cree+ESSAI_JOURS*DAY-now)/DAY); return {k:"essai",t:"Essai · J-"+j,c:"acc"}; }
   if(r.abFin && r.abFin<=now) return {k:"expire",t:"Accès coupé",c:"warn"};
   return {k:"expire",t:"Version gratuite",c:"acc"};
 }

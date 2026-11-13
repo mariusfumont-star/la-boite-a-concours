@@ -309,7 +309,7 @@ async function etatConcours(fs, x){
     if(abFin > Date.now()) return {k:"abonne", fin: abFin >= Date.UTC(2099,0,1)-DAY ? null : abFin, pass: passFin > Date.now() && passFin >= abFin - DAY ? passFin : null};
     if(!c.exists) return {k:"none"};
     const cree = c.data().cree && c.data().cree.toMillis ? c.data().cree.toMillis() : Date.now();
-    if(cree + ESSAI_JOURS*DAY > Date.now()) return {k:"essai", fin: cree + ESSAI_JOURS*DAY};
+    if(ESSAI_JOURS > 0 && cree + ESSAI_JOURS*DAY > Date.now()) return {k:"essai", fin: cree + ESSAI_JOURS*DAY};
     return {k:"expire"};
   }catch(e){ return {k:"erreur"}; }
 }
