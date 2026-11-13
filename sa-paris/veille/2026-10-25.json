@@ -1,0 +1,116 @@
+{
+ "date": "2026-10-25",
+ "titre": "Mobilisation du 24 octobre à Paris, réunion du maire avec les habitants, budget 2027 des collectivités, guerre en Ukraine",
+ "chapo": "La mobilisation intersyndicale du 24 octobre a réuni 110 000 personnes à Paris selon la préfecture de police, avec des heurts en fin de cortège. Le maire de Paris avait rencontré le 22 octobre plus de 400 riverains et commerçants après les violences du 17 octobre. Au niveau national, les associations d'élus dénoncent l'effort demandé aux collectivités dans le budget 2027, tandis que la guerre en Ukraine se poursuit.",
+ "chiffres": [
+  {
+   "valeur": "110 000",
+   "libelle": "manifestants à Paris le 24 octobre selon la préfecture de police (250 000 selon les syndicats)"
+  },
+  {
+   "valeur": "410 000 / 800 000",
+   "libelle": "manifestants en France le 24 octobre, selon le gouvernement / selon la CGT"
+  },
+  {
+   "valeur": "400",
+   "libelle": "riverains et commerçants réunis à l'Hôtel de Ville le 22 octobre"
+  },
+  {
+   "valeur": "6 à 7 Md€",
+   "libelle": "effort pouvant être demandé aux collectivités dans le budget 2027, selon Maire-info"
+  }
+ ],
+ "items": [
+  {
+   "theme": "Sécurité",
+   "titre": "Mobilisation du 24 octobre : 110 000 manifestants à Paris selon la préfecture, heurts en fin de cortège",
+   "resume": "Le samedi 24 octobre 2026, des manifestations ont eu lieu partout en France, avec environ 70 000 policiers et gendarmes mobilisés. Le gouvernement compte 410 000 manifestants en France, la CGT 800 000. À Paris, la préfecture de police en annonce 110 000, les syndicats 250 000. Selon la préfecture, le cortège est resté calme sur une grande partie du parcours. En fin de manifestation, plus de 500 casseurs ont visé les forces de l'ordre cours de Vincennes ; un engin lanceur d'eau et des gaz lacrymogènes ont été utilisés et le cortège a été dispersé. Selon le gouvernement, près de 1 000 interpellations ont eu lieu en France en marge des cortèges ; le bilan définitif n'était pas encore consolidé.",
+   "enjeu": "Le maintien de l'ordre lors des manifestations relève du préfet de police, non du maire. Un futur SA doit savoir relayer les informations utiles aux usagers et aux équipes quand les services de proximité sont perturbés, et rester neutre face aux écarts entre chiffres officiels et syndicaux.",
+   "sources": [
+    {
+     "nom": "France 24, direct du 24 octobre 2026",
+     "url": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron"
+    },
+    {
+     "nom": "ICI (France Bleu), direct du 24 octobre 2026",
+     "url": "https://www.ici.fr/infos/societe/direct-mobilisation-du-24-octobre-des-manifestations-partout-en-france-70-000-policiers-et-gendarmes-deployes-8725021"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Ville de Paris",
+   "titre": "Emmanuel Grégoire réunit plus de 400 riverains et commerçants à l'Hôtel de Ville après les violences du 17 octobre",
+   "resume": "Le jeudi 22 octobre 2026, le maire de Paris, Emmanuel Grégoire, a organisé une réunion publique à l'Hôtel de Ville, sur inscription préalable, pour échanger avec les habitants après les violences du 17 octobre. Selon franceinfo, plus de 400 riverains et commerçants y ont participé et ont exprimé leur inquiétude. Le maire a présenté la réunion comme un espace d'expression et de dialogue. Selon franceinfo, les réponses apportées ont paru limitées à une partie des participants. Aucune mesure précise issue de cette réunion n'a pu être confirmée dans les sources consultées. Emmanuel Grégoire a été élu maire le 29 mars 2026 avec 103 voix.",
+   "enjeu": "Cet exemple illustre la démocratie locale et la gestion de crise par la collectivité : écouter les usagers sans empiéter sur les compétences de l'État en matière de sécurité. Un SA peut être appelé à organiser l'accueil et le suivi de telles réunions.",
+   "sources": [
+    {
+     "nom": "franceinfo, 22 octobre 2026",
+     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/a-la-veille-d-une-nouvelle-manifestation-a-paris-emmanuel-gregoire-a-tente-de-rassurer-les-riverains-traumatises-sans-grand-succes_8250259.html"
+    },
+    {
+     "nom": "Sortiraparis, octobre 2026",
+     "url": "https://www.sortiraparis.com/en/news/in-paris/articles/355416-tensions-in-paris-the-mayor-invites-parisians-to-exchange-views-at-city-hall-this-thursday-october-22"
+    },
+    {
+     "nom": "paris.fr, mars 2026",
+     "url": "https://www.paris.fr/pages/emmanuel-gregoire-elu-officiellement-maire-de-paris-34421"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Finances locales",
+   "titre": "Budget 2027 : les associations d'élus dénoncent un effort « insoutenable » pour les collectivités",
+   "resume": "Selon Maire-info et l'AMF (Association des maires de France), les associations d'élus, réunies notamment au sein du Comité des finances locales, jugent « insoutenable » l'effort demandé aux collectivités dans le budget 2027 et demandent à être reçues par le Premier ministre. Maire-info indique que cet effort pourrait atteindre 6 à 7 milliards d'euros. En juillet, le ministre des Comptes publics a évoqué des concours financiers de l'État aux collectivités de 53,9 milliards d'euros, contre 53,4 milliards dans le projet de loi de finances initial 2026. Les modalités de la contribution devaient être précisées dans le projet de loi de finances. Les sources consultées ne permettent pas de dater précisément chaque étape.",
+   "enjeu": "Un SA doit comprendre que les décisions de l'État sur les dotations influencent directement le budget de la Ville et donc les politiques publiques et les moyens des services. À l'oral, il faut savoir expliquer simplement ce que sont les concours financiers de l'État.",
+   "sources": [
+    {
+     "nom": "Maire-info, budget 2027 : effort de 6 à 7 milliards",
+     "url": "https://www.maire-info.com/budget-de-la©tat/budget-2027-leffort-impose-aux-collectivites-pourrait-finalement-representer-de-6-�-7-milliards-deuros-article-31035"
+    },
+    {
+     "nom": "AMF, budget 2027 : un effort insoutenable",
+     "url": "https://www.amf.asso.fr/documents-budget-2027-denonant-un-effort-insoutenable-les-associations-delus-veulent-etre-reues-par-sebastien-lecornu/43362"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "Ukraine : frappes russes, échange de prisonniers et ouverture du Kremlin à des négociations trilatérales",
+   "resume": "Selon Ukrinform, 270 militaires ukrainiens ont été rapatriés de captivité russe le 23 octobre 2026 dans le cadre d'un échange de prisonniers. Franceinfo rapporte des frappes russes ayant fait au moins 10 morts dans les régions de Kiev et de Zaporijjia ; le président Volodymyr Zelensky dénonce des tirs de missiles balistiques et plus de 200 drones. Ukrinform signale aussi des frappes de drones ukrainiennes sur l'usine chimique Azot, dans la région de Perm. D'après France 24, le Kremlin se dit prêt à reprendre des négociations trilatérales avec les États-Unis et l'Ukraine. Aucune négociation n'est confirmée à ce stade.",
+   "enjeu": "Un agent public doit connaître les grandes lignes du conflit, qui a des répercussions sur la France : accueil de réfugiés, énergie, sécurité, aide européenne. Il faut présenter les positions des parties sans prendre parti.",
+   "sources": [
+    {
+     "nom": "Ukrinform, dernières informations, 23-24 octobre 2026",
+     "url": "https://ukrinform.fr/block-lastnews"
+    },
+    {
+     "nom": "franceinfo, guerre en Ukraine, octobre 2026",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/"
+    },
+    {
+     "nom": "France 24, dossier Ukraine, octobre 2026",
+     "url": "https://www.france24.com/fr/tag/ukraine/"
+    }
+   ],
+   "fiche_enc": "f49ba8bYcKLKhheT0ozzXl0Z97TAd3BdJvhGEpH/+pWhW+BgodfsyuGaBZJDIaNOtpVIK1x1gcOH6SJQFJyfz7+lpCgj1nExpsCApOId3O2UklHII8FXaU0gkC8DrrF/EXlFSaR8cepmQ2BOysIUfBLcgKQom8QrGBJwGc3i52IQObokuZpy/B8H/ANk4k6xN6NFWEFqR4F8smXEzQD7Ola1euqj552PdW7GmPM027qcJjKCY/zIJeoHiN9cpm8meRfVstCaRq8GTlBTcR88I90z/9XLEDgeupGShWsjleWbMsOXsgHRPh4fHpFiV0TA/eV87BDxgUrq48KC7SEdd7mwT1uR0HfBr71SZOkjognPIqh+4xD2hmm2FNPANR9nTL33E7emoKu6QwWCEG8s6E0/gt8eRwgkQHuBUN62fQ96rkGXfRkDWR4h1A1xZ6g2u5Db/EW3UUqL+FjdlSxyDYDlqbwX2lAfe2oFC+j6WxGa9ZW7h+P0bkggjeh2uD0q/LsQVrbSyUMuMC9Xefa3SNYXMd54ZCrDACaaUnF/GlrzlFeV1eZEW08e3BH7og3kTcUsbmA4n0ezUcSa6vyVyAKjPoXlBugFfkLgs5VYevbQjWEz51v5u4IQQ9XVcZdWR064N/G5cJUu6GFJYQLkkF5VlrOq8/UqY3IjKgk/tJfWKSULzejLX9uDYZQ9/GSK9KjutBP6rq1WJ2sujY70Cod3OKg1dxXP9QPiRgZrHrFm0u5elcdsnA+okxRVEYDhQSJZdPvgPeEPbvUkn5OWae+lKnChAmiQIQ1F2Qst5JfthEcl/+lHVGtA+ibEjOE2sb44g/uNvUC8toxjR7kT5rZiLSYM3nBNX3sWGPB3Q9SCGXYf8cCgp/A/trkcds3/KCwblAgTpaf45bd2YIz6tPrX+H+07YgKAbte6geHlkIGDi5V7/zd/strB2yCwddh1PAU2M6tAtVA1Qn6LGN3l51VON/KUxL4IAks5iKbq8Rz5gL3pO+KrlcauENJrPUE00KuwIrLnxvK2WO5tQ/4bzf5VC+1o4hhxi+JhxvPf4ARMV5JYTaQoU1RkMMTyJ2fKomE23OkUe2Eh89Up5wFNm+qBtQVvUwkKaxVIOrr3MnnR2WBN17pqHiTvDFA1hMUX2Lc2+MimJsyzOMjRMVq6jlAKQKHrN8UFiySBoe8KhrFYfl+muvxujde49SKsKgYy16xaAyjz4h9jcPA0lBGKt/afSpXTdoG8mbxL2sLen+Vm4k+wA1s4tSo+dgsoV3j5FPR5oO1PXa4iJ+shCYpt7+J9scfoNgzt3g9xq5o2XIaR0abuMz/HP/KzBBW9wc/6t1RfeM0sP8bEOunzRg7rSeNQbqQIuUvWZ2fvzlbm+66baJiR8QDEkDI09ajLEpUuK2r8Xn/NCw5sDY/pcji3HTDxEzGo/zYoJ5g5bC+WZ+6IEH6fQVVU86VlqEzSsdOLz91wfDtfvzZqUB4Z/3+QSu3tdiQh8j6sj1nzCAQI6dKB8DSD/1iMayjsodFvaNB3fiWZ7w/ccNLbKOkt8+oMC8JVOwV9/pARazNt5DpqkoUJ37XgClnu//3IORfeXgrPyiWcJx1IUpgRm+shzbDVuZlTZVV0cINVrs1tFIaX8IAE9E9ZEJkgM868nYDmjvgSkvBnQYKnr8wG5Rt3uavi3mExA5mJ7QyFyxdSRIu/RrKdYBHCznQPcDOp3qhYiG8/oju3oTh+LqZ7+14ueW5Jk8Lf8XuY8D/gWhMvMS0y6DT5A78O2qlZrioPAo3ntLrunADQ04sAfQ6ZAlMogSOYn9eHmi6PWw8FClIMG5Bmc0yPm+D8LIhzPkh7EjinG8LVyCPewSmK7+8zYEz/M9VL2aH7lvac6w7t3yL5GwsQXJoegD3dizbjyqmBwtXOoCgBstmJnJEFNmuDyGgA4dApakOs6RRyODUQz9GSSgxvE1MhKMxGALc4bIdwlJs9I8iQXVB+288uMhJ6EhWOyJXauaXqzkSQOsx9z+z/ReaYFYHH4FpRY9mJffL27fhkZhwU+gh4P4sVfOxj3FsTUx1vC3Xvk3OU1YoTGGZTH3aUxreEQeAkKGWZnJLY8cvthLucSr+zqKHvpKSjE8Oc68NCL5tCX7Xc6byy1W0cfa9/Fz9MaArakMvbAnLRUAz3Bz4XMak5siVOn36KlWJKK2aB1k9EsQ8H0xhRcYOxSAavO79KdiFnecyM3jUmeAS2r9Pg+lXOasDsOfbvxF7vrEUjFDRUA/hcA1PxgfEugqcM6dpZoOrwAWO3ay9gOLdplyOAyeVWgEMVr4twJbTuGsxoetpI7XWDFIE9YUxAuf6/UTfSDwNfP3TGiZdPAgUyxyFC3h9SeoxCHfwcy7mxTFph5mPpOs/whP6o7giDrDi7SCoSE+baQa7fFC186iI0RNR/gU20LgdeE0XbRM0BIChkMf7wqbg5ixuatWk3ygalyUjYnkjJKPh0iHWSbBJSA=="
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "États-Unis : les élections de mi-mandat du 3 novembre 2026, un rendez-vous politique majeur",
+   "resume": "Les élections de mi-mandat (midterms) aux États-Unis auront lieu le 3 novembre 2026. Elles désignent l'ensemble des représentants à la Chambre et une partie des sénateurs. Selon un article de DH Les Dernières Nouvelles, ce scrutin constitue un jalon crucial pour le pays. Ses résultats peuvent modifier l'équilibre entre la présidence et le Congrès, avec des effets sur la politique étrangère et commerciale américaine. Les sources consultées ne donnent pas de pronostic fiable à ce stade.",
+   "enjeu": "Pour l'oral, il faut connaître le fonctionnement de base du système institutionnel américain et comprendre que la politique des États-Unis influence l'Europe (commerce, défense, Ukraine). Il faut rester strictement neutre.",
+   "sources": [
+    {
+     "nom": "DH Les Dernières Nouvelles, 22 décembre 2025",
+     "url": "https://www.dhnet.be/dernieres-depeches/2025/12/22/cinq-choses-a-attendre-en-2026-DHJNIO5JZBCE3EMWK3GLTOGXGA/"
+    }
+   ],
+   "fiche_enc": "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"
+  }
+ ],
+ "question": "Après une journée de manifestation et des violences dans votre quartier, des commerçants viennent à la mairie d'arrondissement exprimer leur inquiétude. Secrétaire administratif, comment les accueillez-vous et que leur expliquez-vous sur les compétences respectives du maire et du préfet de police ?",
+ "genere": "2026-10-25T06:56:31+01:00"
+}

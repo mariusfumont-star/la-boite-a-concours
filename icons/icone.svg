@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="0" fill="#1d2f57"/>
+  <!-- rayons -->
+  <g stroke="#f2c14e" stroke-width="14" stroke-linecap="round">
+    <line x1="256" y1="70" x2="256" y2="112"/>
+    <line x1="168" y1="96" x2="188" y2="132"/>
+    <line x1="344" y1="96" x2="324" y2="132"/>
+  </g>
+  <!-- diplôme / feuille qui sort de la boîte -->
+  <rect x="186" y="140" width="140" height="150" rx="8" fill="#ffffff"/>
+  <path d="M220 214 l26 26 l48 -56" fill="none" stroke="#2f7a4f" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- rabats ouverts -->
+  <path d="M120 250 L186 250 L150 196 L96 214 Z" fill="#d79a52"/>
+  <path d="M392 250 L326 250 L362 196 L416 214 Z" fill="#d79a52"/>
+  <!-- boîte -->
+  <rect x="120" y="250" width="272" height="184" rx="10" fill="#c8843a"/>
+  <rect x="120" y="250" width="272" height="34" fill="#b0702c"/>
+  <rect x="226" y="300" width="60" height="16" rx="8" fill="#8f5a22"/>
+</svg>

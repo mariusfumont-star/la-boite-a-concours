@@ -1,0 +1,112 @@
+{
+ "chapo": "La journée du 13 octobre a réuni lycéens, étudiants et personnels, avec des chiffres très différents selon les organisateurs et le Gouvernement. Le ministre de l'Éducation nationale a dressé un premier bilan du plan de remplacement, encore partiel. À l'Assemblée nationale, la motion de rejet du PLF 2027 a été repoussée et l'examen des recettes a commencé.",
+ "chiffres": [
+  {
+   "libelle": "manifestants le 13 octobre selon le ministère de l'Intérieur (480 000 selon les organisateurs)",
+   "valeur": "161 000"
+  },
+  {
+   "libelle": "lycées fermés administrativement le 13 octobre selon le ministère de l'Éducation nationale",
+   "valeur": "214"
+  },
+  {
+   "libelle": "des 3 000 professeurs remplaçants disponibles affectés au 13 octobre (bilan sur 25 académies)",
+   "valeur": "35 %"
+  },
+  {
+   "libelle": "vote rejetant la motion de rejet préalable du PLF 2027 à l'Assemblée",
+   "valeur": "236 contre 149"
+  },
+  {
+   "libelle": "part des crédits de l'Éducation nationale consacrée aux pensions (CAS Pensions)",
+   "valeur": "32 %"
+  }
+ ],
+ "date": "2026-10-14",
+ "genere": "2026-10-14T07:02:44+02:00",
+ "items": [
+  {
+   "enjeu": "Retenir l'écart entre « lycées fermés administrativement » (décision du chef d'établissement, sous l'autorité du recteur) et « lycées bloqués », non comptabilisés par le ministère : savoir lire un indicateur, c'est savoir ce qu'il mesure. En mise en situation, l'attaché en EPLE ou en rectorat doit concilier sécurité des personnes, continuité du service public et dialogue avec les représentants lycéens. La protection fonctionnelle des personnels blessés est une notion à maîtriser.",
+   "resume": "Le mardi 13 octobre, cinquième grande journée de mobilisation lycéenne depuis fin septembre, les élèves ont été rejoints par des étudiants, des enseignants et des salariés du privé. Les organisateurs annoncent 480 000 manifestants, le ministère de l'Intérieur 161 000. Selon le ministère de l'Éducation nationale, environ 5 % des professeurs de lycée étaient en grève et 214 lycées étaient fermés administrativement, contre 800 le 6 octobre. Dans le supérieur, l'Union étudiante affirme que 90 % des universités étaient bloquées ou fermées ; le ministère de l'Enseignement supérieur compte des perturbations dans 35 % des établissements. Le ministère de l'Éducation nationale recense 147 personnels blessés depuis le début du mouvement. Les organisations lycéennes et étudiantes doivent être reçues jeudi 15 octobre par les deux ministres ; de nouvelles journées sont annoncées le 17 octobre et le 5 novembre.",
+   "sources": [
+    {
+     "nom": "Café pédagogique",
+     "url": "https://www.cafepedagogique.net/2026/10/14/apres-la-manifestation-du-13-octobre-les-lyceens-esperent-la-convergence-des-luttes/"
+    },
+    {
+     "nom": "La Libre (dépêche Belga)",
+     "url": "https://www.lalibre.be/dernieres-depeches/2026/10/13/manifestations-des-lyceens-en-france-la-plupart-des-universites-bloquees-ou-fermees-selon-un-syndicat-etudiant-CBIONZVRRZC5HBBV2HTICD6XIU/"
+    }
+   ],
+   "theme": "Jeunesse",
+   "titre": "Grève et manifestations du 13 octobre : un mouvement qui s'installe",
+   "fiche_enc": "KoRFV0GSMDtmAiYfNnDgirzF/lcXULDw9OqXLlaDG6eaBW5aqXxN8kOEVHxqmnUfIecsVopODf8N/5smbfTEH0YEFSItpuTBH8HoFpWsFJO0zRfSRdtu0KXIw7ok/myJhS71/iloVswMDF6/onp+r+oaCnqF1jmlEgDRbo7Rt2PMeg0fSxNCDVKkEtomY0uBXTLXkLx+3jpPBn4hCQsDWQc2+lYLg1EPJtFCNbSdfJJPPbA+vqu7v9cmkj5ZcUgaQlMe7TKM0yoQIKjCrNANXmeEnuk8Nf/xnLZSC1K7Z05Yz1qQXciCkyGmikK7n4sJkmMGqNcyhl0FgmG2AZo2L0i/yhAuW+u+7vZBNwhn6TUAyeWMy1oybDURuf9vjUtBg1twrOB1fgCmSw3nJ5k75c/Ws/AzucsVx4eOaT3B8XIWL7htg2LZp0vFsnm/j6X1T4ABoMgxRQamZXld4YyBUOQ6j+c3szlRq0ZiyFLOfsGGrerVP9hosVOxGJ5ZY9XpUF841ggjpo+KZeUjsl3vrUXHmoyhi9ko5tWXiivzoUqHhZuWmdgehgHskEfH2iGDZKtUr+zRu3vnWhIG7Gx8+091MgexBvIF4hhbhSHVBQEZojBOcPNs2OFXSOGUrrOOkLoyLWb26CXTEtSD7pHG4vqnLADaqQD8Vh//WMNsJFq+kaUzhAf5+PJ89RxBENyaN3M3u+cbslcfpcHU/XesIufa2pFc9mCXMNb4BUzYZ+zOhK0yV9O7gWKeNlE3fRRmqMSf2WtrRfqMVyRvS9O1SFZGXCtgbp2/rfw213ywZwaJhlylmGCmGfijZdgUPthYd7Tg9mFQmW5nAG5V2QXDMBFbW2CS5idqLdcfJBdgy2Qa3wjIknsYpLdp/kzTSgHhurde7t98zf4cbHJVaWut69YAAxJO+lnaGRfbUodsNm5pPKx9lh44pA/nY71HkmUY/ELJQWpRCO2lmEX0a5AOp6m+TjQSUfg5LgofzvdxyRJ0BtYCPRTIfBmgEZhPuvfMw3uEL00pcbwSLtSQ+jRRSpdVO5VJMgDvR/0Bt21YE7OYiPGgF+sE2ocJvDSWNzWQ2s2rujNeD86hXydpx7om7B9vUkQRhTHvG23xiA7C5axG9HVlu1bW8OK9G/yTmZPiijsj9GL81fwqVLLRJ9QKdE68hMcWwvJ/B9teXTQpkyVEpjJo4Pwr2yXGnv2EDrwwfXRULHzNFndpdAC56tsrDhEmPHGDlZrreHhnwWhXNg3XEHL31uyDKKU7S8dTtpwtH0PRxHpBgDJq1ZVjWdRLT1L7egHUoxhYLwAiHc0+KDqVNHgMhwtsG69G9BiwVgP0RMtsWr+yYQO7Pp+Z8LMLCBx8karIvmAUAovdv6VVqgLwsdH473vJfOwPyJpXKKB8UBhrlLZysC6EcIplLDGrEoX3U1qXdOCStyUszJSmDzNuq5/o2jSDNkY0BCwWXIy+7zKbWNi1XrBG9M6lfRpVyE/xNEEYemr9C0Abzgnr165qSqMAQDcmvqV5pCAbXdCO4SoEGyNNRG14wRT0/uzF+4p8dCbP7ZzG2jBBFJ592Q35yOfUXw2iPeZWK2tbuEwcoHHR6TzVzUSzkKevFh6Dn9fWkYVRNIZ1FiFXNEyORsE0M06rBwir31tUHDUHyKFmNwDLx7MYBEBe//FKbxmRdUkdiLRh4+u4MegF9GswuvwFhnICpbLbqFGSWKQk+Zk0QfkaKdZ/PbQrm9U0QzNR3AFx7vNBFyNzfwnpHrOB7D0OZl2b5l4U1PitG/QQKx8gjjCfy5qvgGmmYluD4u4gucqd7FbSPB30xvGvOXUfoZjAdL1jlcHfDgxWYvtj0cCE9sA1jcIY21H0S9RgJ0iTzbwq3MTFqMB5xnkN0AUseZ+OHACdFXJO7yB7SJX7+soo8ZuH"
+  },
+  {
+   "enjeu": "Le remplacement est géré au niveau académique : la DRH du rectorat affecte les titulaires sur zone de remplacement (TZR) et recrute des contractuels sur crédits du programme 141 (enseignement scolaire public du second degré). Selon des données publiées début octobre, 7,5 % des heures de cours ont été perdues en 2024-2025 du fait d'absences d'enseignants au collège et au lycée. Arbitrage classique à l'oral : recourir aux contractuels (réactivité) ou mobiliser les titulaires (qualité, maîtrise de la masse salariale).",
+   "resume": "Interrogé sur France Inter le 13 octobre, Édouard Geffray, ministre de l'Éducation nationale, a indiqué que 35 % des 3 000 professeurs remplaçants disponibles avaient été affectés depuis le vendredi 9 octobre, selon un bilan portant sur 25 académies sur 30. Il attribue ce rythme au déploiement de nouveaux outils d'affectation livrés fin septembre. Environ un millier de contractuels doivent être recrutés pour renforcer la capacité de remplacement ; une centaine l'ont été depuis vendredi. Le ministre refuse d'aller au-delà tant que le potentiel des remplaçants titulaires n'est pas pleinement utilisé. Le Snes-FSU juge l'annonce trompeuse et reproche à certaines académies de ne pas tenir compte de la discipline des enseignants affectés. La plateforme de consultation des lycéens a recueilli 86 000 contributions, dont 71 % portent sur l'organisation du temps scolaire.",
+   "sources": [
+    {
+     "nom": "Yahoo Actualités",
+     "url": "https://fr.news.yahoo.com/crise-lyc%C3%A9enne-%C3%A9douard-geffray-annonce-071347951.html"
+    },
+    {
+     "nom": "Café pédagogique",
+     "url": "https://www.cafepedagogique.net/2026/10/14/apres-la-manifestation-du-13-octobre-les-lyceens-esperent-la-convergence-des-luttes/"
+    },
+    {
+     "nom": "L'Étudiant",
+     "url": "https://www.letudiant.fr/lycee/filiere-generale-et-technologique/article/mouvement-lyceen-le-nombre-d-heures-de-cours-non-remplacees-a-presque-double-en-six-ans.html"
+    }
+   ],
+   "theme": "Éducation nationale",
+   "titre": "Plan de remplacement : 35 % des 3 000 remplaçants affectés, un millier de contractuels attendus",
+   "fiche_enc": "8CCOsBXSoaPf4NYkK0iPbmZCsrOi4s4U58hVjrxqUuQRuYrN6Ps4OCNR2CTwYwfcufQ8v9oXkHcaPpAPUMCnYasvRWsCqWKGeZtPy+7TuogQbUgmVcvaEmq6Le1zm3xbuEO+kWygkIg2mdcwIS1WUWNqeWmY0mUCSY4y7FsLwSJqnYXntZWe/68SnHPhd3pCQ6WTTKMqXcSxB/15Kk+8hKi283PNCu5b312n37DAgwakrEPxVtRAJO9KlsJpLeFCweDTcqubY4R+jdah80SJU/LjAVTZuVUqzJt8oApOsqwHdVzSlfPB7MO0xMKs6Pn4SvmhoEcYYL0Bb9sbGktOHHMD8xAGEMQXsL8spMw75Z4NMoSiycpOrcVPfFCrG2sam2H25v17HezklD8x7Kp2DKHfv1RvH+J/hCareWJCNVlqhR6E2xaeyXecGI8oO2noFVXEtt0ztb6ldu7+bEB7yCpKTBEZuXsXfPCWsimBrwZVSzKKN7CUzY9QW8IP6J/vBsOB8i2V1UzjQyu4VAWLCuyUekwwG5F/vI8/OQ6ja5gZRu9foRp17nFLQdhzeyp3vMnyqbbbS1cYtuvm0vgzZvaQUYyxCznGXKlHST8L1xt1t7xSPQ1rByjz21yeBaAqa8glDCKN3ZNLbGM3FzZINfp3NPtnJp/q8VaZbgSRRQf7F8KFp75aEM6Bf8Im6sgEEjzgD2PBbRlzKoH0IkXHxIhYmFLQ+7trNSoknoyLPQaiyI10kqbOvhp75MUjsZWyCU7hVF3p8NNzMXpsPKLsUY/Aff2PFdAfmLa42ULzQ+4hR9xHv6LBouOy9//amIqIhU9fgHq1F0pX2gRyo1kZr8q/DzFUbwk0lQJhS7VSAbZT8yjy6Y8OyXLlz6h3tfm0jqHo3b69ejp8cuusTjJ1/ZpLUa+0D4CoBy/vKYSDP4eSH5P/iqj+/wBPreTU/gfNOqnNGi+m4FiiMZI2BhJ/9v/q46IQiIgmxhlIKFv6mbM7UyqcErL2x/xm7y9I3Tbr7OoQemdyxJmZ9eOI+Jqy0L6M896xHeOe8hyoIgd8suoEndfXz3eFpGgoOYgzN10WhMA0cohWBKmVVOf0zg8xGCNLjUyZaEW/PcIfchGUKYVWerKuPT3gL2lCPykknbag9OG7FxKwLUdqv1Jmdw1kWFG0x4vcUdq709bQ5yLjsFy3sgqheFH65b8q6ORq+npfyD+Y07GZmnqCRUi+s+ygim11ZxSs5bKxx50RgVSWJlXEUX4i101qBcc587cDKL8c1/VoBkAhT24itausJd8QG42jsyTkn9mawHZqCfuDnGpH4WF5B2VD97gLJmw7hxSTfSl5jDLdF7WxfyEWjV4xH9egc2nBhK1+mS8RjtG4umnJP5TVaaZ+/T/NUAg8I+Ir9jMHATjKNskDSQurZhn3D0jJsf0dOU74iNRr01h7wF7tWnFmcDzDBfkKcNX1Qk2KLX1rclLRevPaSxAv2Yd+/MKCpp3+gFVC7fh6+3sgzAMH2JMd7FTuOPcbO/9Naes6KshSTvtfrwVF6KJhVjNrOiaq8HAYLIe694qngoJR2NcpJ98lYI/RGXI+7u90Fazn1+NJq0NJQ/ZfHorfQEVE2l8KkFuKFVdJl2qG5TeeczybdfTTIbzzWAy0m+PDbhLE5hc+ZMHi09U266QZTiemanopVpGufNVoWSJStlfukFGCRZ/ha56snsgchPJTS8K4ABMkhvXsjzZbN68ijbITYCoONNN6e0zAjSNxy1JbdGIKPlbZaWF04hWQ1Bq2DaSBFZzr9wC1uO3ksnAHhMF+zvXvdP+khUkpolLn858ZWXOFG+BM8k0d+/RP4Tp96QASNPqLR6bGNxUPxGAxRBmG8cHUgGSZwO0="
+  },
+  {
+   "enjeu": "Bien distinguer les outils en cas de budget non voté : article 49.3, ordonnance budgétaire si le Parlement ne s'est pas prononcé dans les 70 jours (jamais utilisée sous la Ve République), loi spéciale reconduisant le plafond des crédits de l'année précédente. Selon le Conseil d'État, les traitements et pensions des agents restent des dépenses inéluctables : la paie des enseignants serait assurée, mais les marges de gestion des services seraient très réduites.",
+   "resume": "Le mardi 13 octobre au soir, l'Assemblée nationale a repoussé par 236 voix contre 149 la motion de rejet préalable déposée par le groupe socialiste contre le projet de loi de finances pour 2027. Le Rassemblement national a voté contre la motion, jugeant nécessaire que le débat ait lieu. Roland Lescure, ministre de l'Économie et des Finances, et David Amiel, ministre de l'Action et des Comptes publics, défendaient le texte, qui prévoit environ 43 milliards d'euros d'économies supplémentaires pour ramener le déficit public à 5 % du PIB en 2027. La première partie (recettes) sera examinée jusqu'au lundi 19 octobre. Par ailleurs, l'Inspection générale des finances a détaillé le 12 octobre ses travaux sur l'hypothèse d'une loi spéciale prolongée en 2027, faute de budget adopté à temps.",
+   "sources": [
+    {
+     "nom": "LCP",
+     "url": "https://lcp.fr/actualites/la-motion-de-rejet-des-socialistes-n-ayant-pas-ete-adoptee-l-examen-du-budget-pour-2027"
+    },
+    {
+     "nom": "Acteurs publics",
+     "url": "https://acteurspublics.fr/articles/budget-2027-en-cas-de-loi-speciale-prolongee-bercy-naura-pas-droit-a-lerreur/"
+    }
+   ],
+   "theme": "Finances publiques",
+   "titre": "PLF 2027 : la motion de rejet repoussée, l'examen des recettes commence",
+   "fiche_enc": "eQ7GNc5KnQ2N0nz90eQc9z5W6u1G7G7+0t5zb+m+rsHqq3tmHj0H/dvYx/J6vKs7LNgdktMqfe5czwy4TrTXSDqyFyx7KhR1GkH2teQQJGzddCwzXbA0vGwVfs+6cTAcI1VUrP0xnoYhamIyr+4yb+ejVYMphwqFGt2tAbn5X/5sNmKEH+LaFiROLtxwyc5APBA5gTsB5Z3AOSTo+nS4GBU7QeE3whC+mwGYKqoHTfdjoNeoeFacdjEPb3ZlVkvHi3WaTA9+xD3d9tX+m8UXUoppvEjgKFGRiTMPlPAlBLCGJPrvu+/EF6/zcyLHc8PVwRlqKsXjfl8NFfx+4rFhsnRaoLTEdxV17caSKBveVYrKYlBU4gdAz3DYerke+DYXtg9Fa4574IFfsP8mRYfZZYTQBLbkDXkGfIdNp3LgRFhJ31HZXeE1wkubY97aTv4PlPFdq66U/gSN+dQGsjUXxpqtCSwu/EEN00pFQ3ujeYOAxzByPCPR6xvkWFfF78DGd70IW0r+5XJ+H0DJP1BXMhQ6sfv4EJ3feX3uCfacIAiipT6mFTnBHFXXILfN/mn70bcUxBujUOmEWZid5FELA6+axttnB5VkG6GN7tXR5HU66Hr+gIIu6VYb4EEBSElHcVQ/8FFMF/asVyj8mX5mhYOEa9QMhOo4BhyCf3TdeP/7ezm8ZKODAW5WqPYwhd8hBh3IS8PosZBV8xvZisZGonTGthQixxwy+bziejftrKawbM/HUR5RQCjhSjQXndXLyLG4c7RILMnnVl6EiAiSkJIADeGgCi+5czIbYNM8vSWNos5MCzONUUaUC5woaN2JcIjY2AL/Ggo7ayvk4S5/k2B9r5d+y0PgsG5MKUZnDA3mfeRdETqBvDBAbMRKrDRGJQEuuD056t8UObkMfJO3S3104anVBnakR1B8LXrINXgq9jyPqJxgnCGSPnaLqS3KJWCtXYtuevot8JKMUW9GwyUqpqkPgO6g6R+P26Ke7zNeQnjUAna+Wp9/LKB5zLUGFbz4wZaVqMQ0jnI63OGBGGOhCXX/+Jc0OHI6eEoT4nbTYbbkhWyELkBCM7PWBYG/mn+JFkRjZKEdO4vhlvnA1mphBfqAgJt4qYxLOhkzcZPqQ3U/zeJsxa3yKIFk/XMniw0ZyMLbiIcu6rhYIZCAigJAipNQ+Wk+Q3fFVZFjIdX82nWI8HjEwWsFIEbVhlxtW8Ht3gjtD/9xjzgmRzOwGb2xLnZ8l3B06vGUN5gn/2w8tr4o4uCir8+y5hbj7eVZfOgInXnKW7rFE2ggFCFAIf5LMSGLxGIM3CSLVMSLb4Ilsw86w084USg0JwrGDmQJGMu6HvxFKKkSVidz5xvJ2xLf0/ZhV0apfICkxKSwmOH3H56JOVdIwUFUMQ9DLNbec0j5d0lHsxnckg02mNQZbgqzZ7dkgmlxXRhf9GK/22tTFVgAHEGUT92FRaq0YLvgK/Omuf8DpNqPmgJ5jEIYvYuHPJRBeTxHazY5askzrSSEZTEfMmMy+5CUwDtmtFv7wgHITMcIx7ukJ7j7ZyqXrDGGugmjhXd76edPRGxvI8tWJ+eKeqO0LN6+eBS5im6ZVlx6sPqixNzET3KHHwoSxzeSXNgw4ezBxRAHmW+eQH12dEX0XQwr4Qa4pLdRlznmligFdE2Vr5gIFi2+YzbpReUk5r5c82ojO94TZUDaZfkLP2SpAjtC4uByZW6Jk0rsqtFbg999cG1QjADfEKkAe6C2oCb+FAbZOYkdT5ZVoE5cwy9QItCgGJ78RcEWTJpo/pN9qk5+LWU7UG6wGKHWdRgrNtXose3aIcVv58Q="
+  },
+  {
+   "enjeu": "C'est pourquoi les documents budgétaires présentent les crédits « hors pensions » et « y compris CAS Pensions » : une hausse de crédits peut être absorbée par la hausse des cotisations sans améliorer les moyens réels. Notions à maîtriser : titre 2 (dépenses de personnel), compte d'affectation spéciale, programmes de la mission « Enseignement scolaire ». Utile pour une question sur le pilotage de la masse salariale.",
+   "resume": "Le document annexé au PLF 2027 par la direction du budget, présenté par Acteurs publics le 13 octobre, détaille la contribution de chaque ministère au compte d'affectation spéciale (CAS) Pensions. Ce compte finance les pensions des fonctionnaires de l'État et doit être équilibré à tout instant selon la LOLF. Les pensions représentent en moyenne environ 13 % des crédits des ministères, mais 32 % pour l'Éducation nationale et 30 % pour l'Intérieur. Le taux de contribution employeur pour les personnels civils est passé de 74,28 % en 2024 à 82,28 % en 2026. Il s'applique au traitement indiciaire brut, primes exclues.",
+   "sources": [
+    {
+     "nom": "Acteurs publics",
+     "url": "https://acteurspublics.fr/articles/budget-2027-la-facture-des-retraites-des-fonctionnaires-devoilee-ministere-par-ministere/"
+    }
+   ],
+   "theme": "Fonction publique",
+   "titre": "Retraites des fonctionnaires : le « jaune » budgétaire détaille la charge par ministère",
+   "fiche_enc": "I7xXQc/f1Q8B/IyhfqvvKTHivip8j5pIl+kcrM04r3OZvzqlrwL1TnSPzK+dsdVZUNBG1wojarSDj2mBZJ+3xWthvok/Bh82W4xQMxt5+q/dZJkYbAD+dv1J8Ko3kHVquhXX2ajn8BLpK00rkZ3s+OsVeIqIjBKPJPPT06bQnfWmJ0lQa1kLLm8DHinEBWOKugTZql6fywMkkOM4PuYktUDEiBkybrtu3aZES9WuXykk9LWc6ADTBIZOjUar4XazOpYtLDZ4HBxXtw9yGzJU6ymziKY+YHdW/Y6Eleie6zaS3PdtH49KcG6RC7XqyoDoY9yyekU0l4rG8JRMkALBYeI/a0Tcxlr+9wYtP81yqrHZzuwMjhBye6Ez7Dh3zdX18+sOkjvBi/1M+LwMW+VZFzLn/sPcLEnzYbvgxFeTkiUqAxO4M4oxMTXUfZ+FRLVW1OYvFVbwaujuRTepgBrkrb/I11mHZKmA1NmzqgkQPZ/69XakdyJLSBT1IcRNluPSYLWNEBozrc+tKlV9wszpBJbg1qKhescDO8221ZiOoE25zVHgQHtOcH0b+Su1XwyMTGB3co8x9xdCnxbugaVmscArkRhkqtIn0ydlgi4wM1QWdxuiZVoT0+XUQnDLvxXyc7VW8QRURy6LzDlEWrNblkS1YKToIdW0sIP+mbjg2QPVGZ27aVGgEyByXZEGgkkO/W6Wra62KDuloLIjrjIn9SqKTFgAzCQMuChFTFAXMnkj14i9g04gsVASGjZQTGakyQHeedd6kBSjoUXj6qcEhqH1c9x/K3qZ8ytg5YgfQ+k5DmGbqyss0GvuYp74JCiTMmnNee4jE0pqOSQKpbGrW7qoXmAw03A/02vJCR1bsFOXlS6cNtM2sOWb7rRdIBh7zHua4qZ9s3LNdA9MuyN1YCzNImlSFoVvkY3DqXxaB1uLtbSfVQNd5Qr21bnImbCO6N3o8ShHy+EqvNFTNnWjXs6jFkJ3S5hrstORxBPG6ltUEmzwP/b3SrowqJT4/+cBi8Jo24eNGGgwaSFzDmQACq+2XIbXokA6cjX9PXvt+s3q/LrECubtdj2XogyWzD3bd2h6g+IveUIoLN1tZCvdLb3BvHOSGrRjJgSafovblISbo2VpgL0PO/LpN62SWdPzE9Hk8037toeBjVJ/A1Af0aA2JY7xN4nSCnxMfLKxTAf641OEIrXV9dartRCOf31Q88sNdWMY9z3WZdS9kfbgiivvNSDavjz8b2HJ2ZU5p68sWAdF4+5nxSn6p6wO/G7D1/NoweRKqnhLD/6CcJv0fM+XKz7weOLjJtkD+qWqdIs/rTThfvie1wibMyVct7I7JrACq0QalFPvLiqvjSS3e61jOkDB1+tjuYEDabC1MH5AvzW6wFKmaFiEyntxJkhq01WsQDksyKs8dikPN5xN2wvztZMxAfaeI88JaPDSxT5GKPOHvBN+236B//7bA1DqI7DRsJcRN2dBCoSajXKkpQTeEWHfn0c5elzvS+Ix1FzXZFLkVIri3+0D2hE4kYUHVa3qqImKIBw+b2nYrHpEFj254+wnsnWFFXeUrk8XVDzK45v6oZewwTkqlDvOk6jXevafRsqPYi59IE8uJgLyyZ9DEq1pRODK1zGDv+g696Efg6yFScpO4J4NkQRjIsSGsG4lWUPXtaiAO03PkoW/hmuaCJJT7spz0DoOQtMbRC9lh+8FyziQNgrlTdpaKeaeZWWdHwIUPqI0EbUM3Ldb9XNoJRAPUxYKclKBp6ZVAgGjHC/ZlqXUmpWn7kKWZrhx+aNDuWtMubFNOTjAvRoCemJsJAQQdNv62FklM63IgB91ccfwmKWQb9D2p9vD76qQrXt2/FhqVXXRxZPf"
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "Santé mondiale : un deuxième cas d'Ebola au Kenya, lié à l'épidémie en République démocratique du Congo",
+   "resume": "Le Kenya a confirmé le mercredi 14 octobre 2026 un deuxième cas d'Ebola, un homme de 39 ans, proche parent du premier malade, déjà placé en quarantaine. Le premier cas, un Kenyan tombé malade en République démocratique du Congo (RDC), était arrivé à Nairobi par avion le 3 octobre et y est décédé le 5 octobre. L'épidémie en RDC, due à la souche rare Bundibugyo, est la deuxième plus importante jamais enregistrée, avec plus de 8 000 cas et plus de 4 000 morts. Le Kenya est le quatrième pays à enregistrer un cas lié à cette épidémie ; un médecin rentré de RDC en France en juin avait été testé positif, sans propagation. Les autorités kényanes ont retrouvé 113 des 128 contacts du premier patient.",
+   "enjeu": "Les épidémies ne connaissent pas de frontières : leur gestion repose sur la coopération internationale et sur la préparation des services publics. Pour l'oral, ce sujet permet d'aborder la santé mondiale et l'organisation de la réponse sanitaire en France.",
+   "sources": [
+    {
+     "nom": "TimesLIVE (Reuters), 14/10/2026",
+     "url": "https://www.timeslive.co.za/news/africa/2026-10-14-kenya-reports-second-ebola-case/"
+    }
+   ],
+   "fiche_enc": "j7qGk5MrP/jN/ZHk5Ro0I36BdaBIZjEi3MIJmsMsK6U4xFzT1V0kEK1NBPwzaKyfFXDn+8030FxWRqKMqQqMH1PpwwzttsVo1keNpqikXzzo9ztIa5PD4EVGku+6s2hVcZfG43qLCPZzKn3UYiDifNHJByPDpQ1mQWet2NbiaVYRPZD8OwCuTu58840/m8lMt1ABU7hMEusisDrTLw8Na8UbA56iwClXlQLx8EkL7WHeHDucPugFbx+GTMIzmPIB3Pkae5XJAT7u1ZYghpZ7+/BAA1AcPmlLt+UfPlfPAmQIM2p4n33uVGwp+GZgNht/WLFbKL2aSZ+spJHkLYBjSJDeCtRrwWaGFzmTLuXhyv2LYasdzTavSVP3uxqVt9r6bntPFP8ZGaqj/cXqj7tT6EvLhXt0h7tnnQTzUX5aZnUsg93MA9LVr22tiNXCPqG8Re8xuF/t/+vb0q9Pt5H2TKlF/AuOJNK6qeu3HZK3XHifd1M9o8kXLD/oBX4sUGLUpoj/Ru2VabXiIJen5hMN7aYlSyTrAcB8sfTlcd1pARKuSYAE0rz2E2wO6dNGwRXbQrdtNxk0XLTxFFI4By5nLcSFMMiGyguf/msFzOlmY8ZbwaNGTEnYgUK6L6UE9AY4e5Z22jhmuXXOPnzpx/+jOeC07sEMiQ/+qy9bEFhPJwii6kcI4nWcmo43N9irZsov587t7Iv7TM4rm6hYw8fFk1PROxLhGIzi399oAqQJdua4wjYx44EW8ixU6ErUChiZtAnnrXX6CYcGL7hrtzj6tUnuqd1AAeM2jWX3yk2nfRNVvhz0E2XoVYEF0Xm5ZVHPhL90sB7VNRU6e5fMjH7Ylom1uQJxzoUVwMoCxWYWLS2anrR4CBVc7pjAbYBMMORKVw0wdyb6/Jc2EMcG2DLe5S//MYqvuFidkVU5l1/+s5Z5vjy/kLAjUDbEzMNCERBalK9e8iP+wKygkOkp/9+vuRPF7QPjbP4JG5DSfcaZcYOyKMkPtr21750IoE1AI4yzAfzhrKXkdjn39OqGti/T8fdl7E+hSoCyLWiUkscPw/+dj/Qqq6GoLG4AJSlAYbUL1f9WtZZVbltfsVz/j690Vi7LTV6VLjv7iBwAa2X0RrHiA8kToUTnDL7/gQyKCFKL86oBlGJqDpYf77Dv7vyjVzEIxFeqvIQ1K5CTnSLpWCaXH8E2gUyKeeNic2D47vbilci6fIDpuD2QftdTFyTw6VEwudqybSrMqtBbyo5MNOsYpVAF+LvCz3MsN9ZWCBB/GvvTdjtnaBQdDPOreTJS83K+H8CEuf7ZJ5UnorRij6IeJ/SleQ1SSGj9Y5paAkl16S4XBQK/HCZbCGtv5Ogfw1LSdqFKm5nvmSrUg9XSAbiNo2+tHMPfGTHulMWIV/+8570kpyYhF5suo9pWbz+Rssre/akmS0LzZamh505/nKsO3Vwn8M8iOaE6rW1wiDcVksN4sXCU2FoXVs2ouWVku5iClyNKJE5gqTKV3zIVl1TsewGOnevkDslGK8VRaOIdSr+v3yH5DfYhWm4lrijCDacSKxNnfiefSwuhdrwoj7XglRPC3zwlbWeG0dB6/liV3UZjqgRHMK7n9YsSGuxoLY8n0IPWNUFLMZguWUxHUkvgYkWUpMufeitHR5GRmhe+R/RShczyIt0iakOGQgtD7dqeDYU3c2Hm++yg3bHWFmbSrNQwMrucEH/2E1STqoe/aBwv/H5xUHAW59moHyDNvr8z7nbO1rzBIBqnkokn/0KGyt4L4T1QY/qOKVPXri143YzbSXEhLMa1dpO1W1o9IIQ/i5EPVNHEsskDIwwrCua0yk+SJgLczvFeRZZgarbSqYc7Z+hY8DXkekPSqGI7Id8TukcIbBCr5FMQdLDLlvW8Qa0m0h0dFqUYhNz0h68n+zF8a4D2U6FCBwvT/DDAWLQxZ9yt4AMK55X3oaW+JACWuRU22Y1zL4cxWZU2oCtmBBtu2Tz9vihiW548bpoj8P/YpLJaJ4fvg+MYriG3LS7w9eflgMVRHyDQhDNO8IREIktoJ1GnsU879c8XCUQzJ8dIbraiopx8ZNXLqHeAMHQ2p705/wtei7ax1yxSY6okQ9PaCyxyWVIRQ4I6M0zu+6dUXkavx06eKScTYIeAog+AXvvQ+j7Ywe67yUN0GNTqxJOAvG6WVJIfxo+ZQDBZbYc/aSrHalGDK4WG9RbqK3bad6xsfSRLIzKqDNTqAxS/r7DkgGkY3TytWWGKJgDGWoQ8EyL+WZRsmKt19MCKY0dh/QQMATdIxCrMT2bfWyD8HYei1AGUKvkdYXivxnNkcnN/UZXswB5bGX9tqkKhwk42ahUQYAQBYjkVi8MGRG6MmWn2K+3G0FZT5y7aB0Bjgz+hREOp1c6LUn//xSXYeGQMDlFubxca/vRxphn6zW/SSlsT6qvG9eyIQOUo52vggVU7ALQhT4zGDJdf5JRLQCnoFnIu4iS02hrOZ+TWCjE8sT/8P4/MbQOlJEG96XEIHWAMAEkVg6tDR/3LKgPPL5CiXaTUISPO+HY02tGLkFkYyVqgw8hKbBRNur5L8+l/6rtAiY5qaFPO4zPGBsY4EDEz32Ftfwzy1CmrtTMjvKiG7JkcpROqpSdjOgXTqsgDT/igFmAQEqzwLN69gU8rSO6ququklThDTWqtw7Q28sRV7M4cJSvKIR187pemm0lhzd+OLFtAv/BS4v5hOcRMD2fb1p8I815RLLuwVCu5gQ1NXckog9BcK0Mq5Yfg14GqQE42r6UXHBpZ10QWYX/FEuQZGMlDvbMltJysTj89yMuzEGsTr4eZJBSWYxn5bSHeCuC0xQOnVH90tImLwttHZXLWPwQxWY8c9lIoa+UackXh8PbeY+xXY9a6Q7JTD3O+oOOqAltGAhuOiVnP9aIutnkBzcdYNXENgzEEFqKUApLQk6plnjOrF7rylGSkviczg0r2xPQSBMkVyi8TK9VbA1EmoxfA4mLfKrBsfnTmS5LdzrLurWGGDUG3FzB0d4HkpMoL4XPnpM7rFBFUKifJlLma5oas09YcqPj/z5GfzKvRQkIZWZOJylhFjuWk2XzKDhzKotFQGi4Eqojnm7xTUJXVodWrw+JOsiMaHkBGwi3S3YULDWpm8AkkBfky"
+  }
+ ],
+ "question": "Vous êtes adjoint au chef de la division des personnels enseignants d'un rectorat. Le recteur vous demande d'assurer sous 72 heures le remplacement des professeurs absents dans les lycées les plus mobilisés. Comment organisez-vous la réponse, quels leviers mobilisez-vous et quelles en sont les limites ?",
+ "titre": "Après la grève du 13 octobre : mobilisation intacte, remplacements au ralenti, budget débattu en séance"
+}
