@@ -2206,7 +2206,8 @@ function fusionnerContenus(base, plus){
   const parId = (a,b) => { const ids = new Set((a||[]).map(x=>x.id)); return (a||[]).concat((b||[]).filter(x=>!ids.has(x.id))); };
   ["EXERCICES","THEMES","BLANCS","REV"].forEach(k=>{ if(p[k]) d[k] = parId(d[k], p[k]); });
   if(p.ENTRETIEN && d.ENTRETIEN) ["generales","situations","motivation"].forEach(k=>{ if(p.ENTRETIEN[k]){ const qs = new Set((d.ENTRETIEN[k]||[]).map(x=>x.q)); d.ENTRETIEN[k] = (d.ENTRETIEN[k]||[]).concat(p.ENTRETIEN[k].filter(x=>!qs.has(x.q))); } });
-  base.v = Math.max(base.v||0, plus.v||0);
+  const vBase = typeof base.v==="number" ? base.v : (Number(base.v) || Date.parse(base.v) || 0);
+  base.v = Math.max(vBase, Number(plus && plus.v) || 0);
   return base;
 }
 async function publierContenus(force){
