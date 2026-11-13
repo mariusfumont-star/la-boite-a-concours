@@ -1,5 +1,5 @@
 // Service worker commun à La Boîte à concours et à ses trois préparations.
-const VERSION = "boite-concours-v4";
+const VERSION = "boite-concours-v5";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "firebase-config.js", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png",
   "aae/", "aae/index.html", "aae/free-data.js", "sa-paris/", "sa-paris/index.html", "sa-paris/free-data.js", "sacn/", "sacn/index.html", "sacn/free-data.js", "adjoint/", "adjoint/index.html", "adjoint/free-data.js"];
 const CACHEABLE_HOSTS = ["fonts.googleapis.com", "fonts.gstatic.com", "www.gstatic.com"];
