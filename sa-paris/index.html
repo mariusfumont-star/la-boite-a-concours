@@ -663,7 +663,7 @@ img{max-width:100%}
     <section class="view" id="v-compte" hidden>
       <div>
         <h2>Mon compte</h2>
-        <p class="lede">Créez votre compte pour profiter de 7 jours d'essai gratuit à tous les contenus, sans carte bancaire. Ensuite, l'abonnement coûte 14,90 € par mois, sans engagement, ou 99 € avec le Pass session, valable jusqu'au 31 décembre 2027. Votre progression est synchronisée sur l'ordinateur et le téléphone.</p>
+        <p class="lede">Créez votre compte gratuit : vous gardez votre progression sur la partie gratuite, synchronisée sur l'ordinateur et le téléphone. Pour débloquer tous les contenus, l'abonnement coûte 14,90 € par mois, sans engagement, ou 99 € avec le Pass session, valable jusqu'au 31 décembre 2027.</p>
       </div>
       <div class="sheet" id="acctBox">
         <div class="row" style="justify-content:space-between"><h3 style="margin:0">Mon compte</h3><span class="pill" id="syncPill">Non connecté</span></div>
@@ -918,7 +918,7 @@ function renderDash(){
     wbox.append(el("strong",{text:w[1]}), el("p",{class:"prose",text:w[2]}));
     const p=el("p",{}); p.style.cssText="margin:6px 0 0"; p.append(el("span",{class:"pill "+(S.plan[w[0]]?"ok":"warn"),text:S.plan[w[0]]?"Semaine validée":"En cours"})); wbox.append(p);
   } else {
-    wbox.append(el("p",{class:"prose",style:"margin:0",text: member() ? "Le planning semaine par semaine fait partie de la version complète : il s'affiche pendant l'essai et avec l'abonnement." : "Le planning semaine par semaine jusqu'à l'oral fait partie de la version complète."}), el("a",{href:"#compte",class:"hdracct",style:"margin-top:8px",text: member() ? "Voir l'état de mon accès" : "Essai gratuit "+ESSAI_JOURS+" jours"}));
+    wbox.append(el("p",{class:"prose",style:"margin:0",text: member() ? "Le planning semaine par semaine fait partie de la version complète : il s'affiche avec l'abonnement ou le Pass session." : "Le planning semaine par semaine jusqu'à l'oral fait partie de la version complète."}), el("a",{href:"#compte",class:"hdracct",style:"margin-top:8px",text: member() ? "Voir l'état de mon accès" : "Voir les formules"}));
   }
   renderChart();
   navLocks();
@@ -1140,11 +1140,12 @@ function renderVeille(){
       box.append(el("h4",{text:String(it.titre||"")}));
       if(it.resume) box.append(el("p",{class:"prose",style:"margin:0",text:String(it.resume)}));
       if(it.enjeu){ const e=el("div",{class:"enjeu"}); e.append(el("strong",{text:"Pour le SA : "}), String(it.enjeu)); box.append(e); }
-      if(it.fiche_enc || it.fiche){
+      if(it.fiche_libre && typeof it.fiche_libre==="object"){ const t=el("div",{class:"enjeu"}); t.append(el("strong",{text:"Fiche offerte de la semaine"})," · en accès libre pour tous"); box.append(t, ficheEl(it.fiche_libre, key)); }
+      else if(it.fiche_enc || it.fiche){
         const f = it._fiche || (it.fiche && typeof it.fiche==="object" ? it.fiche : null);
         if(unlocked() && f) box.append(ficheEl(f, key));
         else if(unlocked()) box.append(el("div",{class:"fichelock",text:"Fiche pour le SA : déchiffrement…"}));
-        else { const l=el("a",{class:"fichelock",href:"#compte"}); l.append(el("strong",{text:"Fiche pour le SA"}), " · version complète (essai gratuit 7 jours)"); box.append(l); }
+        else { const l=el("a",{class:"fichelock",href:"#compte"}); l.append(el("strong",{text:"Fiche pour le SA"}), " · réservée aux abonnés"); box.append(l); }
       }
       const links=el("div",{class:"links",style:"font-size:.82rem"});
       (Array.isArray(it.sources)?it.sources:[]).forEach(s=>{ if(s && /^https:\/\//.test(s.url||"")) links.append(el("a",{href:s.url,target:"_blank",rel:"noopener",text:String(s.nom||"Source")})); });
@@ -1684,9 +1685,9 @@ function unlocked(){ return !!fbUser && premiumState==="ok"; }
 function navLocks(){ if(unlocked()) return; Object.values(NAV_OF).forEach(id=>{ const n=$("#"+id); if(n) n.textContent="🔒"; }); }
 function lockNote(text){
   const c = el("div",{class:"sheet lockedcard",style:"display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between"});
-  if(member() && premiumState==="expire"){ c.append(el("p",{style:"margin:0;font-size:.92rem",text:"Contenu de la version complète. Votre essai est terminé : abonnez-vous pour y accéder."}), abonnerBtn()); return c; }
+  if(member() && premiumState==="expire"){ c.append(el("p",{style:"margin:0;font-size:.92rem",text:"Contenu de la version complète, réservé aux abonnés."}), abonnerBtn()); return c; }
   if(member()) text = "Contenu de la version complète : il s'ouvrira dès que votre accès sera chargé.";
-  c.append(el("p",{style:"margin:0;font-size:.92rem",text:text}), el("a",{class:"btn",href:"#compte",text:member()?"Voir l'état de mon accès":"Essai gratuit "+ESSAI_JOURS+" jours"}));
+  c.append(el("p",{style:"margin:0;font-size:.92rem",text:text}), el("a",{class:"btn",href:"#compte",text:member()?"Voir l'état de mon accès":"Voir les formules"}));
   return c;
 }
 function b64bytes(b){ return Uint8Array.from(atob(b), c=>c.charCodeAt(0)); }
@@ -1704,7 +1705,7 @@ async function decryptPremium(k, file){
 }
 
 /* ---------- Essai, abonnement et accès ---------- */
-const ESSAI_JOURS = 7, PRIX = "14,90 €", PASS_PRIX = "99 €", PASS_FIN = "31 décembre 2027";
+const ESSAI_JOURS = 0, PRIX = "14,90 €", PASS_PRIX = "99 €", PASS_FIN = "31 décembre 2027";
 let ACC = {kind:"none", fin:null, cree:null};   // none | admin | essai | abonne | expire
 const DAY = 86400000;
 function joursRestants(){ return ACC.fin ? Math.max(0, Math.ceil((ACC.fin - Date.now())/DAY)) : null; }
@@ -1817,12 +1818,12 @@ function renderLock(v){
   const acts = $("#lockActions"); acts.replaceChildren();
   let txt;
   if(!member()){
-    txt = "Cette partie fait partie de la version complète. Créez votre compte : vous profitez de "+ESSAI_JOURS+" jours d'essai gratuit à tous les contenus, sans carte bancaire, puis de l'abonnement à "+PRIX+" par mois ou du Pass session à "+PASS_PRIX+" si vous souhaitez continuer.";
-    acts.append(el("a",{class:"btn",href:"#compte",text:"Commencer l'essai gratuit"}));
+    txt = "Cette partie fait partie de la version complète, ouverte avec l'abonnement à "+PRIX+" par mois, sans engagement, ou le Pass session à "+PASS_PRIX+". Créez d'abord votre compte gratuit, puis choisissez votre formule.";
+    acts.append(el("a",{class:"btn",href:"#compte",text:"Créer mon compte gratuit"}));
   } else if(premiumState==="loading" || premiumState==="none"){
     txt = "Chargement des contenus réservés…";
   } else if(premiumState==="expire"){
-    txt = "Votre essai gratuit est terminé. Abonnez-vous pour retrouver tous les contenus : sujets d'entraînement corrigés, entraînement et correction de copies, fiches, RAEP, entretien et planning. Votre progression est conservée.";
+    txt = "Cette partie est réservée aux abonnés. Abonnez-vous pour accéder à tous les contenus : sujets d'entraînement corrigés, entraînement et correction de copies, fiches, RAEP, entretien et planning. Votre progression est conservée.";
     acts.append(abonnerBtn());
   } else {
     txt = premiumState==="nocontent" ? "Les contenus de la version complète sont en cours de publication. Réessayez dans quelques minutes." : "Les contenus réservés n'ont pas pu être chargés. Vérifiez votre connexion internet, puis réessayez.";
@@ -2162,7 +2163,7 @@ function accText(){
   if(ACC.kind==="admin") return ["Gestionnaire · accès illimité","ok"];
   if(ACC.kind==="abonne") return [ACC.fin? "Abonné jusqu'au "+new Date(ACC.fin).toLocaleDateString("fr-FR") : "Abonné","ok"];
   if(ACC.kind==="essai"){ const j=joursRestants(); return ["Essai gratuit · "+(j<=1? "dernier jour" : j+" jours restants"), j<=2?"warn":"acc"]; }
-  if(ACC.kind==="expire") return ["Essai terminé","warn"];
+  if(ACC.kind==="expire") return ["Version gratuite","acc"];
   return ["—",""];
 }
 function renderAccBox(){
@@ -2171,7 +2172,7 @@ function renderAccBox(){
   box.append(el("div",{class:"row",style:"justify-content:space-between"}, el("strong",{text:"Mon accès"}), el("span",{class:"pill "+c,text:t})));
   let p="";
   if(ACC.kind==="essai") p="Vous profitez gratuitement de toute l'application jusqu'au "+new Date(ACC.fin).toLocaleDateString("fr-FR",{day:"numeric",month:"long"})+". Pour continuer ensuite : "+PRIX+" par mois sans engagement, ou le Pass session à "+PASS_PRIX+" jusqu'au "+PASS_FIN+".";
-  else if(ACC.kind==="expire") p="Votre essai de "+ESSAI_JOURS+" jours est terminé. Vous gardez la partie gratuite et votre progression. L'abonnement à "+PRIX+" par mois, ou le Pass session à "+PASS_PRIX+" jusqu'au "+PASS_FIN+", rouvre tous les contenus.";
+  else if(ACC.kind==="expire") p="Vous utilisez la version gratuite, et votre progression est enregistrée. L'abonnement à "+PRIX+" par mois, ou le Pass session à "+PASS_PRIX+" jusqu'au "+PASS_FIN+", ouvre tous les contenus.";
   else if(ACC.kind==="abonne" && ACC.pass) p="Merci pour votre confiance. Votre Pass session vous donne accès à tous les contenus jusqu'au "+new Date(ACC.pass).toLocaleDateString("fr-FR",{day:"numeric",month:"long",year:"numeric"})+", sans prélèvement automatique.";
   else if(ACC.kind==="abonne") p="Merci pour votre abonnement. Vous pouvez le gérer ou le résilier à tout moment, sans frais : l'accès reste ouvert jusqu'à la fin du mois payé.";
   else if(ACC.kind==="admin") p="Compte gestionnaire : aucun délai, aucune limite. L'espace gestionnaire est dans le menu.";
@@ -2195,7 +2196,7 @@ function renderAcctHeader(){
     a.textContent = "Connecté · "+(fbUser.email||"mon compte")+(premiumState==="loading"||premiumState==="none"? "" : " · "+txt);
     a.classList.add("on");
   }
-  else { a.textContent = "Se connecter · essai gratuit "+ESSAI_JOURS+" jours"; a.classList.remove("on"); }
+  else { a.textContent = "Se connecter · compte gratuit"; a.classList.remove("on"); }
 }
 /* ---------- Espace gestionnaire ---------- */
 let G = {rows:[], filtre:"tous", prog:{}}, gBusy=false, gInit=false;
@@ -2224,7 +2225,7 @@ function gStatut(r){
   if(r.abFin>now) return r.abFin>=ILLIMITE-DAY ? {k:"abonne",t:"Abonné · illimité",c:"ok"} : {k:"abonne",t:"Accès jusqu'au "+new Date(r.abFin).toLocaleDateString("fr-FR"),c:"ok"};
   if(r.cree && r.cree+ESSAI_JOURS*DAY>now){ const j=Math.ceil((r.cree+ESSAI_JOURS*DAY-now)/DAY); return {k:"essai",t:"Essai · J-"+j,c:"acc"}; }
   if(r.abFin && r.abFin<=now) return {k:"expire",t:"Accès coupé",c:"warn"};
-  return {k:"expire",t:"Essai terminé",c:"warn"};
+  return {k:"expire",t:"Version gratuite",c:"acc"};
 }
 function statsOf(st){ const bak=S; S=Object.assign(empty(), st||{}); try{ return stats(); } finally{ S=bak; } }
 async function gLoad(){
@@ -2255,9 +2256,9 @@ function gRender(){
   rows.forEach(r=>{ const k=gStatut(r).k; if(cnt[k]!==undefined) cnt[k]++; });
   const semaine=rows.filter(r=>r.cree>now-7*DAY).length, actifs=rows.filter(r=>r.vu>now-7*DAY).length;
   const st=$("#gStats"); st.replaceChildren();
-  [["Comptes",cnt.tous,semaine+(semaine>1?" nouveaux comptes":" nouveau compte")+" en 7 jours"],["Abonnés",cnt.abonne,"mensuel ou Pass session"],["En essai",cnt.essai,actifs+(actifs>1?" comptes actifs":" compte actif")+" cette semaine"]].forEach(([l,n,sub])=>st.append(el("div",{class:"sheet"}, el("div",{class:"label",text:l}), el("div",{class:"big",style:"font-size:2.2rem",text:String(n)}), el("p",{style:"margin:2px 0 0;font-size:.85rem;color:var(--muted)",text:sub}))));
+  [["Comptes",cnt.tous,semaine+(semaine>1?" nouveaux comptes":" nouveau compte")+" en 7 jours"],["Abonnés",cnt.abonne,"mensuel ou Pass session"],["Version gratuite",cnt.expire,actifs+(actifs>1?" comptes actifs":" compte actif")+" cette semaine"]].forEach(([l,n,sub])=>st.append(el("div",{class:"sheet"}, el("div",{class:"label",text:l}), el("div",{class:"big",style:"font-size:2.2rem",text:String(n)}), el("p",{style:"margin:2px 0 0;font-size:.85rem;color:var(--muted)",text:sub}))));
   const fl=$("#gFilter"); fl.replaceChildren();
-  [["tous","Tous"],["essai","En essai"],["abonne","Abonnés"],["expire","Sans accès"]].forEach(([k,l])=>{ const b=el("button",{type:"button","aria-pressed":String(G.filtre===k),text:l+" ("+(cnt[k]||0)+")"}); b.addEventListener("click",()=>{ G.filtre=k; gRender(); }); fl.append(b); });
+  [["tous","Tous"],["abonne","Abonnés"],["expire","Version gratuite"]].forEach(([k,l])=>{ const b=el("button",{type:"button","aria-pressed":String(G.filtre===k),text:l+" ("+(cnt[k]||0)+")"}); b.addEventListener("click",()=>{ G.filtre=k; gRender(); }); fl.append(b); });
   const q=($("#gSearch").value||"").trim().toLowerCase();
   const tb=$("#gRows"); tb.replaceChildren();
   const vis=rows.filter(r=>(!q||r.email.includes(q)) && (G.filtre==="tous"||gStatut(r).k===G.filtre));

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>La Boîte à concours · Prépa concours de la fonction publique</title>
-<meta name="description" content="Préparations aux concours de la fonction publique : attaché d'administration de l'État (AAE), secrétaire administratif de la Ville de Paris, secrétaire administratif interministériel, adjoint administratif de l'État (externe et interne). 7 jours d'essai gratuit par concours.">
+<meta name="description" content="Préparations aux concours de la fonction publique : attaché d'administration de l'État (AAE), secrétaire administratif de la Ville de Paris, secrétaire administratif interministériel, adjoint administratif de l'État (externe et interne). Partie gratuite dans chaque concours, abonnement sans engagement.">
 <meta name="theme-color" content="#1d2f57">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon-192.png" type="image/png">
@@ -124,19 +124,19 @@ footer strong{color:var(--ink);letter-spacing:.06em}
   <section class="hero">
     <div>
       <h1>Votre concours, <em>dans une seule boîte</em>.</h1>
-      <p>Méthode, sujets d'entraînement corrigés, correction de copies, fiches de révision, préparation de l'oral et veille d'actualité quotidienne. Choisissez votre concours, externe ou interne, essayez-le 7 jours gratuitement, puis abonnez-vous seulement à ce qui vous sert.</p>
+      <p>Méthode, sujets d'entraînement corrigés, correction de copies, fiches de révision, préparation de l'oral et veille d'actualité quotidienne. Choisissez votre concours, externe ou interne, découvrez gratuitement sa partie libre, puis abonnez-vous seulement à ce qui vous sert.</p>
       <div class="row"><a class="btn kraft" href="#concours">Choisir mon concours</a><button class="btn sec" type="button" id="heroCompte">Créer mon compte</button></div>
     </div>
     <ul class="points">
       <li><span class="ic">1</span><span><b>Un compte pour tous vos concours</b>Une seule connexion, sur l'ordinateur et le téléphone.</span></li>
-      <li><span class="ic">7</span><span><b>7 jours d'essai gratuit par concours</b>Sans carte bancaire, sans engagement.</span></li>
+      <li><span class="ic">✓</span><span><b>Une partie gratuite dans chaque concours</b>Exercices corrigés, fiches, sujet d'entraînement et veille : jugez sur pièces, sans carte bancaire.</span></li>
       <li><span class="ic">€</span><span><b>Un abonnement mensuel ou un Pass session</b>Pour chaque concours : mensuel sans engagement, ou Pass payé une seule fois, valable jusqu'aux oraux. Dès 9,90 € par mois.</span></li>
     </ul>
   </section>
 
   <section id="concours">
     <h2>Choisissez votre concours</h2>
-    <p class="sous" id="sousConcours">Chaque préparation a sa partie gratuite. Créez votre compte pour débloquer 7 jours d'essai complet sur le concours de votre choix.</p>
+    <p class="sous" id="sousConcours">Chaque préparation a sa partie gratuite, ouverte à tous. L'abonnement débloque tout le reste, concours par concours.</p>
     <div class="cartes" id="cartes"></div>
   </section>
 
@@ -145,9 +145,9 @@ footer strong{color:var(--ink);letter-spacing:.06em}
     <p class="sous">Quatre étapes, et vous pouvez ajouter un concours à tout moment.</p>
     <div class="etapes">
       <div><b>Créez votre compte</b>Une adresse e-mail et un mot de passe suffisent.</div>
-      <div><b>Ouvrez une préparation</b>Votre essai gratuit de 7 jours commence à la première ouverture.</div>
+      <div><b>Découvrez la partie gratuite</b>Exercices, fiches, sujet corrigé et veille, sans limite de durée.</div>
       <div><b>Abonnez-vous si elle vous plaît</b>Au mois, sans engagement, ou avec le Pass session jusqu'aux oraux. Paiement sécurisé par Stripe.</div>
-      <div><b>Ajoutez d'autres concours</b>Chacun a son essai et sa formule, indépendants des autres.</div>
+      <div><b>Ajoutez d'autres concours</b>Chacun a sa formule, indépendante des autres.</div>
     </div>
   </section>
 
@@ -232,7 +232,7 @@ const CONCOURS = [
     ecrit:"Externe : explication de texte, puis français et mathématiques (1 h 30 chacune). Interne : lettre administrative ou tableau (1 h 30).",
     oral:"Épreuve pratique de 30 min : accueil, téléphone, classement, agenda, tableur et traitement de texte." }
 ];
-const ESSAI_JOURS = 7, DAY = 86400000, ADMIN_EMAILS = ["marius.fumont@gmail.com"];
+const ESSAI_JOURS = 0, DAY = 86400000, ADMIN_EMAILS = ["marius.fumont@gmail.com"];
 let fbUser = null, ETATS = {}, PORTAIL = null, HORS_LIGNE = false;
 
 function etatDe(x){
@@ -242,9 +242,9 @@ function etatDe(x){
   if(e.k==="admin") return {k:"admin", t:"Accès gestionnaire", cls:"ok"};
   if(e.k==="abonne") return {k:"abonne", t: e.pass ? "Pass session · jusqu'au " + new Date(e.pass).toLocaleDateString("fr-FR",{day:"numeric",month:"long",year:"numeric"}) : "Abonnement actif", cls:"ok"};
   if(e.k==="essai"){ const j=Math.max(1,Math.ceil((e.fin-Date.now())/DAY)); return {k:"essai", t:"Essai gratuit · " + (j<=1 ? "dernier jour" : j + " jours restants"), cls:"essai"}; }
-  if(e.k==="expire") return {k:"expire", t:"Essai terminé", cls:"warn"};
+  if(e.k==="expire") return {k:"expire", t:"Version gratuite", cls:""};
   if(e.k==="erreur") return {k:"erreur", t:"État indisponible", cls:""};
-  return {k:"none", t:"Pas encore ouverte · 7 jours d'essai à la première ouverture", cls:""};
+  return {k:"none", t:"Pas encore ouverte · partie gratuite disponible", cls:""};
 }
 
 function renderCartes(){
@@ -256,16 +256,16 @@ function renderCartes(){
     if(st) carte.append(el("span",{class:"etat "+st.cls, text:st.t}));
     carte.append(el("p",{class:"desc",text:x.desc}));
     const dl = el("dl"); dl.append(el("dt",{text:"Écrit"}), el("dd",{text:x.ecrit}), el("dt",{text:"Oral"}), el("dd",{text:x.oral})); carte.append(dl);
-    carte.append(el("div",{class:"prix"}, el("b",{text:x.prix+" par mois"}), document.createTextNode(" sans engagement, ou "), el("b",{text:"Pass session "+x.pass}), document.createTextNode(" jusqu'au "+x.passFin+" · 7 jours d'essai gratuit")));
+    carte.append(el("div",{class:"prix"}, el("b",{text:x.prix+" par mois"}), document.createTextNode(" sans engagement, ou "), el("b",{text:"Pass session "+x.pass}), document.createTextNode(" jusqu'au "+x.passFin+" · partie gratuite ouverte à tous")));
     const acts = el("div",{class:"row"});
     const url = "./" + x.id + "/";
     if(!st) {
       acts.append(el("a",{class:"btn",href:url,text:"Découvrir la préparation"}));
-      const b = el("button",{class:"btn sec",type:"button",text:"Essai gratuit"}); b.addEventListener("click",()=>allerCompte(true)); acts.append(b);
+      const b = el("button",{class:"btn sec",type:"button",text:"Créer mon compte"}); b.addEventListener("click",()=>allerCompte(true)); acts.append(b);
     } else if(st.k==="expire") {
       acts.append(el("a",{class:"btn",href:url+"#compte",text:"S'abonner"}), el("a",{class:"btn sec",href:url,text:"Partie gratuite"}));
     } else if(st.k==="none") {
-      acts.append(el("a",{class:"btn",href:url,text:"Commencer l'essai gratuit"}));
+      acts.append(el("a",{class:"btn",href:url,text:"Ouvrir la partie gratuite"}), el("a",{class:"btn sec",href:url+"#compte",text:"S'abonner"}));
     } else {
       acts.append(el("a",{class:"btn",href:url,text:"Ouvrir la préparation"}));
       if(st.k==="essai") acts.append(el("a",{class:"btn sec",href:url+"#compte",text:"S'abonner"}));
@@ -282,13 +282,13 @@ function renderCompte(){
   $("#formCompte").hidden = !!fbUser || HORS_LIGNE; $("#connecte").hidden = !fbUser;
   $("#heroCompte").hidden = !!fbUser;
   $("#sousConcours").textContent = fbUser
-    ? "Ouvrez une préparation pour démarrer son essai gratuit de 7 jours. Vous pouvez en ajouter d'autres à tout moment : chaque concours a son propre abonnement."
-    : "Chaque préparation a sa partie gratuite. Créez votre compte pour débloquer 7 jours d'essai complet sur le concours de votre choix.";
+    ? "Ouvrez une préparation pour découvrir sa partie gratuite, puis abonnez-vous à celles qui vous servent : chaque concours a son propre abonnement."
+    : "Chaque préparation a sa partie gratuite, ouverte à tous. L'abonnement débloque tout le reste, concours par concours.";
   if(!fbUser) return;
   $("#qui").textContent = fbUser.email || "";
   const res = $("#resume"); res.textContent = "";
   const lignes = CONCOURS.map(x => [x, etatDe(x)]).filter(([,s]) => s && s.k !== "none" && s.k !== "charge");
-  if(!lignes.length) res.append(el("p",{style:"margin:0",text:"Vous n'avez encore ouvert aucune préparation. Choisissez votre concours ci-dessus pour démarrer votre essai gratuit."}));
+  if(!lignes.length) res.append(el("p",{style:"margin:0",text:"Vous n'avez encore ouvert aucune préparation. Choisissez votre concours ci-dessus pour découvrir sa partie gratuite."}));
   else { const ul = el("ul",{style:"margin:0;padding-left:20px"}); for(const [x,s] of lignes) ul.append(el("li",{}, el("strong",{text:x.nom}), document.createTextNode(" : " + s.t))); res.append(ul); }
   const abonne = CONCOURS.some(x => ETATS[x.id] && ETATS[x.id].k==="abonne" && !ETATS[x.id].pass);
   const p = $("#btnPortail");
