@@ -1166,7 +1166,7 @@ async function decryptVeilleFiches(){
 function ficheEl(f, key){
   const det = el("details",{class:"fiche"}); if(ficheOpen.has(key)) det.open = true;
   det.addEventListener("toggle",()=>{ if(det.open) ficheOpen.add(key); else ficheOpen.delete(key); });
-  det.append(el("summary",{text:"Fiche détaillée"}));
+  det.append(el("summary",{text:"Fiche pour le secrétaire des affaires étrangères"}));
   const b = el("div",{class:"fbody"});
   const sec = (t)=>b.append(el("h5",{text:t}));
   const list = (arr, ordered)=>{ const u=el(ordered?"ol":"ul"); arr.forEach(x=>u.append(el("li",{text:String(x)}))); b.append(u); };
@@ -1214,13 +1214,13 @@ function renderVeille(){
       box.append(el("div",{class:"row"}, el("span",{class:"pill acc",text:String(it.theme||"Actualité")})));
       box.append(el("h4",{text:String(it.titre||"")}));
       if(it.resume) box.append(el("p",{class:"prose",style:"margin:0",text:String(it.resume)}));
-      if(it.enjeu){ const e=el("div",{class:"enjeu"}); e.append(el("strong",{text:"À retenir : "}), String(it.enjeu)); box.append(e); }
+      if(it.enjeu){ const e=el("div",{class:"enjeu"}); e.append(el("strong",{text:"Pour le secrétaire des affaires étrangères : "}), String(it.enjeu)); box.append(e); }
       if(it.fiche_libre && typeof it.fiche_libre==="object"){ const t=el("div",{class:"enjeu"}); t.append(el("strong",{text:"Fiche offerte de la semaine"})," · en accès libre pour tous"); box.append(t, ficheEl(it.fiche_libre, key)); }
       else if(it.fiche_enc || it.fiche){
         const f = it._fiche || (it.fiche && typeof it.fiche==="object" ? it.fiche : null);
         if(unlocked() && f) box.append(ficheEl(f, key));
         else if(unlocked()) box.append(el("div",{class:"fichelock",text:"Fiche détaillée : déchiffrement…"}));
-        else { const l=el("a",{class:"fichelock",href:"#compte"}); l.append(el("strong",{text:"Fiche détaillée"}), " · réservée aux abonnés"); box.append(l); }
+        else { const l=el("a",{class:"fichelock",href:"#compte"}); l.append(el("strong",{text:"Fiche pour le secrétaire des affaires étrangères"}), " · réservée aux abonnés"); box.append(l); }
       }
       const links=el("div",{class:"links",style:"font-size:.82rem"});
       (Array.isArray(it.sources)?it.sources:[]).forEach(s=>{ if(s && /^https:\/\//.test(s.url||"")) links.append(el("a",{href:s.url,target:"_blank",rel:"noopener",text:String(s.nom||"Source")})); });
