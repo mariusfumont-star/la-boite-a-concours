@@ -669,7 +669,7 @@ img{max-width:100%}
     <section class="view" id="v-compte" hidden>
       <div>
         <h2>Mon compte</h2>
-        <p class="lede">Créez votre compte gratuit : vous gardez votre progression sur la partie gratuite, synchronisée sur l'ordinateur et le téléphone. Pour débloquer tous les contenus, l'abonnement coûte 19,90 € par mois, sans engagement, ou 129 € avec le Pass session, valable jusqu'au 29 février 2028.</p>
+        <p class="lede">Créez votre compte gratuit : vous gardez votre progression sur la partie gratuite, synchronisée sur l'ordinateur et le téléphone. Pour débloquer tous les contenus, l'abonnement coûte 19,90 € par mois, sans engagement, ou le Pass session, valable jusqu'au 29 février 2028 : 99 € au tarif de lancement jusqu'au 31 janvier 2027, puis 129 €.</p>
       </div>
       <div class="sheet" id="acctBox">
         <div class="row" style="justify-content:space-between"><h3 style="margin:0">Mon compte</h3><span class="pill" id="syncPill">Non connecté</span></div>
@@ -725,7 +725,7 @@ img{max-width:100%}
       <div class="grid2">
         <div class="sheet">
           <h3>Lien de paiement Stripe</h3>
-          <p style="margin:0 0 8px;font-size:.88rem;color:var(--muted)">Collez ici le lien de paiement de l'abonnement mensuel (19,90 €), celui du Pass session (129 €, accès jusqu'au 29 février 2028) et le lien du portail client. Ils apparaissent aussitôt sur les boutons des candidats, avec leur adresse e-mail déjà remplie.</p>
+          <p style="margin:0 0 8px;font-size:.88rem;color:var(--muted)">Collez ici le lien de paiement de l'abonnement mensuel (19,90 €), celui du Pass session (99 € jusqu'au 31 janvier 2027, puis 129 € : remplacez alors le lien ; accès jusqu'au 29 février 2028) et le lien du portail client. Ils apparaissent aussitôt sur les boutons des candidats, avec leur adresse e-mail déjà remplie.</p>
           <div class="row"><input id="gPay" type="url" placeholder="https://buy.stripe.com/…" style="flex:1 1 240px;padding:7px 9px;border:1px solid var(--line);border-radius:var(--r);background:var(--sheet)"><button class="btn" id="gPaySave" type="button">Enregistrer</button></div>
           <div class="row" style="margin-top:8px"><input id="gPass" type="url" placeholder="Pass session : https://buy.stripe.com/…" style="flex:1 1 240px;padding:7px 9px;border:1px solid var(--line);border-radius:var(--r);background:var(--sheet)"></div>
           <div class="row" style="margin-top:8px"><input id="gPortail" type="url" placeholder="Portail client : https://billing.stripe.com/p/login/…" style="flex:1 1 240px;padding:7px 9px;border:1px solid var(--line);border-radius:var(--r);background:var(--sheet)"></div>
@@ -1832,7 +1832,7 @@ async function decryptPremium(k, file){
 }
 
 /* ---------- Essai, abonnement et accès ---------- */
-const ESSAI_JOURS = 0, PRIX = "19,90 €", PASS_PRIX = "129 €", PASS_FIN = "29 février 2028";
+const LANCEMENT = Date.now() < Date.parse("2027-02-01T00:00:00+01:00"); const ESSAI_JOURS = 0, PRIX = "19,90 €", PASS_PRIX = LANCEMENT ? "99 € (tarif de lancement)" : "129 €", PASS_FIN = "29 février 2028";
 let ACC = {kind:"none", fin:null, cree:null};   // none | admin | essai | abonne | expire
 const DAY = 86400000;
 function joursRestants(){ return ACC.fin ? Math.max(0, Math.ceil((ACC.fin - Date.now())/DAY)) : null; }

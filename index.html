@@ -216,7 +216,7 @@ const CONCOURS = [
     desc:"Concours interne d'attaché d'administration de l'État des ministères de l'Éducation nationale et de l'Enseignement supérieur, session 2027.",
     ecrit:"Cas pratique de 4 h sur dossier (30 pages au plus) : note avec propositions et annexes.",
     oral:"Entretien de 30 min avec mises en situation, appuyé sur le dossier RAEP." },
-  { id:"sae", p:"sae_", cfg:"sae_paiement", passFin:"29 février 2028", prix:"19,90 €", pass:"129 €", c:"#8c2f39", cat:"Catégorie A · Ministère de l'Europe et des affaires étrangères · externe, interne, 3e concours",
+  { id:"sae", p:"sae_", cfg:"sae_paiement", passFin:"29 février 2028", prix:"19,90 €", pass:(Date.now() < Date.parse("2027-02-01T00:00:00+01:00") ? "99 € (tarif de lancement)" : "129 €"), c:"#8c2f39", cat:"Catégorie A · Ministère de l'Europe et des affaires étrangères · externe, interne, 3e concours",
     nom:"Secrétaire des affaires étrangères (cadre général)",
     desc:"Concours externe, interne et troisième concours de secrétaire des affaires étrangères, session 2028 : la voie d'accès aux carrières diplomatiques et consulaires.",
     ecrit:"Externe : composition (4 h), questions européennes (2 h), anglais et seconde langue (3 h chacune). Interne et 3e : cas pratique, outils diplomatiques et consulaires, anglais professionnel, seconde langue.",
