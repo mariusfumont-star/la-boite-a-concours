@@ -1697,7 +1697,7 @@ function renderEx(){
   });
   const lockedEx = (window.EX_TITRES||[]).filter(t=>t.part===exPart && !list.find(e=>e.id===t.id));
   lockedEx.forEach(t=>{ const h=el("h3",{}); h.append(el("span",{class:"excode",text:t.id}), t.titre); box.append(el("article",{class:"sheet lockedcard"}, h, el("p",{style:"margin:6px 0 0;font-size:.9rem;color:var(--muted)",text:"Exercice corrigé réservé aux candidats inscrits."}))); });
-  if(lockedEx.length) box.append(lockNote("Essayez gratuitement la version complète pour accéder aux "+(window.EX_TITRES||[]).length+" exercices corrigés."));
+  if(lockedEx.length) box.append(lockNote("Abonnez-vous pour accéder aux "+(window.EX_TITRES||[]).length+" exercices corrigés."));
 }
 
 /* ---------- Accès inscrits et contenus réservés ---------- */
@@ -1888,7 +1888,7 @@ function renderThemes(){
     b.addEventListener("click",()=>{ S.thlu = S.thlu||{}; if(lu) delete S.thlu[f.id]; else S.thlu[f.id]=true; save(); });
     card.append(b); box.append(card);
   });
-  if(!unlocked() && all.length>THEMES.length) box.append(lockNote("Essayez gratuitement la version complète pour lire les "+all.length+" fiches thématiques."));
+  if(!unlocked() && all.length>THEMES.length) box.append(lockNote("Abonnez-vous pour lire les "+all.length+" fiches thématiques."));
 }
 
 /* ---------- Dossier RAEP ---------- */

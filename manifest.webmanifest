@@ -1,7 +1,7 @@
 {
   "name": "La Boîte à concours",
   "short_name": "Boîte à concours",
-  "description": "Prépa concours de la fonction publique : attaché d'administration de l'État, secrétaire administratif de la Ville de Paris, secrétaire administratif interministériel, adjoint administratif de l'État.",
+  "description": "Prépa concours de la fonction publique : attaché d'administration de l'État, secrétaire des affaires étrangères, secrétaire administratif de la Ville de Paris, secrétaire administratif interministériel, adjoint administratif de l'État.",
   "lang": "fr",
   "id": "./",
   "start_url": "./",
@@ -18,6 +18,7 @@
   ],
   "shortcuts": [
     {"name": "Prépa Attaché AAE", "url": "./aae/"},
+    {"name": "Prépa Secrétaire des affaires étrangères", "url": "./sae/"},
     {"name": "Prépa SA Ville de Paris", "url": "./sa-paris/"},
     {"name": "Prépa SA interministériel", "url": "./sacn/"},
     {"name": "Prépa Adjoint administratif", "url": "./adjoint/"}

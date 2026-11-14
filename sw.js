@@ -1,9 +1,9 @@
-// Service worker commun à La Boîte à concours et à ses trois préparations.
-const VERSION = "boite-concours-v5";
+// Service worker commun à La Boîte à concours et à ses préparations.
+const VERSION = "boite-concours-v6";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "firebase-config.js", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png",
-  "aae/", "aae/index.html", "aae/free-data.js", "sa-paris/", "sa-paris/index.html", "sa-paris/free-data.js", "sacn/", "sacn/index.html", "sacn/free-data.js", "adjoint/", "adjoint/index.html", "adjoint/free-data.js"];
+  "aae/", "aae/index.html", "aae/free-data.js", "sa-paris/", "sa-paris/index.html", "sa-paris/free-data.js", "sacn/", "sacn/index.html", "sacn/free-data.js", "adjoint/", "adjoint/index.html", "adjoint/free-data.js", "sae/", "sae/index.html", "sae/free-data.js"];
 const CACHEABLE_HOSTS = ["fonts.googleapis.com", "fonts.gstatic.com", "www.gstatic.com"];
-const MODULES = ["aae", "sa-paris", "sacn", "adjoint"];
+const MODULES = ["aae", "sa-paris", "sacn", "adjoint", "sae"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
