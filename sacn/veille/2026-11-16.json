@@ -1,0 +1,143 @@
+{
+ "date": "2026-11-16",
+ "titre": "Gel du point d'indice et grève du 17 novembre, budget 2027 au Parlement, Coalition des volontaires à Berlin",
+ "chapo": "Les syndicats de la fonction publique appellent à la grève le 17 novembre, alors que le gel du point d'indice est inscrit dans le projet de budget pour 2027. Ce projet de loi de finances suit son parcours au Parlement. À l'international, les Européens préparent un sommet de la Coalition des volontaires à Berlin le 19 novembre après les discussions d'Abou Dhabi sur l'Ukraine.",
+ "chiffres": [
+  {
+   "valeur": "2,4 Md€",
+   "libelle": "coût estimé par Matignon d'une hausse de 1 % du point d'indice"
+  },
+  {
+   "valeur": "≈ 10 %",
+   "libelle": "part des grévistes dans la fonction publique d'État le 5 novembre 2026"
+  },
+  {
+   "valeur": "36",
+   "libelle": "pays membres de la Coalition des volontaires selon le ministère des Affaires étrangères"
+  }
+ ],
+ "items": [
+  {
+   "theme": "Fonction publique",
+   "titre": "Point d'indice : gel confirmé pour 2027 et grève de la fonction publique le 17 novembre",
+   "resume": "L'intersyndicale de la fonction publique (CGT, UNSA, FSU, Solidaires, CFE-CGC, FA-FP) appelle à la grève le mardi 17 novembre 2026. Elle demande d'abord le dégel du point d'indice, puis son indexation sur les prix. Le Premier ministre Sébastien Lecornu a inscrit le gel du point d'indice dans le projet de budget pour 2027. Selon Matignon, une hausse de 1 % du point coûterait 2,4 milliards d'euros à l'État. Le 5 novembre, la précédente journée de grève avait mobilisé environ 10 % des agents de la fonction publique d'État, selon Acteurs publics.",
+   "enjeu": "Le point d'indice est la valeur qui sert à calculer le traitement brut de tous les fonctionnaires. Un SA doit savoir expliquer cette notion et rappeler que la grève est un droit encadré, qui suppose la continuité du service public. Au cas pratique comme à l'oral, il faut rester neutre et factuel.",
+   "sources": [
+    {
+     "nom": "Acteurs publics, 9 novembre 2026",
+     "url": "https://acteurspublics.fr/articles/le-gouvernement-sous-pression-maximale-en-faveur-dune-hausse-du-point-dindice-des-fonctionnaires/"
+    },
+    {
+     "nom": "Acteurs publics, 5 novembre 2026",
+     "url": "https://acteurspublics.fr/articles/pres-de-10-de-grevistes-dans-la-fonction-publique-detat/"
+    },
+    {
+     "nom": "Public Sénat, novembre 2026",
+     "url": "https://www.publicsenat.fr/actualites/politique/remuneration-des-fonctionnaires-peu-d-annonces-un-rendez-vous-manque-selon-les"
+    }
+   ],
+   "fiche_libre": {
+    "contexte": "Le point d'indice est gelé en valeur depuis plusieurs années, hors revalorisations ponctuelles. Le gouvernement a choisi de le geler dans le projet de loi de finances pour 2027, déposé le 1er octobre 2026. Les syndicats ont été reçus à Matignon le 13 novembre ; ils jugent le rendez-vous « manqué ». Une nouvelle journée de grève est fixée au 17 novembre.",
+    "acteurs": [
+     "Premier ministre : arbitre la politique salariale et le budget",
+     "Ministre chargé de la fonction publique : conduit le dialogue social",
+     "Organisations syndicales : portent les revendications des agents",
+     "Direction générale de l'administration et de la fonction publique (DGAFP) : instruit les mesures statutaires et salariales",
+     "Chefs de service : assurent la continuité du service lors de la grève"
+    ],
+    "notions": [
+     {
+      "terme": "Point d'indice",
+      "def": "Valeur de base qui, multipliée par l'indice majoré de l'agent, donne son traitement brut annuel."
+     },
+     {
+      "terme": "Continuité du service public",
+      "def": "Principe à valeur constitutionnelle qui impose d'assurer les missions essentielles même en cas de grève."
+     },
+     {
+      "terme": "Préavis de grève",
+      "def": "Dans la fonction publique, la grève doit être précédée d'un préavis déposé par une organisation syndicale représentative."
+     }
+    ],
+    "analyse": "Une journée de grève oblige le chef de service à anticiper l'accueil du public et les tâches urgentes. Le SA recense les agents présents, répartit les missions prioritaires et informe les usagers. Il évite tout commentaire politique et ne fait aucune pression sur les agents grévistes ou non grévistes. Le risque principal est une désorganisation des guichets et des délais.",
+    "situation": {
+     "cas": "Secrétaire administratif en préfecture, vous apprenez que plusieurs agents de votre bureau des titres seront en grève mardi. Vous devez organiser l'accueil du public.",
+     "demarche": [
+      "Identifier les missions à maintenir en priorité (rendez-vous déjà fixés, urgences)",
+      "Faire le point avec votre hiérarchie sur les effectifs disponibles",
+      "Répartir les tâches entre les agents présents sans pression sur les grévistes",
+      "Informer les usagers (site, affichage, report de rendez-vous)",
+      "Faire un bilan après la journée"
+     ]
+    },
+    "questions": [
+     "Qu'est-ce que le point d'indice ?",
+     "Comment assurer la continuité du service un jour de grève ?",
+     "Quels sont vos droits et obligations d'agent public en cas de grève ?"
+    ],
+    "themes": [
+     "T07",
+     "T09",
+     "T20"
+    ]
+   }
+  },
+  {
+   "theme": "Finances publiques",
+   "titre": "Budget 2027 : le projet de loi de finances au Parlement, gel du point d'indice et réforme de l'information sur les pensions de l'État",
+   "resume": "Le projet de loi de finances (PLF) pour 2027 a été enregistré à l'Assemblée nationale le 1er octobre 2026 sous le numéro 3210, au nom du Premier ministre Sébastien Lecornu. Il prévoit le gel du point d'indice et des mesures catégorielles très limitées. L'article 75 modifie les informations annexées aux lois de finances sur le financement des pensions des fonctionnaires, ce qui prépare une réforme du financement de ce régime. L'article 72 réforme le régime d'invalidité non professionnelle des fonctionnaires. Les sources divergent sur les effectifs de l'État en 2027 et sur l'état exact du vote en première lecture ; le dossier législatif de l'Assemblée fait foi.",
+   "enjeu": "Le cycle budgétaire (dépôt, discussion, vote) explique les décisions RH de l'État. Un SA doit savoir que le budget de l'État est voté chaque année en loi de finances, selon la LOLF (loi organique relative aux lois de finances). Sur un dossier de cas pratique, il faut vérifier la date et la source des chiffres.",
+   "sources": [
+    {
+     "nom": "Assemblée nationale, PLF 2027 n° 3210",
+     "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17B3210.html"
+    },
+    {
+     "nom": "vie-publique.fr, Budget 2027",
+     "url": "https://www.vie-publique.fr/loi/305240-budget-2027-projet-de-loi-de-finances-plf"
+    },
+    {
+     "nom": "Acteurs publics, PLF 2027 et retraites des fonctionnaires",
+     "url": "https://acteurspublics.fr/articles/retraites-des-fonctionnaires-le-projet-de-budget-2027-prepare-le-terrain-a-une-reforme-du-financement/"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Rappel de fond",
+   "titre": "Rappel : le droit de grève des agents publics et la continuité du service",
+   "resume": "À l'occasion de la grève du 17 novembre, voici un rappel de principe. Le droit de grève est reconnu par le Préambule de la Constitution de 1946 et s'exerce dans le cadre des lois qui le réglementent. Dans la fonction publique de l'État, un préavis syndical est nécessaire. Les agents grévistes subissent une retenue sur traitement proportionnelle à la durée de la grève. L'administration doit organiser la continuité des missions essentielles. Il s'agit d'un rappel de fond, sans fait d'actualité nouveau.",
+   "enjeu": "Question classique à l'oral : concilier le droit de grève des agents et la continuité du service public. Le SA, en situation d'encadrement, informe sans pression, applique les règles de retenue de façon uniforme et garantit la neutralité.",
+   "sources": [
+    {
+     "nom": "Acteurs publics, 5 novembre 2026",
+     "url": "https://acteurspublics.fr/articles/pres-de-10-de-grevistes-dans-la-fonction-publique-detat/"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "Ukraine : après les discussions d'Abou Dhabi, la Coalition des volontaires se réunira à Berlin le 19 novembre",
+   "resume": "Le chancelier allemand Friedrich Merz a annoncé un sommet de la « Coalition des volontaires » à Berlin le 19 novembre 2026, au niveau des chefs d'État et de gouvernement. Cette réunion fait suite à des négociations entre la Russie et l'Ukraine sous médiation américaine, tenues les 10 et 11 novembre à Abou Dhabi. Merz plaide pour que l'Europe soit associée à la recherche d'une solution de paix. Selon le ministère français des Affaires étrangères, la Coalition, coprésidée par la France et le Royaume-Uni, rassemble 36 pays. L'ordre du jour et la liste exacte des participants n'étaient pas confirmés officiellement à ce jour.",
+   "enjeu": "La France est coprésidente de cette coalition, ce qui touche directement l'action diplomatique de l'État. Un SA doit savoir citer ce cadre de coopération et comprendre ses effets sur l'action des administrations (défense, affaires étrangères, accueil des réfugiés, énergie).",
+   "sources": [
+    {
+     "nom": "diplomatie.gouv.fr, Coalition des volontaires",
+     "url": "https://www.diplomatie.gouv.fr/fr/le-ministere-en-action/promouvoir-une-europe-souveraine/dossiers-europeens/guerre-en-ukraine-l-action-diplomatique-de-la-france/ukraine-la-coalition-des-volontaires-qu-est-ce-que-c-est"
+    },
+    {
+     "nom": "Charter97, 3 novembre 2026",
+     "url": "https://charter97.org/en/news/2026/11/3/704193/"
+    },
+    {
+     "nom": "DH, 3 novembre 2026",
+     "url": "https://www.dhnet.be/dernieres-depeches/2026/11/03/le-president-zelensky-a-berlin-le-soutien-de-lallemagne-a-lukraine-au-menu-MBEOEWE5DBDXNPRJ74WVCPLEOQ/"
+    }
+   ],
+   "fiche_enc": "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"
+  }
+ ],
+ "question": "Secrétaire administratif, la veille d'une journée de grève, votre chef de service vous demande de proposer l'organisation de l'accueil du public. Quels principes appliquez-vous et comment informez-vous les usagers ?",
+ "genere": "2026-11-16T09:00:00+01:00"
+}
