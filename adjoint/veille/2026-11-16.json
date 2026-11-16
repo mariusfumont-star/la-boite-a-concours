@@ -1,0 +1,134 @@
+{
+ "date": "2026-11-16",
+ "titre": "Grève de demain dans la fonction publique : ce qui peut changer pour les usagers ; le SMIC augmente le 1er décembre ; rappel sur France services ; COP31 : la semaine décisive commence",
+ "chapo": "Demain, mardi 17 novembre, les agents publics sont appelés à la grève pour leurs salaires, et plusieurs services peuvent être perturbés. Le SMIC augmentera de 1,6 % le 1er décembre 2026, un mois plus tôt que prévu. À l'international, la conférence de l'ONU sur le climat (COP31) entre dans sa dernière semaine à Antalya, en Turquie.",
+ "chiffres": [
+  {
+   "valeur": "1,6 %",
+   "libelle": "hausse du SMIC prévue au 1er décembre 2026"
+  },
+  {
+   "valeur": "1 501,90 €",
+   "libelle": "SMIC mensuel net prévu au 1er décembre (temps plein, montant prévisionnel)"
+  },
+  {
+   "valeur": "20e",
+   "libelle": "France services inaugurée dans les Hautes-Pyrénées le 6 novembre"
+  },
+  {
+   "valeur": "20 novembre",
+   "libelle": "date de fin prévue de la COP31 à Antalya"
+  }
+ ],
+ "items": [
+  {
+   "theme": "Fonction publique",
+   "titre": "Grève du mardi 17 novembre : quels services publics peuvent être perturbés",
+   "resume": "Les syndicats de la fonction publique appellent à la grève et à manifester demain, mardi 17 novembre. Ils demandent une hausse du point d'indice, qui sert à calculer le salaire des fonctionnaires. Le vendredi 13 novembre, le Premier ministre les a reçus, mais le gouvernement a refusé d'augmenter le point, selon la CGT. La grève concerne l'État, les collectivités territoriales et les hôpitaux. Écoles, cantines, crèches, accueil des centres des impôts, greffes des tribunaux ou services d'état civil peuvent être fermés ou fonctionner au ralenti selon les lieux.",
+   "enjeu": "Le jour d'une grève, l'agent d'accueil doit informer les usagers clairement et poliment, sans prendre parti. C'est une bonne situation d'oral : un usager se présente à un guichet fermé ou appelle un service qui ne répond pas. Vocabulaire à connaître : préavis, point d'indice, continuité du service public.",
+   "sources": [
+    {
+     "nom": "C'est la grève, mise à jour du 13 novembre 2026",
+     "url": "https://www.cestlagreve.fr/greve/fonction-publique-novembre-2026/"
+    },
+    {
+     "nom": "CGT État, 14 novembre 2026",
+     "url": "https://www.cgtetat.fr/vie-des-personnels/remunerations/salaires/article/matignon-refuse-tout-degel-du-point-d-indice-17-novembre-poursuivons-la"
+    }
+   ],
+   "fiche_libre": {
+    "contexte": "Les syndicats demandent depuis plusieurs semaines une hausse des salaires des agents publics. Après une réunion à Matignon le vendredi 13 novembre 2026, le gouvernement a maintenu son refus d'augmenter la valeur du point d'indice, en invoquant les contraintes budgétaires selon la CGT. Les organisations syndicales maintiennent donc la journée de grève du mardi 17 novembre. Des préavis ont été déposés dans plusieurs secteurs : éducation, finances publiques, justice, collectivités, hôpitaux, France Travail.",
+    "acteurs": [
+     "Le Premier ministre : il a reçu les syndicats à Matignon le 13 novembre",
+     "Les organisations syndicales de la fonction publique : elles appellent à la grève et déposent les préavis",
+     "Les chefs de service : ils organisent l'accueil du public et la continuité du service le jour de la grève",
+     "Les usagers : ils peuvent trouver certains services fermés ou ralentis"
+    ],
+    "notions": [
+     {
+      "terme": "Point d'indice",
+      "def": "Valeur en euros qui, multipliée par l'indice de l'agent, donne son traitement de base (son salaire de base)."
+     },
+     {
+      "terme": "Préavis de grève",
+      "def": "Document déposé par un syndicat avant une grève dans les services publics. Il indique les motifs, le lieu, la date et la durée de la grève."
+     },
+     {
+      "terme": "Continuité du service public",
+      "def": "Principe selon lequel le service public doit fonctionner de manière régulière. Il explique, par exemple, le service minimum d'accueil dans les écoles."
+     },
+     {
+      "terme": "Indemnité différentielle",
+      "def": "Somme versée à un agent public dont le salaire serait inférieur au SMIC, pour qu'il touche au moins le SMIC."
+     }
+    ],
+    "analyse": "Pour les usagers, la grève peut entraîner des fermetures ou des retards : écoles, cantines, accueil des impôts, audiences non urgentes reportées. Les hôpitaux restent ouverts et les secours d'urgence des pompiers ne sont pas touchés. Pour l'agent d'accueil ou de secrétariat, il faut prévoir l'information du public : affichage, message sur le répondeur, mise à jour du site internet. L'agent doit rester neutre : il informe sans commenter le mouvement.",
+    "situation": {
+     "cas": "Adjoint administratif à l'accueil d'une préfecture, le 17 novembre, un usager arrive pour un rendez-vous dans un service fermé ce jour-là en raison de la grève. Il est mécontent.",
+     "demarche": [
+      "Accueillir l'usager calmement et l'écouter sans l'interrompre",
+      "Lui expliquer simplement que le service est fermé exceptionnellement aujourd'hui, sans commenter la grève",
+      "Vérifier si sa démarche peut être faite autrement (en ligne, autre guichet) ou noter ses coordonnées",
+      "Lui proposer un nouveau rendez-vous ou lui indiquer comment en reprendre un",
+      "Transmettre l'information à son responsable pour le suivi des rendez-vous annulés"
+     ]
+    },
+    "questions": [
+     "Qu'est-ce que le point d'indice ?",
+     "Comment informer les usagers lorsqu'un service est fermé pour cause de grève ?",
+     "Un agent public a-t-il le droit d'exprimer son avis sur une grève devant un usager ?"
+    ],
+    "themes": []
+   }
+  },
+  {
+   "theme": "Vie quotidienne",
+   "titre": "Le SMIC augmentera de 1,6 % dès le 1er décembre 2026",
+   "resume": "Le gouvernement a annoncé une hausse du salaire minimum (SMIC) de 1,6 % au 1er décembre 2026, après une conférence sociale à Matignon le 9 novembre. Cette hausse arrive un mois avant la revalorisation automatique, normalement prévue au 1er janvier. Elle comprend environ 1 % lié aux prix et un « coup de pouce » de 0,6 %. Le SMIC horaire brut passerait de 12,31 € à 12,51 €, et le SMIC mensuel net de 1 477,93 € à 1 501,90 € pour un temps plein. Ces montants sont prévisionnels : un décret doit encore être publié au Journal officiel.",
+   "enjeu": "Le SMIC est une notion de base de culture générale, utile à l'oral et pour les exercices de pourcentages en mathématiques (calculer une hausse de 1,6 %). Il faut savoir que son montant est fixé par décret et publié au Journal officiel.",
+   "sources": [
+    {
+     "nom": "La finance pour tous, 12 novembre 2026",
+     "url": "https://www.lafinancepourtous.com/2026/11/12/smic-annonce-dune-hausse-de-16-au-1er-decembre-2026/"
+    },
+    {
+     "nom": "CGT État, 14 novembre 2026",
+     "url": "https://www.cgtetat.fr/vie-des-personnels/remunerations/salaires/article/matignon-refuse-tout-degel-du-point-d-indice-17-novembre-poursuivons-la"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Rappel de fond",
+   "titre": "Rappel : France services, des guichets pour aider les usagers dans leurs démarches",
+   "resume": "Une 20e France services a été inaugurée le 6 novembre 2026 dans les Hautes-Pyrénées par la secrétaire générale de la préfecture, sous-préfète de l'arrondissement de Tarbes. Les France services sont des lieux d'accueil où des agents aident les usagers à faire leurs démarches administratives. On peut y obtenir de l'aide pour les impôts, la retraite, les allocations familiales, l'assurance maladie, l'emploi ou les titres (carte grise, permis). Ce réseau est un bon exemple d'un service public de proximité.",
+   "enjeu": "Le métier de conseiller France services est proche de celui d'un adjoint administratif d'accueil. À l'oral, savoir orienter un usager vers une France services est un vrai atout. C'est aussi un sujet possible de lettre administrative : répondre à un usager qui ne sait pas faire une démarche en ligne.",
+   "sources": [
+    {
+     "nom": "Veille documentaire des Hautes-Pyrénées (communiqué de la préfecture), 13 novembre 2026",
+     "url": "https://veille-documentaire.ha-py.fr/p/4173162255/2026/11/13/une-20eme-france-services-inauguree-dans-les-hautes-pyrenees-communique-de-presse-2026"
+    }
+   ],
+   "fiche_enc": "AvLtdcDeWzoFta8amAIGRWjo8lWR6XP8dOlq52HIZxeU9KzKC2EBPubAX7vrAhCof59CnvwBI3YhkRnSYpK5jrPFKGFgzgsxFnbRnq1T7lcz+fiQ1EyU8eKXqXZ3FVBKuXT0sPLvLmBt20l6El8jtcdm4+3y9KPsrrIme7k3fZXjKk34elAqzlCPhXFLZQgnUW2mcdG/iCN7UY8yzLvSqQ0WUpzye5Safksf3ZxebKvjfoTbULL0bf9aG47YbRv6F2RmdKOY49+YFfne/e7gYBH1G7/vyJTU00LejY0J9iyAsudg9/swkpOVcbnqwMWQJrjfxR83TFM2ZLu0WcbaRPtLxg7rAmVyUz4uogAlgIGU9DBHq28gIAGTmTXH7qI64Fqa1Fof5zx5gXR++7m5Zap6WuO+7QjCaOBnfngN41fVx11TqbfwudmOQpUGEJmSJOTECoa9cSewoA6EHt5oY4s8kGZbsB1Grm8TZrh9YUs/LlfYeD+3x0Ntl7Zo+2h7uKKhVuHjRwjv9xf8pACJA1Elms7VloHiJ+OTvperBE0Vl+zEyABOWkf4N/dKfIcRJ88VEzKP8C+w5EyiWXo7MGWWfWgMIAlVSq659NAaXph6UE5yixxNznpdWAjHaRaiKJE9ua3/jp13LqrWowF/LPtn1s7EAP9KmRVqaMYhPJCxuPu5xQyUbAaIzv7bZnoGbEaCA2GkkxrZtDcippintcqod0HCX5yBODovqcJIDvaxJUrSIGm9Sl6preS+YcIU15P0P7q+IcKUXMbXGECDfDRKLvDiQOb8XyBEy12izN3GpwZI4DZeoqTVE0rHyrocCtAzWMI2QNK//zAnUGT+s3s5MLKn5yN50qbbHresLrPxCpXoP1LaLRcD4ngili/0jQku1UZj6Ux+tJ0E14XDnVwIolJgt8/TL+RhPMU0T4/P6GEuSEMqdDNSRWVmeXD1LxhmGBEDduU/aa08k44Qfey0h+ay/TihjEjrPATc5+/Mdk/nc8CvdGmWiMnHPg9Evl5q7ZUT8J7sqzRx/iIQBTgLKQlqhoncJlCZPk3O6yIXJ41WeWh9reUJ9rwZqpKMikY6ihfpy+oUnxOiCx+gR4FFy84YYDxmjFRO1aSOHJ11n3iEoDFP/x2hur2lbZRM6MTe+OsMx/ibkdna4WLuYh6XX42aUZKXB9ugiTEbKFvsPs3IjWUv15SOOjPsvqMx7d+HzOiuRnpthzmaFp62NCWOqa3F5ORLT65BtHjEx0amManOTUv52UHJBIqS5holkChl32nJ9t/MRuz7E6QCgZ7w/ndyBPd5J5m2ACjgfJ7bA7Ae9wMvA6nfFIb0OjUesjBfgI0anZL3hnVnwjJbGcuFEJqWm4w/gNgPX3lSHFAp/2XJFfpVkIaqoZx7bcATTQEQOkZTbnMma40XDr7mX7MCa+tPLiRgtumgSEYgXimiaj4zVBEwNiVEvqiif4lJP1l9jPqOPuWG6pSRQKPjvvw1C4iN/MJNMq/E8xsRw9ko/o00q4rju0mHsmKtb09zg1XaF01bAU+HVKHn02CXSefHZvMjRa4oI7jNzAx2BQdK7aNNZdZZYGd1IB/kDRxG9wdXnfL3Dywp+39neufBraFxaRvvAPvEC+x+bk9St7IC/DjTiGnu4YraulpFaS6o2hxhxRCkyhic1gSK2uCfBeg4rXA4hwcjnxzBe7HZnZp+EfE2v9JtvZkiZsOPDZPU1yDWN/LjgN54INL5YYl9ZEt3p7iPUjOnNPb6ZLcqZjj7Gk+3sB/5DO+t1QTaXzvSeQAE5xkLLB7cbZpEgYRpHloolVOj/E7Ui9DAfcdhFCBZuZ614P3xCeFDtwmdk45s7VXfCmdXULu6wFuao2FJ92C1T2CRL9/NMeQa518iuNMd7khwb/9fcJHpraewKNYDeQefXHW0FWoTA0tKvZttAEQye6lSmm3QFSrm8Bia2AIussYIQCkd4oRBReuU1U5hcqetKWgrJWR5EYLgmU7YLVGNlyrmxbZ/Poa3tP6tfqb5uqiIoKiMUFt2tzqUvUSMmsmWVxVt2VV4Gbpfoe/JW+EeKYdh6R9gLNYdzLp9KqtpFxl8fUXqIpNTh620iswVae82bpjooioARoeCa3kqDWSnE20mQWQYH6vxI60rsefjV5P3BRlZNRgdYr7EGlPJxtm45jNKlSwDdNWA1vjBdt59x3CLxr+6xMKys/bph2O+Dt3Zk40E2uFlHaWGvo+RwB5QBrlPlcZmMmQfnhNsPJ/OIT04/T4Xo3aGOM46Mq6CFrue8sojh2Kq924Mg1rGpkrxHPEfD70OJ91JeLTzF52NU9C1tZizuowKKQpcNS95BPckYQDjfCtmVoUeVK5raYXPrQW+MYkfKbGt0i0feJrtGzadZbA1raFTjdhdE0t3tsR5kLiHe2wDIOiST5VLo2X5k7KtH+sTRGCbXVwtmo5/cafkI/ZxQI9vUUE2QAH57LeOGdN0AGLTQVzBahvJUgUnPY5avf+a3CxAk8Dro9rJ5XcQIc4HdhbeCqur8tWKVNblce1+dQFjPz89u1nvi8ASE09qZLpZGl3k0d/71FnV34BEnAWy6FuU6nOYZ9u4X65pjLkGwgsgO3SUG8yTcDxLIaa4yWOC/lPXvbU7XAwMXlFk+Gxjn7oRtvD6+X+23FiE36NBazyFoTn6lpuPf4ur0u0h1Ed7QPNjsecgAUA+PGAgjkZhIb4zmsCA1UsvZhe6AZp29OUEHxj79lnxXf4MmULDM2n0O6v0+JJ8yWfsK2tkjKg1x3RrgOGFDm885QzPsUPGOPEXHtENZY6SacybV8vYWVrD19hiW0AUyDtrqeEGGG//v/Ii9UB54hltCtI+k7b2qcmEppw955U1N7Qx6XG51EWEm9AnHrAkppGxQW+G4O+6sEcGCycSg3Bqvmogq1M4y42BE6dIUQRn9hXIUoNQjoTTk0J8lZ0GDoQHYKXbNw9A77/bjxG6zwxK+a82mrCfkSMrtosA0GitnB6S3W6/PJL8N3x8zEjYVA2M1VwWEPpUTutU87RVM799wVqUjzwoPf0jtm+8NS8AFkw+Nj591uyDqnLPLPsDOBTF7VWYz2WBHRLMqoPfOoax9X7vkGLE49ozgswSIiofS7LCyjIGqzGzdXqcAHU9VsIKTgYz1uFZN/cNWMWUKF1/X+XwQ3pnSNRPTsBqXZ+99+ljUm7nbYM7uyYQ+PVZXfkY0O4vnfVvuGwuhuXgZlnzO9XjdkdPwsksV3JtJnrn72Dhq9CLIydXAODkFgfoIVipVY29S0ybp5PHdFxvtWtfjb1L/IFi1+8JTQZgxBxrBGftlLl0AmALhWyY2uYoAE3h5/TN7BR34avZYdV5+u/woxiHA8jat+UnhBHwx9fXX+pTgmc+a6lmRx4Gce2j1B9qXo/TVz1xnzd5GdVjlNKfsirMn/8NR0ZOX8Ca3JA7r4Ta+CMu9ZBIJBZvuCQDkCCYlLRcbdtVK4pkbKIeRaR+bbYFDIDrQRYSHlAuBSaPp32jzZmdDomB/VeE4S06hYU8HIECnvpguCISAprs/LS4PDQq2pZZDmnhvALi7G81H+ND8CiIsNMLnQObeFokc8rQxPC3TrxduKH4oqshvOtaCt45YmAwqh4VNQIVu2hhIftGlsNccWvPLTTJpOch2qgTsZn01TvfrLHEtiYTAzzHBq/KYQpQZVRJuCtatclQT8jUnB4mGY9+IO6aAWfsSOoFiPHe5TsT8x49NnqNJDK5n/QQ26oKh9pEJCau85csEOy1SPbDTxqVzZqMoTpUHCzw0rlQlXmtDQRr32xNM4dFzzxwwXyZf9m3evzz5I63qpUGBfEF8mh6wjnCJSNi9cPvVgKFDasvPRihp16CBz5cRH7R7g=="
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "COP31 à Antalya : la dernière semaine de négociations sur le climat commence",
+   "resume": "La 31e conférence de l'ONU sur le climat (COP31) se tient à Antalya, en Turquie, du 9 au 20 novembre 2026. La deuxième et dernière semaine commence ce lundi 16 novembre avec l'arrivée des ministres. La Turquie préside la conférence (Murat Kurum, ministre turc de l'Environnement) et l'Australie dirige les négociations (Chris Bowen, ministre australien du Changement climatique et de l'Énergie). La présidence turque veut notamment augmenter fortement la part de l'électricité dans la consommation d'énergie mondiale d'ici 2035. L'Union européenne demande que cette électricité soit « propre », ce qui relance le débat sur les énergies fossiles (charbon, pétrole, gaz).",
+   "enjeu": "Le climat est un grand sujet de culture générale pour l'oral. Il faut savoir ce qu'est une COP et que l'Union européenne y négocie au nom de ses États membres, dont la France. Les décisions prises influencent ensuite les politiques publiques françaises (énergie, transports, logement).",
+   "sources": [
+    {
+     "nom": "Hürriyet Daily News, 15 novembre 2026",
+     "url": "https://www.hurriyetdailynews.com/turkiye-eyes-ambitious-climate-outcome-as-cop31-enters-final-week-229417"
+    },
+    {
+     "nom": "watson.ch (ATS), 15 novembre 2026",
+     "url": "https://www.watson.ch/fr/international/environnement/674989377-la-cop31-entre-dans-sa-phase-decisive-avec-des-negociations-difficiles"
+    }
+   ],
+   "fiche_enc": "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"
+  }
+ ],
+ "question": "Demain, jour de grève, vous êtes seul à l'accueil d'un service dont plusieurs collègues sont absents. Le téléphone sonne sans arrêt et trois usagers attendent. Comment vous organisez-vous ?",
+ "genere": "2026-11-16T12:19:20+01:00"
+}
