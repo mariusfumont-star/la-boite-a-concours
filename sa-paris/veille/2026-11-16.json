@@ -1,0 +1,176 @@
+{
+ "date": "2026-11-16",
+ "titre": "Orientations budgétaires 2027 au Conseil de Paris, grève des fonctionnaires du 17 novembre, rassemblements interdits près de quinze établissements, sommet de Shenzhen et sommet UE–Royaume-Uni",
+ "chapo": "Le Conseil de Paris, réuni du 17 au 20 novembre, débat dès mardi des orientations budgétaires 2027, que l'exécutif présente comme dépendantes du prélèvement de l'État sur la Ville. Le même jour, l'intersyndicale de la fonction publique, rejointe par la CFDT, appelle à la grève pour la revalorisation du point d'indice, tandis que la préfecture de police interdit jusqu'au 20 novembre les rassemblements non déclarés aux abords de dix lycées et cinq sites universitaires. À l'international, Pékin annonce que la rencontre Xi–Trump–Poutine du 19 novembre à Shenzhen portera sur la « paix mondiale », et l'Union européenne reçoit le Royaume-Uni à Bruxelles le 20 novembre.",
+ "chiffres": [
+  {
+   "valeur": "790 M€",
+   "libelle": "épargne brute visée par la Ville de Paris en 2027 selon le rapport d'orientations budgétaires"
+  },
+  {
+   "valeur": "61 %",
+   "libelle": "part des dépenses d'investissement de la Ville autofinancées, selon le même rapport"
+  },
+  {
+   "valeur": "15",
+   "libelle": "lycées et sites universitaires parisiens autour desquels les rassemblements non déclarés sont interdits du 16 au 20 novembre"
+  },
+  {
+   "valeur": "4e année",
+   "libelle": "de gel du point d'indice de la fonction publique selon l'intersyndicale"
+  }
+ ],
+ "items": [
+  {
+   "theme": "Finances locales",
+   "titre": "Budget 2027 : le Conseil de Paris débat des orientations budgétaires le 17 novembre",
+   "resume": "La séance du Conseil de Paris des 17, 18, 19 et 20 novembre s'ouvre avec le débat sur le rapport d'orientations budgétaires (ROB) pour l'exercice 2027. Ce débat ne donne pas lieu à un vote : le budget primitif 2027 sera voté lors de la séance de décembre. Selon le rapport, cité par Le Journal du Grand Paris, l'épargne brute de la Ville devrait atteindre 790 millions d'euros en 2027 et la collectivité autofinance 61 % de ses dépenses d'investissement. L'adjointe chargée des finances, Johanne Kouassi, affirme que la trajectoire d'épargne, de dette et d'investissement est tenue. Elle souligne toutefois que l'équilibre du budget dépend du niveau du prélèvement opéré par l'État sur la Ville dans le projet de loi de finances (PLF) pour 2027, qu'elle chiffre à environ 300 millions d'euros.",
+   "enjeu": "Le débat d'orientations budgétaires est la première étape obligatoire du cycle budgétaire : il fixe le cadre des arbitrages que les services devront décliner. Un secrétaire administratif doit savoir situer ce débat dans le calendrier (ROB en novembre, vote en décembre) et comprendre comment l'incertitude sur la loi de finances nationale pèse sur les crédits de son service.",
+   "sources": [
+    {
+     "nom": "Le Journal du Grand Paris, novembre 2026",
+     "url": "https://www.lejournaldugrandparis.fr/paris-va-debattre-dun-budget-2027-entre-prudence-et-inquietude/"
+    },
+    {
+     "nom": "Le Journal du Grand Paris, entretien avec Johanne Kouassi, novembre 2026",
+     "url": "https://www.lejournaldugrandparis.fr/j-kouassi-notre-budget-depend-du-maintien-par-letat-de-sa-ponction-de-300-millions-deuros-sur-la-ville/"
+    }
+   ],
+   "fiche_libre": {
+    "contexte": "Dans les collectivités de 3 500 habitants et plus, un débat d'orientations budgétaires doit se tenir dans les deux mois précédant le vote du budget, sur la base d'un rapport présentant les orientations, les engagements pluriannuels, la structure et la gestion de la dette. À Paris, ce débat a lieu au Conseil de Paris de novembre, et le budget primitif est voté en décembre. Le budget 2027 est le premier préparé intégralement par l'exécutif issu des élections municipales de mars 2026, conduit par le maire Emmanuel Grégoire. Il est construit alors que le PLF pour 2027, en cours d'examen au Parlement, prévoit une contribution des collectivités au redressement des comptes publics.",
+    "acteurs": [
+     "Maire de Paris (Emmanuel Grégoire) : présente le projet de budget et en assure l'exécution",
+     "Adjointe chargée des finances (Johanne Kouassi) : porte le rapport d'orientations budgétaires",
+     "Conseil de Paris : débat des orientations puis vote le budget en décembre",
+     "Direction des finances et des achats de la Ville : prépare le rapport et les arbitrages",
+     "Parlement et Gouvernement : fixent par la loi de finances les dotations et prélèvements sur les collectivités"
+    ],
+    "notions": [
+     {
+      "terme": "Débat d'orientations budgétaires (DOB)",
+      "def": "Débat obligatoire de l'assemblée délibérante, sans vote sur le budget lui-même, qui précède le vote du budget et porte sur les grandes orientations financières de la collectivité."
+     },
+     {
+      "terme": "Épargne brute",
+      "def": "Différence entre les recettes et les dépenses réelles de fonctionnement. Elle mesure la capacité de la collectivité à rembourser sa dette et à financer ses investissements."
+     },
+     {
+      "terme": "Autofinancement",
+      "def": "Part des investissements financée par les ressources propres de la collectivité (épargne, cessions, recettes d'investissement) plutôt que par l'emprunt."
+     },
+     {
+      "terme": "Péréquation",
+      "def": "Mécanisme de redistribution des ressources entre collectivités pour réduire les inégalités de richesse ; Paris y contribue de façon importante."
+     }
+    ],
+    "analyse": "Pour un cadre intermédiaire, le ROB annonce le niveau d'exigence des prochains arbitrages : demandes de crédits plus justifiées, priorisation des actions, suivi plus serré de l'exécution. L'incertitude sur la loi de finances peut conduire à des mises en réserve de crédits en début d'exercice. Le SA doit pouvoir expliquer ce contexte à son équipe sans dramatiser, et préparer des propositions d'économies réalistes. La qualité des prévisions transmises par les services conditionne la sincérité du budget.",
+    "situation": {
+     "cas": "Secrétaire administratif chargé du budget dans une direction de la Ville, votre directeur vous demande de préparer les propositions de crédits 2027 alors que l'enveloppe pourrait être réduite. Comment procédez-vous ?",
+     "demarche": [
+      "Analyser l'exécution 2025 et 2026 pour distinguer dépenses obligatoires, reconductibles et discrétionnaires",
+      "Recenser avec les chefs de bureau les besoins prioritaires et les justifier au regard des orientations de la mandature",
+      "Proposer plusieurs scénarios chiffrés (enveloppe stable, réduction modérée, réduction forte) avec leurs effets sur le service rendu",
+      "Transmettre une note synthétique au directeur et respecter le calendrier fixé par la direction des finances",
+      "Informer l'équipe des arbitrages une fois rendus et organiser le suivi de l'exécution"
+     ]
+    },
+    "questions": [
+     "Quelles sont les grandes étapes du cycle budgétaire d'une collectivité ?",
+     "À quoi sert le débat d'orientations budgétaires et qui y participe ?",
+     "Comment un service peut-il contribuer à la maîtrise des dépenses de fonctionnement ?"
+    ],
+    "themes": [
+     "T06",
+     "T12",
+     "T13"
+    ]
+   }
+  },
+  {
+   "theme": "Fonction publique",
+   "titre": "Grève du 17 novembre : un cortège déposé des Invalides à la place d'Italie",
+   "resume": "L'intersyndicale de la fonction publique (CGT, UNSA, FSU, Solidaires, CFE-CGC et FA-FP) appelle à la grève et à manifester le mardi 17 novembre pour obtenir une hausse immédiate de la valeur du point d'indice. Dans son appel du 9 novembre, elle indique que le point est gelé pour la quatrième année et cite une inflation de 3,4 % en octobre. Elle demande aussi l'ouverture d'un chantier de refonte des grilles indiciaires. La CFDT a rejoint le mouvement le 13 novembre, après une réunion à Matignon qui n'a pas débouché sur un dégel du point. À Paris, l'intersyndicale régionale a déposé un parcours entre les Invalides et la place d'Italie ; selon la presse, la préfecture de police n'avait pas encore rendu sa décision dimanche.",
+   "enjeu": "Les trois versants de la fonction publique sont concernés, donc les services de la Ville : écoles, crèches, cantines, accueil du public. Le SA doit connaître les règles de l'exercice du droit de grève et savoir organiser la continuité du service et l'information des usagers.",
+   "sources": [
+    {
+     "nom": "UNSA Fonction publique, appel intersyndical, novembre 2026",
+     "url": "https://www.unsa-fp.org/article/L-intersyndicale-fonction-publique-appelle-a-la-mobilisation-et-a-la-greve-le-mardi-17-novembre-afin-d-exiger-une-hausse-immediate-de-la-valeur-du-point-d-indice-"
+    },
+    {
+     "nom": "SNASUB-FSU, appel intersyndical, novembre 2026",
+     "url": "https://snasub.fsu.fr/lintersyndicale-fonction-publique-appelle-a-la-mobilisation-et-a-la-greve-le-mardi-17-novembre-afin-dexiger-une-hausse-immediate-de-la-valeur-du-point-dindice/"
+    },
+    {
+     "nom": "C'est la grève, novembre 2026",
+     "url": "https://www.cestlagreve.fr/greve/fonction-publique-novembre-2026/"
+    },
+    {
+     "nom": "Solidaires Finances publiques Paris, novembre 2026",
+     "url": "https://sections.solidairesfinancespubliques.info/750/1048-17-novembre-en-greve-et-en-manifestation-pour-notre-pouvoir-d-achat.html"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Sécurité",
+   "titre": "Rassemblements non déclarés interdits autour de dix lycées et cinq sites universitaires parisiens jusqu'au 20 novembre",
+   "resume": "Le préfet de police, Patrice Faure, a pris un arrêté publié le dimanche 15 novembre qui interdit tout rassemblement ou cortège non déclaré dans un rayon de 100 mètres autour de dix lycées et cinq sites universitaires de Paris. La mesure s'applique du lundi 16 au vendredi 20 novembre inclus. Le préfet la justifie par des blocages et débordements aux abords d'établissements de Paris et de la petite couronne, menés selon lui le plus souvent par une minorité d'élèves et qui empêchent les autres d'accéder aux cours. L'Union nationale des étudiants de France (Unef) demande le retrait immédiat de l'arrêté et annonce un recours en référé devant le tribunal administratif. Elle reproche au texte de ne pas définir ce qu'est un rassemblement.",
+   "enjeu": "À Paris, la police générale et le maintien de l'ordre relèvent du préfet de police, et non du maire. Ce dossier illustre aussi le contrôle du juge administratif sur les mesures de police, qui doivent être nécessaires, adaptées et proportionnées.",
+   "sources": [
+    {
+     "nom": "France 24, 15 novembre 2026",
+     "url": "https://www.france24.com/fr/france/20261115-les-rassemblements-autour-de-certains-lyc%C3%A9es-et-universit%C3%A9s-interdits-%C3%A0-paris"
+    },
+    {
+     "nom": "Anadolu (AA), 15 novembre 2026",
+     "url": "https://www.aa.com.tr/fr/france/france-les-rassemblements-non-d%C3%A9clar%C3%A9s-interdits-autour-de-quinze-sites-scolaires-et-universitaires-%C3%A0-paris-/4126169"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "Shenzhen : Pékin annonce que la rencontre Xi–Trump–Poutine du 19 novembre portera sur la « paix mondiale »",
+   "resume": "Le ministère chinois des Affaires étrangères a indiqué le lundi 16 novembre que la rencontre trilatérale entre Xi Jinping, Donald Trump et Vladimir Poutine aurait pour thème la « paix mondiale ». Sa porte-parole, Mao Ning, a évoqué des échanges approfondis sur la préservation de la paix et la stabilité stratégique. La réunion est prévue le jeudi 19 novembre à Shenzhen, en marge du sommet des dirigeants de la Coopération économique Asie-Pacifique (APEC) des 18 et 19 novembre. Selon des responsables américains, Washington veut aborder la réduction des armes nucléaires et le dossier iranien. Des discussions sur l'intelligence artificielle et des tensions sur les puces électroniques sont également attendues en marge du sommet.",
+   "enjeu": "La réunion des dirigeants des trois principales puissances nucléaires, sans les Européens, interroge la place de l'Europe dans les grandes négociations. Ses suites peuvent influer sur la sécurité européenne, le prix de l'énergie et donc sur les budgets publics, y compris ceux des collectivités.",
+   "sources": [
+    {
+     "nom": "France 24, 16 novembre 2026",
+     "url": "https://www.france24.com/fr/asie-pacifique/20261116-paix-mondiale-menu-rencontre-trilat%C3%A9rale-chine-xi-trump-poutine"
+    },
+    {
+     "nom": "Boursorama, 16 novembre 2026",
+     "url": "https://www.boursorama.com/bourse/actualites/des-tensions-liees-aux-puces-electroniques-planent-sur-le-sommet-trump-xi-alors-que-les-etats-unis-et-la-chine-insistent-sur-des-mesures-de-securite-en-matiere-d-ia-e032779b86ff6ce66acd61ed280c9cbb"
+    },
+    {
+     "nom": "Les Affaires, novembre 2026",
+     "url": "https://www.lesaffaires.com/secteurs/politique/en-marge-de-lapec-trump-xi-et-poutine-prevoient-une-rencontre/"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "Sommet UE–Royaume-Uni le 20 novembre à Bruxelles : défense, énergie, migrations et mobilité des jeunes",
+   "resume": "Le deuxième sommet entre l'Union européenne et le Royaume-Uni se tiendra le vendredi 20 novembre à Bruxelles, a annoncé le Conseil de l'UE le 12 octobre. António Costa, président du Conseil européen, et Ursula von der Leyen, présidente de la Commission européenne, y recevront le Premier ministre britannique, Andy Burnham. Le sommet doit faire le point sur les progrès réalisés depuis le premier sommet de Londres en 2025, notamment en matière de défense, d'énergie, de règles sanitaires et phytosanitaires, de climat et de migrations. Une déclaration commune est attendue. Selon la presse, la mobilité des jeunes et le rapprochement des marchés du carbone font partie des points sensibles.",
+   "enjeu": "Les relations avec le Royaume-Uni touchent directement la France : contrôle des frontières et migrations sur la Manche, échanges économiques, mobilité des étudiants. Paris, qui accueille de nombreux ressortissants britanniques et entretient des partenariats avec Londres, est concernée par ces évolutions.",
+   "sources": [
+    {
+     "nom": "Conseil de l'UE, communiqué du 12 octobre 2026",
+     "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/eu-uk-summit-to-take-place-in-brussels-on-20-november/"
+    },
+    {
+     "nom": "Conseil de l'UE, page du sommet",
+     "url": "https://www.consilium.europa.eu/en/meetings/international-summit/2026/11/20/"
+    },
+    {
+     "nom": "franceinfo, octobre 2026",
+     "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/le-sommet-entre-l-union-europeenne-et-le-royaume-uni-se-tiendra-le-20-novembre-a-bruxelles_8234140.html"
+    }
+   ],
+   "fiche_enc": "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"
+  }
+ ],
+ "question": "Secrétaire administratif en mairie d'arrondissement, vous êtes informé le lundi soir d'une grève nationale le lendemain, alors que le préfet de police a interdit des rassemblements près d'un lycée voisin. Comment organisez-vous l'accueil des usagers et l'information de votre équipe ?",
+ "genere": "2026-11-16T12:10:48+01:00"
+}
