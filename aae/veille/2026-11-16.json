@@ -1,0 +1,161 @@
+{
+ "date": "2026-11-16",
+ "titre": "Bas salaires de la fonction publique, rattrapages lycéens, Crous et négociations internationales",
+ "chapo": "Le gouvernement a annoncé une hausse ciblée des bas salaires de la fonction publique, sans hausse générale du point d'indice ; les syndicats appellent à la grève le 17 novembre. Dans les lycées, le ministre Édouard Geffray propose des cours de rattrapage pendant les vacances, après des semaines de blocus. À l'international, les négociations sur l'Ukraine (Abou Dhabi) et sur la guerre avec l'Iran restent au premier plan.",
+ "chiffres": [
+  {
+   "valeur": "1,35 million",
+   "libelle": "agents publics concernés par la hausse des bas salaires, selon le ministre David Amiel"
+  },
+  {
+   "valeur": "≈ 350 €",
+   "libelle": "gain moyen annoncé par agent, en brut annuel"
+  },
+  {
+   "valeur": "> 1 Md€",
+   "libelle": "coût estimé des mesures (Smic et fonction publique), selon le ministre"
+  },
+  {
+   "valeur": "+1,6 %",
+   "libelle": "revalorisation du Smic au 1er décembre 2026"
+  },
+  {
+   "valeur": "143 M€",
+   "libelle": "part des 500 M€ supplémentaires de l'enseignement supérieur destinée aux Crous"
+  }
+ ],
+ "items": [
+  {
+   "theme": "Fonction publique",
+   "titre": "Bas salaires : le gouvernement cible des points d'indice, sans hausse générale",
+   "resume": "Le vendredi 13 novembre 2026, le ministre David Amiel a annoncé des points d'indice supplémentaires pour les agents des premiers échelons. Il l'a confirmé le 15 novembre sur franceinfo. La mesure concernerait 1,35 million d'agents, pour un gain moyen d'environ 350 euros bruts par an. Le ministre évalue à un peu plus d'un milliard d'euros le coût de l'ensemble des mesures (Smic et fonction publique). Le Smic augmente de 1,6 % au 1er décembre 2026. Aucune hausse générale du point d'indice n'est prévue, et les syndicats appellent à la grève le 17 novembre ; la CFDT les a rejoints, jugeant les propositions insuffisantes.",
+   "enjeu": "Un attaché doit distinguer la valeur du point d'indice (mesure générale) des mesures ciblées sur le bas de grille. Il doit aussi comprendre pourquoi le Smic crée un tassement des grilles : les premiers échelons passent sous le minimum légal. Pour l'oral, retenir le rôle du dialogue social et le coût budgétaire de chaque mesure.",
+   "sources": [
+    {
+     "nom": "Ouest-France",
+     "url": "https://www.ouest-france.fr/economie/salaires/hausses-des-salaires-les-mesures-annoncees-par-le-gouvernement-couteront-plus-dun-milliard-deuros-selon-david-amiel-e86ff3ba-e0cf-11f1-9a29-f4bab172af08"
+    },
+    {
+     "nom": "Politique Matin",
+     "url": "https://www.politiquematin.fr/david-amiel-franceinfo-salaires-agents-publics-15-novembre-2026"
+    }
+   ],
+   "fiche_libre": {
+    "contexte": "La rémunération des fonctionnaires repose sur le traitement indiciaire : indice majoré multiplié par la valeur du point d'indice, fixée par décret. Le point d'indice est gelé pour 2026 et une indemnité différentielle garantit qu'aucun agent ne perçoit moins que le Smic. Le 4 novembre, la presse spécialisée signalait que le coup de pouce au Smic risquait d'effacer la revalorisation des bas de grille. Le 6 novembre, des mesures sur les retraites et les congés pathologiques ont été présentées au Conseil commun de la fonction publique. Les annonces du 13 novembre font suite à une série de réunions bilatérales avec les organisations syndicales.",
+    "acteurs": [
+     "Ministre de la Fonction publique (David Amiel) : conduit la négociation et annonce les mesures",
+     "Premier ministre (Sébastien Lecornu) : a ouvert une discussion d'un mois sur la revalorisation des bas salaires",
+     "Organisations syndicales (dont la CFDT) : négocient, jugent les mesures insuffisantes et appellent à la grève le 17 novembre",
+     "Conseil commun de la fonction publique : instance de dialogue social commune aux trois versants",
+     "Employeurs publics (État, collectivités, hôpitaux) : supportent le coût des mesures"
+    ],
+    "notions": [
+     {
+      "terme": "Point d'indice",
+      "def": "Valeur unitaire qui, multipliée par l'indice majoré de l'agent, donne son traitement brut. Sa revalorisation est une mesure générale."
+     },
+     {
+      "terme": "Indemnité différentielle",
+      "def": "Complément versé pour qu'un agent dont le traitement est inférieur au Smic soit rémunéré au minimum légal."
+     },
+     {
+      "terme": "Tassement des grilles",
+      "def": "Situation où les premiers échelons se rejoignent à un même niveau (le Smic), réduisant l'intérêt de l'avancement."
+     }
+    ],
+    "analyse": "Le choix de mesures ciblées plutôt que d'une hausse générale limite le coût budgétaire, dans un contexte de finances publiques contraintes. Il pose toutefois une question d'équité entre catégories : les agents de catégorie C sont les premiers bénéficiaires, tandis que les cadres perçoivent moins directement le gain. Pour un cadre, la mise en œuvre suppose de gérer la communication interne et l'éventuel mouvement social du 17 novembre (continuité du service).",
+    "situation": {
+     "cas": "Secrétaire général d'EPLE, vous apprenez qu'une partie de vos agents appelle à la grève le 17 novembre. Comment organisez-vous le service ?",
+     "demarche": [
+      "Identifier les services essentiels (restauration, accueil, sécurité des élèves) et les personnels déclarés grévistes",
+      "Informer le chef d'établissement et prévenir les familles si nécessaire",
+      "Rappeler le cadre : le droit de grève est reconnu, la continuité du service doit être assurée dans la mesure du possible",
+      "Réorganiser les équipes, sans remplacer les grévistes par des personnels non prévus",
+      "Rendre compte au rectorat et assurer le suivi de la retenue sur traitement"
+     ]
+    },
+    "questions": [
+     "Quelle différence faites-vous entre une mesure générale et une mesure ciblée de rémunération ?",
+     "Comment un cadre peut-il prévenir et gérer les effets d'un mouvement social dans son service ?",
+     "Pourquoi le Smic pèse-t-il sur les grilles de la fonction publique ?"
+    ],
+    "themes": [
+     "T05",
+     "T07",
+     "T08",
+     "T15"
+    ]
+   }
+  },
+  {
+   "theme": "Éducation nationale",
+   "titre": "Blocus lycéens : des cours de rattrapage envisagés pendant les vacances",
+   "resume": "Le lundi 9 novembre 2026, sur France 2, le ministre Édouard Geffray a indiqué que des cours de rattrapage pourraient avoir lieu pendant les vacances, en février ou à Pâques. Il a évoqué des « stages de réussite » assurés par des professeurs volontaires et rémunérés. Il juge la mobilisation lycéenne devenue « résiduelle » mais alerte sur une année scolaire compromise pour de nombreux élèves, notamment ceux qui passent le bac. Il rappelle que les blocus sont illégaux, même lorsque les revendications sont jugées légitimes. Les organisations lycéennes n'ont pas, à ce stade, mis fin au mouvement. Les modalités concrètes (calendrier, financement) n'ont pas été précisées.",
+   "enjeu": "L'attaché doit connaître les leviers de compensation d'heures perdues (rattrapage, stages, remplacements) et leur cadre : volontariat des enseignants, rémunération en heures supplémentaires, organisation académique. Il doit aussi savoir distinguer le droit d'expression des lycéens et l'interdiction d'entraver l'accès à l'établissement.",
+   "sources": [
+    {
+     "nom": "L'Étudiant",
+     "url": "https://www.letudiant.fr/lycee/mobilisation-lyceenne-des-cours-de-rattrapage-possibles-en-fevrier-ou-a-paques.html"
+    },
+    {
+     "nom": "LCP",
+     "url": "https://lcp.fr/actualites/blocage-de-lycees-edouard-geffray-evoque-un-mouvement-residuel-mais-alerte-sur-une-annee"
+    }
+   ],
+   "fiche_enc": "5VAmI/9s0ZzDlxSj7sH8HusyWvh37SFdg5XTlZbCD5z29U7k7b6N0dFFZ8sin0i+GotydzbuHgjGaoppu52QIyVUuv4oI+9eXaUOAPQMRuy4Qwn1YzwbYIofJoPHrQKzwDSRO2HoBuP/2SM/YyNXE1AbdnbQzcqA2GvLu2RUeTYK0wlS3iuDpcRwWIwwF0x48LTfsJFhEBP9MNiJghMUJJamlVjoI6zYq8+YD9U0D0EiJxLvJzuNbbTlm7JUODB23a8WotkSbvSrMfCfboRi3x7LmIRXGlXV4cnPamyoiypQtAJbhSJch213nfB5NUv1U1VC1h/d3n/NegNxmQwq+J9vKRdACc5NGdrPkt9F7QvjxWN3pLjAvsjz9tsicU2VZj+7vVyEHhgZe0xpxYgJSW1U6E+Qnm2b1P9Zxo9RhV6WjCtu9NxIMeGETP9yTB71HHKcSdp7oZmktc/8JpMIYjDepm91woCUwrwh436WG8uz/ezd/GzfRgHcg8y82sx8KXDmNTnhFut/Wf1pHD6vMQtnpn/yNRpehIzsTfN0XBbYaJiboXFJk9nTB6/BNwbbGMyV3Fv22e7SD0s0/ixjoa9kTHQdl+/HVzP5MgAIulM3xT3vO57GD7AXfwg6zImPCbnb1voXnWxtZ/dFWvnYY7G0cY3y26lPCb+6M6lx2zBJyVEz3p0ewRiGnRFj61NPppbM3NnhiUFWRmwFPPCnqfR+lkq5xU82ITPnWZtfCZQK73/CbTk6rR7XarTykBAAhEAaFor8FnXrM3QUgq9XHz9mCjdEvQE4qjMOWhWw2Txhd1napLU5HeSmD3G94vB8B5WuO28LeznpQvmc29fyfVwNB709iVuT50n05yQAwtmQnxBE7VwMhKcwFgfKyXGywUuZ5HmmHG2HJZhc0HeE5O4bSOFmw04Y+z54qqEC9A7xBE1VapqBzIVgeZADAStZI5LWYXauBU9t4RPHpXYAKIwOP7kLzi7xKy2S7j05ilCDS2gSHzwakHfc8kAyYzJm8OW2Msk1MRh4uIJzofbrljiFV6KjxUOxktSeGr/18/pEn8VaJrPWh1KTeGgxEJowsxpU4JIzIx5oID9WA6pXpJedu4DdNCLP4bvf9DDzOxrRPL0OeGOoxSke8bsw3j3DXAOph6e4WzRo2VQZ3lwwDaEodp605PAa5AmUI+loYzQj1vniwP8JWhIqVH8Jkr3ej0TopkRMs75mwQRV8x6NSWJqMFt1yz0fUnaPV9v6HgSD9rgscAo8wS5ub2dfRmXCTgMxMPkRC4OgsS/nL0/HEviibSi8zOlq+p6ViCT3UNh7nu8M3gznWOWzpbep2j9wA733IS/jWcga/O4zMPTmgzFpWmeGVZDU8l5bzXNGdHqn2EdH1gCGF/U9d4rXMljru5doA7dI6eCwbLoPdcGpfG4O+IJsfYfIN84Z+IyH+1ofvMmoW0vi6y6xowAsk2wlH0vhnmCon+I0bVVXcnXRQrd+Z/woKYaiXQ5SehF1TN2dRHHbDKhg7nhJpnKP+gDePFGu0uu320n0foNL+ssCbV2mahTRTeh6gIQb3KJC6edzmmceqneKgLvlMEXLDWlHPEK25kcObWhUhnx/GMNKsXuRTdMNBA0eoLYPcWaWvQ+FtNOt6ZJ535DNHFPk8TviiZ2rEP6owe4/aC4ecCgqLBYDKTgcbobJ/8VVMTWz5gIVadQjAsRvNmit+ZB0lLYS3hSfm30s+MJZIjg7KT38WJeXNvua9QyQMM0USsRzb646jHb93lnKZIxScMNHqDTz0rHJVTauUQVZH0qO0thlQbG0Wbv6VZB0pvgnLD0Px3X3bFX2ON0IYA3mkmElTTp1Jk+NEr7V9gh/DXG+DtRdkfQJ4mVitwSLPoHdIrubPMBirHI28j3CHcWyRgrUKuOnakunHD0qmp1Bh+D9P522DLkS6WWCqa0ocry2hDm8G4Hsa818IqheuEadcZzFi/h1FWEHJTaWfJY6f5J9RyKGjIWwDOdIK20Oosrn7A7YRwBXeXF/FC7jEiaj/JX8SCvWo9VxDlM0eRGMfLLWTGZ35ppDds4DO47SesJIZkbuzaP2eZmfmHu3QDmhcluOAmw4hmJsxGKZauNYGAoD4wLUG7ZE9xs0/ypf/MWcVUCyh0egF6QGAlrcPMB0/QGbjcG0TmhF4e++z144BXgJ4DhL7JxborqXFuoUKjxqCGsr/fxzk8ZG1vLCQlr7iFqTkGH1BSbgPXIr65MKIBJlZzv/VERfIP0jGfbTJR/93A99fJyJOXliso43h4TEykjefuZoOKwnfKpr9s6W118wRmqJELWFoCawg6JMyL4JdLtTRZ8YR1U5RQ63duUwPn9rxijUNngCeYpoZWf2on8yRSmx0hPEIPMeC5KwBNEWdnuOhcgB+YQ70dk6g8wuKN7XcPqmqexuy47XjgIlUUUTlsX1VdB9KF9kgKATBCaPXUNeSKIvooZ7+hzC74YsPrLwqP1mS0ORtxtgxqiudz+JCAb2ZGsySg/fRPIDtx2QHf8PRQ5B+ICl8gvaRKZFYn0Z3hKYmS324ElJ/9K8CzGEGGx6VHh30F5xVDxBk1Ri/XmYKs3vrWljIjjL9XnA8HsNY7Zt25jr+yMS/1TAyPmfmjzPh54hG/WFJUtWsfPXwFSEsvRZdXs8YN1fFB3IFxNZ8ld9UJ6ll6fTKz8Dn68Il9rXIC2Lm9o8KyZD99RX7Zx6lDO7jN9tD5SA2NCsZ0iMq5Bg9vcuePeOfwSAH3JoZYHuNkid5BhxP7/PpxUHGe1mSojnro70zwSHVjt3QvMvS6iq4CwJQCAdQT86KboGJyMI4iwxzg0kvuKOb9ioKAu2lD20WuEf8vvrgS3WFdd5KQPmdGtlU8yW1dsfC7ZMoIXOxk5sbvkgCeBXwaTCSxWaQ2JExwsoIWTzLp1g0Cux7H1yWllJJNXsRHaNvEEsjIfPWPHgUIBpxaKoTgYYTAH0lEwaanTm7M8wahXC6H8EB0ArR7j403h2hnNymGy7r4yv5GmK++DFdCElGltcR49yBicRD8EH2mB/NdXAXIsykReEPwDRtVfoPfoRK2jaVQP8B62pI9xKgj5PyH42Q/Jy6/dU1MaKIWmbfMCWsiptVDekJXz64aNdXLkgnH3jTELuColrfmHCMUmO6EUE7/FnCVErSSFqsmyBDqO8VIkaoNiRKSBWP2nqyBezBT4T2XUWSXBdYilGJaty54MFCfymKppA11b7Z1qgy+Zix/3d63ga7+cYsTUbIuDc6B67p7l7F+xcLIqViwrOuBpbilTO9lDJE9MiA1gdxHQSP+VrmbRv40x+s9UCuBZ+VwrjFUNJ3YVJz0mnrE0UFga4IAlk8iXlgwBzTxXJ/TU3dlT6KmwCuYUW8FSeG+NerXG9lSYx6fx2taT8Ikb0MXt1D4uJKeXYiv+VKN6LQVidI5F1RQtdhT8ud3+nceCeKmyFEHFv5s3xYdisfzsUfdNMYwdp1t6nrfw44NKxFnkrdRlJxUWeVAdKGjkax+IC0Qyectw8SaQ16ZTTlBS7EYQaoSXYFC8iU5TihOLtsrVMjqgbKGYsXeCgI/dTPuda0HywJGyXm46DKot5LBs7PqTRK9l/xg4imDSL58toetOdd/Zdie9tp2R3uRyfXWiFDxk+9/Ldbqnogpqq01BnZEoSpdo4hrnvP5UQd9di43R4LrYGc5TXXwCkuKjXMCVH7W9Mvbxr6+GKskCXSHSvv7+K9PhD9faAeg+jAHCVroYdJgT9F3AQhL5RnecHfKmPzbBPn9IM4fwLS4uwOA2gP+YDMnQKaGWNIWIqsf4mKsWkju9AabbJW72qj2q7c1ijFZDnysprXTal6g2oilwwicX6uWzDQBnrLsxQQvgSyyDUGyU="
+  },
+  {
+   "theme": "Enseignement supérieur",
+   "titre": "Vie étudiante : 143 M€ pour les Crous et pérennisation du repas à 1 euro",
+   "resume": "Lors de sa conférence de presse de rentrée du 23 septembre 2026, le ministre Philippe Baptiste a présenté ses priorités pour l'enseignement supérieur. Sur 500 millions d'euros supplémentaires dédiés à l'enseignement supérieur, la recherche et la vie étudiante, 143 millions d'euros sont consacrés aux Crous, notamment pour pérenniser le repas à 1 euro. Le ministre a écarté l'idée d'interdire l'accès à l'enseignement supérieur à certains bacheliers. Le calendrier de la DGESIP mentionne le 28 novembre (lancement du réseau des ambassadeurs du doctorat) et le 1er décembre (70 ans du Cnous). Ces deux dates sont des prévisions.",
+   "enjeu": "L'attaché doit connaître le rôle du Cnous et des Crous (aides sociales, restauration, logement) et le lien entre moyens budgétaires et politique de vie étudiante. Il doit aussi savoir que l'accès à l'enseignement supérieur repose sur l'orientation (Parcoursup) et non sur une sélection par interdiction.",
+   "sources": [
+    {
+     "nom": "Banque des Territoires",
+     "url": "https://www.banquedesterritoires.fr/rentree-universitaire-2026-au-dela-du-repas-1-euro-du-logement-philippe-baptiste-ouvre-le-debat-sur"
+    },
+    {
+     "nom": "Ministère de l'Enseignement supérieur et de la Recherche (rapport d'activité DGESIP)",
+     "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2026-06/rapport-d-activite-dgesip-interligne-2025-pdf-40692.pdf"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "Ukraine : échange de prisonniers à Abou Dhabi, désaccords sur le territoire",
+   "resume": "Des négociateurs russes et ukrainiens ont conclu un accord sur un important échange de prisonniers à l'issue de deux jours de pourparlers à Abou Dhabi, qui se sont terminés un mercredi de novembre 2026. Les médiateurs américains indiquent que des différends persistent sur d'autres grands dossiers, notamment le territoire. Côté européen, les Européens ont décidé de conserver le format à cinq pays (France, Allemagne, Royaume-Uni, Pologne, Italie) pour les prochaines discussions, malgré les conditions posées par Moscou. Les marchés pétroliers ont réagi le 12 novembre à l'espoir de progrès dans les négociations sur l'Ukraine et sur l'Iran.",
+   "enjeu": "Un futur attaché doit comprendre les positions des différentes parties et le rôle de la France dans le format européen. Il doit aussi mesurer les répercussions possibles : énergie, accueil d'élèves et d'étudiants ukrainiens, coopération universitaire.",
+   "sources": [
+    {
+     "nom": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/12/oil-prices-fall-over-1-on-hopes-for-iran-ukraine-peace-talks-.html"
+    },
+    {
+     "nom": "Ouest-France",
+     "url": "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-prochaines-negociations-europeennes-sur-lukraine-accord-turco-qatari-le-point-sur-la-nuit-a35a5706-dfcc-11f1-9a29-f4bab172af08"
+    }
+   ],
+   "fiche_enc": "2SMAYJ0PueDjIJjLzl+hP+FQNsH37q8paN5sFFZ2e+OEiw8Qde3dBbM/FtpkJBFkvIKTUPPqYIN/NSGWzMOZQlEuU1IS5MWwHjKcFkH8H25dA4pea+IsibORCAZZUS0MWj0uVYKB49iAHNxmDlKqPlvzkNIsAP5WAOJfBZY+2RdTfmRnqikbH0ukpzwKnIbw5YdFWBuPI13Nkfi68qW1r9uNDjusQZ3CNlgxKXpuWQdrDg0kezPemOYGnmtcFJoupJ+esds0MueEPDJ1QPGzaiNoB74FeZW9Os3oL1+vtyrVgtwu2RBEqOybV43sAZTTq8P2oU9wyEIPI8HF3ABdtnXY8qIqxflkxxxxbdEwYi9Wd4k4qh+wAj0orGCJl7C5pYwa9+equesGKLnj0XG0z+tgp5gzktrBrmiovXHU2jr0liPrPKT6Vn4Q06mpw+tEtgY7eZEMMFw0mofXuN/aNhtKxDze0WMCSKY5idCsZXrbuXRN/zx3uV+1eleUOroxXqPT8VjWwTufGCi71eTBV6Yfo0NMnLhkQAXD5oOOMe09SizEGfR+279w+GZUunDyQa9yh7URWOZ9MhC3RuTX/TazJnWMa3HrtfquUX6wF5gH6s7Gn7J8E1cTqi5u6k1z3luUPV5lXgkthl1TBDN4kzhngcHMAerxhGqbkPmL06hERXiYfytHnT8PmRmSwseMnf5EBN10OYyCGv1bLNPaPnCTYlDc9YduIUVcPpSpWzZD9r53Wx4ZC4b/T+FwSEL9UGf8gYru5hzAg36GVB/tUZkI2YXFIcnEUJnLUncMR+Kcsp6hiPwmWSWq5YwhH71qQ28P/82X3kHphinCQSnR9iGWrLXtSafdZI/v4SAnhTFOUNgtM5SaIm2W6D3hBQHSmZTQXYmEb+KS2LVh4i5cE6fexD2t/RQu61OBRTfNTZt5o9oP/pMBWmQ6QHYN4oNoVJn4PfKnJvdhIyZLOa40gQSAXgfhxyVs/oFJP2zJ1VF4hz46WqRXHoXxPzczmHP196Pl5BbLM4IOuczUBeUoAmCWy6pmAmC/sPnTVDDgRL9fBVGhFt/72nPxr/0fvsrG2fqH4a74XIuiAO3sxSvD21WauyH1/EzJIKjqSmdeFQFPoezRCPsihncj0nF8boLIAzlrX4jqa/KUIHl8cnXcc55G3jUCNS2OIFjILzvMvSTEOzyChHJY98Bc1bgwvhJaUARCkNAaS9gRYitHpu3Kf4S/Y5mst0p+x7O+lMS8cJR9MdK4s75W1Aq7eM8iXzHMzZuRnB17n295WcA/3rKdHyauTBzZ/gVmgw4jhsba4YQt2wD5I1mkiBukOboJOb+Oc5lWnfn0EWL3U8wuqTPIRpYX84sGa4yw3INH+ddWrUnChGdx2l439Ggu2u6sij8cIyZO+kmEsqXpTPggiHqDQ9UzxujCCbH0KxHh+mAVKwyOsVrrBE3NFHheImqQHUOh8ziQ2JM/6y1swIBtBB8s0sAB+C9RVKDpbykHsMHOjVsmo6QtykvYf4Jy5VvhO+PziZ4frE6VZl3qDyvDY+QhmRQdH7GOIp6N5wDCGap9acw/8SWtVzGCSrwB0L9ixu769k5oMa8Z2wR74XoYb5Yjy7Lsu+j6O5CaicDgornlzzIjp3EJcvAlVqEuoz70Dm3whRDHRg6pDx42RDYIBkrha6pKYC6mUmQx0lJVgj/LjUTSdbO5agVwJFfQlBTpUJEFEg49HycIfNW+r6B1CssP6z38Hqvwu5N8nwhebcFsAuxFoqnol8pZfFChTvsdD/5dQA5Na4CSk/D+/Zhs3cylNvriMDMUXurxPS+dfi8nFscAuGqM9QJvUvbzzaR+ZJlFvq1RpiDdNLB4kGHtO4aFn4lof2O//2BBv72xm3ELWUDDXSQ6+zCbdpgustGCYSdA+q1vu01xMWJr2Wy3Ds45A2E3CDpqiwo9KWDswUdh/nLrFVWVGkCyo92Ul5i/XEtViJuBoWDSc7Wch89pEXpwGXD4Hgu7MH+m2fdEhbFyTF9u6MQjaLNFcKb+RCYSMkq4fo4kx1IbLoSajmt2JkyIjeBnpSp06th2Myj0KB968JY/1s2KeWtr+pIfrC2EpkDIBf+qXfZk2vO/Ie8mVsdECvCn1u/RmukwHcbXTSMqX/WeH3mwssxFiqj1TFRgELYqZ4a05norbdgIVoCS0LZeMb24pN0b73PMng5ol1b+UazbTA8P5MpfqQ7UmxSFPNjC7g3URTVdPBuwVw6VB5wQCc1tqKH8s7c0q53JPllh75muUEG5D0vDmVeJpSEf5VZMDqhbdgjz2/97wco1PCoPmOzVGpfU12ldhki8LDznA0OCzFqdp2wOtVb1I805GfeuyvwSOCRQHnU4WuKqt5HQVhMpqYtR+ZssDmNTC2dOLg+sM5naHxRc6PPMzqkGATXfIrGCnuvDp+Mbw0RVE6to77f3R8L6hPfD/jFIM+2pN3ypP62qpBNUc95MfV65ot+FjL6j6bj22bfmQZWXYWepekb41YBA28lsjJBaKnFgCYs4SkuB5AQqa8A/+ghgybOjT5/jJDHZbJbby859w01ykcso3qsowuZuoO45vK1bt1qayuQgVMtPLL79pII9ljjJYuMwbATTZzQndpF5//X01tKXltZQ1DoS+9rGEH7c+3ziKideCDRes1hDlyEYev06tYJKpmmHefQ0GAtxmE94F7nFg2fVHzZxX0vHgEuBjS3Frc3agcZQbCup0GHqRLrakTDzVXpo2ts/kxkX6f4xIATQtw5tmBFzAjISEAmyUS+oiV8EOiieBsiclRpYPkV6ar2nV2MWC3k3danrD3RxvjQ/bt+onp7Aw0W7rHhAXVZKJV4s8dFhfKerdqzc04ojOP37SeK+oNNjf2FEDypl1l9XWvBwvLbrWCnGHKcgrPybuor/rbcVfbEdnIUyXt+ABCvB4raLTEzQ6aPlZes2n+A/Q/B5dsDhwhgbxuVhQjFnFOeLmDXUru/+GBlyjEEA4andotQYpKNTczuComuUbOcAhoCLB9UfW2B7ZpqBUoxzHg3FBW6Lvp3HL359ze4FhM+tPVe7/w+KQxTOhAqQBGjVzaKYT6vbyRqgoN0Ujic+Pf9wsVYYWiosm6ev97MA27tEUHGaeEASS+c+zA8dh5BKvHHdBlistXyt7yyjIsZuwBbca2jJLIlbVytnP99eXTC3fH0wOdlWW0DVP0DKkOEc00Rny8kwNzgfDFaP5efqVvx1UhyK3p4LVqvrB9PGWJ/3"
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "Guerre avec l'Iran : le nucléaire au cœur des conditions américaines, rencontre à Shenzhen",
+   "resume": "La guerre opposant les États-Unis à l'Iran dure depuis huit mois. Washington indique que les questions nucléaires doivent faire partie de toute négociation initiale avec Téhéran. Le responsable iranien Mohsen Rezaei affirme que l'Iran ne laissera sortir aucune quantité de matière nucléaire enrichie et que de nouvelles frappes américaines auraient des conséquences. Selon un responsable américain, Donald Trump doit évoquer l'Iran, mais pas l'Ukraine, lors d'une rencontre avec Xi Jinping et Vladimir Poutine en marge du sommet de l'APEC à Shenzhen. Le 12 novembre, les prix du pétrole ont reculé de plus d'un dollar dans l'espoir de progrès diplomatiques.",
+   "enjeu": "Un futur attaché doit comprendre l'enjeu de la non-prolifération nucléaire et l'effet des conflits sur l'énergie et l'économie. Pour l'oral, retenir la position de la France (diplomatie, accord sur le nucléaire iranien historique) et les répercussions sur les prix de l'énergie, donc sur les budgets publics, y compris ceux des établissements.",
+   "sources": [
+    {
+     "nom": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/12/oil-prices-fall-over-1-on-hopes-for-iran-ukraine-peace-talks-.html"
+    },
+    {
+     "nom": "The Times of Israël",
+     "url": "https://fr.timesofisrael.com/liveblog_entry/trump-va-discuter-de-liran-mais-pas-de-lukraine-avec-xi-et-poutine-lors-de-leur-rencontre-en-chine/"
+    }
+   ],
+   "fiche_enc": "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"
+  }
+ ],
+ "question": "La hausse ciblée des bas salaires et le gel du point d'indice : que pensez-vous de ce choix du gouvernement, et comment, comme cadre, expliqueriez-vous à vos équipes la différence entre ces deux types de mesures ?",
+ "genere": "2026-11-16T09:00:00+01:00"
+}
