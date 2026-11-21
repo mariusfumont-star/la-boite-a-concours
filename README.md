@@ -8,10 +8,11 @@ Application web installable (PWA) qui regroupe les préparations aux concours de
 - `sacn/` : Prépa SA interministériel 2027 (préfixe `sacn_`).
 - `adjoint/` : Prépa Adjoint administratif 2027, externe et interne (préfixe `adj_` ; clé des contenus ajoutés `config/boite_admin` ; la veille est celle de `sacn/veille/`, fiches lues avec `config/adj_cle`).
 - `sae/` : Prépa Secrétaire des affaires étrangères 2028, cadre général, externe, interne et 3e concours (préfixe `sae_` ; contenus chiffrés avec `config/boite_admin` ; veille propre `sae/veille/`, fiches lues avec `config/sae_cle`).
+- `redacteur/` : Prépa Rédacteur territorial 2027 (Guadeloupe, CDG971 ; Pass jusqu'au 29/02/2028), externe, interne et 3e concours (préfixe `red_` ; contenus chiffrés avec `config/boite_admin` ; veille propre `redacteur/veille/`, fiches lues avec `config/red_cle`). Sources de contenu : `/home/claude/red-src/` ; `construire_index.py` dérive l'index de `sae/index.html`.
 - `<préparation>/veille/` : synthèses quotidiennes d'actualité, fiches chiffrées avec la clé `config/<préfixe>cle`.
 - `manifest.webmanifest`, `sw.js`, `icons/` : installation et fonctionnement hors ligne, communs à toutes les préparations.
 - `cgv.html`, `mentions-legales.html`, `confidentialite.html` : pages légales communes.
 - `outils/chiffrer-fiches.js` : chiffrement des fiches de veille.
 - `firestore.rules` : règles Firestore communes.
 
-Pas d'essai gratuit : chaque préparation a une partie gratuite ouverte à tous (dont une fiche de veille offerte chaque lundi, champ `fiche_libre`) et ses propres formules Stripe : mensuel (14,90 € ; 9,90 € pour l'adjoint administratif ; 19,90 € pour les affaires étrangères) ou Pass session (99 € ; 69 € pour l'adjoint administratif ; affaires étrangères : 99 € en lancement jusqu'au 31/01/2027, puis 129 €). Le webhook Stripe (projet Vercel `prepa-aae-paiement`) active le bon concours grâce au préfixe de `client_reference_id` (`sa_`, `sacn_`, `adj_`, `sae_`, aucun pour l'AAE).
+Pas d'essai gratuit : chaque préparation a une partie gratuite ouverte à tous (dont une fiche de veille offerte chaque lundi, champ `fiche_libre`) et ses propres formules Stripe : mensuel (14,90 € ; 9,90 € pour l'adjoint administratif ; 19,90 € pour les affaires étrangères) ou Pass session (99 € ; 69 € pour l'adjoint administratif ; affaires étrangères : 99 € en lancement jusqu'au 31/01/2027, puis 129 €). Le webhook Stripe (projet Vercel `prepa-aae-paiement`) active le bon concours grâce au préfixe de `client_reference_id` (`sa_`, `sacn_`, `adj_`, `sae_`, `red_`, aucun pour l'AAE).

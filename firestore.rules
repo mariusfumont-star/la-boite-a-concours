@@ -11,6 +11,7 @@ service cloud.firestore {
     function accesSACN() { return connecte() && (gestionnaire() || abonne("sacn_abonnes") || enEssai("sacn_comptes")); }
     function accesADJ() { return connecte() && (gestionnaire() || abonne("adj_abonnes") || enEssai("adj_comptes")); }
     function accesSAE() { return connecte() && (gestionnaire() || abonne("sae_abonnes") || enEssai("sae_comptes")); }
+    function accesRED() { return connecte() && (gestionnaire() || abonne("red_abonnes") || enEssai("red_comptes")); }
 
     match /users/{userId}/{document=**} {
       allow read: if (connecte() && request.auth.uid == userId) || gestionnaire();
@@ -91,18 +92,51 @@ service cloud.firestore {
       allow read: if (connecte() && request.auth.uid == uid) || gestionnaire();
       allow write: if gestionnaire();
     }
+    match /red_comptes/{uid} {
+      allow read: if (connecte() && request.auth.uid == uid) || gestionnaire();
+      allow create: if connecte() && request.auth.uid == uid
+        && request.resource.data.keys().hasOnly(['email', 'cree', 'vu'])
+        && request.resource.data.cree == request.time;
+      allow update: if (connecte() && request.auth.uid == uid
+          && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['vu']))
+        || gestionnaire();
+      allow delete: if gestionnaire();
+    }
+
+    match /abonnes/{uid} {
+      allow read: if (connecte() && request.auth.uid == uid) || gestionnaire();
+      allow write: if gestionnaire();
+    }
+    match /sa_abonnes/{uid} {
+      allow read: if (connecte() && request.auth.uid == uid) || gestionnaire();
+      allow write: if gestionnaire();
+    }
+    match /sacn_abonnes/{uid} {
+      allow read: if (connecte() && request.auth.uid == uid) || gestionnaire();
+      allow write: if gestionnaire();
+    }
+    match /adj_abonnes/{uid} {
+      allow read: if (connecte() && request.auth.uid == uid) || gestionnaire();
+      allow write: if gestionnaire();
+    }
+    match /red_abonnes/{uid} {
+      allow read: if (connecte() && request.auth.uid == uid) || gestionnaire();
+      allow write: if gestionnaire();
+    }
 
     match /contenu/{doc} { allow read: if acces(); allow write: if gestionnaire(); }
     match /sa_contenu/{doc} { allow read: if accesSA(); allow write: if gestionnaire(); }
     match /sacn_contenu/{doc} { allow read: if accesSACN(); allow write: if gestionnaire(); }
     match /adj_contenu/{doc} { allow read: if accesADJ(); allow write: if gestionnaire(); }
     match /sae_contenu/{doc} { allow read: if accesSAE(); allow write: if gestionnaire(); }
+    match /red_contenu/{doc} { allow read: if accesRED(); allow write: if gestionnaire(); }
 
     match /config/cle { allow read: if acces(); allow write: if gestionnaire(); }
     match /config/sa_cle { allow read: if accesSA(); allow write: if gestionnaire(); }
     match /config/sacn_cle { allow read: if accesSACN(); allow write: if gestionnaire(); }
     match /config/adj_cle { allow read: if accesADJ(); allow write: if gestionnaire(); }
     match /config/sae_cle { allow read: if accesSAE(); allow write: if gestionnaire(); }
+    match /config/red_cle { allow read: if accesRED(); allow write: if gestionnaire(); }
     match /config/admin { allow read: if gestionnaire(); }
     match /config/boite_admin { allow read: if gestionnaire(); allow write: if gestionnaire(); }
     match /config/paiement { allow read: if connecte(); allow write: if gestionnaire(); }
@@ -110,6 +144,7 @@ service cloud.firestore {
     match /config/sacn_paiement { allow read: if connecte(); allow write: if gestionnaire(); }
     match /config/adj_paiement { allow read: if connecte(); allow write: if gestionnaire(); }
     match /config/sae_paiement { allow read: if connecte(); allow write: if gestionnaire(); }
+    match /config/red_paiement { allow read: if connecte(); allow write: if gestionnaire(); }
     match /config/ia { allow read: if connecte(); allow write: if gestionnaire(); }
   }
 }
