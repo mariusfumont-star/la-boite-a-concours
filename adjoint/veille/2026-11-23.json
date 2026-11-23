@@ -1,0 +1,134 @@
+{
+ "date": "2026-11-23",
+ "titre": "Budget 2027 : le Sénat vote le 9 décembre ; un site public pour la santé mentale des étudiants ; rappel sur le décret et le Journal officiel ; COP31 : fin sans accord",
+ "chapo": "Le Sénat poursuit cette semaine l'examen du budget de l'État pour 2027 et votera l'ensemble du texte le 9 décembre. Le ministère de l'Enseignement supérieur a ouvert un site officiel pour orienter les étudiants qui vont mal. La conférence de l'ONU sur le climat, la COP31, s'est terminée dimanche en Turquie sans accord final.",
+ "chiffres": [
+  {
+   "valeur": "9 décembre",
+   "libelle": "date du vote du Sénat sur l'ensemble du projet de budget de l'État pour 2027"
+  },
+  {
+   "valeur": "17 décembre",
+   "libelle": "fin du délai de 70 jours fixé par la Constitution pour que le Parlement se prononce sur le budget"
+  },
+  {
+   "valeur": "7",
+   "libelle": "thèmes proposés par le nouveau site « Santé Mentale Étudiant » (stress, fatigue, solitude…)"
+  },
+  {
+   "valeur": "30 %",
+   "libelle": "part maximale du temps de travail qu'un médecin pourra consacrer à la médecine esthétique, selon un décret du 12 novembre 2026"
+  }
+ ],
+ "items": [
+  {
+   "theme": "Budget de l'État",
+   "titre": "Budget 2027 : le Sénat reprend l'examen des articles et votera le texte le 9 décembre",
+   "resume": "Le Sénat a commencé l'examen du projet de loi de finances (PLF) pour 2027 le vendredi 20 novembre. Ce lundi 23 novembre, la commission des finances donne son avis sur les amendements, puis les sénateurs reprennent l'examen des articles. Le vote sur la première partie, celle des recettes (les impôts et taxes), est prévu le samedi 28 novembre. Les dépenses, mission par mission, seront examinées à partir du 30 novembre. Le vote sur l'ensemble du texte aura lieu le mercredi 9 décembre ; le Parlement a jusqu'au 17 décembre à minuit pour se prononcer.",
+   "enjeu": "Retenez le vocabulaire : « loi de finances », « recettes », « dépenses », « mission », « amendement ». Le 1er décembre, le Sénat examinera la mission « Transformation et fonctions publiques », qui concerne directement les agents. À l'oral, savoir expliquer en une phrase comment le budget est voté montre votre culture administrative.",
+   "sources": [
+    {
+     "nom": "NosParlementaires, 22 novembre 2026",
+     "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+    },
+    {
+     "nom": "Actu Alt Plus, 20 novembre 2026",
+     "url": "https://www.actu-alt-plus.com/idees-solutions/budget-2027-senat-calendrier-vote-9-decembre/43576/"
+    }
+   ],
+   "fiche_libre": {
+    "contexte": "Chaque année, le Gouvernement présente au Parlement un projet de loi de finances qui fixe les recettes et les dépenses de l'État pour l'année suivante. Le 4 novembre 2026, l'Assemblée nationale a rejeté la partie recettes du texte par 458 voix contre 0, ce qui a fait tomber tout le projet à l'Assemblée. Le texte est donc arrivé au Sénat dans sa version initiale. L'article 47 de la Constitution donne 70 jours au Parlement pour se prononcer, soit jusqu'au 17 décembre.",
+    "acteurs": [
+     "Le Gouvernement : il prépare le projet de budget et le défend devant le Parlement",
+     "Le Sénat : seconde chambre du Parlement, il examine et vote le texte",
+     "La commission des finances du Sénat : elle étudie le texte et donne son avis sur les amendements",
+     "La commission mixte paritaire (CMP) : 7 députés et 7 sénateurs chargés de trouver un texte commun en cas de désaccord"
+    ],
+    "notions": [
+     {
+      "terme": "Loi de finances",
+      "def": "Loi qui prévoit et autorise, pour une année, toutes les recettes et toutes les dépenses de l'État."
+     },
+     {
+      "terme": "Amendement",
+      "def": "Proposition de modification d'un texte de loi, déposée par un parlementaire ou par le Gouvernement."
+     },
+     {
+      "terme": "Mission budgétaire",
+      "def": "Ensemble de crédits consacrés à une même politique publique, par exemple la sécurité ou la fonction publique."
+     },
+     {
+      "terme": "Ordonnance",
+      "def": "Texte pris par le Gouvernement dans un domaine qui relève normalement de la loi. Pour le budget, la Constitution le permet si le Parlement ne s'est pas prononcé dans le délai."
+     }
+    ],
+    "analyse": "Pour les usagers, le budget décide du montant des impôts, des aides et des moyens des services publics. Pour les agents, il fixe le nombre de postes et une partie des crédits de rémunération. Tant que le budget n'est pas voté, les services publics continuent de fonctionner, mais de nouvelles dépenses peuvent être retardées. Le calendrier serré montre l'importance des délais dans la vie administrative.",
+    "situation": {
+     "cas": "Au secrétariat d'un service déconcentré, votre chef de service vous demande de préparer un court tableau du calendrier d'examen du budget 2027 pour la réunion d'équipe.",
+     "demarche": [
+      "Repérer les dates clés dans des sources officielles (Sénat, vie-publique.fr)",
+      "Construire un tableau simple à trois colonnes : date, étape, ce qui est voté",
+      "Vérifier chaque date et indiquer la source en bas du tableau",
+      "Relire l'orthographe et la présentation, puis transmettre le document au chef de service",
+      "Proposer de mettre le tableau à jour si le calendrier change"
+     ]
+    },
+    "questions": [
+     "Qui vote le budget de l'État et dans quel délai ?",
+     "Que se passe-t-il si les députés et les sénateurs ne sont pas d'accord sur un texte ?",
+     "Pourquoi le budget de l'État concerne-t-il directement un adjoint administratif ?"
+    ],
+    "themes": []
+   }
+  },
+  {
+   "theme": "Services publics",
+   "titre": "« Santé Mentale Étudiant » : un site officiel pour orienter les étudiants en difficulté",
+   "resume": "Le ministère de l'Enseignement supérieur, de la Recherche et de l'Espace a lancé un site officiel, « Santé Mentale Étudiant », annoncé par service-public.fr le 20 novembre 2026. Il s'adresse aux étudiants et à leurs proches. Il est organisé autour de 7 thèmes, comme le stress, la fatigue, la solitude ou la difficulté à gérer ses émotions. Pour chaque thème, il propose des informations, des exercices et une liste d'aides : ligne d'écoute, psychologue, bureau d'aide psychologique universitaire. Un questionnaire en ligne conseille la solution la plus adaptée selon l'urgence.",
+   "enjeu": "Ce site est un bon exemple d'outil d'orientation : un agent d'accueil doit savoir vers quel service diriger une personne. Retenez le mot « orienter » et le principe : on écoute, on informe, puis on dirige vers le bon interlocuteur sans se substituer à un professionnel de santé.",
+   "sources": [
+    {
+     "nom": "Service-public.fr, 20 novembre 2026",
+     "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19151"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Rappel de fond",
+   "titre": "Rappel : qu'est-ce qu'un décret et à quoi sert le Journal officiel ? L'exemple de la médecine esthétique",
+   "resume": "Un décret n° 2026-1043 du 12 novembre 2026, publié au Journal officiel le 14 novembre, encadre la médecine esthétique. Un médecin ne pourra y consacrer plus de 30 % de son temps de travail et devra obtenir un « droit d'exercice complémentaire ». Les médecins qui veulent continuer doivent le demander à l'Ordre des médecins avant le 1er juillet 2027. Le patient devra recevoir un devis daté et signé, et l'acte ne pourra avoir lieu qu'au moins 5 jours après. Cet exemple permet de rappeler ce qu'est un décret et comment il entre en vigueur.",
+   "enjeu": "Les épreuves écrites et orales demandent de connaître les principaux textes : Constitution, loi, décret, arrêté, circulaire. Savoir lire la référence d'un décret (numéro, date de signature, date de publication) est utile pour classer un dossier ou rédiger une lettre administrative.",
+   "sources": [
+    {
+     "nom": "Service-public.fr, 19 novembre 2026",
+     "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19140"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "COP31 en Turquie : la conférence sur le climat se termine sans accord final",
+   "resume": "La 31e conférence de l'ONU sur le climat (COP31) s'est achevée dimanche 22 novembre 2026 à Antalya, en Turquie, sans accord final. Les négociations ont duré près de deux jours de plus que prévu. L'Union européenne s'est opposée à l'adoption de la déclaration finale, qui ne mentionnait plus la sortie des énergies fossiles (charbon, pétrole, gaz). Le secrétaire général de l'ONU, António Guterres, s'est dit « profondément déçu ». La prochaine conférence, la COP32, doit se tenir en 2027 à Addis-Abeba, en Éthiopie.",
+   "enjeu": "Retenez les sigles : COP (Conférence des parties) et ONU (Organisation des Nations unies). À l'oral, un sujet de culture générale peut porter sur la transition écologique : il faut savoir expliquer simplement pourquoi les pays ont du mal à se mettre d'accord.",
+   "sources": [
+    {
+     "nom": "France 24, 22 novembre 2026",
+     "url": "https://www.france24.com/fr/asie-pacifique/20261122-climat-accord-incertain-%C3%A0-la-cop31-des-pays-d%C3%A9noncent-l-absence-de-sortie-des-%C3%A9nergies-fossiles"
+    },
+    {
+     "nom": "franceinfo, 22 novembre 2026",
+     "url": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html"
+    },
+    {
+     "nom": "The Open Press, 23 novembre 2026",
+     "url": "https://theopenpress.in/article/cop31-no-deal-fossil-fuel-antalya"
+    }
+   ],
+   "fiche_enc": "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"
+  }
+ ],
+ "question": "Vous êtes à l'accueil d'une préfecture. Un usager mécontent vous dit qu'il a lu qu'une nouvelle règle s'applique « depuis le décret » et vous demande de lui montrer le texte. Comment l'aidez-vous à trouver et comprendre ce texte ?",
+ "genere": "2026-11-23T07:20:00+01:00"
+}
