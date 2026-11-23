@@ -1,0 +1,169 @@
+{
+ "date": "2026-11-23",
+ "titre": "Crise lycéenne et budget 2027 au Sénat ; Parcoursup 2026 ; Ormuz et élections espagnoles",
+ "chapo": "Le gouvernement poursuit sa réponse à la mobilisation lycéenne, avec un plan de remplacement des enseignants et une concertation annoncée. Au Sénat, le rapporteur du budget de l'enseignement scolaire prépare des amendements sur les carrières des professeurs. À l'international, l'AIE alerte sur la sécurité énergétique mondiale et l'Espagne vote le 29 novembre.",
+ "chiffres": [
+  {
+   "valeur": "3 000",
+   "libelle": "enseignants remplaçants annoncés par le ministre face à la mobilisation lycéenne"
+  },
+  {
+   "valeur": "3 644",
+   "libelle": "suppressions de postes d'enseignants prévues à l'origine dans le PLF 2027"
+  },
+  {
+   "valeur": "66 000",
+   "libelle": "candidats Parcoursup supplémentaires en 2026 par rapport à 2025"
+  },
+  {
+   "valeur": "84 %",
+   "libelle": "taux d'acceptation chez les lycéens à Parcoursup 2026"
+  },
+  {
+   "valeur": "350",
+   "libelle": "pétroliers immobilisés dans la zone du détroit d'Ormuz selon l'AIE"
+  }
+ ],
+ "items": [
+  {
+   "theme": "Éducation nationale",
+   "titre": "Mobilisation lycéenne : plan de remplacement et concertation, un ministre qui parle de mouvement « résiduel »",
+   "resume": "Face à la mobilisation lycéenne sur le manque d'enseignants, le ministre Édouard Geffray a annoncé le déploiement de 3 000 enseignants remplaçants et des moyens supplémentaires, selon L'Étudiant. Il a promis un plan d'action pour accélérer le remplacement des professeurs absents, en priorité dans les classes à examen. Une plateforme de concertation ouverte à tous les lycéens a été proposée, avec un comité réunissant lycéens et enseignants dont les conclusions sont attendues d'ici la fin du mois de novembre. Les syndicats jugent cette mesure tardive (« solution de dernière minute »). Plus récemment, le ministre a décrit le mouvement comme « résiduel » tout en alertant sur une « année scolaire en risque » pour de nombreux lycéens, selon LCP.",
+   "enjeu": "Un attaché doit comprendre que le remplacement des absences est un enjeu de gestion des ressources humaines autant que de pédagogie : il mobilise les rectorats, les DSDEN et les chefs d'établissement. L'oral peut interroger sur la continuité du service public et sur la manière d'associer les usagers (ici les lycéens) à une décision.",
+   "sources": [
+    {
+     "nom": "L'Étudiant",
+     "url": "https://www.letudiant.fr/lycee/deploiement-de-3-000-profs-remplacants-les-syndicats-denoncent-une-solution-de-derniere-minute.html"
+    },
+    {
+     "nom": "LCP",
+     "url": "https://lcp.fr/actualites/blocage-de-lycees-edouard-geffray-evoque-un-mouvement-residuel-mais-alerte-sur-une-annee"
+    }
+   ],
+   "fiche_libre": {
+    "contexte": "Depuis l'automne 2026, des blocages de lycées ont eu lieu en France pour dénoncer notamment les absences d'enseignants non remplacés. Le gouvernement a répondu par des annonces successives : renforts de remplaçants, plan d'action sur le remplacement, concertation avec les lycéens. Le sujet touche à la continuité du service public d'enseignement, principe de base du service public. Le remplacement des absences de courte durée relève du premier et du second degrés selon des règles différentes.",
+    "acteurs": [
+     "Ministre de l'Éducation nationale : fixe les orientations et annonce les plans d'action nationaux",
+     "Recteurs et services académiques (DRH, DSDEN) : gèrent les viviers de remplaçants et les affectations",
+     "Chefs d'établissement : organisent les remplacements de courte durée dans l'EPLE et dialoguent avec les élèves",
+     "Organisations syndicales d'enseignants : portent les revendications et négocient dans les instances de dialogue social",
+     "Organisations lycéennes et conseils de vie lycéenne : expriment la voix des élèves"
+    ],
+    "notions": [
+     {
+      "terme": "Continuité du service public",
+      "def": "Principe selon lequel un service public répond à un besoin d'intérêt général et doit fonctionner sans interruption injustifiée."
+     },
+     {
+      "terme": "Remplacement de courte durée",
+      "def": "Remplacement d'un enseignant absent pour une période brève, organisé en priorité au sein de l'établissement."
+     },
+     {
+      "terme": "Conseil de la vie lycéenne (CVL)",
+      "def": "Instance de l'EPLE où les lycéens élus sont consultés sur la vie de l'établissement."
+     }
+    ],
+    "analyse": "Ce dossier montre la difficulté de piloter un système de gestion de masse : un besoin local (une classe sans professeur) dépend d'arbitrages budgétaires nationaux et d'une gestion fine des remplaçants par les académies. Pour un cadre, le risque est l'écart entre l'annonce nationale et la mise en œuvre territoriale. La concertation est un outil pour restaurer la confiance, à condition que ses conclusions soient suivies d'effets visibles.",
+    "situation": {
+     "cas": "Secrétaire général d'EPLE, un lycée connaît plusieurs absences non remplacées et les élèves menacent de bloquer l'établissement. Que faites-vous ?",
+     "demarche": [
+      "Faire le point avec le chef d'établissement sur les absences et les remplacements possibles en interne",
+      "Alerter la DSDEN et le rectorat sur les besoins de remplaçants et obtenir un calendrier",
+      "Rencontrer les délégués élèves et le CVL pour expliquer la situation et les délais",
+      "Veiller à la sécurité des personnes et des locaux en cas de blocage, en lien avec le chef d'établissement",
+      "Rendre compte à la hiérarchie et suivre les engagements pris"
+     ]
+    },
+    "questions": [
+     "Comment garantir la continuité du service public d'enseignement en cas d'absence d'un professeur ?",
+     "Quel rôle joue le secrétaire général d'EPLE lorsqu'un mouvement lycéen se déclenche ?",
+     "Comment associer les usagers à une réforme de l'école ?"
+    ],
+    "themes": [
+     "T01",
+     "T02",
+     "T07",
+     "T15"
+    ]
+   }
+  },
+  {
+   "theme": "Finances publiques",
+   "titre": "PLF 2027, enseignement scolaire : le Sénat prépare des amendements sur les postes et la carrière des professeurs",
+   "resume": "Le projet de loi de finances pour 2027 prévoyait à l'origine 3 644 suppressions de postes d'enseignants, en partie liées à la baisse des effectifs d'élèves, selon Public Sénat. La commission des finances du Sénat a examiné la mission Enseignement scolaire le 28 octobre 2026. Son rapporteur spécial Olivier Paccaud (LR) a indiqué vouloir déposer un amendement pour accélérer la progression des professeurs aux 5e et 6e échelons. Il prévoit aussi deux amendements pour réduire davantage les moyens de deux agences rattachées au ministère, dont les budgets devaient déjà baisser de 7 %. Le budget de l'enseignement scolaire doit augmenter d'environ 1,2 milliard d'euros en 2027, essentiellement du fait de la masse salariale.",
+   "enjeu": "Il faut savoir lire un budget par mission et par programme (LOLF) : la mission Enseignement scolaire est dominée par les dépenses de personnel. L'oral peut demander comment concilier baisse démographique, maîtrise de la dépense et amélioration des conditions d'enseignement.",
+   "sources": [
+    {
+     "nom": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/education/education-nationale-le-rapporteur-lr-au-senat-veut-obtenir-une-revalorisation-plus-importante-des-salaires-des-professeurs-en-milieu-de-carriere"
+    },
+    {
+     "nom": "Sénat, commission des finances (PLF 2027)",
+     "url": "https://www.senat.fr/fileadmin/cru-1792598966/Commissions/Finances/2026-2027/PLF_2027/NP/PLF_2027_NP_Enseignement_scolaire.pdf"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Enseignement supérieur",
+   "titre": "Parcoursup 2026 : bilan de la procédure, record de candidats et calendrier 2027 stable",
+   "resume": "Le ministère de l'Enseignement supérieur a publié en octobre 2026 le bilan de la procédure Parcoursup 2026. Il fait état d'un nombre record de candidats, soit 66 000 de plus qu'en 2025. Le taux d'acceptation reste stable chez les lycéens, à 84 %. La procédure d'admission a pris fin le 10 septembre 2026. Le calendrier de la session 2027 est publié et reste stable, afin de faciliter l'accompagnement à l'orientation des lycéens. Une aide d'accompagnement, gérée par les Crous, existe pour les candidats confrontés à des difficultés de mobilité pour entrer dans le supérieur.",
+   "enjeu": "Parcoursup est la procédure nationale d'accès à l'enseignement supérieur. Un attaché doit en connaître le calendrier général, les acteurs (lycées, universités, rectorats) et les enjeux d'équité. Ce bilan est utile pour illustrer une politique publique par des indicateurs.",
+   "sources": [
+    {
+     "nom": "Ministère de l'Enseignement supérieur et de la Recherche — bilan Parcoursup 2026",
+     "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2026-10/Bilan%20de%20la%20proc%C3%A9dure%20d%27admission%20Parcoursup%202026.pdf"
+    },
+    {
+     "nom": "Ministère de l'Éducation nationale",
+     "url": "https://www.education.gouv.fr/parcoursup-2026-des-resultats-stables-dans-un-contexte-de-progression-historique-des-candidatures-506301"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "Détroit d'Ormuz : l'AIE alerte sur la plus grande menace pour la sécurité énergétique mondiale",
+   "resume": "L'Agence internationale de l'énergie (AIE) a averti que le conflit au Moyen-Orient menace la sécurité énergétique mondiale, selon Euronews du 19 novembre 2026. Son directeur exécutif, Fatih Birol, juge qu'une réouverture complète et sans condition du détroit d'Ormuz est essentielle. Selon l'agence, environ 350 pétroliers, chargés ou à vide, y sont actuellement immobilisés. Avant la guerre, environ 20 millions de barils par jour y transitaient en 2025, soit environ un quart du commerce maritime mondial de pétrole. Téhéran annonce régulièrement des navires touchés par des mines et pose des conditions à la réouverture ; Washington affirme avoir largement déminé la voie, impose un blocus des ports iraniens et escorte des pétroliers. Le nombre de navires touchés varie selon les communiqués.",
+   "enjeu": "Un futur attaché doit savoir qu'une crise énergétique lointaine a des effets directs sur les prix, l'inflation et les budgets publics, y compris ceux des écoles, universités et collectivités (chauffage, transports). L'oral peut demander de présenter les positions des différentes parties sans prendre parti.",
+   "sources": [
+    {
+     "nom": "Euronews",
+     "url": "https://fr.euronews.com/2026/11/19/laie-avertit-que-le-conflit-au-moyen-orient-menace-la-securite-energetique-mondiale"
+    },
+    {
+     "nom": "Connaissance des énergies (AFP)",
+     "url": "https://www.connaissancedesenergies.org/afp/iran-trois-nouveaux-petroliers-en-feu-dans-le-detroit-dormuz-gardiens-261108"
+    },
+    {
+     "nom": "Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites-amp/fatih-birol-de-l-aie-estime-que-le-detroit-d-ormuz-doit-etre-rouvert-sans-conditions-32d09aa1192fb5dc48a9753b41f4bddc"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "Espagne : législatives le 29 novembre, après le débat Sánchez–Feijóo",
+   "resume": "Les Espagnols votent le 29 novembre 2026 lors d'élections générales. Le Premier ministre socialiste Pedro Sánchez et le chef du Parti populaire Alberto Núñez Feijóo se sont affrontés le 19 novembre dans leur seul débat télévisé de la campagne, le premier entre eux depuis 2023. Les thèmes principaux ont été le logement, les loyers et les affaires de corruption. Selon l'AFP, la plupart des sondages donnent le Parti populaire vainqueur, mais sans majorité absolue ; selon Toute l'Europe, le bloc de droite aurait l'ascendant. Selon Primicias, Alberto Núñez Feijóo aurait besoin du soutien de Vox pour gouverner. Les résultats ne sont pas encore connus.",
+   "enjeu": "Un attaché doit connaître les grandes échéances électorales chez nos partenaires européens, car elles influencent les positions au Conseil de l'UE. L'Espagne est un partenaire majeur de la France, notamment dans le programme Erasmus+ et la coopération universitaire.",
+   "sources": [
+    {
+     "nom": "Le Petit Journal",
+     "url": "https://lepetitjournal.com/andalousie/actualites/face-face-crucial-entre-sanchez-et-son-rival-conservateur-en-espagne-10-jours-des-legislatives"
+    },
+    {
+     "nom": "Euronews (ES)",
+     "url": "https://es.euronews.com/2026/11/19/debate-del-29n-sanchez-reivindica-al-psoe-como-el-partido-mas-limpio-de-la-democracia-en-u"
+    },
+    {
+     "nom": "Primicias",
+     "url": "https://www.primicias.ec/internacional/pedro-sanchez-alberto-nunez-feijoo-crisis-vivienda-debate-elecciones-espana-137579/"
+    }
+   ],
+   "fiche_enc": "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"
+  }
+ ],
+ "question": "Face à une mobilisation lycéenne portant sur l'absence de professeurs remplaçants, quelles mesures proposeriez-vous, en tant qu'attaché, pour garantir la continuité du service public tout en tenant compte des contraintes budgétaires ?",
+ "genere": "2026-11-23T09:00:00+01:00"
+}
