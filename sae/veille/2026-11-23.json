@@ -1,0 +1,163 @@
+{
+ "date": "2026-11-23",
+ "titre": "Échec de la COP31 à Antalya, complot attribué à la Russie au Danemark et proposition danoise sur les visas russes, arrêt historique de la CIJ sur le génocide des Rohingyas",
+ "chapo": "La COP31 d'Antalya s'est achevée dimanche 22 novembre sans décision finale, l'Union européenne ayant refusé un texte qui ne mentionnait plus les énergies fossiles. Après l'attribution par Copenhague d'un projet d'assassinat aux services russes, la France a exprimé son soutien au Danemark, qui propose à ses partenaires de suspendre les visas touristiques pour les ressortissants russes. Enfin, la Cour internationale de justice a jugé le 19 novembre que la Birmanie avait commis un génocide contre les Rohingyas, une première pour un État.",
+ "chiffres": [
+  {
+   "valeur": "9 voix contre 6",
+   "libelle": "majorité de la CIJ ayant reconnu la Birmanie responsable d'un génocide contre les Rohingyas (19 novembre)"
+  },
+  {
+   "valeur": "2 ans",
+   "libelle": "délai laissé à la Birmanie pour rendre compte à la CIJ du montant et des modalités des réparations"
+  },
+  {
+   "valeur": "48 heures",
+   "libelle": "retard environ de la clôture de la COP31 d'Antalya par rapport au calendrier prévu"
+  },
+  {
+   "valeur": "29",
+   "libelle": "pays de l'espace Schengen concernés par la proposition danoise sur les visas russes"
+  }
+ ],
+ "items": [
+  {
+   "theme": "Enjeux globaux",
+   "titre": "COP31 à Antalya : la conférence se clôt sans décision finale, faute d'accord sur les énergies fossiles",
+   "resume": "La 31e conférence des parties à la convention-cadre des Nations unies sur les changements climatiques (COP31) s'est achevée dimanche 22 novembre à Antalya (Turquie) sans adoption de décision de couverture. Le président de la COP, le ministre turc de l'environnement Murat Kurum, a constaté l'absence d'accord et déclaré non adoptés le projet de « Pacte d'Antalya » et sa décision de couverture. La présidence de l'Union européenne, exercée par l'Irlande et représentée par le ministre Darragh O'Brien, avait annoncé qu'elle n'approuverait pas un texte ne mentionnant pas les combustibles fossiles, alors que les pays producteurs d'hydrocarbures, Arabie saoudite en tête selon la presse, s'opposaient à cette mention. La ministre française de la transition écologique, Monique Barbut, avait jugé que le projet « ramène en arrière » les négociations et réclamé, le 20 novembre avec huit homologues, la réintégration d'une référence à la sortie des fossiles. Les questions non résolues, dont la transition hors des énergies fossiles et le financement climatique, sont renvoyées à la COP32 prévue à Addis-Abeba.",
+   "enjeu": "Le sujet illustre les limites de la règle du consensus dans les négociations climatiques et le rôle de l'Union comme bloc de négociation porté par la présidence tournante du Conseil. Pour l'écrit, il permet de traiter la gouvernance des biens publics mondiaux et l'héritage de l'accord de Paris ; à l'oral, il faut savoir présenter la position française et européenne sans la commenter.",
+   "sources": [
+    {
+     "nom": "ONU Info (en anglais), 22 novembre 2026",
+     "url": "https://news.un.org/en/story/2026/11/1168855"
+    },
+    {
+     "nom": "Reporterre, 22 novembre 2026",
+     "url": "https://reporterre.net/La-pire-de-toutes-les-COP-s-acheve-avec-48-heures-de-retard"
+    },
+    {
+     "nom": "Le Devoir, 22 novembre 2026",
+     "url": "https://www.ledevoir.com/actualites/environnement/1026857/monde-divise-echoue-adopter-accord-cop31"
+    },
+    {
+     "nom": "France 24, 19 novembre 2026",
+     "url": "https://www.france24.com/fr/plan%C3%A8te/20261119-cop31-climat-%C3%A9nergies-fossiles-retir%C3%A9es-projet-d%C3%A9cision-finale"
+    }
+   ],
+   "fiche_libre": {
+    "contexte": "La convention-cadre des Nations unies sur les changements climatiques (CCNUCC), adoptée en 1992 au sommet de Rio, réunit chaque année ses parties en conférence (COP). L'accord de Paris de 2015 fixe l'objectif de contenir le réchauffement nettement en dessous de 2 °C et repose sur des contributions déterminées au niveau national. La COP28 de Dubaï (2023) avait pour la première fois appelé à une transition hors des combustibles fossiles dans les systèmes énergétiques. La COP31 d'Antalya, organisée par la Turquie avec une présidence des négociations confiée à l'Australie, devait se tenir du 9 au 20 novembre 2026 ; elle s'est terminée le 22 novembre sans décision de couverture.",
+    "acteurs": [
+     "Murat Kurum : ministre turc de l'environnement, président de la COP31",
+     "Chris Bowen : ministre australien, président des négociations de la COP31",
+     "Darragh O'Brien : ministre irlandais, porte-parole de l'Union au titre de la présidence du Conseil",
+     "Monique Barbut : ministre française de la transition écologique",
+     "António Guterres : secrétaire général de l'ONU"
+    ],
+    "notions": [
+     {
+      "terme": "Décision de couverture",
+      "def": "Décision politique d'ensemble adoptée en fin de COP pour fixer les orientations générales, à côté des décisions techniques. Son absence prive la conférence de message politique commun."
+     },
+     {
+      "terme": "Règle du consensus",
+      "def": "Mode d'adoption des décisions des COP : un texte est adopté en l'absence d'objection formelle, ce qui donne à chaque partie une capacité de blocage."
+     },
+     {
+      "terme": "Présidence tournante du Conseil de l'UE",
+      "def": "Exercée six mois par un État membre, elle représente l'Union et ses États dans certaines négociations multilatérales, notamment climatiques, en lien avec la Commission."
+     }
+    ],
+    "analyse": "Pour la France, attachée à l'héritage de l'accord de Paris, l'échec d'Antalya fragilise l'ambition collective et oblige à travailler en coalitions de pays volontaires. Pour l'Union, le refus d'un texte jugé insuffisant affirme une ligne commune, mais pose la question de sa capacité à entraîner les pays émergents et producteurs. Le réseau diplomatique sera mobilisé pour préparer la COP32 d'Addis-Abeba, notamment auprès des partenaires africains, et pour expliquer la position européenne dans les capitales.",
+    "situation": {
+     "cas": "Rédacteur à la direction des affaires globales, vous devez préparer une note pour le ministre sur les suites de la COP31 avant la préparation de la COP32.",
+     "demarche": [
+      "Rassembler les comptes rendus du négociateur et des postes, et identifier précisément les points de blocage",
+      "Cartographier les positions des groupes de négociation et des pays clés, en particulier africains au regard de la présidence éthiopienne",
+      "Coordonner avec le ministère de la transition écologique et la représentation permanente auprès de l'Union",
+      "Proposer des pistes d'action : coalitions d'ambition, dialogue avec la future présidence, messages pour les ambassades",
+      "Rédiger une note synthétique avec éléments de langage neutres et calendrier"
+     ]
+    },
+    "questions": [
+     "Le multilatéralisme climatique est-il encore efficace après l'échec d'Antalya ?",
+     "Comment l'Union européenne négocie-t-elle dans les COP ?",
+     "Quel rôle une ambassade peut-elle jouer dans la préparation d'une COP ?"
+    ],
+    "themes": [
+     "T08",
+     "T12",
+     "T18"
+    ]
+   }
+  },
+  {
+   "theme": "Diplomatie française",
+   "titre": "Complot attribué aux services russes au Danemark : Paris exprime son soutien à Copenhague, un attaché russe expulsé",
+   "resume": "Les autorités danoises ont annoncé le 20 novembre avoir déjoué un projet d'assassinat visant un rappeur américano-ukrainien, et le service de renseignement danois (PET) estime que des services russes l'ont planifié. Deux personnes ont été mises en cause pour tentative de meurtre et pour avoir aidé un service de renseignement étranger à opérer au Danemark. Le ministre danois des affaires étrangères, Lars Løkke Rasmussen, a dénoncé une transgression inacceptable, et Copenhague a expulsé l'attaché de défense russe. Le 21 novembre, le ministère de l'Europe et des affaires étrangères a exprimé le soutien de la France au Danemark, en replaçant l'affaire dans une série d'actes hostiles imputés à la Russie en Europe. L'ambassade de Russie à Copenhague a rejeté les accusations, jugées sans preuve, et Moscou a annoncé une réponse.",
+   "enjeu": "Le dossier mobilise le droit diplomatique : expulsion d'un agent accrédité, réciprocité attendue, solidarité entre alliés. Il illustre aussi la notion de menace hybride, au cœur des sujets de sécurité européenne, et la manière dont la France exprime sa solidarité par un communiqué.",
+   "sources": [
+    {
+     "nom": "Libnanews, 21 novembre 2026",
+     "url": "https://libnanews.com/tentative-dassassinat-au-danemark-paris-soutient-copenhague/"
+    },
+    {
+     "nom": "France 24, 20 novembre 2026",
+     "url": "https://www.france24.com/en/denmark-accuses-russia-of-assassination-plot-expels-diplomat"
+    },
+    {
+     "nom": "Le Singulier, novembre 2026",
+     "url": "https://lesinguliersete.fr/le-danemark-dejoue-un-projet-dassassinat-et-expulse-un-attache-russe/"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Union européenne",
+   "titre": "Visas Schengen : le Danemark propose de suspendre les visas touristiques pour les ressortissants russes",
+   "resume": "Dans un message diffusé le 20 novembre à ses partenaires, le Danemark demande à l'Union de cesser de délivrer des visas touristiques aux ressortissants russes et de ne plus reconnaître les passeports russes non biométriques dans l'espace Schengen. Il propose aussi de recourir davantage aux visas à validité territoriale limitée et de durcir les conditions d'entrée des combattants russes, actuels ou anciens. Selon l'agence Reuters, la proposition devait être présentée aux ambassadeurs des États membres à Bruxelles le 23 novembre. La présidente de la Commission, Ursula von der Leyen, a exprimé la pleine solidarité de l'Union avec le Danemark. La proposition n'est pas adoptée et suppose un accord entre États membres.",
+   "enjeu": "Le sujet relie politique étrangère et politique des visas : il faut savoir distinguer les compétences de l'Union (code des visas, accords de facilitation) de la marge des États. À l'oral, il permet d'aborder les tensions entre sécurité, libre circulation et contacts entre sociétés civiles.",
+   "sources": [
+    {
+     "nom": "US News / Reuters, 21 novembre 2026",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-21/exclusive-denmark-pushes-eu-to-tighten-curbs-on-russians-after-foiled-plot-message-to-member-states-shows"
+    },
+    {
+     "nom": "Euromaidan Press, 21 novembre 2026",
+     "url": "https://euromaidanpress.com/2026/11/21/denmark-seeks-eu-wide-visa-ban-for-russian-tourists/"
+    },
+    {
+     "nom": "ThePrint / Reuters, 21 novembre 2026",
+     "url": "https://theprint.in/world/exclusive-denmark-pushes-eu-to-tighten-travel-curbs-on-russians-after-foiled-plot/3105179/"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Organisations internationales",
+   "titre": "Gambie contre Birmanie : la Cour internationale de justice juge que la Birmanie a commis un génocide contre les Rohingyas",
+   "resume": "Le 19 novembre, la Cour internationale de justice (CIJ) a jugé, par 9 voix contre 6, que la Birmanie avait commis un génocide contre les Rohingyas lors des opérations militaires de 2017 dans le nord de l'État de Rakhine. C'est la première fois que la Cour établit qu'un État a commis un génocide. Elle retient aussi des manquements aux obligations de prévenir et de punir, et ordonne la cessation des violations, la poursuite des auteurs, des garanties de non-répétition et des réparations. La Birmanie dispose de deux ans pour rendre compte du montant et des modalités de l'indemnisation. La Cour n'a pas retenu le grief d'incitation directe et publique par des acteurs privés, et la Birmanie a rejeté les conclusions de l'arrêt ; la France figurait parmi les États intervenants.",
+   "enjeu": "L'arrêt est un cas d'école sur la justice internationale : responsabilité de l'État distincte de la responsabilité pénale individuelle, obligations erga omnes, rôle des interventions d'États tiers. Il faut savoir le relier à l'engagement français pour le droit international et à la place de la CIJ dans le système des Nations unies.",
+   "sources": [
+    {
+     "nom": "Cour internationale de justice, résumé de l'arrêt du 19 novembre 2026",
+     "url": "https://www.icj-cij.org/sites/default/files/case-related/178/178-20261119-sum-01-00-en.pdf"
+    },
+    {
+     "nom": "British Institute of International and Comparative Law, novembre 2026",
+     "url": "https://www.biicl.org/blog/147/the-gambia-v-myanmar-an-historic-finding-of-state-responsibility-for-genocide"
+    },
+    {
+     "nom": "Le Club des juristes, novembre 2026",
+     "url": "https://www.leclubdesjuristes.com/en-bref/la-cour-internationale-de-justice-reconnait-que-la-birmanie-a-commis-un-genocide-a-lencontre-les-rohingyas-18491/"
+    },
+    {
+     "nom": "Guinee360, 22 novembre 2026",
+     "url": "https://guinee360.com/22/11/2026/genocide-des-rohingya-le-myanmar-rejette-les-conclusions-de-la-cour-internationale-de-justice"
+    }
+   ],
+   "fiche_enc": "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"
+  }
+ ],
+ "question": "Le Danemark propose de suspendre les visas touristiques pour les ressortissants russes. Secrétaire des affaires étrangères au service des visas d'un consulat, comment expliqueriez-vous les règles applicables à un demandeur, et quelles seraient les conséquences pratiques d'une telle mesure pour votre service ?",
+ "genere": "2026-11-23T07:07:36+01:00"
+}
