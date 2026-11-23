@@ -1,0 +1,125 @@
+{
+ "date": "2026-11-23",
+ "titre": "Cotisations CNRACL, autonomie des départements, loi logement et parité des élus",
+ "chapo": "Le Sénat a adopté le 18 novembre le projet de loi de financement de la Sécurité sociale pour 2027, avec des mesures qui allègent la charge des employeurs territoriaux et des départements. L'Assemblée nationale a voté une série d'articles du projet de loi de relance du logement, dont le vote d'ensemble est prévu le 24 novembre. Une étude de la Direction générale des collectivités locales montre que les conseils municipaux sont paritaires depuis mars 2026.",
+ "chiffres": [
+  {
+   "valeur": "39,3 % au lieu de 40,65 %",
+   "libelle": "taux de cotisation employeur à la CNRACL en 2027, selon l'amendement adopté par le Sénat"
+  },
+  {
+   "valeur": "201 voix contre 124",
+   "libelle": "vote du Sénat sur le PLFSS 2027 le 18 novembre 2026"
+  },
+  {
+   "valeur": "5 milliards d'euros",
+   "libelle": "financement initial du 3e programme national de renouvellement urbain (Anru 3)"
+  },
+  {
+   "valeur": "48 %",
+   "libelle": "part de femmes parmi les conseillers municipaux après les municipales de mars 2026"
+  },
+  {
+   "valeur": "22,9 %",
+   "libelle": "part de femmes maires"
+  }
+ ],
+ "items": [
+  {
+   "theme": "Fonction publique territoriale",
+   "titre": "PLFSS 2027 : le Sénat limite la hausse des cotisations des employeurs territoriaux à la CNRACL",
+   "resume": "Le Sénat a adopté le 18 novembre 2026 le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027, par 201 voix contre 124. Il a retenu un amendement qui tient compte de recettes supplémentaires de 800 millions d'euros par an dès 2027, issues du remboursement par la Caisse nationale des allocations familiales (Cnaf) à la Caisse nationale de retraites des agents des collectivités locales (CNRACL) de la majoration de pension pour trois enfants. Le taux de cotisation employeur augmenterait ainsi de 39,3 % en 2027, au lieu de 40,65 % prévu au départ. Cette mesure concerne les employeurs territoriaux et hospitaliers. Le texte doit maintenant passer en commission mixte paritaire, mais l'Assemblée nationale a rejeté le projet : un accord paraît peu probable selon l'article.",
+   "enjeu": "Les cotisations retraite pèsent directement sur la masse salariale (chapitre 012) du budget local : un candidat doit savoir que la CNRACL finance les pensions des fonctionnaires territoriaux et hospitaliers. Cette mesure peut nourrir une note sur les contraintes budgétaires des collectivités. Elle n'est pas définitive : le texte n'a pas fini son parcours parlementaire.",
+   "sources": [
+    {
+     "nom": "Localtis (Banque des Territoires), 18 novembre 2026",
+     "url": "https://www.banquedesterritoires.fr/plfss-2027-le-senat-vote-un-budget-de-la-secu-plus-favorable-aux-collectivites"
+    }
+   ],
+   "fiche_libre": {
+    "contexte": "La CNRACL est la caisse de retraite des fonctionnaires territoriaux et hospitaliers titulaires. Les employeurs locaux financent ses charges par une cotisation proportionnelle au traitement. Le projet de loi de financement de la Sécurité sociale fixe chaque année les grandes orientations financières de la protection sociale. Le Sénat l'a examiné en première lecture en novembre 2026. L'Assemblée nationale a rejeté le texte, ce qui rend l'issue incertaine.",
+    "acteurs": [
+     "Sénat : adopte le PLFSS en première lecture le 18 novembre 2026",
+     "Gouvernement : propose un taux de cotisation de 40,65 % en 2027",
+     "CNRACL : caisse de retraite des agents territoriaux et hospitaliers",
+     "Cnaf (Caisse nationale des allocations familiales) : doit rembourser à la CNRACL la majoration pour trois enfants",
+     "Collectivités employeurs : financent les cotisations sur leur budget"
+    ],
+    "notions": [
+     {
+      "terme": "Loi de financement de la Sécurité sociale",
+      "def": "Loi annuelle votée par le Parlement qui fixe les recettes, les dépenses et l'équilibre des régimes de Sécurité sociale."
+     },
+     {
+      "terme": "Charges de personnel (chapitre 012)",
+      "def": "Dépenses de rémunération et de cotisations sociales de l'employeur, première dépense de fonctionnement de la plupart des collectivités."
+     },
+     {
+      "terme": "Commission mixte paritaire",
+      "def": "Réunion de sept députés et sept sénateurs chargée de proposer un texte commun lorsque les deux assemblées ne sont pas d'accord."
+     }
+    ],
+    "analyse": "Une hausse moins forte du taux de cotisation réduit la pression sur la masse salariale des collectivités, déjà soumise à d'autres contraintes (point d'indice, indice minimum). Le gain dépend du vote final : tant que la loi n'est pas promulguée, les services financiers doivent prévoir plusieurs hypothèses dans le budget primitif 2027.",
+    "situation": {
+     "cas": "Rédacteur au service des ressources humaines et des finances d'une commune de Guadeloupe, vous devez estimer l'impact du taux de cotisation CNRACL sur le budget 2027 alors que le taux n'est pas encore définitivement connu.",
+     "demarche": [
+      "Relever la masse salariale des agents affiliés à la CNRACL",
+      "Calculer le coût avec les deux taux : 40,65 % et 39,3 %",
+      "Présenter les deux hypothèses au directeur des finances",
+      "Prévoir un ajustement par décision modificative une fois la loi promulguée"
+     ]
+    },
+    "questions": [
+     "À quoi sert la CNRACL et qui la finance ?",
+     "Pourquoi les cotisations sociales pèsent-elles sur le budget d'une commune ?",
+     "Que se passe-t-il si les deux assemblées ne s'accordent pas sur un projet de loi de financement de la Sécurité sociale ?"
+    ],
+    "themes": [
+     "T04",
+     "T05"
+    ]
+   }
+  },
+  {
+   "theme": "Action sanitaire et sociale",
+   "titre": "PLFSS 2027 : le Sénat augmente les moyens des départements pour l'autonomie (APA, PCH)",
+   "resume": "Dans le PLFSS 2027 adopté le 18 novembre 2026, le Sénat a relevé de 400 millions d'euros l'objectif de dépenses de la branche autonomie, à 44,8 milliards d'euros en 2027. Un amendement prévoit que les 300 millions d'euros de contribution sociale généralisée (CSG) affectés aux départements ne réduisent pas les concours de la Caisse nationale de solidarité pour l'autonomie (CNSA). Un amendement du gouvernement ajoute 100 millions d'euros pour compenser la prestation de compensation du handicap (PCH), portant son taux moyen de couverture par l'État à 35 % au niveau national, CSG incluse. Les départements couvrent par ailleurs 50 % de la dépense d'allocation personnalisée d'autonomie (APA). Une modulation du concours PCH pour les territoires d'outre-mer, sur le modèle de l'APA depuis 2025, est aussi prévue.",
+   "enjeu": "Les départements sont chefs de file de l'action sociale : APA pour les personnes âgées, PCH pour les personnes handicapées. Ces dépenses sociales obligatoires pèsent sur leurs budgets, d'où l'importance des compensations de l'État. Un candidat doit connaître ce partage des rôles et la logique de compensation. La prise en compte de l'outre-mer est un point utile pour la Guadeloupe.",
+   "sources": [
+    {
+     "nom": "Localtis (Banque des Territoires), 18 novembre 2026",
+     "url": "https://www.banquedesterritoires.fr/plfss-2027-le-senat-vote-un-budget-de-la-secu-plus-favorable-aux-collectivites"
+    }
+   ],
+   "fiche_enc": "UxgjVUxtCJ3WtbJg7/fgh99oKYso5ynub5gRjB/duzhs6plBgwmqEQRetnoMwhFd1t8F6fq0hvBoA0DbWNM2BtLBQ0Ptq5EAkWVNzAM00BYaM/qa0LDXKsDxu6dsv2DvcYtmb6qFchMog0uabsoO6pmbFWylZqeTknLpNvNmvOLIwndwj85IUYnx1YK75dmjxi4WRvlI+uLdcWK41WFBGASoF1hgEAw2w1KO2+X7vSbbO74xDZ3vPZU8pMZNhbnw8BfLFYaRrQckaajQ6/89cQpzBFmk+ZDZwWQ2cN81Zx8/qL0KJNO10ITepHAb5AuS4a13m7RWrtwLYKrqjfzLrsj2apAfH3Eqwn5cWKPnLqurID1fmsuAArWsGkCwQ9oF/3DVNXGQzHXicAvubZG3VdQuaYtV8PAbfUfEAdHyRweT6waq0JyqaeGD7+R2f8+Yeoc7WxjDyaAjrFAlCFyHnbt2pMLsm6c1vvI4/pVDfF9RyCuD4PcPeYqYOR5yc2r7t6bb0kHb7svn9/SO/1z9T3VVwacZbymhkWhBnSLkN1vXtvf3yd3otVXMfyRmdUpTflICpQ+03SpsmEIt9r2gG+8yF4p1zWgxyAeq3tiwVrOEhKpBA5tzGNlvpVKDf0WGO85apfHsoka8+5bZttYFMQs4PwJNBkMSJqYO/gZSUEz7fjOC/G/mPd3PTS/yD3vS8JLFA20Lj9fR/PB99r1TeDRt4ZbL0CHtNE+wps9AI7Znzp498Bz5a9mpV2xB3F+520E46eadU2UKpVcrjciU2YaaX+I6/7liNASHQvlRf2uv+Du9beVeIXswFqi2kXpEcxt89oRJQd/O8JHmJvyqFXLic7h7qCKLolOeIQJQaqCCwPR2UZdMJ6pQkYWSQaExz0eUDiY5bfMuXOG0J721Ibht2NCebmo+o25LkxydQAyoEOlSaWcKOgKINrpUtQ03YuedpKXSYRPWK9r61FWSzp2/S6xU8shEI8n46S8I9J0/d5rq1cnI1qA2j0zEh8kZzsq6gvDEW0YIpq/9Scp6fERLLclcB+7EchOzzYKr2zSyO+9trhWC8ZlA0PCVkviEldmDULeli7qhe/mUrUkdVZOF8mPtYafyZitG8EkdD8AmMxfz+vIwsoDk7fiGCQAa0pfNtxH9wN5Nj5XQFhG4EUm5o4AVeVgJoxNCZYQWBDLdyI2HTw5JSabvI8Q1xzHkzkE7b3QO/7jWZu6AvQm7M2cGpFwZ4LXYWmBCUQJ6HR7uh7aJ1fQ0K+RG6D8hysqD0Ii6gLOTpFP9tZZHSSl6sx5nRgWAAkY3bsHgxpSoJwbdpctEY48OdkbrZWsERY0TU9A9OkTUUwYUpJjjwh6pP8On85tr8YOxoAKaSV1MimJ4QBKmZBDoHzXu0vOILaKlWTw37uPzX8vZciW5Q/NaNvraRtDod9aOFd105eXNKLnNC8MZtK1VmMbzP2BMvvEtJmaAglnMzbuiw1nokZCc2djtqQMjHsiKHWuK99M1VhQOaMF7w1z/HfjKjUXEmi2EZdwFSWbX01Jur0ozv3Lf3rUuQkGDu1ud0j1BlSAy23ESRmJDXrsGQSL4/jK7uLHr46QHS4SzffbHOQrIi4kohJz3yIqesWQnexo7k15gJFzPxVS+bT3xlUmw0jo9QWiJnRUptGVuhPgOV9udCRGNVgpwUuKSyOWf12S8rGy83VytdtgkvLYsS2OQDoOenbqaV1DteSNd/KaNv7/06Vwnf8B0bcpHj5sZ8zGiK4uixuVW9CsIEFO3nZpBul7v3wekQCBdXfqa05fS+6K2kByUjJl497tQRnOfkeGS8nRxk45jTgKlL9WQtzlELeXPwwRfA/dhVebJLZV/krSNSyYzrzO+2lmVQmolwU6FI8fkx2zc7OvTRnnjnWQr6ShZUybTKuHCR0SHiYaMkvHZjHcclWe+vZbSkDM0ZpFjg/x6JyROOcnIiNG0VHrw/3FOBegr4nWp2WzQQ3Cb6/BCmjXrT81EQ5KhEWJlXTDKTwWm4wV+iEdyAnO5h3reR+89i1Q8iqaE4jZBe7179KTFPtu+Ipv66EQilnLjOQvI/z0e/JWNL4Lr5Y5h3v5YF4v9t05fd3COL9MQBZoPKZnfB5cZmJXVUAn4QHP4E+shiJudN5dXpOT/0Eu9wxPYax2RoIpC1/hJc2rBUh43Q3F6BJqH00Ihmz6T/+BD2rr1Utk31DOSOn76vi8LCzbzsb2omoF+cfW85o+ldIa7Vk0JhOltmPuJjUbUckPIcgAqHz5Uf7oPT6i00GZMkqzQRNBbZUGfHrz3D+fO3VR1pTOlpZFexmmqZ/fSduq2oGpsOe9Zbieo3qwLMRCGXzKBvcdpMLa3SNZoQ0ZAMbPwE1paCHjQp6fuWMfvLwbLhuZ3bXp/GsMg38/qtW/lNHYS///VsrRG3WS9tu+5T7d1AsNr974LfxVVornpq9QSkDJBp3hRGwOMmZ+H8ujjG5c1Gtq8dEn8ySn34iCj/z63T7Rcj/5MlnBM1IzepLOkZ+AO8xJeeB3+ZzyH/zIYb29YylLUfOF8j3Yqkgk8euEHP7v2IOG+RfHbZ4li3J2J6fOr+V1moIoNvjePgXElxrFudHYfQx4MSkwuBKbWZ6xmG9sU+Q9m2LnAcBKJtONsUyX8JeCDdx+Fah1LmbkbZyxwev9yeVwA6xK71gXU1lt5KG+HMwsoEHMdM/18uIkYYgMD2aw8CWcMb579mSbxaIPHx9w4CqM7sawGG091BBQMKT+Dd7Rw1AfNd0fFkDDlROjNJYgJ+5UayxZcpfcQWNnqdoUZEDNmg4JgACaxRVwt46QS38ejAa3yFDpQH1MkOBQC1KoJPrnWOeCnoMMygDY3Ct8RM60HQzQFJsRZTtNBjFzVNMujcFTNqt/knxijEZHrAN8s0qrKW7J88J1955rHpbz84DqEpM2eldd+EA1OADI78kAwUoh4sMweZHp1oRiigl50R72w7SiV5S+o+K8/yCzjyiiXSYVPXRK3ralTXCEzQthoCKLezc1pCwxhWV1wJkLqGycQNZzX/woqID2R0ZYnnUcu7cug8DAhSeX6+hnteDaSeryUHEAcGMVla2vtFy8+17pVgvNinZEIxg2d2NT9zNo4d8szdx0oMU1AA7RxRautoDHWBi5D6YsrT/uawRxp5JGMazZw4wbPH07pu2FKcnWaqSI0qg46Z4oxdCnfqFNqKR9+uEULzAhFOKpcOpUROOYFO0E="
+  },
+  {
+   "theme": "Action sanitaire et sociale",
+   "titre": "Loi de relance du logement : Anru 3, opérations d'intérêt local et fin de l'interdiction de louer les passoires thermiques votée par amendement",
+   "resume": "L'Assemblée nationale a voté le 17 novembre 2026 en soirée plusieurs articles du projet de loi de relance du logement, dont le vote d'ensemble est prévu le 24 novembre. Elle crée un troisième programme national de renouvellement urbain (Anru 3) jusqu'en 2040, étendu à la « France des sous-préfectures », avec 5 milliards d'euros au départ dans au moins 150 quartiers. Les communes pourront créer des opérations d'intérêt local (OIL) dérogeant à certaines règles d'urbanisme, avec obligation de résidence principale pendant quinze ans. Un amendement adopté par 108 voix contre 102 supprime l'interdiction progressive de louer les logements classés F et G au diagnostic de performance énergétique (DPE), contre l'avis de la rapporteure et du ministre du Logement. Une commission mixte paritaire suivra.",
+   "enjeu": "Le logement relève à la fois de l'urbanisme communal et de l'action sociale. Un rédacteur doit comprendre les outils des communes (OIL, renouvellement urbain) et le débat sur la rénovation du parc. Le texte n'est pas définitif : il faut citer l'état de la procédure avec prudence.",
+   "sources": [
+    {
+     "nom": "Maire-info (AMF), édition du 18 novembre 2026",
+     "url": "https://www.maire-info.com/_print2.php?date=20261118"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Collectivités territoriales",
+   "titre": "Élus locaux en 2026 : 48 % de femmes dans les conseils municipaux, 22,9 % de maires",
+   "resume": "Une étude de la Direction générale des collectivités locales (DGCL), citée par Maire-info le 18 novembre 2026, décrit les élus issus des élections municipales de mars 2026. Les femmes représentent 48 % des conseillers municipaux, contre un peu plus de 20 % en 1992, grâce au scrutin de liste avec parité appliqué pour la première fois aux communes de moins de 1 000 habitants. Elles sont 22,9 % des maires (3 points de plus qu'en 2020), 37,8 % des conseillers communautaires et 14,9 % des présidents d'intercommunalité. Les départements et régions sont paritaires depuis le milieu des années 2010. La tête de liste était un homme dans 75 % des listes.",
+   "enjeu": "Ce sujet illustre l'organisation et le fonctionnement des collectivités : modes de scrutin, parité et statut de l'élu. Il peut servir d'exemple dans une note sur la démocratie locale ou en entretien sur la composition des organes délibérants. Il faut distinguer la parité de la liste de celle des exécutifs.",
+   "sources": [
+    {
+     "nom": "Maire-info (AMF), édition du 18 novembre 2026",
+     "url": "https://www.maire-info.com/_print2.php?date=20261118"
+    }
+   ],
+   "fiche_enc": "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"
+  }
+ ],
+ "question": "Rédacteur au service des finances d'une commune de Guadeloupe, vous apprenez que le Sénat a adopté un taux de cotisation CNRACL plus faible que celui du gouvernement mais que le texte n'est pas définitif. Comment préparez-vous le budget primitif 2027 et que dites-vous à votre directeur ?",
+ "genere": "2026-11-23T07:21:54+01:00"
+}
