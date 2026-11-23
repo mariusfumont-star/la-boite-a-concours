@@ -1,0 +1,168 @@
+{
+ "date": "2026-11-23",
+ "titre": "Orientations budgétaires 2027 de la Ville, semaine décisive au Sénat avant le Congrès des maires, échec de la COP31 et nouvelles frappes en Ukraine",
+ "chapo": "Le rapport d'orientations budgétaires débattu au Conseil de Paris dessine un budget 2027 centré sur le logement abordable et l'espace public, avec une dette attendue à 10,1 milliards d'euros. Au Sénat, les votes sur le projet de loi de finances commencent alors que s'ouvre le 24 novembre le Congrès des maires, sur fond de débat sur l'effort demandé aux collectivités. Sur la scène internationale, la COP31 s'est achevée le 22 novembre sans décision finale, et la Russie a poursuivi ses frappes sur l'Ukraine.",
+ "chiffres": [
+  {
+   "valeur": "10,1 Md€",
+   "libelle": "encours de dette de la Ville de Paris attendu fin 2027"
+  },
+  {
+   "valeur": "860 M€",
+   "libelle": "investissements envisagés pour le logement durable et abordable (orientations 2027)"
+  },
+  {
+   "valeur": "2 à 2,5 Md€",
+   "libelle": "effort des collectivités visé par la commission des finances du Sénat, contre 5,5 Md€ dans le texte du Gouvernement"
+  },
+  {
+   "valeur": "35 %",
+   "libelle": "part de l'électricité dans la consommation finale d'énergie en 2035 visée par le projet de texte rejeté à la COP31"
+  }
+ ],
+ "items": [
+  {
+   "theme": "Finances locales",
+   "titre": "Budget 2027 de la Ville : le rapport d'orientations budgétaires fixe les priorités",
+   "resume": "Le Conseil de Paris a débattu le 17 novembre 2026 du rapport d'orientations budgétaires (ROB) pour 2027. Le logement durable et abordable constitue le premier poste d'investissement, avec près de 860 millions d'euros, dont le renforcement de la Foncière du logement abordable. L'ensemble « espace public, mobilités, transition écologique, sécurité » représente près de 830 millions d'euros (plan vélo, plan bus, végétalisation). Les dépenses de fonctionnement progresseraient d'environ 157 millions d'euros entre le budget 2026 et la projection 2027, et les recettes d'environ 3,1 %. L'encours de dette atteindrait 10,1 milliards d'euros fin 2027 ; la Ville estime à près de 300 millions d'euros l'impact possible du projet de loi de finances, dont 218,4 millions au titre d'un prélèvement envisagé.",
+   "enjeu": "Le débat d'orientations budgétaires est une étape obligatoire avant le vote du budget primitif : il faut savoir le situer dans le calendrier budgétaire. Un SA doit comprendre la différence entre autorisations de programme pluriannuelles et crédits de l'année, et mesurer comment les décisions nationales pèsent sur les marges de manœuvre de la Ville.",
+   "sources": [
+    {
+     "nom": "Ville de Paris (paris.fr), 18 novembre 2026",
+     "url": "https://www.paris.fr/pages/le-rapport-d-orientations-budgetaires-presente-les-priorites-de-la-ville-pour-2027-37253"
+    },
+    {
+     "nom": "Économie Matin, novembre 2026",
+     "url": "https://www.economiematin.fr/paris-orientations-budgetaires-2027-logement-mobilites-ecoles"
+    }
+   ],
+   "fiche_libre": {
+    "contexte": "Dans les collectivités d'au moins 3 500 habitants, un débat sur les orientations budgétaires doit se tenir dans les deux mois précédant le vote du budget, sur la base d'un rapport (ROB). La loi NOTRe de 2015 a renforcé le contenu de ce rapport (engagements pluriannuels, structure de la dette, évolution des dépenses de personnel). À Paris, le ROB 2027 a été débattu lors de la séance du 17 novembre 2026, en vue du vote du budget primitif. Il s'inscrit dans un contexte de contrainte nationale : le projet de loi de finances pour 2027 prévoit un effort des collectivités que la Ville évalue à près de 300 millions d'euros pour elle.",
+    "acteurs": [
+     "Maire de Paris : présente les orientations et le projet de budget",
+     "Adjoint chargé des finances et direction des finances et des achats : préparent le ROB et le budget",
+     "Conseil de Paris : débat sur les orientations puis vote le budget primitif",
+     "État (Gouvernement et Parlement) : fixe par la loi de finances les dotations et prélèvements",
+     "Agences de notation : évaluent la solidité financière de la Ville"
+    ],
+    "notions": [
+     {
+      "terme": "Débat d'orientations budgétaires (DOB)",
+      "def": "Débat obligatoire en assemblée délibérante, avant le vote du budget, sur les grandes orientations financières, les engagements pluriannuels et la dette. Il ne donne pas lieu à un vote sur le budget lui-même."
+     },
+     {
+      "terme": "Autorisation de programme (AP)",
+      "def": "Limite supérieure des dépenses d'investissement pouvant être engagées pour un programme pluriannuel. Elle se distingue des crédits de paiement, qui sont les sommes réellement payées dans l'année."
+     },
+     {
+      "terme": "Encours de dette",
+      "def": "Montant du capital restant dû sur les emprunts à une date donnée. Les collectivités ne peuvent emprunter que pour financer des investissements (règle d'or)."
+     },
+     {
+      "terme": "Budget primitif",
+      "def": "Premier acte budgétaire de l'année, qui prévoit et autorise les recettes et les dépenses. Il peut être modifié ensuite par un budget supplémentaire ou des décisions modificatives."
+     }
+    ],
+    "analyse": "Pour un cadre intermédiaire, les orientations budgétaires se traduisent en objectifs et en moyens pour son service : priorités d'investissement, maîtrise de la masse salariale, recherche d'économies de fonctionnement. Il doit savoir préparer des propositions budgétaires argumentées et suivre l'exécution des crédits. L'incertitude liée à la loi de finances impose de prévoir des scénarios et de hiérarchiser les dépenses. La qualité de la prévision et de l'exécution conditionne aussi la crédibilité financière de la Ville auprès des prêteurs.",
+    "situation": {
+     "cas": "Secrétaire administratif dans un service d'une direction de la Ville, votre chef de bureau vous demande de préparer la contribution du service au budget 2027, dans un contexte où l'on annonce une forte contrainte sur les dépenses de fonctionnement.",
+     "demarche": [
+      "Recenser l'exécution des crédits 2026 et les dépenses obligatoires ou reconductibles",
+      "Identifier les besoins nouveaux en lien avec les priorités fixées par le ROB",
+      "Proposer des pistes d'économies chiffrées et leurs conséquences sur le service rendu",
+      "Hiérarchiser les demandes et rédiger une note de synthèse pour la hiérarchie",
+      "Préparer le suivi de l'exécution une fois le budget voté"
+     ]
+    },
+    "questions": [
+     "Quelles sont les étapes du cycle budgétaire d'une collectivité comme la Ville de Paris ?",
+     "Quelle différence faites-vous entre une autorisation de programme et un crédit de paiement ?",
+     "Comment un service peut-il contribuer à la maîtrise des dépenses de fonctionnement ?"
+    ],
+    "themes": [
+     "T06",
+     "T13",
+     "T09"
+    ]
+   }
+  },
+  {
+   "theme": "Finances locales",
+   "titre": "Projet de loi de finances 2027 : les votes commencent au Sénat à la veille du Congrès des maires",
+   "resume": "Le Sénat examine en séance publique le projet de loi de finances (PLF) pour 2027 depuis le 20 novembre, avec des scrutins publics prévus à partir du 23 novembre et jusqu'au 9 décembre 2026. La commission des finances entend ramener l'effort demandé aux collectivités « entre 2 et 2,5 milliards d'euros », contre 5,5 milliards dans le texte du Gouvernement. Le nouveau prélèvement sur les recettes des collectivités passerait à 1,5 milliard d'euros, contre 2,5 milliards initialement, et la commission a supprimé la réduction des remboursements de TVA aux collectivités. Le texte initial fixe la dotation globale de fonctionnement (DGF) à 27,5 milliards d'euros, contre 27,4 milliards en 2026. Le 108e Congrès des maires s'ouvre le 24 novembre porte de Versailles, sur le thème « Regagnons nos libertés ».",
+   "enjeu": "Le budget de la Ville dépend en partie des arbitrages du Parlement : dotations, prélèvements, remboursements de TVA, cotisations retraite. Un SA doit connaître la navette parlementaire et savoir que les mesures votées par une chambre ne sont pas définitives.",
+   "sources": [
+    {
+     "nom": "Banque des Territoires (Localtis), novembre 2026",
+     "url": "https://www.banquedesterritoires.fr/budget-2027-le-senat-entend-ramener-leffort-des-collectivites-entre-2-et-25-milliards-deuros"
+    },
+    {
+     "nom": "Sénat, dossier législatif PLF 2027",
+     "url": "https://www.senat.fr/dossier-legislatif/pjlf2027.html"
+    },
+    {
+     "nom": "Association des maires de France, programme du Congrès 2026",
+     "url": "https://www.amf.asso.fr/m/congres26/programme.php"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Rappel de fond",
+   "titre": "Stationnement payant et forfait post-stationnement : ce que la jurisprudence impose aux villes",
+   "resume": "Depuis la décentralisation du stationnement payant, le non-paiement n'est plus une amende pénale mais une redevance d'occupation du domaine public : le forfait post-stationnement (FPS). De nombreuses villes, dont Paris, recourent à des véhicules de contrôle équipés de caméras et de géolocalisation. Par une décision du 18 novembre 2024 (n° 472912), le Conseil d'État a jugé que la collectivité doit garantir la fiabilité de la géolocalisation. Il appartient à l'autorité qui a émis le FPS de prouver l'exactitude des données. L'agent assermenté doit vérifier ces données avant l'émission de l'avis de paiement.",
+   "enjeu": "Ce rappel illustre l'encadrement des outils numériques par le juge : l'automatisation ne dispense pas d'un contrôle humain. C'est un exemple utile à l'oral sur la relation aux usagers, la qualité de l'action administrative et la sécurité juridique des recettes.",
+   "sources": [
+    {
+     "nom": "Conseil d'État, communiqué sur la décision du 18 novembre 2024",
+     "url": "https://conseil-etat.fr/actualites/stationnement-payant-le-conseil-d-etat-precise-le-cadre-juridique-du-recours-a-la-geolocalisation-des-vehicules"
+    },
+    {
+     "nom": "Maire-info, novembre 2024",
+     "url": "https://www.maire-info.com/stationnement/forfait-de-post-stationnement-la-commune-doit-pouvoir-prouver-la-geolocalisation-dun-vehicule-par-des-photographies-juge-le-conseil-detat-article-29127"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "COP31 à Antalya : la conférence s'achève sans décision finale, faute d'accord sur les énergies fossiles",
+   "resume": "La COP31, organisée à Antalya (Turquie), s'est achevée le dimanche 22 novembre 2026 sans adoption de la décision finale, après près de deux jours de prolongation. Le projet présenté par les présidences turque et australienne appelait à l'électrification, avec un objectif de 35 % d'électricité dans la consommation finale d'énergie en 2035, sans mentionner les énergies fossiles. L'Union européenne, par la voix du ministre irlandais du Climat Darragh O'Brien, dont le pays préside le Conseil de l'UE, s'y est opposée, comme d'autres pays. Le président de la COP, Murat Kurum, a constaté que les décisions n'avaient pas été adoptées faute de consensus. Le secrétaire général de l'ONU, António Guterres, s'est dit « profondément déçu » ; seuls des textes techniques ont été entérinés.",
+   "enjeu": "Les négociations climatiques fonctionnent au consensus, ce qui rend difficile tout engagement sur la sortie des énergies fossiles. Pour la Ville, qui conduit sa propre politique climatique, l'échec de la négociation mondiale renforce le rôle des actions locales (plan climat, réseaux de villes).",
+   "sources": [
+    {
+     "nom": "France 24, 22 novembre 2026",
+     "url": "https://www.france24.com/fr/asie-pacifique/20261122-climat-accord-incertain-%C3%A0-la-cop31-des-pays-d%C3%A9noncent-l-absence-de-sortie-des-%C3%A9nergies-fossiles"
+    },
+    {
+     "nom": "Connaissance des énergies (AFP), 22 novembre 2026",
+     "url": "https://www.connaissancedesenergies.org/afp/climat-le-monde-divise-echoue-a-adopter-un-accord-a-la-cop31-261122"
+    },
+    {
+     "nom": "franceinfo, 22 novembre 2026",
+     "url": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "Guerre en Ukraine : nouvelles frappes meurtrières dans la région de Kyiv et sur le réseau électrique",
+   "resume": "Selon Ouest-France, au moins treize personnes ont été tuées dans des frappes russes sur la région de Kyiv, dans un point de situation publié le 22 novembre 2026. À Odessa, les écoles sont passées à l'enseignement à distance après des frappes sur le réseau électrique. L'agence ukrainienne Ukrinform rapporte, d'après le président Volodymyr Zelensky, que la Russie a lancé en une semaine environ 2 700 drones, 1 460 bombes planantes et 165 missiles. L'Ukraine affirme de son côté avoir endommagé plusieurs sites de l'infrastructure pétrolière russe. Ces frappes interviennent après celles qui avaient touché Kyiv et des ambassades européennes quelques jours plus tôt.",
+   "enjeu": "La guerre en Ukraine reste un sujet majeur de culture générale à l'oral. Elle a des répercussions en France : accueil de personnes déplacées bénéficiant de la protection temporaire, prix de l'énergie et coopération de Paris avec Kyiv.",
+   "sources": [
+    {
+     "nom": "Ouest-France, 22 novembre 2026",
+     "url": "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-13-morts-dans-la-region-de-kiev-navire-russe-attaque-le-point-sur-la-nuit-a1d1b13c-e6f1-11f1-bd4e-6f30b8f49e21"
+    },
+    {
+     "nom": "Ukrinform, novembre 2026",
+     "url": "https://www.ukrinform.fr/"
+    }
+   ],
+   "fiche_enc": "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"
+  }
+ ],
+ "question": "Le rapport d'orientations budgétaires 2027 prévoit une forte priorité au logement alors que l'État demande un effort financier aux collectivités. Secrétaire administratif chef d'un petit bureau, comment expliquez-vous à votre équipe les contraintes budgétaires de l'année à venir, et quelles propositions feriez-vous pour maintenir la qualité du service rendu ?",
+ "genere": "2026-11-23T06:56:03+01:00"
+}
