@@ -1,0 +1,141 @@
+{
+ "date": "2026-11-23",
+ "titre": "Budget 2027 : PLFSS adopté au Sénat, mesures pour les agents et rappel du cycle budgétaire",
+ "chapo": "Le Sénat a adopté le PLFSS 2027 en première lecture le 18 novembre, tandis que le PLF 2027, rejeté par l'Assemblée, est examiné par les sénateurs. Le projet de budget comporte des mesures qui concernent directement les agents de l'État. À l'international, la COP31 d'Antalya s'est déroulée dans un climat de négociations tendues.",
+ "chiffres": [
+  {
+   "valeur": "201 voix contre 124",
+   "libelle": "vote du Sénat sur le PLFSS 2027, 18 novembre 2026"
+  },
+  {
+   "valeur": "≈ 8 000",
+   "libelle": "création nette de postes de fonctionnaires de l'État projetée par le PLF 2027 (Acteurs publics)"
+  },
+  {
+   "valeur": "4 novembre",
+   "libelle": "date à laquelle le PLF 2027 a été considéré comme rejeté par l'Assemblée nationale"
+  }
+ ],
+ "items": [
+  {
+   "theme": "Finances publiques",
+   "titre": "PLFSS 2027 : le Sénat adopte le texte en première lecture (201 voix contre 124)",
+   "resume": "Le Sénat a adopté le mercredi 18 novembre 2026, en première lecture, le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027, par 201 voix contre 124. Son volet « recettes » avait été adopté dès le 13 novembre, dans une version affaiblie par rapport au texte du gouvernement selon Public Sénat. Le texte poursuit maintenant son parcours parlementaire, avec les étapes habituelles de navette entre les deux assemblées. Le PLFSS est distinct du projet de loi de finances (PLF) de l'État, que le Sénat examine en parallèle après son rejet par l'Assemblée nationale le 4 novembre.",
+   "enjeu": "Un SA doit distinguer le PLF (budget de l'État) du PLFSS (comptes de la sécurité sociale) : deux lois différentes, deux calendriers. À l'oral, savoir expliquer le rôle de la loi de financement de la sécurité sociale et la navette parlementaire est un attendu de base.",
+   "sources": [
+    {
+     "nom": "Public Sénat, novembre 2026",
+     "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-le-senat-adopte-un-volet-recettes-affaibli"
+    },
+    {
+     "nom": "Toute l'Europe, novembre 2026",
+     "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/le-senat-adopte-le-budget-2027-de-la-securite-sociale-en-premiere-lecture/"
+    }
+   ],
+   "fiche_libre": {
+    "contexte": "Les lois de financement de la sécurité sociale (LFSS) sont prévues par la Constitution (article 47-1) et fixent chaque année les conditions de l'équilibre financier de la sécurité sociale. Le PLFSS 2027 est examiné à l'automne 2026 en première lecture : le Sénat l'a adopté le 18 novembre 2026. Le PLF 2027, lui, a été considéré comme rejeté par l'Assemblée le 4 novembre 2026 et est désormais examiné par le Sénat.",
+    "acteurs": [
+     "Gouvernement : dépose le projet et défend ses choix",
+     "Sénat : examen en première lecture, adoption le 18 novembre",
+     "Assemblée nationale : examen du texte dans la navette",
+     "Commission mixte paritaire : recherche d'un texte commun en cas de désaccord",
+     "Conseil constitutionnel : contrôle éventuel avant promulgation"
+    ],
+    "notions": [
+     {
+      "terme": "PLFSS",
+      "def": "Projet de loi de financement de la sécurité sociale, voté chaque année, qui fixe objectifs de dépenses et prévisions de recettes."
+     },
+     {
+      "terme": "Navette parlementaire",
+      "def": "Va-et-vient d'un texte entre l'Assemblée nationale et le Sénat jusqu'à un vote identique."
+     },
+     {
+      "terme": "Commission mixte paritaire",
+      "def": "Réunion de sept députés et sept sénateurs chargée de proposer un texte de compromis."
+     }
+    ],
+    "analyse": "Pour un cadre intermédiaire, le PLFSS conditionne les prestations servies aux usagers et les règles de protection sociale, dont celles des agents. Tant que la loi n'est pas promulguée, les services doivent rester sur le droit en vigueur et anticiper plusieurs scénarios. Le rôle du SA est d'informer son équipe avec prudence, sans annoncer de mesure non définitive.",
+    "situation": {
+     "cas": "Secrétaire administratif en préfecture, des collègues vous interrogent sur une mesure du budget de la sécurité sociale lue dans la presse. Comment répondez-vous ?",
+     "demarche": [
+      "Vérifier l'état exact du texte (adopté, amendé, promulgué ?)",
+      "Consulter les sources officielles (Sénat, Assemblée, Légifrance)",
+      "Distinguer ce qui est voté de ce qui est seulement proposé",
+      "Répondre à l'équipe en précisant le caractère provisoire",
+      "Signaler à la hiérarchie les questions récurrentes"
+     ]
+    },
+    "questions": [
+     "Quelle différence entre loi de finances et loi de financement de la sécurité sociale ?",
+     "Qu'est-ce que la navette parlementaire ?"
+    ],
+    "themes": [
+     "T01",
+     "T10"
+    ]
+   }
+  },
+  {
+   "theme": "Fonction publique",
+   "titre": "Budget 2027 : ce que le PLF prévoit pour les agents de l'État (point d'indice, emplois, protection fonctionnelle)",
+   "resume": "Le projet de loi de finances (PLF) pour 2027, présenté le 1er octobre 2026, comporte plusieurs mesures qui concernent directement les agents publics. Selon Acteurs publics, le gouvernement projette une création nette d'environ 8 000 postes de fonctionnaires de l'État. Le même média rapporte un gel du point d'indice, accompagné de mesures catégorielles très limitées. L'article 73 étend la protection fonctionnelle aux agents mis en cause devant les juridictions financières, et l'article 75 prépare une réforme du financement des retraites des fonctionnaires. Ces dispositions restent soumises au débat parlementaire : l'Assemblée a rejeté le texte le 4 novembre et le Sénat l'examine.",
+   "enjeu": "Rémunération, effectifs et protection des agents sont des sujets classiques de l'entretien. Le candidat doit rappeler que ces mesures ne sont pas définitives avant le vote final et la promulgation de la loi de finances.",
+   "sources": [
+    {
+     "nom": "Acteurs publics, octobre 2026 (emplois)",
+     "url": "https://acteurspublics.fr/articles/budget-2027-le-gouvernement-projette-la-creation-nette-de-8-000-postes-de-fonctionnaires-de-letat/"
+    },
+    {
+     "nom": "Acteurs publics, octobre 2026 (protection fonctionnelle)",
+     "url": "https://acteurspublics.fr/articles/responsabilite-des-gestionnaires-publics-lextension-de-la-protection-fonctionnelle-entre-dans-le-budget-2027/"
+    },
+    {
+     "nom": "Acteurs publics, octobre 2026 (retraites)",
+     "url": "https://acteurspublics.fr/articles/retraites-des-fonctionnaires-le-projet-de-budget-2027-prepare-le-terrain-a-une-reforme-du-financement/"
+    },
+    {
+     "nom": "Vie-publique.fr, novembre 2026",
+     "url": "https://www.vie-publique.fr/loi/304797-budget-2027-projet-de-loi-de-finances-plf"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Rappel de fond",
+   "titre": "Rappel de fond : de la loi de finances initiale au vote du budget, les étapes à connaître",
+   "resume": "Chaque année, le gouvernement dépose le projet de loi de finances (PLF) au plus tard le premier mardi d'octobre, selon la loi organique relative aux lois de finances (LOLF). Le texte comporte deux parties : la première porte sur les recettes et l'équilibre, la seconde sur les dépenses. Cette année, l'Assemblée nationale a considéré le texte comme rejeté le 4 novembre 2026 après le rejet de la première partie. Le Sénat l'a ensuite examiné à partir du 18 novembre. La suite passe par la navette et, si nécessaire, une commission mixte paritaire.",
+   "enjeu": "Le calendrier budgétaire est un grand classique de l'oral. Un SA doit savoir citer la LOLF, les deux parties du PLF et le principe d'annualité budgétaire.",
+   "sources": [
+    {
+     "nom": "Vie-publique.fr, novembre 2026",
+     "url": "https://www.vie-publique.fr/loi/304797-budget-2027-projet-de-loi-de-finances-plf"
+    },
+    {
+     "nom": "Sénat, dossier législatif PLF 2027",
+     "url": "https://www.senat.fr/dossierleg/pjlf2027.html"
+    }
+   ],
+   "fiche_enc": "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"
+  },
+  {
+   "theme": "Géopolitique",
+   "titre": "COP31 à Antalya : une présidence partagée entre la Turquie et l'Australie et des négociations encore tendues",
+   "resume": "La 31e conférence des Parties à la convention-cadre de l'ONU sur les changements climatiques (COP31) se tient à Antalya, en Turquie, du 9 au 20 novembre 2026. La Turquie accueille la conférence et en garde la présidence formelle, tandis que l'Australie conduit le processus de négociation, selon les sources consultées. D'après le bulletin des négociations de la Terre (ENB) du 18 novembre, la Tuvalu et le groupe arabe s'opposaient à la clôture d'un point de l'ordre du jour que l'Union européenne souhaitait voir fermé à la COP31. Les parties ont toutefois trouvé un accord sur une décision concernant les pays les moins avancés. Le texte final n'a pas pu être vérifié à la date de cette synthèse.",
+   "enjeu": "La COP illustre la diplomatie climatique multilatérale et l'action de l'État dans la transition écologique. Un SA doit retenir que les engagements internationaux se traduisent ensuite en politiques nationales mises en œuvre par les administrations.",
+   "sources": [
+    {
+     "nom": "Earth Negotiations Bulletin, 18 novembre 2026",
+     "url": "https://enb.iisd.org/fr/antalya-un-climate-change-conference-cop31-daily-report-18nov2026"
+    },
+    {
+     "nom": "Türkiye Today, accord d'accueil Turquie-Australie",
+     "url": "https://www.turkiyetoday.com/nation/turkiye-australia-finalize-cop31-summit-deal-after-months-long-standoff-3210233"
+    }
+   ],
+   "fiche_enc": "KwRc1MExAX4DnF/71hOE/yQit/8ZVk37NyDeFq5pZaCjLzF7SSTfs/m0K0/SrR5kRA7X3AQnN+qy+dVU7uRUTyAzlKy6HVFxbcN5+0YpLltCQdms1ROH3fV67Bf4MA8o13ij4Rjgg0byzwRygjp+lnvXCI/sjHBqJbVfogM0ncYZ+DAPDrn7TIC0Pw3a83+YvWEk5w+APw1mzNwX9VOWruSvhRGzN9R/fP8qvt/48m+1dOs8pI4P93cMHOnvsE7R7NRWj5QGDYclfLqlJS7KI8csTPIyyKqhzBeuLcpYVzgj71zHwKj4/1aHajZ7fcHk+O9x1viKMZiUvT5M1yELaN27YUKUCO4ZAuettaofPcCad4HOtn9I0nxEdYwve5PMke0YdbLwrxIhHLa3w6GtXVwX8OTB6quUk2gfXAuIemuN2xU9UrqBxgALLeDfXYFVUr52mpyNFQlcuYca0gjJE0LYNwdAKHk63/k7zdmRP0sXrBnWwHZZTKu1iS+JIkHldmLk5urs54YdO3XU/r4xcKMDNkMbVWLNbl9HNZlV+wglGA4+VUOgyDBlS/xun0nH7E3r6SZjMm5w/NKAWcLkyLZUbYvyNotT10I2TJh8nm4/jLkNX9A+RB3H/HiA5w/J/eOlREDQ+0w/wgS6ovkooWwDzi1kXFZKW7oE1Iuh7M2T066XZYKdCCGQLgJV3REo/fra+MTgvkYK7ePDre/q/pVYCwd2KxgnT6WBkHOsBUdI5GU/2feSPsQ4NP8wegPWzRkfDXuII08dueswfeouJujQhHUmy9YlWVhIx+fq4TrodIEV42JgvdaH3iqFocYec63qrK6ZrtD7TSCo9VTCIK7wthI+eRs6Mi1VlfSR1ScvPVnjAPSSeZOdVdiyKyaEC0NaAzK2TK2lsrrcF2QpQ9cL+YeCjwbY+r8H4gBR4vFE5vdfEXJlbMrAYT8T5gRXqnTYDG1ogvxaV0ahgmfv2+UM7aPCsIR18Fv/FmwJlB+IZaD4VZnfmk5QF4xhCdP2J/vl9m6OVkh0ccV9TdzkHLXpMuBfADaErdgQSH0+q1PFIqk8xkrJPJ2YWJ/KPa/jmE2cceLIw08+nR3OS05UV3VoayRaqcsefWVVnZee/ZZlPz0fRnIlGfBmCQKynnahx596j6nc5PSGne7safF+AqPZRVlSOxqt7Bnr6L5rzUEWtx0fHGk7G1k4h3oPRcW4nFXuBJO+mhXkpcfvIz6A1DluauQ5Zt0c/9xvNjn2wf/BMoh7AzTXA32KTKt9X82VRJoH56EILSWVkRNW3jRYsmrCmFnM/0LqnkZg//4Wp2QWnZVCyuo7b5yrIywsnvjBx3Mee2Mqso216cafKAlvNzBNTHfSaXjNSSCUpdSGsjXyvGkHGTRCn0AN10QRqOvBdHCyi434+7IunseJf8tDMb4rXCcbMhXQTPXgVjcFrcU6lv5oRGnk1Rrz1w/3uGhNz/KYTxf+tbkPzmArh0gulr93XzzJMJ+IRbE3Kw3R6F5YyEZfzf9bJR33KLYXbhoM6Vthy/fHYwLkzhXV1CV+J0xn9HUCebbj8qzAbkKrWQMleHK5Wl80VodOgpwbS+pkfQULJ9os4PAh41n8PBlrd9Ef8Zj5C/pi8X9ZSjCYO3XCdf9zra5IG9zy4Qsur7QJipdRFowpoxbzmBE4fxNF+LvMsfpJ7KGPX0HYBbsHLzMcJ8pDsXz5YMVpavC1uvyplwxXaSqfQUqXOBw4Gbtws+2CPwhcNFZQxS1SeaSKwQI4rDtS2JMSGVr/xSrcl8vkuzhaceq6c5yrIU/lBwMnsgjnN/zmFBZile6L/dkObsO6MU43mjGwcJSu94H3Zf/aL/DTDOfNmuAF8PYqbF6DDe9CXBYxSIhuJlPFN5YoU/rFxs0lv5SF12Ly1DbAUzu/KwkhkwDoilAuWRrmXX2zBwD1H1FUl7ElgBs6/KwmqZ51cSbc646tdSPBD4dikH92rkGfYknDPi0MMkUBH4TvIJgmydyBif9aWiDJtzZ4dmJ6EtqxtE52QCIM2/TeRyC1ZMRrVIvg3dkW/08u6nlE2fHwYc9K7kR/MEhXojD+5FmHyxmlEvXeVicdw8Od84Gd4uLfkjsgKFuupxStwGhGq4/Ry+NEHZsoL1xCcbQrR4Jyz71rkqJN28BLN4gm2EZwIIKWGCjtXin5JTV3LkhjLw/DTJWIhsuOy8FyIq3ac4s8V43ONI0DV087zvU8tUAavcOWq/5+X338spakoyAW6m55HLQHLgUsfJ7zw05qigVfXpfLP37Tqx1A/GqclbdackmstYXaBPAUW4OlJDOHFH5tqq84SldqqJpIg8Qh2+xCOK/3E+OOzCzRqYEV/jlmW/DcKcePk/7AyUwf0ctGVq/5Z2cR26W8eQHkVkpZya0fK39un/tOGCsTlh9Fjdf1qYzlHmy0+eiKIKU05hWLmQbE9XffG9+QdH3IMuONC27IMoMRmIsknJr1l/7xlgnC9NzzDvlNT1vx5UjH12oybkWY0bjq1/Bkv2ZF6hQZs6xAgUefS6QRpsP0PBV7Och3uixq3IGviYSkfscs/UEE95wWqHdk35+JqT4yw1i5bIHvUTl9wjhvKSILZWysy9MzL3WqbPUOaE9OJyv68GRWDil5vztebnKV9+NvB56IYPaHGt0b"
+  }
+ ],
+ "question": "Un agent de votre service vous demande si son pouvoir d'achat va baisser à cause du budget 2027. Que lui répondez-vous, et comment gérez-vous les inquiétudes de l'équipe ?",
+ "genere": "2026-11-23T06:51:03+01:00"
+}
