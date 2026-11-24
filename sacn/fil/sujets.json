@@ -1,0 +1,527 @@
+{
+ "derniere_veille": "2026-11-24",
+ "sujets": [
+  {
+   "id": "remunerations-greves",
+   "rubrique": "Fonction publique",
+   "titre": "Salaires et grèves dans la fonction publique",
+   "resume": "Point d'indice gelé pour 2027, grèves des 5 et 17 novembre, et une concertation d'un mois ouverte par le Premier ministre.",
+   "statut": "En cours",
+   "maj": "2026-11-24",
+   "enjeu": "Un secrétaire administratif doit connaître le droit de grève des agents publics, la conciliation avec la continuité du service et les enjeux de rémunération qui structurent le dialogue social.",
+   "carte": {
+    "centre": "Salaires et grèves",
+    "branches": [
+     {
+      "t": "Les mobilisations",
+      "f": [
+       "5 nov. : environ 10 % de grévistes dans la fonction publique de l'État (9,89 % à la mi-journée), 4,60 % dans la territoriale",
+       "17 nov. : 2,59 % de grévistes dans la fonction publique de l'État selon le ministère",
+       "Toutes les fédérations appellent à la mobilisation le 17 nov. après l'adhésion de la CFDT"
+      ]
+     },
+     {
+      "t": "Matignon, 13 novembre",
+      "f": [
+       "Rencontre avec les huit organisations représentatives",
+       "Discussion d'un mois sur cinq chantiers : urgence pour les bas salaires et réforme des grilles indiciaires",
+       "Nouveau rendez-vous le 11 décembre, au lendemain des élections professionnelles"
+      ]
+     },
+     {
+      "t": "Le point d'indice",
+      "f": [
+       "Gel confirmé pour 2027, inscrit dans le PLF",
+       "L'intersyndicale demande le dégel, puis l'indexation sur les prix",
+       "Cour des comptes : gel des avancements en 2027 (3,9 Md€), une des 18 mesures proposées"
+      ]
+     },
+     {
+      "t": "Dans le PLF 2027",
+      "f": [
+       "Création nette d'environ 8 000 postes dans la fonction publique de l'État (Acteurs publics)",
+       "Article 73 : protection fonctionnelle étendue aux agents devant les juridictions financières",
+       "Article 75 : prépare la réforme du financement des retraites des fonctionnaires",
+       "Sénat : forfaitisation du supplément familial de traitement et réduction de la rémunération en temps partiel thérapeutique"
+      ]
+     },
+     {
+      "t": "Règles à connaître",
+      "f": [
+       "Droit de grève reconnu par le Préambule de la Constitution de 1946",
+       "Il est concilié avec la continuité du service public",
+       "Fonction publique de l'État : préavis syndical nécessaire"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-04",
+     "t": "Le Conseil commun de la fonction publique aborde la question des retraites.",
+     "v": "2026-11-18"
+    },
+    {
+     "d": "2026-11-05",
+     "t": "Journée de grève : près de 10 % de grévistes dans la fonction publique de l'État.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Matignon ouvre une concertation d'un mois ; rendez-vous le 11 décembre.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "La commission des finances du Sénat ajoute deux mesures sur les agents publics au PLF.",
+     "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-17",
+     "t": "Grève : 2,59 % de grévistes dans la fonction publique de l'État.",
+     "v": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "justice-crises-internationales",
+   "rubrique": "Europe et monde",
+   "titre": "Justice internationale et crises humanitaires",
+   "resume": "La CIJ juge que la Birmanie a commis un génocide contre les Rohingyas ; l'ONU alerte sur le Soudan ; sommet UE-Royaume-Uni.",
+   "statut": "Terminé",
+   "maj": "2026-11-24",
+   "enjeu": "La CIJ, juridiction de l'ONU, tranche des différends entre États : un arrêt sur le génocide est un repère de culture générale internationale.",
+   "carte": {
+    "centre": "Justice et crises",
+    "branches": [
+     {
+      "t": "Rohingyas devant la CIJ",
+      "f": [
+       "19 nov. 2026 : la Birmanie a commis un génocide, par neuf voix contre six",
+       "Affaire introduite par la Gambie en 2019 sur le fondement de la Convention de 1948",
+       "Violences dans le nord de l'État de Rakhine"
+      ]
+     },
+     {
+      "t": "Soudan",
+      "f": [
+       "Guerre depuis avril 2023",
+       "Environ 15,4 millions de personnes ont un besoin urgent d'abris et de biens de première nécessité",
+       "Financement humanitaire jugé insuffisant"
+      ]
+     },
+     {
+      "t": "UE-Royaume-Uni",
+      "f": [
+       "Deuxième sommet à Bruxelles le 20 novembre 2026",
+       "Avec António Costa, Ursula von der Leyen et le Premier ministre britannique Andy Burnham"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-03",
+     "t": "La CIJ annonce son arrêt pour le 19 novembre.",
+     "v": "2026-11-15"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Arrêt de la CIJ : génocide contre les Rohingyas.",
+     "v": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "id": "cop31",
+   "rubrique": "Europe et monde",
+   "titre": "COP31 à Antalya",
+   "resume": "Une conférence sur le climat marquée par des désaccords sur les financements et sur la mention des énergies fossiles.",
+   "statut": "En cours",
+   "maj": "2026-11-24",
+   "enjeu": "Distinguer la présidence formelle, la conduite des négociations et le caractère consensuel des décisions d'une COP.",
+   "carte": {
+    "centre": "COP31",
+    "branches": [
+     {
+      "t": "Cadre",
+      "f": [
+       "Antalya (Turquie), du 9 au 20 novembre 2026",
+       "La Turquie accueille et préside ; l'Australie conduit les négociations",
+       "Décision finale à adopter par près de 200 pays"
+      ]
+     },
+     {
+      "t": "Points de blocage",
+      "f": [
+       "Querelle précoce sur les financements",
+       "Premier projet du 16 nov. : accélérer la sortie du charbon, du pétrole et du gaz",
+       "Projet suivant : plus aucune mention explicite du charbon, du pétrole ni du gaz",
+       "Greenpeace critique l'absence de voie claire de sortie"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-09",
+     "t": "Ouverture de la COP31 à Antalya.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-16",
+     "t": "Premier projet de décision de la présidence.",
+     "v": "2026-11-22"
+    },
+    {
+     "d": "2026-11-20",
+     "t": "Date de clôture prévue, avec un projet de décision allégé.",
+     "v": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "conseil-etat-classement",
+   "rubrique": "Administration de l'État",
+   "titre": "Conseil d'État : le classement ne garantit pas la nomination",
+   "resume": "Décision du 3 novembre 2026 : un candidat classé premier à un poste universitaire peut ne pas être nommé.",
+   "statut": "Terminé",
+   "maj": "2026-11-24",
+   "enjeu": "Un classement ou une liste d'aptitude ne crée pas un droit à nomination : l'administration reste liée à l'existence d'un emploi à pourvoir.",
+   "carte": {
+    "centre": "Classement et nomination",
+    "branches": [
+     {
+      "t": "La décision",
+      "f": [
+       "Conseil d'État, 3 novembre 2026, mentionnée aux tables du recueil Lebon",
+       "Recours d'un maître de conférences classé premier pour un poste de professeur à Lyon",
+       "Recours rejeté"
+      ]
+     },
+     {
+      "t": "Le raisonnement",
+      "f": [
+       "Le classement établi par l'établissement ne suffit pas à garantir la nomination",
+       "Aucun emploi n'avait été attribué à l'université Lyon 1 pour ce poste"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-03",
+     "t": "Décision du Conseil d'État sur le classement d'un candidat à un poste de professeur.",
+     "v": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "budget-2027",
+   "rubrique": "Finances publiques",
+   "titre": "Budget de l'État et budget de la Sécurité sociale 2027",
+   "resume": "Le PLF a été rejeté en première lecture à l'Assemblée et passe au Sénat ; le PLFSS a été adopté en première lecture par le Sénat le 18 novembre.",
+   "statut": "En cours",
+   "maj": "2026-11-24",
+   "enjeu": "La procédure budgétaire (LOLF, deux parties, délais, rejet en première lecture) est un thème classique de culture financière pour les épreuves administratives.",
+   "carte": {
+    "centre": "Budget 2027",
+    "branches": [
+     {
+      "t": "Le PLF (État)",
+      "f": [
+       "Enregistré à l'Assemblée le 1er octobre 2026 (n° 3210)",
+       "4 nov. : première partie (recettes) rejetée par 458 voix contre, aucune pour, 2 abstentions",
+       "Texte considéré comme rejeté en première lecture, transmis au Sénat dans la version du Gouvernement",
+       "Séance au Sénat prévue à partir du 20 novembre"
+      ]
+     },
+     {
+      "t": "Le PLFSS (Sécurité sociale)",
+      "f": [
+       "Rejeté par l'Assemblée le 23 octobre",
+       "Sénat : recettes adoptées le 13 nov. (200 voix contre 110)",
+       "18 nov. : texte adopté en première lecture (201 voix contre 124)",
+       "Déficit visé : 12,7 Md€ en 2027, contre 21,8 Md€ en 2026"
+      ]
+     },
+     {
+      "t": "Pistes d'économies",
+      "f": [
+       "Cour des comptes (9 nov.) : 18 mesures, de 32 à 38 Md€ dès 2027",
+       "Parmi elles : gel des avancements (3,9 Md€) et non-revalorisation de prestations sociales hors minima (4,8 Md€)",
+       "Selon la Cour, 11 à 14 Md€ figurent déjà dans le projet de budget"
+      ]
+     },
+     {
+      "t": "Rappels de procédure",
+      "f": [
+       "Dépôt du PLF au plus tard le premier mardi d'octobre (LOLF)",
+       "Deux parties : recettes et équilibre, puis dépenses",
+       "Le recours à l'article 49.3 est évoqué dans les sources"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-23",
+     "t": "L'Assemblée rejette le PLFSS 2027.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-04",
+     "t": "L'Assemblée rejette la première partie du PLF : le texte part au Sénat.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "La Cour des comptes publie 18 mesures de rétablissement des finances publiques.",
+     "v": "2026-11-13"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Le Sénat adopte les recettes du PLFSS.",
+     "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-18",
+     "t": "Le Sénat adopte le PLFSS en première lecture (201 voix contre 124).",
+     "v": "2026-11-23"
+    },
+    {
+     "d": "2026-11-20",
+     "t": "Début prévu de l'examen du PLF au Sénat.",
+     "v": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "deontologie-neutralite",
+   "rubrique": "Fonction publique",
+   "titre": "Déontologie, neutralité et intégrité des agents publics",
+   "resume": "Circulaire sur la période électorale, projet de décret sur les activités pour une entité étrangère, réforme de la HATVP.",
+   "statut": "En cours",
+   "maj": "2026-11-22",
+   "enjeu": "Neutralité, devoir de réserve, conflits d'intérêts : ces notions déontologiques sont attendues à l'oral, avec des situations concrètes.",
+   "carte": {
+    "centre": "Déontologie des agents",
+    "branches": [
+     {
+      "t": "Période électorale",
+      "f": [
+       "Circulaire de la DGAFP du 6 novembre 2026",
+       "Règles applicables aux agents publics civils en période électorale ou titulaires d'un mandat électif",
+       "Elle actualise les règles avant la présidentielle de 2027"
+      ]
+     },
+     {
+      "t": "Ingérences étrangères",
+      "f": [
+       "Projet de décret examiné par le CCFP le 4 novembre",
+       "Contrôle des activités exercées pour une entité étrangère",
+       "S'inscrit dans la loi du 25 juillet 2024 ; texte non encore publié"
+      ]
+     },
+     {
+      "t": "HATVP",
+      "f": [
+       "Deux projets de loi (ordinaire et organique) : elle deviendrait la Haute Autorité pour l'intégrité publique",
+       "Astreinte administrative annoncée à 500 € par jour pour défaut de déclaration",
+       "Ils portent aussi sur le lobbying et le pantouflage ; examen d'abord au Sénat"
+      ]
+     },
+     {
+      "t": "Autres repères",
+      "f": [
+       "Rupture conventionnelle pérennisée pour les trois versants",
+       "Parcours de formation à la transition écologique de tous les agents : trois modules"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-04",
+     "t": "Le CCFP examine le projet de décret sur les activités pour entité étrangère.",
+     "v": "2026-11-13"
+    },
+    {
+     "d": "2026-11-06",
+     "t": "Circulaire de la DGAFP sur les règles applicables avant la présidentielle de 2027.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Conseil des ministres : deux projets de loi sur la HATVP.",
+     "v": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "id": "ukraine-negociations",
+   "rubrique": "Europe et monde",
+   "titre": "Guerre en Ukraine : négociations et frappes",
+   "resume": "Pourparlers à Abou Dhabi, rencontre au Kremlin, place des Européens dans les négociations et frappes réciproques.",
+   "statut": "En cours",
+   "maj": "2026-11-21",
+   "enjeu": "Exposer les positions des parties de façon neutre et situer le rôle de l'Union européenne et de la France.",
+   "carte": {
+    "centre": "Ukraine",
+    "branches": [
+     {
+      "t": "Négociations",
+      "f": [
+       "10-11 nov. : réunion à Abou Dhabi, première dans ce format depuis le cycle de Genève des 17-18 février",
+       "12 nov. : Poutine reçoit Witkoff et Kushner au Kremlin",
+       "Un nouvel échange de prisonniers est annoncé"
+      ]
+     },
+     {
+      "t": "Les Européens",
+      "f": [
+       "13 nov. : l'Europe doit participer au prochain cycle de discussions",
+       "Coalition des volontaires : réunion à Berlin le 19 nov."
+      ]
+     },
+     {
+      "t": "Sur le terrain",
+      "f": [
+       "Frappes réciproques malgré les efforts diplomatiques",
+       "Peu de progrès selon les analystes après Abou Dhabi"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-10",
+     "t": "Ouverture des pourparlers à Abou Dhabi.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-12",
+     "t": "Rencontre des émissaires américains avec Poutine au Kremlin.",
+     "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Annonce de la participation européenne au prochain cycle.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Réunion de la Coalition des volontaires à Berlin.",
+     "v": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "id": "etat-prefectures",
+   "rubrique": "Administration de l'État",
+   "titre": "Préfectures, État local et numérique",
+   "resume": "Titres de séjour en attente, réforme de l'action territoriale de l'État, future direction de la transformation publique, projet de loi cybersécurité.",
+   "statut": "En cours",
+   "maj": "2026-11-20",
+   "enjeu": "Les missions du préfet, le délai de traitement des dossiers et la transformation publique sont au cœur du métier de secrétaire administratif en préfecture.",
+   "carte": {
+    "centre": "État local et préfectures",
+    "branches": [
+     {
+      "t": "Titres de séjour",
+      "f": [
+       "930 000 dossiers en attente en avril 2026, délai moyen de 117 jours",
+       "Objectif du plan de printemps : 55 jours",
+       "500 vacataires en préfecture, reconduction possible en 2027",
+       "Automatisation du renouvellement des attestations provisoires"
+      ]
+     },
+     {
+      "t": "Action territoriale de l'État",
+      "f": [
+       "Réforme présentée le 8 juillet 2025, trois décrets du 31 juillet 2025",
+       "Le préfet renforcé comme chef de l'action de l'État dans le département",
+       "Projet de loi sur l'État local déposé au Sénat le 20 mai 2026",
+       "France Simplification : 520 dossiers de préfets, 423 réponses"
+      ]
+     },
+     {
+      "t": "Transformation publique",
+      "f": [
+       "Future direction héritière de la DITP, sous l'autorité du ministre chargé de la réforme de l'État",
+       "Délégué interministériel rattaché au Premier ministre",
+       "Rapport d'inspections du 5 nov. : organiser l'instruction des projets plutôt qu'accorder des dérogations"
+      ]
+     },
+     {
+      "t": "Cybersécurité",
+      "f": [
+       "Projet de loi Résilience : transpose NIS 2 et la directive REC, adapte DORA",
+       "Secteurs soumis : de 6 à 18, soit près de 15 000 entités",
+       "Régions, départements et communes de plus de 30 000 habitants concernés"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-02",
+     "t": "Le ministre de l'Intérieur présente la résorption des titres de séjour comme une priorité.",
+     "v": "2026-11-13"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "L'Assemblée commence l'examen du projet de loi Résilience.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "La future direction de la transformation publique est confirmée.",
+     "v": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "vie-chere-collectivites",
+   "rubrique": "Administration de l'État",
+   "titre": "Vie chère et congrès des maires",
+   "resume": "Cinquième week-end de manifestations contre la vie chère ; le 108e Congrès des maires s'ouvre le 24 novembre.",
+   "statut": "En cours",
+   "maj": "2026-11-15",
+   "enjeu": "Savoir situer les collectivités dans l'actualité : le Congrès de l'AMF est un rendez-vous institutionnel entre élus locaux et Gouvernement.",
+   "carte": {
+    "centre": "Vie chère et maires",
+    "branches": [
+     {
+      "t": "Acte V contre la vie chère",
+      "f": [
+       "Samedi 14 novembre, cinquième week-end consécutif",
+       "106 000 manifestants selon l'Intérieur, 219 interpellations",
+       "Appel d'une coordination de « gilets jaunes » et d'organisations de jeunesse"
+      ]
+     },
+     {
+      "t": "Congrès des maires",
+      "f": [
+       "108e congrès de l'AMF, du 24 au 26 novembre, Porte de Versailles",
+       "Premier congrès du mandat issu des élections de mars 2026",
+       "Thème : « Regagnons nos libertés »"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-14",
+     "t": "Cinquième week-end de manifestations contre la vie chère.",
+     "v": "2026-11-15"
+    },
+    {
+     "d": "2026-11-24",
+     "t": "Ouverture du 108e Congrès des maires.",
+     "v": "2026-11-15"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,526 @@
+{
+ "derniere_veille": "2026-11-24",
+ "sujets": [
+  {
+   "id": "ukraine-garanties",
+   "rubrique": "Europe et sécurité",
+   "titre": "Ukraine : négociations et garanties de sécurité",
+   "resume": "Pourparlers à Abou Dhabi, place des Européens dans la négociation et préparation des garanties de sécurité par la Coalition des volontaires.",
+   "statut": "En cours",
+   "maj": "2026-11-24",
+   "enjeu": "Savoir présenter la position française et européenne : soutien à l'Ukraine, garanties de sécurité, rôle de la Coalition des volontaires.",
+   "carte": {
+    "centre": "Ukraine : négociations",
+    "branches": [
+     {
+      "t": "Négociations",
+      "f": [
+       "10-11 nov. : réunion à Abou Dhabi",
+       "12 nov. : rencontre au Kremlin avec les émissaires américains",
+       "Échange de prisonniers annoncé",
+       "Sommet de l'APEC à Shenzhen : Trump, Xi et Poutine au cœur du jeu"
+      ]
+     },
+     {
+      "t": "Les Européens",
+      "f": [
+       "13 nov. : cinq pays désignés pour parler au nom de l'Europe (France, Allemagne, Royaume-Uni, Pologne, Italie), annonce de António Costa",
+       "Conditions posées par Kaja Kallas à toute négociation"
+      ]
+     },
+     {
+      "t": "Garanties de sécurité",
+      "f": [
+       "Coalition des volontaires, 18e réunion à Berlin le 19 nov.",
+       "Trois piliers de la réflexion",
+       "Force multinationale en Ukraine (MNF-U) ; exercice « Koalicja » depuis le 9 nov.",
+       "Kushner évoque des garanties de type article 5"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-09",
+     "t": "Début de l'exercice « Koalicja ».",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Réunion à Abou Dhabi.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Cinq pays désignés pour représenter l'Europe.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Coalition des volontaires réunie à Berlin.",
+     "v": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "onu",
+   "rubrique": "Organisations internationales",
+   "titre": "ONU et organisations internationales",
+   "resume": "Course à la succession d'António Guterres, réélection à l'OIT, Conseil de la paix pour Gaza, arrêt de la CIJ sur les Rohingyas.",
+   "statut": "En cours",
+   "maj": "2026-11-24",
+   "enjeu": "Le mandat de Guterres s'achève le 31 décembre 2026 ; savoir présenter le processus de désignation et les organes de l'ONU.",
+   "carte": {
+    "centre": "ONU",
+    "branches": [
+     {
+      "t": "Succession de Guterres",
+      "f": [
+       "Mandat achevé le 31 décembre 2026",
+       "Straw polls : Grynspan en tête (12 encouragements, 3 découragements au 5 nov.)"
+      ]
+     },
+     {
+      "t": "Autres",
+      "f": [
+       "Houngbo réélu à la tête de l'OIT",
+       "Conseil de la paix pour Gaza",
+       "CIJ, 19 nov. : génocide contre les Rohingyas (neuf voix contre six), affaire ouverte par la Gambie"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-05",
+     "t": "Nouveau sondage indicatif pour la succession de Guterres.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Arrêt de la CIJ sur les Rohingyas.",
+     "v": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "id": "budget-ue",
+   "rubrique": "Union européenne",
+   "titre": "Budget de l'Union européenne",
+   "resume": "Accord sur le budget annuel 2027 et négociation du cadre financier pluriannuel 2028-2034, au Conseil européen extraordinaire des 26-27 novembre.",
+   "statut": "En cours",
+   "maj": "2026-11-24",
+   "enjeu": "Distinguer budget annuel et cadre financier pluriannuel, et la procédure d'adoption (Conseil, Parlement, unanimité pour le CFP).",
+   "carte": {
+    "centre": "Budget de l'UE",
+    "branches": [
+     {
+      "t": "Budget annuel 2027",
+      "f": [
+       "Accord : 199,7 Md€ en engagements, 211,5 Md€ en paiements",
+       "Conseil : approbation le 23 nov.",
+       "Parlement européen : vote le 24 nov."
+      ]
+     },
+     {
+      "t": "Cadre 2028-2034",
+      "f": [
+       "Boîte de négociation de António Costa : 204 Md€ de coupes",
+       "La France juge la proposition « très décevante »",
+       "Conseil européen extraordinaire les 26-27 nov.",
+       "Repli : sommet des 17-18 décembre"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-23",
+     "t": "Le Conseil approuve le budget annuel 2027.",
+     "v": "2026-11-23"
+    },
+    {
+     "d": "2026-11-24",
+     "t": "Le Parlement européen se prononce sur le budget 2027.",
+     "v": "2026-11-24"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "Conseil européen extraordinaire sur le cadre 2028-2034.",
+     "v": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "id": "sanctions-securite",
+   "rubrique": "Europe et sécurité",
+   "titre": "Sanctions contre la Russie et sécurité européenne",
+   "resume": "22e paquet de sanctions, incident en Pologne, complot au Danemark et frappes russes sur Kiev touchant des ambassades.",
+   "statut": "En cours",
+   "maj": "2026-11-23",
+   "enjeu": "Distinguer sanctions européennes (décidées à l'unanimité) et initiatives nationales, et savoir comment la France réagit aux violations du droit diplomatique.",
+   "carte": {
+    "centre": "Sanctions et sécurité",
+    "branches": [
+     {
+      "t": "22e paquet",
+      "f": [
+       "Annoncé le 23 nov.",
+       "Environ 60 banques visées, dont l'accès à SWIFT",
+       "Task force sur les cryptoactifs",
+       "Plus de 70 navires de la flotte fantôme"
+      ]
+     },
+     {
+      "t": "Menaces hybrides",
+      "f": [
+       "Incident en Pologne le 20 nov.",
+       "Complot au Danemark attribué à des services russes",
+       "Proposition danoise sur les visas Schengen"
+      ]
+     },
+     {
+      "t": "Frappes sur Kiev",
+      "f": [
+       "19-20 nov. : ambassades d'Autriche et des Pays-Bas endommagées",
+       "La France demande une réunion du Conseil de sécurité de l'ONU"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-19",
+     "t": "Frappes russes sur Kiev ; ambassades touchées.",
+     "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-20",
+     "t": "Incident en Pologne.",
+     "v": "2026-11-21"
+    },
+    {
+     "d": "2026-11-23",
+     "t": "Annonce du 22e paquet de sanctions.",
+     "v": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "id": "cop31",
+   "rubrique": "Climat et environnement",
+   "titre": "COP31 à Antalya",
+   "resume": "La conférence s'est achevée le 22 novembre sans adoption de la décision d'ensemble, faute d'accord sur les énergies fossiles.",
+   "statut": "Terminé",
+   "maj": "2026-11-23",
+   "enjeu": "Une COP décide par consensus : la présidence formelle (Turquie) n'est pas celle des négociations (Australie). Le blocage sur les fossiles oppose l'Union européenne aux pays producteurs.",
+   "carte": {
+    "centre": "COP31",
+    "branches": [
+     {
+      "t": "Cadre",
+      "f": [
+       "Antalya (Turquie), du 9 au 20 novembre 2026, prolongée jusqu'au 22",
+       "La Turquie préside formellement ; l'Australie conduit les négociations",
+       "Près de 200 pays doivent adopter la décision par consensus"
+      ]
+     },
+     {
+      "t": "Le texte",
+      "f": [
+       "Projet du 16 nov. : accélérer la sortie du charbon, du pétrole et du gaz",
+       "Version ultérieure : mention des énergies fossiles retirée",
+       "Greenpeace critique l'absence de voie claire de sortie"
+      ]
+     },
+     {
+      "t": "L'issue",
+      "f": [
+       "Clôture le 22 nov. sans adoption de la décision d'ensemble",
+       "Le « Pacte d'Antalya » n'a pas été adopté",
+       "La présidence irlandaise de l'UE a refusé un texte sans mention des fossiles",
+       "Les pays producteurs, dont l'Arabie saoudite, s'y opposaient"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-09",
+     "t": "Ouverture de la COP31 à Antalya.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-16",
+     "t": "Premier projet de décision de la présidence.",
+     "v": "2026-11-17"
+    },
+    {
+     "d": "2026-11-22",
+     "t": "Clôture sans adoption de la décision d'ensemble.",
+     "v": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "id": "ue-relations-exterieures",
+   "rubrique": "Union européenne",
+   "titre": "Relations extérieures de l'Union européenne",
+   "resume": "Sommet UE-Royaume-Uni du 20 novembre, accord d'association avec la Syrie, Conseil de l'EEE.",
+   "statut": "En cours",
+   "maj": "2026-11-22",
+   "enjeu": "Illustrer la politique extérieure de l'UE à travers des accords concrets : mobilité, normes sanitaires, carbone.",
+   "carte": {
+    "centre": "UE et partenaires",
+    "branches": [
+     {
+      "t": "Sommet UE-Royaume-Uni",
+      "f": [
+       "20 nov. 2026, Bruxelles",
+       "Dispositif d'expérience jeunesse : 100 000 places de chaque côté",
+       "Accord sanitaire et phytosanitaire",
+       "Quotas carbone",
+       "Frais universitaires non réglés ; six mois pour conclure"
+      ]
+     },
+     {
+      "t": "Autres partenaires",
+      "f": [
+       "Accord d'association UE-Syrie",
+       "Conseil de l'Espace économique européen",
+       "Conférence d'investissement UE-Jordanie"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-20",
+     "t": "Sommet UE-Royaume-Uni.",
+     "v": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "reseau-consulaire",
+   "rubrique": "Action extérieure de la France",
+   "titre": "Réseau diplomatique et action consulaire",
+   "resume": "Crédits du programme 151, élections consulaires, vote par internet, alertes sanitaires et sécurité des missions.",
+   "statut": "En cours",
+   "maj": "2026-11-22",
+   "enjeu": "Le programme 151 finance l'action consulaire : un thème budgétaire et administratif directement lié au métier.",
+   "carte": {
+    "centre": "Réseau et consulats",
+    "branches": [
+     {
+      "t": "Budget",
+      "f": [
+       "Programme 151 : 166,7 M€, en hausse de 13,75 M€"
+      ]
+     },
+     {
+      "t": "Élections consulaires 2026",
+      "f": [
+       "30-31 mai : 433 conseillers, 77 délégués",
+       "Participation de 13,98 %",
+       "Conseil d'État, 4 nov. : un recours contre un scrutin (Émirats) rejeté",
+       "Test du vote par internet du 20 au 27 nov."
+      ]
+     },
+     {
+      "t": "Sécurité",
+      "f": [
+       "Alerte Ebola à Madagascar",
+       "Vigilance El Niño",
+       "Protection des missions diplomatiques"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-04",
+     "t": "Le Conseil d'État rejette un recours sur une élection consulaire.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-20",
+     "t": "Début du test de vote par internet.",
+     "v": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "golfe-ormuz",
+   "rubrique": "Moyen-Orient et Asie-Pacifique",
+   "titre": "Golfe, Ormuz et Asie-Pacifique",
+   "resume": "Frappe américaine sur l'île de Qeshm, attaques de navires à un niveau record, sommets APEC et ASEAN.",
+   "statut": "En cours",
+   "maj": "2026-11-21",
+   "enjeu": "Le détroit d'Ormuz est un point de passage énergétique ; savoir citer les acteurs et les organisations régionales.",
+   "carte": {
+    "centre": "Golfe et Asie-Pacifique",
+    "branches": [
+     {
+      "t": "Golfe et Ormuz",
+      "f": [
+       "17 nov. : frappe américaine sur l'île de Qeshm (Iran)",
+       "Attaques contre les navires à un niveau record"
+      ]
+     },
+     {
+      "t": "Asie-Pacifique",
+      "f": [
+       "APEC à Shenzhen",
+       "ASEAN à Manille, 15-17 novembre"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-15",
+     "t": "Sommet de l'ASEAN à Manille.",
+     "v": "2026-11-16"
+    },
+    {
+     "d": "2026-11-17",
+     "t": "Frappe américaine sur l'île de Qeshm.",
+     "v": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "id": "diplomatie-asie-francophonie",
+   "rubrique": "Action extérieure de la France",
+   "titre": "Diplomatie française en Asie et Francophonie",
+   "resume": "Visite du Président au Cambodge, partenariat stratégique avec la Malaisie, élection à l'OIF reportée d'un an.",
+   "statut": "Terminé",
+   "maj": "2026-11-20",
+   "enjeu": "Illustrer la diplomatie bilatérale française dans l'Indo-Pacifique et le rôle de l'Organisation internationale de la Francophonie.",
+   "carte": {
+    "centre": "Asie et Francophonie",
+    "branches": [
+     {
+      "t": "Cambodge",
+      "f": [
+       "Visite du Président de la République",
+       "29 accords signés"
+      ]
+     },
+     {
+      "t": "Malaisie",
+      "f": [
+       "Partenariat stratégique"
+      ]
+     },
+     {
+      "t": "OIF",
+      "f": [
+       "Élection du secrétaire général reportée d'un an",
+       "Louise Mushikiwabo prolongée dans ses fonctions"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-16",
+     "t": "Visite au Cambodge, 29 accords signés.",
+     "v": "2026-11-17"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Report de l'élection à la tête de l'OIF.",
+     "v": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "ue-legislation",
+   "rubrique": "Union européenne",
+   "titre": "Les Conseils de l'UE et les textes en cours",
+   "resume": "Accord provisoire sur le paquet réseaux, règlement méthane, format défense du Conseil Affaires générales.",
+   "statut": "En cours",
+   "maj": "2026-11-18",
+   "enjeu": "Connaître le fonctionnement des formations du Conseil et la procédure de trilogue.",
+   "carte": {
+    "centre": "Textes européens",
+    "branches": [
+     {
+      "t": "Paquet réseaux",
+      "f": [
+       "Accord provisoire entre Conseil et Parlement le 18 nov."
+      ]
+     },
+     {
+      "t": "Conseils",
+      "f": [
+       "Conseil Affaires étrangères les 16 et 17 nov., format défense le 17",
+       "Conseil Affaires générales",
+       "Cour pénale internationale : réunion de Dublin, 12 nov."
+      ]
+     },
+     {
+      "t": "Règlement méthane",
+      "f": [
+       "Suivi de la mise en œuvre du règlement sur les émissions de méthane"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-12",
+     "t": "Réunion de Dublin sur la Cour pénale internationale.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-17",
+     "t": "Conseil Affaires étrangères en format défense.",
+     "v": "2026-11-18"
+    },
+    {
+     "d": "2026-11-18",
+     "t": "Accord provisoire sur le paquet réseaux.",
+     "v": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "presidence-g7",
+   "rubrique": "Action extérieure de la France",
+   "titre": "Présidence française du G7",
+   "resume": "Réunion des ministres des Affaires étrangères à Paris et déclaration « Children First ».",
+   "statut": "En cours",
+   "maj": "2026-11-18",
+   "enjeu": "La présidence du G7 donne à la France la maîtrise de l'ordre du jour : à connaître pour les épreuves de culture diplomatique.",
+   "carte": {
+    "centre": "G7 sous présidence française",
+    "branches": [
+     {
+      "t": "Ministres des Affaires étrangères",
+      "f": [
+       "Paris, 9-10 novembre",
+       "Déclaration « Children First », soutenue par plus de 56 pays"
+      ]
+     },
+     {
+      "t": "Autres actions",
+      "f": [
+       "Déplacement de Forissier en Jordanie",
+       "Toulouse : 350 M€ pour le CORAC"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-09",
+     "t": "G7 des ministres des Affaires étrangères à Paris.",
+     "v": "2026-11-14"
+    }
+   ]
+  }
+ ]
+}

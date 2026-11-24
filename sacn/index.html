@@ -176,6 +176,16 @@ details.sub li{margin-bottom:4px}
 .week p{margin:2px 0 0;font-family:var(--f-body);color:var(--muted);font-size:.93rem}
 .vday{border:1px solid var(--line);background:var(--sheet);border-radius:var(--r);padding:5px 10px;font-family:var(--f-mono);font-size:.8rem;cursor:pointer;position:relative}
 .vday[aria-pressed="true"]{background:var(--accent);color:var(--sheet);border-color:var(--accent)}
+#filBody{display:grid;gap:14px}
+.filcard{display:grid;gap:10px}
+.filcard h3{margin:0}
+.filmeta{font-family:var(--f-mono);font-size:.76rem;color:var(--muted)}
+.filmap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--r);background:var(--paper);padding:8px}
+.filmap svg{display:block;min-width:620px;width:100%;height:auto}
+.filchrono{list-style:none;margin:0;padding:0;display:grid;gap:6px}
+.filchrono li{display:grid;grid-template-columns:96px 1fr;gap:10px;font-size:.9rem}
+.filchrono .d{font-family:var(--f-mono);font-size:.78rem;color:var(--muted)}
+.filchrono button{border:0;background:none;color:var(--accent);padding:0;font-size:.8rem;text-decoration:underline;cursor:pointer}
 .vday.unread::after{content:"";position:absolute;top:-3px;right:-3px;width:8px;height:8px;border-radius:50%;background:var(--stamp)}
 .vhead{border-bottom:2px solid var(--ink);padding-bottom:12px;margin-bottom:6px}
 .vhead .date{font-family:var(--f-mono);color:var(--stamp);font-size:.85rem;text-transform:capitalize}
@@ -320,6 +330,7 @@ img{max-width:100%}
   <nav class="tabs" id="tabs" aria-label="Sections">
     <a href="#tableau">Tableau de bord <small id="nav-global"></small></a>
     <a href="#veille">Veille d'actualité <small id="nav-veille"></small></a>
+    <a href="#fil">Au fil de l'actualité <small id="nav-fil"></small></a>
     <a href="#concours">Le concours</a>
     <a href="#themes">Programme du concours <small id="nav-themes"></small></a>
     <a href="#ecrit">Méthode du cas pratique <small id="nav-ecrit"></small></a>
@@ -391,6 +402,16 @@ img{max-width:100%}
         <h3>Mes points à retenir pour l'oral</h3>
         <div id="vFav"></div>
       </div>
+    </section>
+
+    <!-- AU FIL DE L'ACTUALITÉ -->
+    <section class="view" id="v-fil" hidden>
+      <div>
+        <h2>Au fil de l'actualité</h2>
+        <p class="lede">Chaque grand sujet de l'actualité suivi dans la veille est résumé par une carte mentale et une chronologie. Les cartes se mettent à jour au fur et à mesure des synthèses quotidiennes.</p>
+      </div>
+      <div class="row" id="filFilters" style="gap:6px"></div>
+      <div id="filBody"><div class="sheet"><p class="prose" style="margin:0">Chargement des cartes…</p></div></div>
     </section>
 
     <!-- LE CONCOURS -->
@@ -1500,7 +1521,7 @@ function pTick(){ const e=pEl+(pStart?Date.now()-pStart:0); const left=PT-e; con
   $("#pclock").style.color = left<0? "var(--stamp)" : (left<30000? "var(--warn)":"var(--ink)"); }
 
 /* ---------- Navigation ---------- */
-const VIEWS=["tableau","veille","concours","themes","ecrit","exercices","annales","entrainement","revisions","raep","entretien","planning","compte","gestion"];
+const VIEWS=["tableau","veille","fil","concours","themes","ecrit","exercices","annales","entrainement","revisions","raep","entretien","planning","compte","gestion"];
 function route(){
   const h=(location.hash||"#tableau").slice(1); const v=VIEWS.includes(h)?h:"tableau";
   let show = v;
@@ -1515,7 +1536,7 @@ window.addEventListener("hashchange",()=>{ route(); window.scrollTo({top:0}); })
 
 function renderAll(){
   const ae=document.activeElement && document.activeElement.id;
-  renderDash(); renderVeille(); renderThemes(); renderEcrit(); renderEx(); renderAnnales(); renderBlancs(); renderRev(); renderRaep(); renderEntretien(); renderPlan(); renderHist(); renderIaHist(); renderAcctHeader();
+  renderDash(); renderVeille(); renderFil(); renderThemes(); renderEcrit(); renderEx(); renderAnnales(); renderBlancs(); renderRev(); renderRaep(); renderEntretien(); renderPlan(); renderHist(); renderIaHist(); renderAcctHeader();
   if(ae){ const n=document.getElementById(ae); if(n && n.tagName!=="BUTTON") n.focus({preventScroll:true}); }
 }
 
@@ -1551,7 +1572,65 @@ async function connect(){
     if(!navigator.onLine) $("#localBanner").hidden = false;
     decryptVeilleFiches();
   }catch(e){ vState = "off"; }
-  renderVeille();
+  renderVeille(); loadFil();
+}
+
+/* ---------- Au fil de l'actualité (cartes mentales par sujet) ---------- */
+let FIL=null, filRub="", filOpen={};
+const SVGNS="http://www.w3.org/2000/svg";
+function svgEl(tag,attrs,text){ const e=document.createElementNS(SVGNS,tag); for(const [k,v] of Object.entries(attrs||{})) e.setAttribute(k,v); if(text!=null) e.textContent=text; return e; }
+function wrapTxt(t,n){ const out=[]; let cur=""; String(t).split(" ").forEach(w=>{ if(cur && (cur+" "+w).length>n){ out.push(cur); cur=w; } else cur = cur? cur+" "+w : w; }); if(cur) out.push(cur); return out; }
+function filMap(c){
+  const W=760, bw=268, gx=18, lx=8, rx=W-8-bw, cw=170, ch=64, cx=W/2;
+  const boxes=c.branches.map((b,i)=>{ const lines=b.f.map(f=>wrapTxt(f,40)); const n=lines.reduce((a,l)=>a+l.length,0); return {b,lines,h:40+n*15+(lines.length-1)*4,side:i%2===0?"L":"R"}; });
+  const place=side=>{ let y=16; boxes.filter(x=>x.side===side).forEach(x=>{ x.y=y; y+=x.h+gx; }); return y-gx+16; };
+  const H=Math.max(place("L"),place("R"),ch+32);
+  const svg=svgEl("svg",{viewBox:"0 0 "+W+" "+H,role:"img","aria-label":"Carte mentale : "+c.centre,"font-family":"Archivo, Arial, sans-serif","font-size":"12"});
+  const cy=H/2, ink="var(--ink)", edge="var(--muted)", acc="var(--accent)";
+  const g=svgEl("g",{fill:"none",stroke:"var(--line)","stroke-width":"1.5"}); svg.append(g);
+  boxes.forEach(x=>{ const bx=x.side==="L"?lx:rx, my=x.y+x.h/2, tx=x.side==="L"?cx-cw/2-16:cx+cw/2+16, ex=x.side==="L"?bx+bw:bx;
+    g.append(svgEl("path",{d:"M"+(x.side==="L"?cx-cw/2:cx+cw/2)+" "+cy+"H"+tx+"V"+my+"H"+ex})); });
+  boxes.forEach(x=>{ const bx=x.side==="L"?lx:rx;
+    svg.append(svgEl("rect",{x:bx,y:x.y,width:bw,height:x.h,rx:8,fill:"var(--sheet)",stroke:"var(--line)","stroke-width":"1.25"}));
+    svg.append(svgEl("text",{x:bx+14,y:x.y+22,"font-size":"13","font-weight":"700",fill:acc},x.b.t));
+    let y=x.y+42;
+    x.lines.forEach(ls=>{ ls.forEach((l,k)=>{ const t=svgEl("text",{x:bx+(k?24:14),y:y,fill:ink}); t.textContent=(k?"":"• ")+l; svg.append(t); y+=15; }); y+=4; }); });
+  svg.append(svgEl("rect",{x:cx-cw/2,y:cy-ch/2,width:cw,height:ch,rx:10,fill:"var(--accent-soft)",stroke:acc,"stroke-width":"2"}));
+  wrapTxt(c.centre,17).forEach((l,i,a)=>svg.append(svgEl("text",{x:cx,y:cy+4-(a.length-1)*8+i*16,"text-anchor":"middle","font-size":"14","font-weight":"700",fill:ink},l)));
+  return svg;
+}
+function filDate(d){ return vDateLabel(d,{day:"numeric",month:"short"}); }
+function renderFil(){
+  const bar=$("#filFilters"), body=$("#filBody"); if(!bar||!body) return; bar.replaceChildren();
+  if(!FIL){ body.replaceChildren(el("div",{class:"sheet"},el("p",{class:"prose",style:"margin:0",text:"Impossible de charger les cartes : vérifiez votre connexion internet, puis rouvrez l'application."}))); return; }
+  const L=FIL.sujets, rubs=[...new Set(L.map(s=>s.rubrique))];
+  [["","Tous les sujets"]].concat(rubs.map(r=>[r,r])).forEach(([r,t])=>{ const b=el("button",{type:"button",class:"vday","aria-pressed":String(filRub===r),text:t}); b.addEventListener("click",()=>{ filRub=r; renderFil(); }); bar.append(b); });
+  const free=new Set(L.slice(0,3).map(s=>s.id)), nodes=[];
+  L.filter(s=>!filRub||s.rubrique===filRub).forEach(s=>{
+    const card=el("article",{class:"sheet filcard"});
+    const row=el("div",{class:"row"},el("span",{class:"pill acc",text:s.rubrique}),el("span",{class:"pill "+(s.statut==="En cours"?"warn":s.statut==="Terminé"?"ok":""),text:s.statut}),el("span",{class:"filmeta",text:"Mis à jour le "+vDateLabel(s.maj,{day:"numeric",month:"long"})}));
+    card.append(row, el("h3",{text:s.titre}), el("p",{class:"prose",style:"margin:0",text:s.resume}));
+    if(!unlocked() && !free.has(s.id)){ const l=el("a",{class:"fichelock",href:"#compte"}); l.append(el("strong",{text:"Carte mentale et chronologie"})," · réservées aux abonnés"); card.append(l); nodes.push(card); return; }
+    const open=!!filOpen[s.id];
+    const tg=el("button",{type:"button",class:"vday","aria-expanded":String(open),text:open?"Masquer la carte":"Ouvrir la carte mentale"});
+    tg.addEventListener("click",()=>{ filOpen[s.id]=!open; renderFil(); });
+    card.append(el("div",{class:"row"},tg));
+    if(open){
+      const m=el("div",{class:"filmap"}); m.append(filMap(s.carte)); card.append(m);
+      if(s.enjeu){ const e=el("div",{class:"enjeu",style:"font-family:var(--f-body);border-left:3px solid var(--accent);padding:4px 0 4px 12px;background:var(--accent-soft);border-radius:0 var(--r) var(--r) 0"}); e.append(el("strong",{text:"Pour le SA : "}),s.enjeu); card.append(e); }
+      card.append(el("h4",{style:"margin:6px 0 0",text:"Chronologie"}));
+      const ul=el("ul",{class:"filchrono"});
+      s.chrono.forEach(c=>{ const li=el("li",{},el("span",{class:"d",text:filDate(c.d)+" "+c.d.slice(0,4)})); const t=el("span",{text:c.t+" "}); if(VEILLE.find(v=>v.id===c.v)){ const b=el("button",{type:"button",text:"voir la veille du "+filDate(c.v)}); b.addEventListener("click",()=>{ vSel=c.v; history.replaceState(null,"","#veille"); route(); renderVeille(); window.scrollTo({top:0}); }); t.append(b); } li.append(t); ul.append(li); });
+      card.append(ul);
+    }
+    nodes.push(card);
+  });
+  body.replaceChildren(...nodes);
+  $("#nav-fil").textContent="";
+}
+async function loadFil(){
+  try{ const r=await fetch("fil/sujets.json",{cache:"no-cache"}); if(!r.ok) throw new Error(r.status); FIL=await r.json(); }catch(e){ FIL=null; }
+  renderFil();
 }
 
 /* ---------- Export / import / installation ---------- */
