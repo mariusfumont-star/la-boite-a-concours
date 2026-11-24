@@ -9,6 +9,7 @@ Application web installable (PWA) qui regroupe les préparations aux concours de
 - `adjoint/` : Prépa Adjoint administratif 2027, externe et interne (préfixe `adj_` ; clé des contenus ajoutés `config/boite_admin` ; la veille est celle de `sacn/veille/`, fiches lues avec `config/adj_cle`).
 - `sae/` : Prépa Secrétaire des affaires étrangères 2028, cadre général, externe, interne et 3e concours (préfixe `sae_` ; contenus chiffrés avec `config/boite_admin` ; veille propre `sae/veille/`, fiches lues avec `config/sae_cle`).
 - `redacteur/` : Prépa Rédacteur territorial 2027 (Guadeloupe, CDG971 ; Pass jusqu'au 29/02/2028), externe, interne et 3e concours (préfixe `red_` ; contenus chiffrés avec `config/boite_admin` ; veille propre `redacteur/veille/`, fiches lues avec `config/red_cle`). Sources de contenu : `/home/claude/red-src/` ; `construire_index.py` dérive l'index de `sae/index.html`.
+- `aae/fil/sujets.json` : onglet « Au fil de l'actualité » de l'AAE, une carte mentale et une chronologie par sujet d'actualité, mises à jour chaque jour par une tâche planifiée à partir de `aae/veille/` (champs publics uniquement, rien de chiffré).
 - `<préparation>/veille/` : synthèses quotidiennes d'actualité, fiches chiffrées avec la clé `config/<préfixe>cle`.
 - `manifest.webmanifest`, `sw.js`, `icons/` : installation et fonctionnement hors ligne, communs à toutes les préparations.
 - `cgv.html`, `mentions-legales.html`, `confidentialite.html` : pages légales communes.
