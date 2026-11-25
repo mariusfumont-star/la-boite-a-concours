@@ -1,14 +1,158 @@
 {
- "derniere_veille": "2026-11-24",
+ "derniere_veille": "2026-11-25",
  "sujets": [
+  {
+   "id": "budget-2027",
+   "rubrique": "Finances publiques",
+   "titre": "Budget de l'État et budget de la Sécurité sociale 2027",
+   "resume": "Le PLF 2027 prévoit une création nette de 8 025 ETP dans la fonction publique de l'État, avec un point d'indice gelé. Rejeté en première lecture à l'Assemblée, il passe au Sénat ; le PLFSS a été adopté en première lecture par le Sénat le 18 novembre. L'issue n'est pas connue.",
+   "statut": "En cours",
+   "maj": "2026-11-25",
+   "enjeu": "La procédure budgétaire (LOLF, deux parties, délais, rejet en première lecture) est un thème classique. Savoir distinguer emplois, ETP et masse salariale : les effectifs sont fixés par la loi de finances (plafond d'emplois), et le texte n'est pas définitif tant que la procédure n'est pas achevée.",
+   "carte": {
+    "centre": "Budget 2027",
+    "branches": [
+     {
+      "t": "Le PLF (État)",
+      "f": [
+       "Enregistré à l'Assemblée le 1er octobre 2026 (n° 3210)",
+       "4 nov. : première partie (recettes) rejetée par 458 voix contre, aucune pour, 2 abstentions",
+       "Texte considéré comme rejeté en première lecture, transmis au Sénat dans la version du Gouvernement",
+       "Séance au Sénat prévue à partir du 20 novembre"
+      ]
+     },
+     {
+      "t": "Effectifs de l'État",
+      "f": [
+       "Création nette de 8 025 ETP dans la fonction publique d'État, hors opérateurs (Acteurs publics)",
+       "« Réinternalisation numérique » : des agents plutôt que des prestataires",
+       "Point d'indice gelé en 2027",
+       "Sénat : modification du supplément familial de traitement et du temps partiel thérapeutique"
+      ]
+     },
+     {
+      "t": "Le PLFSS (Sécurité sociale)",
+      "f": [
+       "Rejeté par l'Assemblée le 23 octobre",
+       "Sénat : recettes adoptées le 13 nov. (200 voix contre 110)",
+       "18 nov. : texte adopté en première lecture (201 voix contre 124)",
+       "Déficit visé : 12,7 Md€ en 2027, contre 21,8 Md€ en 2026"
+      ]
+     },
+     {
+      "t": "Pistes d'économies",
+      "f": [
+       "Cour des comptes (9 nov.) : 18 mesures, de 32 à 38 Md€ dès 2027",
+       "Parmi elles : gel des avancements (3,9 Md€) et non-revalorisation de prestations sociales hors minima (4,8 Md€)",
+       "Selon la Cour, 11 à 14 Md€ figurent déjà dans le projet de budget"
+      ]
+     },
+     {
+      "t": "Rappels de procédure",
+      "f": [
+       "Dépôt du PLF au plus tard le premier mardi d'octobre (LOLF)",
+       "Deux parties : recettes et équilibre, puis dépenses",
+       "Le recours à l'article 49.3 est évoqué dans les sources"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-01",
+     "t": "Présentation du PLF 2027 : création nette de 8 025 ETP dans la fonction publique d'État.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-10-23",
+     "t": "L'Assemblée rejette le PLFSS 2027.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-04",
+     "t": "L'Assemblée rejette la première partie du PLF : le texte part au Sénat.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "La Cour des comptes publie 18 mesures de rétablissement des finances publiques.",
+     "v": "2026-11-13"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Le Sénat adopte les recettes du PLFSS.",
+     "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-18",
+     "t": "Le Sénat adopte le PLFSS en première lecture (201 voix contre 124).",
+     "v": "2026-11-23"
+    },
+    {
+     "d": "2026-11-20",
+     "t": "Début prévu de l'examen du PLF au Sénat.",
+     "v": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "cybersecurite-etat",
+   "rubrique": "Administration de l'État",
+   "titre": "Cybersécurité de l'État",
+   "resume": "Après des cyberattaques contre l'État, 200 M€ ont été débloqués en urgence ; chaque ministère devrait consacrer au moins 5 % de son budget numérique à la cybersécurité dès 2027.",
+   "statut": "En cours",
+   "maj": "2026-11-25",
+   "enjeu": "La sécurité des données est un sujet de cas pratique fréquent. Connaître les bons réflexes (mots de passe, signalement d'incident), le rôle du RSSI et le lien avec la protection des données des usagers (RGPD).",
+   "carte": {
+    "centre": "Cybersécurité de l'État",
+    "branches": [
+     {
+      "t": "Moyens",
+      "f": [
+       "200 M€ débloqués en urgence après les cyberattaques",
+       "Au moins 5 % du budget numérique de chaque ministère dès 2027",
+       "Nouvelle gouvernance numérique annoncée"
+      ]
+     },
+     {
+      "t": "Gouvernance",
+      "f": [
+       "Après l'attaque contre la DGFiP, le RSSI est rattaché directement à la direction générale",
+       "L'IGF et le CGE doivent évaluer la maturité cyber des ministères économiques et financiers"
+      ]
+     },
+     {
+      "t": "Législation",
+      "f": [
+       "Un projet de loi sur la cybersécurité attend son examen au Parlement"
+      ]
+     },
+     {
+      "t": "Réflexes de l'agent",
+      "f": [
+       "Ne pas ouvrir de courriel suspect",
+       "Signaler tout incident",
+       "Protéger les données des usagers (RGPD)"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-25",
+     "t": "Annonce de 200 M€ d'urgence et d'un seuil de 5 % du budget numérique pour la cybersécurité dès 2027.",
+     "v": "2026-11-25"
+    }
+   ]
+  },
   {
    "id": "remunerations-greves",
    "rubrique": "Fonction publique",
    "titre": "Salaires et grèves dans la fonction publique",
-   "resume": "Point d'indice gelé pour 2027, grèves des 5 et 17 novembre, et une concertation d'un mois ouverte par le Premier ministre.",
+   "resume": "Point d'indice gelé pour 2027, grèves des 5 et 17 novembre, concertation d'un mois ouverte par le Premier ministre et proposition de relever l'indice minimum au 1er janvier 2027.",
    "statut": "En cours",
-   "maj": "2026-11-24",
-   "enjeu": "Un secrétaire administratif doit connaître le droit de grève des agents publics, la conciliation avec la continuité du service et les enjeux de rémunération qui structurent le dialogue social.",
+   "maj": "2026-11-25",
+   "enjeu": "Un SA doit connaître le droit de grève des agents publics et la conciliation avec la continuité du service. À l'oral, savoir expliquer la rémunération : traitement indiciaire (indice × valeur du point), primes, supplément familial ; distinguer mesure générale (point d'indice) et mesure ciblée (indice minimum).",
    "carte": {
     "centre": "Salaires et grèves",
     "branches": [
@@ -37,6 +181,15 @@
       ]
      },
      {
+      "t": "Indice minimum",
+      "f": [
+       "2 oct. : David Amiel propose de relever l'indice minimum au 1er janvier 2027",
+       "Environ 400 000 agents publics auraient un salaire de base supérieur au Smic, selon le gouvernement",
+       "Les syndicats jugent la mesure insuffisante",
+       "Environ 200 000 manifestants à l'appel de l'intersyndicale"
+      ]
+     },
+     {
       "t": "Dans le PLF 2027",
       "f": [
        "Création nette d'environ 8 000 postes dans la fonction publique de l'État (Acteurs publics)",
@@ -56,6 +209,11 @@
     ]
    },
    "chrono": [
+    {
+     "d": "2026-10-02",
+     "t": "Le ministre David Amiel propose de relever l'indice minimum au 1er janvier 2027.",
+     "v": "2026-11-25"
+    },
     {
      "d": "2026-11-04",
      "t": "Le Conseil commun de la fonction publique aborde la question des retraites.",
@@ -84,37 +242,93 @@
    ]
   },
   {
-   "id": "justice-crises-internationales",
+   "id": "ukraine-negociations",
    "rubrique": "Europe et monde",
-   "titre": "Justice internationale et crises humanitaires",
-   "resume": "La CIJ juge que la Birmanie a commis un génocide contre les Rohingyas ; l'ONU alerte sur le Soudan ; sommet UE-Royaume-Uni.",
-   "statut": "Terminé",
-   "maj": "2026-11-24",
-   "enjeu": "La CIJ, juridiction de l'ONU, tranche des différends entre États : un arrêt sur le génocide est un repère de culture générale internationale.",
+   "titre": "Guerre en Ukraine : négociations et frappes",
+   "resume": "Pourparlers trilatéraux à Abou Dhabi, rencontre au Kremlin, accord sur un vaste échange de prisonniers, place des Européens et frappes réciproques.",
+   "statut": "En cours",
+   "maj": "2026-11-25",
+   "enjeu": "Exposer les positions des parties de façon neutre, distinguer faits et positions, et situer le rôle de l'Union européenne et de la France (réfugiés, énergie, sanctions, sécurité).",
    "carte": {
-    "centre": "Justice et crises",
+    "centre": "Ukraine",
     "branches": [
      {
-      "t": "Rohingyas devant la CIJ",
+      "t": "Négociations",
       "f": [
-       "19 nov. 2026 : la Birmanie a commis un génocide, par neuf voix contre six",
-       "Affaire introduite par la Gambie en 2019 sur le fondement de la Convention de 1948",
-       "Violences dans le nord de l'État de Rakhine"
+       "10-12 nov. : pourparlers Ukraine-Russie-États-Unis à Abou Dhabi, premiers de ce type depuis février",
+       "12 nov. : des émissaires américains rencontrent Poutine à Moscou",
+       "Les deux camps conviennent d'un vaste échange de prisonniers",
+       "Kiev veut un cessez-le-feu avant toute discussion territoriale ; Moscou propose un cessez-le-feu de courte durée"
       ]
      },
      {
-      "t": "Soudan",
+      "t": "Les Européens",
       "f": [
-       "Guerre depuis avril 2023",
-       "Environ 15,4 millions de personnes ont un besoin urgent d'abris et de biens de première nécessité",
-       "Financement humanitaire jugé insuffisant"
+       "13 nov. : l'Europe doit participer au prochain cycle de discussions",
+       "Coalition des volontaires : réunion à Berlin le 19 nov."
       ]
      },
      {
-      "t": "UE-Royaume-Uni",
+      "t": "Sur le terrain",
       "f": [
-       "Deuxième sommet à Bruxelles le 20 novembre 2026",
-       "Avec António Costa, Ursula von der Leyen et le Premier ministre britannique Andy Burnham"
+       "Frappes réciproques malgré les efforts diplomatiques",
+       "Peu de progrès selon les analystes après Abou Dhabi"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-10",
+     "t": "Ouverture des pourparlers à Abou Dhabi.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-12",
+     "t": "Rencontre des émissaires américains avec Poutine au Kremlin.",
+     "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-12",
+     "t": "Les deux camps conviennent d'un vaste échange de prisonniers.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Annonce de la participation européenne au prochain cycle.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Réunion de la Coalition des volontaires à Berlin.",
+     "v": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "id": "conseil-etat-classement",
+   "rubrique": "Administration de l'État",
+   "titre": "Conseil d'État : le classement ne garantit pas la nomination",
+   "resume": "Décision du 3 novembre 2026 : un candidat classé premier à un poste universitaire peut ne pas être nommé.",
+   "statut": "Terminé",
+   "maj": "2026-11-24",
+   "enjeu": "Un classement ou une liste d'aptitude ne crée pas un droit à nomination : l'administration reste liée à l'existence d'un emploi à pourvoir.",
+   "carte": {
+    "centre": "Classement et nomination",
+    "branches": [
+     {
+      "t": "La décision",
+      "f": [
+       "Conseil d'État, 3 novembre 2026, mentionnée aux tables du recueil Lebon",
+       "Recours d'un maître de conférences classé premier pour un poste de professeur à Lyon",
+       "Recours rejeté"
+      ]
+     },
+     {
+      "t": "Le raisonnement",
+      "f": [
+       "Le classement établi par l'établissement ne suffit pas à garantir la nomination",
+       "Aucun emploi n'avait été attribué à l'université Lyon 1 pour ce poste"
       ]
      }
     ]
@@ -122,13 +336,8 @@
    "chrono": [
     {
      "d": "2026-11-03",
-     "t": "La CIJ annonce son arrêt pour le 19 novembre.",
-     "v": "2026-11-15"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "Arrêt de la CIJ : génocide contre les Rohingyas.",
-     "v": "2026-11-22"
+     "t": "Décision du Conseil d'État sur le classement d'un candidat à un poste de professeur.",
+     "v": "2026-11-17"
     }
    ]
   },
@@ -181,29 +390,37 @@
    ]
   },
   {
-   "id": "conseil-etat-classement",
-   "rubrique": "Administration de l'État",
-   "titre": "Conseil d'État : le classement ne garantit pas la nomination",
-   "resume": "Décision du 3 novembre 2026 : un candidat classé premier à un poste universitaire peut ne pas être nommé.",
+   "id": "justice-crises-internationales",
+   "rubrique": "Europe et monde",
+   "titre": "Justice internationale et crises humanitaires",
+   "resume": "La CIJ juge que la Birmanie a commis un génocide contre les Rohingyas ; l'ONU alerte sur le Soudan ; sommet UE-Royaume-Uni.",
    "statut": "Terminé",
    "maj": "2026-11-24",
-   "enjeu": "Un classement ou une liste d'aptitude ne crée pas un droit à nomination : l'administration reste liée à l'existence d'un emploi à pourvoir.",
+   "enjeu": "La CIJ, juridiction de l'ONU, tranche des différends entre États : un arrêt sur le génocide est un repère de culture générale internationale.",
    "carte": {
-    "centre": "Classement et nomination",
+    "centre": "Justice et crises",
     "branches": [
      {
-      "t": "La décision",
+      "t": "Rohingyas devant la CIJ",
       "f": [
-       "Conseil d'État, 3 novembre 2026, mentionnée aux tables du recueil Lebon",
-       "Recours d'un maître de conférences classé premier pour un poste de professeur à Lyon",
-       "Recours rejeté"
+       "19 nov. 2026 : la Birmanie a commis un génocide, par neuf voix contre six",
+       "Affaire introduite par la Gambie en 2019 sur le fondement de la Convention de 1948",
+       "Violences dans le nord de l'État de Rakhine"
       ]
      },
      {
-      "t": "Le raisonnement",
+      "t": "Soudan",
       "f": [
-       "Le classement établi par l'établissement ne suffit pas à garantir la nomination",
-       "Aucun emploi n'avait été attribué à l'université Lyon 1 pour ce poste"
+       "Guerre depuis avril 2023",
+       "Environ 15,4 millions de personnes ont un besoin urgent d'abris et de biens de première nécessité",
+       "Financement humanitaire jugé insuffisant"
+      ]
+     },
+     {
+      "t": "UE-Royaume-Uni",
+      "f": [
+       "Deuxième sommet à Bruxelles le 20 novembre 2026",
+       "Avec António Costa, Ursula von der Leyen et le Premier ministre britannique Andy Burnham"
       ]
      }
     ]
@@ -211,88 +428,13 @@
    "chrono": [
     {
      "d": "2026-11-03",
-     "t": "Décision du Conseil d'État sur le classement d'un candidat à un poste de professeur.",
-     "v": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "id": "budget-2027",
-   "rubrique": "Finances publiques",
-   "titre": "Budget de l'État et budget de la Sécurité sociale 2027",
-   "resume": "Le PLF a été rejeté en première lecture à l'Assemblée et passe au Sénat ; le PLFSS a été adopté en première lecture par le Sénat le 18 novembre.",
-   "statut": "En cours",
-   "maj": "2026-11-24",
-   "enjeu": "La procédure budgétaire (LOLF, deux parties, délais, rejet en première lecture) est un thème classique de culture financière pour les épreuves administratives.",
-   "carte": {
-    "centre": "Budget 2027",
-    "branches": [
-     {
-      "t": "Le PLF (État)",
-      "f": [
-       "Enregistré à l'Assemblée le 1er octobre 2026 (n° 3210)",
-       "4 nov. : première partie (recettes) rejetée par 458 voix contre, aucune pour, 2 abstentions",
-       "Texte considéré comme rejeté en première lecture, transmis au Sénat dans la version du Gouvernement",
-       "Séance au Sénat prévue à partir du 20 novembre"
-      ]
-     },
-     {
-      "t": "Le PLFSS (Sécurité sociale)",
-      "f": [
-       "Rejeté par l'Assemblée le 23 octobre",
-       "Sénat : recettes adoptées le 13 nov. (200 voix contre 110)",
-       "18 nov. : texte adopté en première lecture (201 voix contre 124)",
-       "Déficit visé : 12,7 Md€ en 2027, contre 21,8 Md€ en 2026"
-      ]
-     },
-     {
-      "t": "Pistes d'économies",
-      "f": [
-       "Cour des comptes (9 nov.) : 18 mesures, de 32 à 38 Md€ dès 2027",
-       "Parmi elles : gel des avancements (3,9 Md€) et non-revalorisation de prestations sociales hors minima (4,8 Md€)",
-       "Selon la Cour, 11 à 14 Md€ figurent déjà dans le projet de budget"
-      ]
-     },
-     {
-      "t": "Rappels de procédure",
-      "f": [
-       "Dépôt du PLF au plus tard le premier mardi d'octobre (LOLF)",
-       "Deux parties : recettes et équilibre, puis dépenses",
-       "Le recours à l'article 49.3 est évoqué dans les sources"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-10-23",
-     "t": "L'Assemblée rejette le PLFSS 2027.",
-     "v": "2026-11-14"
+     "t": "La CIJ annonce son arrêt pour le 19 novembre.",
+     "v": "2026-11-15"
     },
     {
-     "d": "2026-11-04",
-     "t": "L'Assemblée rejette la première partie du PLF : le texte part au Sénat.",
-     "v": "2026-11-12"
-    },
-    {
-     "d": "2026-11-09",
-     "t": "La Cour des comptes publie 18 mesures de rétablissement des finances publiques.",
-     "v": "2026-11-13"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Le Sénat adopte les recettes du PLFSS.",
-     "v": "2026-11-20"
-    },
-    {
-     "d": "2026-11-18",
-     "t": "Le Sénat adopte le PLFSS en première lecture (201 voix contre 124).",
-     "v": "2026-11-23"
-    },
-    {
-     "d": "2026-11-20",
-     "t": "Début prévu de l'examen du PLF au Sénat.",
-     "v": "2026-11-19"
+     "d": "2026-11-19",
+     "t": "Arrêt de la CIJ : génocide contre les Rohingyas.",
+     "v": "2026-11-22"
     }
    ]
   },
@@ -355,64 +497,6 @@
      "d": "2026-11-10",
      "t": "Conseil des ministres : deux projets de loi sur la HATVP.",
      "v": "2026-11-15"
-    }
-   ]
-  },
-  {
-   "id": "ukraine-negociations",
-   "rubrique": "Europe et monde",
-   "titre": "Guerre en Ukraine : négociations et frappes",
-   "resume": "Pourparlers à Abou Dhabi, rencontre au Kremlin, place des Européens dans les négociations et frappes réciproques.",
-   "statut": "En cours",
-   "maj": "2026-11-21",
-   "enjeu": "Exposer les positions des parties de façon neutre et situer le rôle de l'Union européenne et de la France.",
-   "carte": {
-    "centre": "Ukraine",
-    "branches": [
-     {
-      "t": "Négociations",
-      "f": [
-       "10-11 nov. : réunion à Abou Dhabi, première dans ce format depuis le cycle de Genève des 17-18 février",
-       "12 nov. : Poutine reçoit Witkoff et Kushner au Kremlin",
-       "Un nouvel échange de prisonniers est annoncé"
-      ]
-     },
-     {
-      "t": "Les Européens",
-      "f": [
-       "13 nov. : l'Europe doit participer au prochain cycle de discussions",
-       "Coalition des volontaires : réunion à Berlin le 19 nov."
-      ]
-     },
-     {
-      "t": "Sur le terrain",
-      "f": [
-       "Frappes réciproques malgré les efforts diplomatiques",
-       "Peu de progrès selon les analystes après Abou Dhabi"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-10",
-     "t": "Ouverture des pourparlers à Abou Dhabi.",
-     "v": "2026-11-12"
-    },
-    {
-     "d": "2026-11-12",
-     "t": "Rencontre des émissaires américains avec Poutine au Kremlin.",
-     "v": "2026-11-20"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Annonce de la participation européenne au prochain cycle.",
-     "v": "2026-11-14"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "Réunion de la Coalition des volontaires à Berlin.",
-     "v": "2026-11-16"
     }
    ]
   },
