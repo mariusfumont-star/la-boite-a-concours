@@ -1,388 +1,51 @@
 {
- "derniere_veille": "2026-11-24",
+ "derniere_veille": "2026-11-25",
  "sujets": [
   {
-   "id": "union-europeenne",
+   "id": "g7-paris",
    "rubrique": "Europe et monde",
-   "titre": "Union européenne : énergie, commerce et budget",
-   "resume": "Le Conseil européen des 15 et 16 octobre, l'accord avec la Chine sur les hybrides et les inquiétudes sur l'énergie.",
+   "titre": "G7 à Paris : Iran, détroit d'Ormuz et Ukraine",
+   "resume": "Les ministres des Affaires étrangères du G7 se sont réunis à Paris début novembre 2026, sous présidence française, avec l'Iran, Ormuz et l'Ukraine au programme.",
    "statut": "En cours",
-   "maj": "2026-11-24",
-   "enjeu": "Savoir présenter le rôle du Conseil européen (orientations, sans pouvoir législatif) et la compétence commerciale de l'Union, des questions fréquentes à l'oral.",
+   "maj": "2026-11-25",
+   "enjeu": "Savoir ce qu'est le G7, qui y siège et pourquoi la présidence française compte ; le sujet relie diplomatie, énergie et budget de l'État.",
    "carte": {
-    "centre": "Union européenne",
+    "centre": "G7 à Paris",
     "branches": [
      {
-      "t": "Conseil européen (15-16 oct.)",
+      "t": "La réunion",
       "f": [
-       "Énergie : une « réponse européenne coordonnée », avec des mesures ciblées et temporaires",
-       "Soutien à l'Ukraine",
-       "Budget de l'Union et élargissement à l'ordre du jour"
+       "Ministres des Affaires étrangères du G7 réunis à Paris début novembre 2026",
+       "La France assure la présidence du G7"
       ]
      },
      {
-      "t": "Commerce",
+      "t": "Les invités",
       "f": [
-       "12 oct. : accord UE-Chine limitant à 350 000 par an les importations de véhicules hybrides chinois",
-       "Hausse annuelle prévue de 6 %",
-       "Négociation menée par le commissaire Maroš Šefčovič"
+       "Ministres du Brésil, de la Corée du Sud, d'Égypte, d'Arabie saoudite et d'Ukraine invités par la France"
+      ]
+     },
+     {
+      "t": "Les dossiers",
+      "f": [
+       "Les Européens devaient presser Marco Rubio sur l'Ukraine",
+       "Risque de nouvelle escalade avec l'Iran"
       ]
      },
      {
       "t": "Énergie",
       "f": [
-       "Accord Trump-Poutine sur le diesel russe : il inquiète les alliés européens",
-       "Première livraison annoncée : 2,25 millions de barils en octobre"
-      ]
-     },
-     {
-      "t": "Ukraine et sécurité",
-      "f": [
-       "13 nov. : Conseil européen informel à Dublin sur la place de l'Europe dans les négociations",
-       "Cinq pays européens associés aux prochains échanges (annonce d'António Costa)"
+       "Blocage du détroit d'Ormuz, par où transite une large part du pétrole mondial",
+       "Flambée des prix de l'énergie selon la presse"
       ]
      }
     ]
    },
    "chrono": [
     {
-     "d": "2026-10-12",
-     "t": "Accord UE-Chine sur les hybrides.",
-     "v": "2026-10-12"
-    },
-    {
-     "d": "2026-10-13",
-     "t": "Inquiétude européenne sur l'accord Trump-Poutine sur le diesel.",
-     "v": "2026-10-13"
-    },
-    {
-     "d": "2026-10-16",
-     "t": "Conclusions du Conseil européen sur l'énergie et l'Ukraine.",
-     "v": "2026-10-16"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Conseil européen informel à Dublin.",
-     "v": "2026-11-18"
-    }
-   ]
-  },
-  {
-   "id": "ukraine-negociations",
-   "rubrique": "Europe et monde",
-   "titre": "Guerre en Ukraine : vers des négociations ?",
-   "resume": "Après Abou Dhabi (10-11 novembre), les Européens cherchent leur place dans les négociations ; le sommet de Shenzhen n'a pas apporté d'accord sur l'Ukraine.",
-   "statut": "En cours",
-   "maj": "2026-11-24",
-   "enjeu": "Rester neutre et factuel : exposer les positions des parties, les formats de négociation et le rôle de l'Union européenne et de la France, sans prendre parti.",
-   "carte": {
-    "centre": "Ukraine : négociations",
-    "branches": [
-     {
-      "t": "Le processus",
-      "f": [
-       "21-22 oct. : Steve Witkoff à Saint-Pétersbourg avec un plan actualisé ; Vladimir Poutine se dit prêt à des pourparlers",
-       "10-11 nov. : pourparlers Russie-Ukraine-États-Unis à Abou Dhabi, premiers trilatéraux directs depuis février",
-       "12 nov. : Witkoff et Jared Kushner reçus par Poutine, puis rencontre avec Volodymyr Zelensky en Irlande"
-      ]
-     },
-     {
-      "t": "Résultats et désaccords",
-      "f": [
-       "Accord de principe sur un échange de prisonniers",
-       "Désaccords persistants, notamment sur le territoire",
-       "14 nov. : selon Zelensky, un retrait du Donbass aurait été évoqué contre une adhésion à l'OTAN",
-       "19 nov. à Shenzhen : Trump, Xi et Poutine adoptent une « déclaration de paix », sans accord sur l'Ukraine"
-      ]
-     },
-     {
-      "t": "La place de l'Europe",
-      "f": [
-       "13 nov. : Conseil européen informel à Dublin",
-       "Cinq pays européens invités aux prochaines négociations ; le Kremlin réserve sa réponse",
-       "19 nov. : Coalition des volontaires réunie à Berlin sur la paix et les garanties de sécurité"
-      ]
-     },
-     {
-      "t": "Sur le terrain",
-      "f": [
-       "22 oct. : frappe sur Kiev avec des missiles à sous-munitions (au moins neuf morts)",
-       "Nuit du 29 au 30 oct. : 105 drones neutralisés sur 134",
-       "Frappe à Komyshuvakha (Zaporijjia) : au moins 26 morts, bilans divergents"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-10-16",
-     "t": "Rencontre Magyar - Zelensky à Bruxelles : un rapprochement diplomatique.",
-     "v": "2026-10-18"
-    },
-    {
-     "d": "2026-10-21",
-     "t": "Steve Witkoff à Saint-Pétersbourg avec un plan de paix actualisé.",
-     "v": "2026-10-21"
-    },
-    {
-     "d": "2026-10-22",
-     "t": "Poutine se dit prêt à des pourparlers ; frappe sur le centre de Kiev.",
-     "v": "2026-10-22"
-    },
-    {
-     "d": "2026-10-30",
-     "t": "Attaque massive de drones russes sur Kiev et sept régions.",
-     "v": "2026-11-01"
-    },
-    {
-     "d": "2026-11-05",
-     "t": "Frappe meurtrière à Zaporijjia, fin de la trêve locale.",
-     "v": "2026-11-06"
-    },
-    {
-     "d": "2026-11-10",
-     "t": "Ouverture des pourparlers trilatéraux à Abou Dhabi.",
-     "v": "2026-11-11"
-    },
-    {
-     "d": "2026-11-11",
-     "t": "Fin des pourparlers : échange de prisonniers, sans percée.",
-     "v": "2026-11-12"
-    },
-    {
-     "d": "2026-11-12",
-     "t": "Witkoff et Kushner reçus par Poutine au Kremlin, puis rencontre avec Zelensky.",
-     "v": "2026-11-13"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Conseil européen informel à Dublin : cinq pays européens invités aux négociations.",
-     "v": "2026-11-18"
-    },
-    {
-     "d": "2026-11-14",
-     "t": "Zelensky affirme que le Donbass a été évoqué contre une adhésion à l'OTAN.",
-     "v": "2026-11-15"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "Sommet de Shenzhen et Coalition des volontaires à Berlin.",
-     "v": "2026-11-21"
-    }
-   ]
-  },
-  {
-   "id": "rentree-universitaire",
-   "rubrique": "Éducation et jeunesse",
-   "titre": "Rentrée universitaire 2026 et places en licence",
-   "resume": "1 692 400 étudiants à l'université, 5 000 places de plus en licence pour 2027 et 2028.",
-   "statut": "En cours",
-   "maj": "2026-11-24",
-   "enjeu": "Connaître les chiffres clés de la rentrée et les leviers (places, aides, Crous) permet de répondre à une question d'actualité de l'enseignement supérieur.",
-   "carte": {
-    "centre": "Rentrée universitaire",
-    "branches": [
-     {
-      "t": "Les chiffres",
-      "f": [
-       "1 692 400 étudiants à l'université, soit + 25 000 (+ 0,8 %) par rapport à 2025",
-       "Aide de 500 € pour les lycéens boursiers qui changent d'académie"
-      ]
-     },
-     {
-      "t": "Les places supplémentaires",
-      "f": [
-       "5 000 places en licence pour 2027 et 2028, dont 4 000 en IUT (courrier du Premier ministre du 10 nov.)",
-       "Elles s'ajoutent aux 15 000 places du plan du 26 octobre"
-      ]
-     },
-     {
-      "t": "Tensions",
-      "f": [
-       "Plus de 50 campus bloqués le 10 nov.",
-       "À Rouen : trois campus bloqués et une consultation des étudiants"
-      ]
-     },
-     {
-      "t": "À suivre",
-      "f": [
-       "CNESER en formation disciplinaire les 25 et 26 novembre",
-       "Projet de loi sur l'enseignement supérieur privé, adopté par le Sénat en juin : échéance en décembre"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-10",
-     "t": "Courrier du Premier ministre aux présidents d'université : 5 000 places en licence.",
-     "v": "2026-11-17"
-    },
-    {
-     "d": "2026-11-10",
-     "t": "Plus de 50 campus bloqués.",
-     "v": "2026-11-13"
-    },
-    {
-     "d": "2026-11-24",
-     "t": "Dossier de presse de la rentrée universitaire.",
-     "v": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "id": "remuneration-fonction-publique",
-   "rubrique": "Fonction publique",
-   "titre": "Salaires des agents publics : point d'indice gelé, grève du 17 novembre",
-   "resume": "Le point d'indice reste gelé en 2027 ; après la grève du 17 novembre et la réunion de Matignon du 13, une concertation d'un mois sur les rémunérations et les carrières est ouverte.",
-   "statut": "En cours",
-   "maj": "2026-11-24",
-   "enjeu": "Un attaché doit savoir comment se construit une rémunération (indice, point d'indice, primes) et pourquoi une hausse du Smic « écrase » le bas des grilles de catégorie C.",
-   "carte": {
-    "centre": "Rémunérations publiques",
-    "branches": [
-     {
-      "t": "Les décisions",
-      "f": [
-       "Gel du point d'indice en 2027 pour les trois versants, prolongé dans le PLF 2027",
-       "2 oct. : minimum de traitement relevé de six points d'indice, environ 400 000 agents sortent de l'indemnité différentielle",
-       "9 nov. : Smic revalorisé de 1,6 % au 1er décembre",
-       "13 nov. : hausse du Smic répercutée aux agents publics et points d'indice supplémentaires pour les agents les moins bien rémunérés"
-      ]
-     },
-     {
-      "t": "Matignon, le 13 novembre",
-      "f": [
-       "Pas de hausse générale du point d'indice",
-       "Mesure ciblée : 1,35 million d'agents, gain moyen d'environ 350 € bruts par an (annonce du ministre)",
-       "Concertation d'un mois sur cinq chantiers (rémunérations et carrières), jusqu'à la mi-décembre environ"
-      ]
-     },
-     {
-      "t": "Les mobilisations",
-      "f": [
-       "Journée de grève et de manifestations le 5 novembre",
-       "17 nov. : grève dans les trois versants, maintenue par l'intersyndicale après Matignon",
-       "Cour des comptes : une des 18 propositions suspendrait en 2027 les avancements et promotions"
-      ]
-     },
-     {
-      "t": "Les acteurs",
-      "f": [
-       "David Amiel, ministre chargé de la fonction publique",
-       "Sébastien Lecornu, Premier ministre",
-       "Intersyndicale de la fonction publique"
-      ]
-     },
-     {
-      "t": "Les notions",
-      "f": [
-       "Rémunération = traitement indiciaire (indice × point d'indice) + primes",
-       "Indemnité différentielle : elle compense un traitement inférieur au Smic",
-       "Un chantier sur la structure de la rémunération (indice, indemnités, grilles) est ouvert depuis janvier"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-09-17",
-     "t": "Le Premier ministre annonce un gel du point d'indice pour 2027.",
-     "v": "2026-10-21"
-    },
-    {
-     "d": "2026-10-02",
-     "t": "Rendez-vous salarial : minimum de traitement relevé, point d'indice toujours gelé.",
-     "v": "2026-10-09"
-    },
-    {
-     "d": "2026-10-05",
-     "t": "L'intersyndicale appelle à la grève le 5 novembre.",
-     "v": "2026-10-11"
-    },
-    {
-     "d": "2026-11-09",
-     "t": "Conférence sociale : Smic revalorisé de 1,6 % au 1er décembre, gel du point confirmé.",
-     "v": "2026-11-11"
-    },
-    {
-     "d": "2026-11-10",
-     "t": "Réunions bilatérales avec les syndicats ; six organisations appellent à la grève le 17 novembre.",
-     "v": "2026-11-12"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Réunion de Matignon : hausse du Smic répercutée, points d'indice pour les bas salaires, concertation d'un mois.",
-     "v": "2026-11-14"
-    },
-    {
-     "d": "2026-11-17",
-     "t": "Grève dans la fonction publique ; l'intersyndicale avait maintenu son appel après Matignon.",
-     "v": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "id": "organisation-education-nationale",
-   "rubrique": "Éducation et jeunesse",
-   "titre": "Organisation et fonctionnement de l'Éducation nationale",
-   "resume": "Rappels sur l'organisation déconcentrée, le budget des établissements, la propriété des bâtiments et les décisions récentes (nouvelle direction, cérémonie du 11-Novembre).",
-   "statut": "Rappels",
-   "maj": "2026-11-24",
-   "enjeu": "Le rôle des rectorats, des DSDEN et des EPLE, et le partage État-collectivités, sont des fondamentaux du concours d'attaché de l'Éducation nationale.",
-   "carte": {
-    "centre": "Éducation nationale : qui fait quoi ?",
-    "branches": [
-     {
-      "t": "L'État",
-      "f": [
-       "Administration centrale : conçoit les politiques et fixe le cadre national",
-       "Régions académiques et académies, dirigées par un recteur",
-       "DSDEN au niveau du département",
-       "Il recrute, forme et rémunère les enseignants"
-      ]
-     },
-     {
-      "t": "Les collectivités",
-      "f": [
-       "Communes : les écoles",
-       "Départements : les collèges",
-       "Régions : les lycées"
-      ]
-     },
-     {
-      "t": "L'établissement (EPLE)",
-      "f": [
-       "Personne morale de droit public, autonome administrativement et financièrement",
-       "Budget préparé par le chef d'établissement (ordonnateur), voté par le conseil d'administration",
-       "L'agent comptable assure le paiement et la tenue des comptes"
-      ]
-     },
-     {
-      "t": "Actualité récente",
-      "f": [
-       "Nouvelle direction de la politique territoriale de l'école et de l'anticipation, sous l'autorité du ministre",
-       "11-Novembre : cérémonie obligatoire, du CM1 à la terminale (circulaire du 2 juillet 2026)",
-       "Concours d'enseignants : inscriptions ouvertes jusqu'au 25 novembre 2026"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-08-31",
-     "t": "Création annoncée d'une direction de la politique territoriale de l'école et de l'anticipation, d'ici le 1er novembre.",
-     "v": "2026-11-06"
-    },
-    {
-     "d": "2026-10-06",
-     "t": "Circulaire sur le report possible des élections au CA, au CVC et au CVL.",
-     "v": "2026-10-13"
-    },
-    {
-     "d": "2026-11-09",
-     "t": "Première cérémonie obligatoire du 11-Novembre dans les établissements.",
-     "v": "2026-11-12"
+     "d": "2026-11-25",
+     "t": "Réunion des ministres des Affaires étrangères du G7 à Paris (début novembre), sous présidence française.",
+     "v": "2026-11-25"
     }
    ]
   },
@@ -390,9 +53,9 @@
    "id": "mouvement-lyceen",
    "rubrique": "Éducation et jeunesse",
    "titre": "Le mouvement lycéen et étudiant",
-   "resume": "Parti de lycées de la région parisienne à la mi-septembre, il réclame des enseignants, des classes moins chargées, des locaux dignes et une autre orientation post-bac.",
+   "resume": "Parti de lycées de la région parisienne à la mi-septembre, il réclame des enseignants, des classes moins chargées, des locaux dignes et une autre orientation post-bac. Selon le ministre, 190 élèves ont été blessés depuis le début du mouvement.",
    "statut": "En cours",
-   "maj": "2026-11-24",
+   "maj": "2026-11-25",
    "enjeu": "Un attaché de l'Éducation nationale doit savoir distinguer ce qui relève de l'État (postes, remplacements, programmes) de ce qui relève des collectivités (bâtiments), et connaître les instances de dialogue des établissements.",
    "carte": {
     "centre": "Mouvement lycéen",
@@ -404,7 +67,7 @@
        "13 oct. : 161 000 selon l'Intérieur, 480 000 selon les organisateurs",
        "Lycées fermés : environ 800 le 6 oct., 214 le 13 oct., 49 le 10 nov. (1,3 %)",
        "Plus de 50 campus universitaires bloqués le 10 nov.",
-       "Bilan des violences selon Public Sénat : 609 blessés, dont 364 élèves et 245 personnels"
+       "Blessés : 609 selon Public Sénat (364 élèves, 245 personnels) ; 190 élèves selon le ministre"
       ]
      },
      {
@@ -422,7 +85,7 @@
        "Consultation Agora du 5 au 23 oct. : plus de 90 000 contributions",
        "3 000 remplaçants déployés dans les lycées en tension",
        "26 oct. : 28 élèves maximum en seconde d'ici 2028, 500 postes dans les lycées, Parcoursup transformé puis remplacé",
-       "Cours de rattrapage envisagés aux vacances de février ou de Pâques",
+       "Cours de rattrapage possibles en février ou à Pâques (9 nov.) ; plateforme de concertation et plus d'élus lycéens au CSE",
        "« Judiciarisation » : saisine systématique de la justice pour les actes visant les personnels (13 nov.)"
       ]
      },
@@ -513,6 +176,11 @@
      "v": "2026-11-11"
     },
     {
+     "d": "2026-11-09",
+     "t": "Le ministre indique que des cours de rattrapage pourraient être organisés en février ou à Pâques.",
+     "v": "2026-11-25"
+    },
+    {
      "d": "2026-11-10",
      "t": "Nouvelle grève : 1,60 % des enseignants grévistes selon le ministère.",
      "v": "2026-11-11"
@@ -526,6 +194,333 @@
      "d": "2026-11-16",
      "t": "Le lycée Nelson-Mandela de Nantes rouvre partiellement après l'incendie du 1er octobre.",
      "v": "2026-11-18"
+    },
+    {
+     "d": "2026-11-25",
+     "t": "Selon le ministre Édouard Geffray, 190 élèves ont été blessés depuis le début du mouvement ; d'autres sources avancent des chiffres différents.",
+     "v": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "parcoursup",
+   "rubrique": "Éducation et jeunesse",
+   "titre": "Parcoursup : réforme en 2027, remplacement en 2028",
+   "resume": "Contesté par les lycéens, Parcoursup doit connaître une « évolution forte » à la session 2027 avant d'être remplacé en 2028. Le paramétrage des formations pour 2027 se déroule du 12 novembre au 10 décembre.",
+   "statut": "En cours",
+   "maj": "2026-11-25",
+   "enjeu": "Parcoursup est un sujet d'oral classique : il faut en connaître le principe, les limites (transparence, quotas ORE) et le calendrier de la réforme, sans prendre parti.",
+   "carte": {
+    "centre": "Parcoursup",
+    "branches": [
+     {
+      "t": "Le bilan 2026",
+      "f": [
+       "1 046 000 candidats pour environ 25 000 formations",
+       "+ 66 000 candidats par rapport à 2025",
+       "Hausse tirée surtout par les étudiants en réorientation (+ 23 000)",
+       "Taux d'acceptation des lycéens stable à 84 % ; procédure close le 10 septembre",
+       "33 établissements déréférencés pour difficultés économiques"
+      ]
+     },
+     {
+      "t": "Les critiques",
+      "f": [
+       "Manque de transparence des critères et des algorithmes",
+       "Quotas de boursiers (loi ORE de 2018) mal appliqués selon deux chercheurs",
+       "Une proposition de loi pour le supprimer (député Hendrik Davi, 10 nov.)"
+      ]
+     },
+     {
+      "t": "Les annonces du 26 octobre",
+      "f": [
+       "« Évolution forte » dès la session 2027",
+       "Remplacement de la plateforme en 2028",
+       "Jusqu'à 15 000 places supplémentaires pour la rentrée 2027",
+       "Réponses expliquées aux candidats sans qu'ils aient à les demander"
+      ]
+     },
+     {
+      "t": "Le comité de réforme",
+      "f": [
+       "Réunit lycéens, enseignants, syndicats, parents, parlementaires, établissements",
+       "Première réunion le 9 nov., quittée par une partie des organisations",
+       "Premières recommandations attendues courant novembre",
+       "Paramétrage 2027 du 12 nov. au 10 déc. ; carte des formations publiée le 17 déc.",
+       "Selon L'Étudiant, les formations n'ont reçu aucune consigne sur les nouveautés"
+      ]
+     },
+     {
+      "t": "Les trois volets (ministre)",
+      "f": [
+       "L'avant : orientation et choix des spécialités",
+       "L'outil : amélioration de la plateforme",
+       "L'après : réponses données aux candidats"
+      ]
+     },
+     {
+      "t": "Limite",
+      "f": [
+       "Certains paramètres relèvent de la loi : seule la loi peut les modifier"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-14",
+     "t": "Note de chercheurs sur l'application des quotas de boursiers.",
+     "v": "2026-10-15"
+    },
+    {
+     "d": "2026-10-15",
+     "t": "Le ministre annonce des mesures « d'ici fin octobre » sur l'avant, l'outil et l'après.",
+     "v": "2026-10-16"
+    },
+    {
+     "d": "2026-10-19",
+     "t": "Bilan Parcoursup 2026 : 1 046 000 candidats.",
+     "v": "2026-10-24"
+    },
+    {
+     "d": "2026-10-26",
+     "t": "Annonce d'une évolution forte en 2027 et d'un remplacement en 2028.",
+     "v": "2026-10-27"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "Premier comité de réforme, dans un climat tendu.",
+     "v": "2026-11-11"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Dépôt d'une proposition de loi pour supprimer Parcoursup.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-12",
+     "t": "Début du paramétrage de Parcoursup 2027, jusqu'au 10 décembre ; selon L'Étudiant, les universités ne savent pas encore précisément quelles évolutions seront mises en œuvre.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-12-17",
+     "t": "Publication de la carte des formations pour la session 2027.",
+     "v": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "remuneration-fonction-publique",
+   "rubrique": "Fonction publique",
+   "titre": "Salaires des agents publics : point d'indice gelé, grève du 17 novembre",
+   "resume": "Le point d'indice reste gelé en 2027 ; après la grève du 17 novembre et la réunion de Matignon du 13, une concertation d'un mois sur les rémunérations et les carrières est ouverte. Le 13 novembre, huit points d'indice ont été prévus pour le bas de grille ; le Smic atteint 1 502 € au 1er décembre.",
+   "statut": "En cours",
+   "maj": "2026-11-25",
+   "enjeu": "Un attaché doit savoir comment se construit une rémunération (indice, point d'indice, primes) et pourquoi une hausse du Smic « écrase » le bas des grilles de catégorie C.",
+   "carte": {
+    "centre": "Rémunérations publiques",
+    "branches": [
+     {
+      "t": "Les décisions",
+      "f": [
+       "Gel du point d'indice en 2027 pour les trois versants, prolongé dans le PLF 2027",
+       "2 oct. : minimum de traitement relevé de six points d'indice, environ 400 000 agents sortent de l'indemnité différentielle",
+       "9 nov. : Smic revalorisé de 1,6 % au 1er décembre, soit 1 502 €",
+       "13 nov. : hausse du Smic répercutée aux agents publics et points d'indice supplémentaires pour les agents les moins bien rémunérés"
+      ]
+     },
+     {
+      "t": "Matignon, le 13 novembre",
+      "f": [
+       "Pas de hausse générale du point d'indice",
+       "Mesure ciblée : 1,35 million d'agents, gain moyen d'environ 350 € bruts par an (annonce du ministre)",
+       "Concertation d'un mois sur cinq chantiers (rémunérations et carrières), jusqu'à la mi-décembre environ",
+       "Huit points d'indice pour le bas de grille ; environ 200 000 agents au-dessus du Smic aussi concernés",
+       "Indemnité différentielle : 650 000 agents concernés contre 872 000 (presse spécialisée)"
+      ]
+     },
+     {
+      "t": "Les mobilisations",
+      "f": [
+       "Journée de grève et de manifestations le 5 novembre",
+       "17 nov. : grève dans les trois versants, maintenue par l'intersyndicale après Matignon",
+       "Cour des comptes : une des 18 propositions suspendrait en 2027 les avancements et promotions",
+       "Syndicats : pas de dégel du point ; le cabinet du ministre estime qu'aucun agent n'est payé sous le Smic horaire (rémunération globale)"
+      ]
+     },
+     {
+      "t": "Les acteurs",
+      "f": [
+       "David Amiel, ministre chargé de la fonction publique",
+       "Sébastien Lecornu, Premier ministre",
+       "Intersyndicale de la fonction publique"
+      ]
+     },
+     {
+      "t": "Les notions",
+      "f": [
+       "Rémunération = traitement indiciaire (indice × point d'indice) + primes",
+       "Indemnité différentielle : elle compense un traitement inférieur au Smic",
+       "Un chantier sur la structure de la rémunération (indice, indemnités, grilles) est ouvert depuis janvier"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-09-17",
+     "t": "Le Premier ministre annonce un gel du point d'indice pour 2027.",
+     "v": "2026-10-21"
+    },
+    {
+     "d": "2026-10-02",
+     "t": "Rendez-vous salarial : minimum de traitement relevé, point d'indice toujours gelé.",
+     "v": "2026-10-09"
+    },
+    {
+     "d": "2026-10-05",
+     "t": "L'intersyndicale appelle à la grève le 5 novembre.",
+     "v": "2026-10-11"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "Conférence sociale : Smic revalorisé de 1,6 % au 1er décembre, gel du point confirmé.",
+     "v": "2026-11-11"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Réunions bilatérales avec les syndicats ; six organisations appellent à la grève le 17 novembre.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Réunion de Matignon : hausse du Smic répercutée, points d'indice pour les bas salaires, concertation d'un mois.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Le ministre David Amiel présente huit points d'indice pour les agents du bas de grille ; selon la presse spécialisée, 650 000 agents resteraient à l'indemnité différentielle contre 872 000.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-17",
+     "t": "Grève dans la fonction publique ; l'intersyndicale avait maintenu son appel après Matignon.",
+     "v": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "ukraine-negociations",
+   "rubrique": "Europe et monde",
+   "titre": "Guerre en Ukraine : vers des négociations ?",
+   "resume": "Après Abou Dhabi (10-11 novembre), les Européens cherchent leur place dans les négociations (équipe de sept membres décidée à Dublin, accord du Kremlin non acquis) ; le sommet de Shenzhen n'a pas apporté d'accord sur l'Ukraine.",
+   "statut": "En cours",
+   "maj": "2026-11-25",
+   "enjeu": "Rester neutre et factuel : exposer les positions des parties, les formats de négociation et le rôle de l'Union européenne et de la France, sans prendre parti.",
+   "carte": {
+    "centre": "Ukraine : négociations",
+    "branches": [
+     {
+      "t": "Le processus",
+      "f": [
+       "21-22 oct. : Steve Witkoff à Saint-Pétersbourg avec un plan actualisé ; Vladimir Poutine se dit prêt à des pourparlers",
+       "10-11 nov. : pourparlers Russie-Ukraine-États-Unis à Abou Dhabi, premiers trilatéraux directs depuis février",
+       "12 nov. : Witkoff et Jared Kushner reçus par Poutine, puis rencontre avec Volodymyr Zelensky en Irlande"
+      ]
+     },
+     {
+      "t": "Résultats et désaccords",
+      "f": [
+       "Accord de principe sur un échange de prisonniers",
+       "Désaccords persistants, notamment sur le territoire",
+       "14 nov. : selon Zelensky, un retrait du Donbass aurait été évoqué contre une adhésion à l'OTAN",
+       "19 nov. à Shenzhen : Trump, Xi et Poutine adoptent une « déclaration de paix », sans accord sur l'Ukraine"
+      ]
+     },
+     {
+      "t": "La place de l'Europe",
+      "f": [
+       "13 nov. : Conseil européen informel à Dublin",
+       "13 nov. : à Dublin, l'Europe serait représentée par une équipe de sept membres (selon d'autres sources, cinq pays invités) ; le Kremlin réserve sa réponse",
+       "19 nov. : Coalition des volontaires réunie à Berlin sur la paix et les garanties de sécurité",
+       "Selon le chancelier allemand, l'Europe participera bientôt aux négociations ; le Kremlin ne l'a pas encore acceptée"
+      ]
+     },
+     {
+      "t": "Sur le terrain",
+      "f": [
+       "22 oct. : frappe sur Kiev avec des missiles à sous-munitions (au moins neuf morts)",
+       "Nuit du 29 au 30 oct. : 105 drones neutralisés sur 134",
+       "Frappe à Komyshuvakha (Zaporijjia) : au moins 26 morts, bilans divergents"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-16",
+     "t": "Rencontre Magyar - Zelensky à Bruxelles : un rapprochement diplomatique.",
+     "v": "2026-10-18"
+    },
+    {
+     "d": "2026-10-21",
+     "t": "Steve Witkoff à Saint-Pétersbourg avec un plan de paix actualisé.",
+     "v": "2026-10-21"
+    },
+    {
+     "d": "2026-10-22",
+     "t": "Poutine se dit prêt à des pourparlers ; frappe sur le centre de Kiev.",
+     "v": "2026-10-22"
+    },
+    {
+     "d": "2026-10-30",
+     "t": "Attaque massive de drones russes sur Kiev et sept régions.",
+     "v": "2026-11-01"
+    },
+    {
+     "d": "2026-11-05",
+     "t": "Frappe meurtrière à Zaporijjia, fin de la trêve locale.",
+     "v": "2026-11-06"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Ouverture des pourparlers trilatéraux à Abou Dhabi.",
+     "v": "2026-11-11"
+    },
+    {
+     "d": "2026-11-11",
+     "t": "Fin des pourparlers : échange de prisonniers, sans percée.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-12",
+     "t": "Witkoff et Kushner reçus par Poutine au Kremlin, puis rencontre avec Zelensky.",
+     "v": "2026-11-13"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Conseil européen informel à Dublin : cinq pays européens invités aux négociations.",
+     "v": "2026-11-18"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Dublin : les dirigeants conviennent que l'Europe serait représentée par une équipe de sept membres dans les pourparlers.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-14",
+     "t": "Zelensky affirme que le Donbass a été évoqué contre une adhésion à l'OTAN.",
+     "v": "2026-11-15"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Sommet de Shenzhen et Coalition des volontaires à Berlin.",
+     "v": "2026-11-21"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Après la Coalition des volontaires à Berlin, le chancelier allemand annonce une participation prochaine de l'Europe ; le Kremlin ne l'a pas encore acceptée.",
+     "v": "2026-11-25"
     }
    ]
   },
@@ -605,6 +600,379 @@
      "d": "2026-11-21",
      "t": "Le budget de l'enseignement supérieur : 29,5 Md€, repas à 1 € conditionné au vote du budget.",
      "v": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "organisation-education-nationale",
+   "rubrique": "Éducation et jeunesse",
+   "titre": "Organisation et fonctionnement de l'Éducation nationale",
+   "resume": "Rappels sur l'organisation déconcentrée, le budget des établissements, la propriété des bâtiments et les décisions récentes (nouvelle direction, cérémonie du 11-Novembre).",
+   "statut": "Rappels",
+   "maj": "2026-11-24",
+   "enjeu": "Le rôle des rectorats, des DSDEN et des EPLE, et le partage État-collectivités, sont des fondamentaux du concours d'attaché de l'Éducation nationale.",
+   "carte": {
+    "centre": "Éducation nationale : qui fait quoi ?",
+    "branches": [
+     {
+      "t": "L'État",
+      "f": [
+       "Administration centrale : conçoit les politiques et fixe le cadre national",
+       "Régions académiques et académies, dirigées par un recteur",
+       "DSDEN au niveau du département",
+       "Il recrute, forme et rémunère les enseignants"
+      ]
+     },
+     {
+      "t": "Les collectivités",
+      "f": [
+       "Communes : les écoles",
+       "Départements : les collèges",
+       "Régions : les lycées"
+      ]
+     },
+     {
+      "t": "L'établissement (EPLE)",
+      "f": [
+       "Personne morale de droit public, autonome administrativement et financièrement",
+       "Budget préparé par le chef d'établissement (ordonnateur), voté par le conseil d'administration",
+       "L'agent comptable assure le paiement et la tenue des comptes"
+      ]
+     },
+     {
+      "t": "Actualité récente",
+      "f": [
+       "Nouvelle direction de la politique territoriale de l'école et de l'anticipation, sous l'autorité du ministre",
+       "11-Novembre : cérémonie obligatoire, du CM1 à la terminale (circulaire du 2 juillet 2026)",
+       "Concours d'enseignants : inscriptions ouvertes jusqu'au 25 novembre 2026"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-08-31",
+     "t": "Création annoncée d'une direction de la politique territoriale de l'école et de l'anticipation, d'ici le 1er novembre.",
+     "v": "2026-11-06"
+    },
+    {
+     "d": "2026-10-06",
+     "t": "Circulaire sur le report possible des élections au CA, au CVC et au CVL.",
+     "v": "2026-10-13"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "Première cérémonie obligatoire du 11-Novembre dans les établissements.",
+     "v": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "id": "rentree-universitaire",
+   "rubrique": "Éducation et jeunesse",
+   "titre": "Rentrée universitaire 2026 et places en licence",
+   "resume": "1 692 400 étudiants à l'université, 5 000 places de plus en licence pour 2027 et 2028.",
+   "statut": "En cours",
+   "maj": "2026-11-24",
+   "enjeu": "Connaître les chiffres clés de la rentrée et les leviers (places, aides, Crous) permet de répondre à une question d'actualité de l'enseignement supérieur.",
+   "carte": {
+    "centre": "Rentrée universitaire",
+    "branches": [
+     {
+      "t": "Les chiffres",
+      "f": [
+       "1 692 400 étudiants à l'université, soit + 25 000 (+ 0,8 %) par rapport à 2025",
+       "Aide de 500 € pour les lycéens boursiers qui changent d'académie"
+      ]
+     },
+     {
+      "t": "Les places supplémentaires",
+      "f": [
+       "5 000 places en licence pour 2027 et 2028, dont 4 000 en IUT (courrier du Premier ministre du 10 nov.)",
+       "Elles s'ajoutent aux 15 000 places du plan du 26 octobre"
+      ]
+     },
+     {
+      "t": "Tensions",
+      "f": [
+       "Plus de 50 campus bloqués le 10 nov.",
+       "À Rouen : trois campus bloqués et une consultation des étudiants"
+      ]
+     },
+     {
+      "t": "À suivre",
+      "f": [
+       "CNESER en formation disciplinaire les 25 et 26 novembre",
+       "Projet de loi sur l'enseignement supérieur privé, adopté par le Sénat en juin : échéance en décembre"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-10",
+     "t": "Courrier du Premier ministre aux présidents d'université : 5 000 places en licence.",
+     "v": "2026-11-17"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Plus de 50 campus bloqués.",
+     "v": "2026-11-13"
+    },
+    {
+     "d": "2026-11-24",
+     "t": "Dossier de presse de la rentrée universitaire.",
+     "v": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "id": "union-europeenne",
+   "rubrique": "Europe et monde",
+   "titre": "Union européenne : énergie, commerce et budget",
+   "resume": "Le Conseil européen des 15 et 16 octobre, l'accord avec la Chine sur les hybrides et les inquiétudes sur l'énergie.",
+   "statut": "En cours",
+   "maj": "2026-11-24",
+   "enjeu": "Savoir présenter le rôle du Conseil européen (orientations, sans pouvoir législatif) et la compétence commerciale de l'Union, des questions fréquentes à l'oral.",
+   "carte": {
+    "centre": "Union européenne",
+    "branches": [
+     {
+      "t": "Conseil européen (15-16 oct.)",
+      "f": [
+       "Énergie : une « réponse européenne coordonnée », avec des mesures ciblées et temporaires",
+       "Soutien à l'Ukraine",
+       "Budget de l'Union et élargissement à l'ordre du jour"
+      ]
+     },
+     {
+      "t": "Commerce",
+      "f": [
+       "12 oct. : accord UE-Chine limitant à 350 000 par an les importations de véhicules hybrides chinois",
+       "Hausse annuelle prévue de 6 %",
+       "Négociation menée par le commissaire Maroš Šefčovič"
+      ]
+     },
+     {
+      "t": "Énergie",
+      "f": [
+       "Accord Trump-Poutine sur le diesel russe : il inquiète les alliés européens",
+       "Première livraison annoncée : 2,25 millions de barils en octobre"
+      ]
+     },
+     {
+      "t": "Ukraine et sécurité",
+      "f": [
+       "13 nov. : Conseil européen informel à Dublin sur la place de l'Europe dans les négociations",
+       "Cinq pays européens associés aux prochains échanges (annonce d'António Costa)"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-12",
+     "t": "Accord UE-Chine sur les hybrides.",
+     "v": "2026-10-12"
+    },
+    {
+     "d": "2026-10-13",
+     "t": "Inquiétude européenne sur l'accord Trump-Poutine sur le diesel.",
+     "v": "2026-10-13"
+    },
+    {
+     "d": "2026-10-16",
+     "t": "Conclusions du Conseil européen sur l'énergie et l'Ukraine.",
+     "v": "2026-10-16"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Conseil européen informel à Dublin.",
+     "v": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "id": "golfe-iran",
+   "rubrique": "Europe et monde",
+   "titre": "Golfe, Iran et détroit d'Ormuz",
+   "resume": "Frappes des Houthis, navigation entravée dans le détroit d'Ormuz et incertitude sur une reprise de la guerre entre les États-Unis et l'Iran.",
+   "statut": "En cours",
+   "maj": "2026-11-23",
+   "enjeu": "Comprendre les conséquences économiques (énergie, transport maritime, prix) et les formats de médiation, sans prendre parti dans le conflit.",
+   "carte": {
+    "centre": "Golfe et Ormuz",
+    "branches": [
+     {
+      "t": "Les incidents",
+      "f": [
+       "8 oct. : les Houthis frappent l'aéroport de Riyad (trois morts)",
+       "9 oct. : les Gardiens de la révolution frappent le pétrolier MV Sun Shine",
+       "13 oct. : frappe revendiquée par les Houthis contre le siège d'Aramco à Dhahran",
+       "10 nov. : les Gardiens de la révolution signalent deux navires en feu après une route « non autorisée »"
+      ]
+     },
+     {
+      "t": "Conséquences",
+      "f": [
+       "Trafic maritime dans le détroit d'Ormuz en baisse d'environ 90 % depuis le début de la guerre",
+       "Le FMI met en garde contre les effets sur l'économie mondiale",
+       "19 nov. : l'AIE juge essentielle la réouverture complète du détroit d'Ormuz",
+       "Cyberattaque du 11-12 octobre sur des contrôleurs de réfrigération dans environ 700 sites de la grande distribution, attribuée par la France aux Gardiens de la révolution"
+      ]
+     },
+     {
+      "t": "Diplomatie",
+      "f": [
+       "Un accord provisoire conclu en juin sous l'égide du Pakistan",
+       "L'Iran se dit prêt à rouvrir Ormuz si les États-Unis lèvent leur blocus naval",
+       "19 oct. : Sergueï Lavrov affiche à Téhéran le soutien de la Russie",
+       "Washington veut inclure le nucléaire dans toute négociation initiale (guerre en cours depuis huit mois)"
+      ]
+     },
+     {
+      "t": "Perspectives",
+      "f": [
+       "Les États du Golfe se préparent à une possible reprise de la guerre",
+       "Selon la presse, des plans de frappes américano-israéliens après les élections américaines"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-08",
+     "t": "Les Houthis frappent l'aéroport de Riyad.",
+     "v": "2026-10-10"
+    },
+    {
+     "d": "2026-10-09",
+     "t": "Un pétrolier frappé dans le détroit d'Ormuz.",
+     "v": "2026-10-11"
+    },
+    {
+     "d": "2026-10-13",
+     "t": "Frappe contre le siège d'Aramco ; mise en garde du FMI.",
+     "v": "2026-10-15"
+    },
+    {
+     "d": "2026-10-19",
+     "t": "Lavrov à Téhéran.",
+     "v": "2026-10-19"
+    },
+    {
+     "d": "2026-10-24",
+     "t": "Téhéran propose de rouvrir Ormuz contre la levée du blocus américain.",
+     "v": "2026-10-28"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Deux navires en feu dans le détroit d'Ormuz selon les Gardiens de la révolution ; Washington maintient son blocus.",
+     "v": "2026-11-13"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "L'AIE alerte sur la menace pour la sécurité énergétique mondiale.",
+     "v": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "id": "monde-sante-climat",
+   "rubrique": "Europe et monde",
+   "titre": "Autres faits du monde : climat, santé, prix Nobel",
+   "resume": "COP31 à Antalya, Ebola au Kenya, prix Nobel de la paix, mobilisation étudiante en Albanie, référendum consultatif en Alberta.",
+   "statut": "En cours",
+   "maj": "2026-11-23",
+   "enjeu": "Alimenter la culture générale : un fait précis (date, lieu, acteurs) vaut mieux qu'une généralité à l'oral.",
+   "carte": {
+    "centre": "Faits du monde",
+    "branches": [
+     {
+      "t": "Climat",
+      "f": [
+       "COP31 à Antalya (Turquie), du 9 au 20 novembre",
+       "Turquie et Australie partenaires de l'organisation",
+       "Sommet des dirigeants les 11 et 12 nov. ; premier projet de décision-cadre publié le 16 nov.",
+       "20 nov. : dernière journée de négociation sur le financement climatique"
+      ]
+     },
+     {
+      "t": "Santé mondiale",
+      "f": [
+       "Ebola : deuxième cas confirmé au Kenya le 14 oct., lié à l'épidémie en RDC",
+       "Premier malade arrivé à Nairobi par avion le 3 octobre"
+      ]
+     },
+     {
+      "t": "Droit et prix Nobel",
+      "f": [
+       "Prix Nobel de la paix 2026 : Navi Pillay, juriste sud-africaine",
+       "Ancienne juge au tribunal pénal international pour le Rwanda et à la CPI"
+      ]
+     },
+     {
+      "t": "Mobilisations",
+      "f": [
+       "Albanie : cinquième jour d'affrontements entre étudiants et forces de l'ordre à Tirana",
+       "Alberta (Canada) : environ 76 % de non à un processus d'indépendance, référendum consultatif du 19 oct."
+      ]
+     },
+     {
+      "t": "Francophonie",
+      "f": [
+       "20e sommet à Phnom Penh (15-16 nov.)",
+       "Pas de successeur élu à Louise Mushikiwabo : son mandat est prolongé de douze mois, élection en 2027"
+      ]
+     },
+     {
+      "t": "Élections",
+      "f": [
+       "Espagne : législatives le 29 novembre, après le débat Sánchez-Feijóo du 19 novembre"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-09",
+     "t": "Le prix Nobel de la paix est attribué à Navi Pillay.",
+     "v": "2026-10-09"
+    },
+    {
+     "d": "2026-10-14",
+     "t": "Deuxième cas d'Ebola confirmé au Kenya.",
+     "v": "2026-10-14"
+    },
+    {
+     "d": "2026-10-17",
+     "t": "Cinquième jour d'affrontements à Tirana.",
+     "v": "2026-10-17"
+    },
+    {
+     "d": "2026-10-19",
+     "t": "Référendum consultatif en Alberta.",
+     "v": "2026-10-20"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "Ouverture de la COP31 à Antalya.",
+     "v": "2026-11-11"
+    },
+    {
+     "d": "2026-11-15",
+     "t": "Ouverture du 20e sommet de la Francophonie à Phnom Penh.",
+     "v": "2026-11-15"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Le sommet de la Francophonie prolonge d'un an le mandat de Louise Mushikiwabo.",
+     "v": "2026-11-19"
+    },
+    {
+     "d": "2026-11-20",
+     "t": "COP31 : dernière journée de négociation sur le financement climatique.",
+     "v": "2026-11-20"
     }
    ]
   },
@@ -713,291 +1081,6 @@
      "d": "2026-11-09",
      "t": "La Cour des comptes publie 18 propositions pour redresser les finances publiques.",
      "v": "2026-11-13"
-    }
-   ]
-  },
-  {
-   "id": "parcoursup",
-   "rubrique": "Éducation et jeunesse",
-   "titre": "Parcoursup : réforme en 2027, remplacement en 2028",
-   "resume": "Contesté par les lycéens, Parcoursup doit connaître une « évolution forte » à la session 2027 avant d'être remplacé en 2028.",
-   "statut": "En cours",
-   "maj": "2026-11-23",
-   "enjeu": "Parcoursup est un sujet d'oral classique : il faut en connaître le principe, les limites (transparence, quotas ORE) et le calendrier de la réforme, sans prendre parti.",
-   "carte": {
-    "centre": "Parcoursup",
-    "branches": [
-     {
-      "t": "Le bilan 2026",
-      "f": [
-       "1 046 000 candidats pour environ 25 000 formations",
-       "+ 66 000 candidats par rapport à 2025",
-       "Hausse tirée surtout par les étudiants en réorientation (+ 23 000)",
-       "Taux d'acceptation des lycéens stable à 84 % ; procédure close le 10 septembre"
-      ]
-     },
-     {
-      "t": "Les critiques",
-      "f": [
-       "Manque de transparence des critères et des algorithmes",
-       "Quotas de boursiers (loi ORE de 2018) mal appliqués selon deux chercheurs",
-       "Une proposition de loi pour le supprimer (député Hendrik Davi, 10 nov.)"
-      ]
-     },
-     {
-      "t": "Les annonces du 26 octobre",
-      "f": [
-       "« Évolution forte » dès la session 2027",
-       "Remplacement de la plateforme en 2028",
-       "Jusqu'à 15 000 places supplémentaires pour la rentrée 2027",
-       "Réponses expliquées aux candidats sans qu'ils aient à les demander"
-      ]
-     },
-     {
-      "t": "Le comité de réforme",
-      "f": [
-       "Réunit lycéens, enseignants, syndicats, parents, parlementaires, établissements",
-       "Première réunion le 9 nov., quittée par une partie des organisations",
-       "Premières recommandations attendues courant novembre",
-       "Carte des formations 2027 publiée le 17 décembre",
-       "Selon L'Étudiant, les formations n'ont reçu aucune consigne sur les nouveautés"
-      ]
-     },
-     {
-      "t": "Les trois volets (ministre)",
-      "f": [
-       "L'avant : orientation et choix des spécialités",
-       "L'outil : amélioration de la plateforme",
-       "L'après : réponses données aux candidats"
-      ]
-     },
-     {
-      "t": "Limite",
-      "f": [
-       "Certains paramètres relèvent de la loi : seule la loi peut les modifier"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-10-14",
-     "t": "Note de chercheurs sur l'application des quotas de boursiers.",
-     "v": "2026-10-15"
-    },
-    {
-     "d": "2026-10-15",
-     "t": "Le ministre annonce des mesures « d'ici fin octobre » sur l'avant, l'outil et l'après.",
-     "v": "2026-10-16"
-    },
-    {
-     "d": "2026-10-19",
-     "t": "Bilan Parcoursup 2026 : 1 046 000 candidats.",
-     "v": "2026-10-24"
-    },
-    {
-     "d": "2026-10-26",
-     "t": "Annonce d'une évolution forte en 2027 et d'un remplacement en 2028.",
-     "v": "2026-10-27"
-    },
-    {
-     "d": "2026-11-09",
-     "t": "Premier comité de réforme, dans un climat tendu.",
-     "v": "2026-11-11"
-    },
-    {
-     "d": "2026-11-10",
-     "t": "Dépôt d'une proposition de loi pour supprimer Parcoursup.",
-     "v": "2026-11-12"
-    },
-    {
-     "d": "2026-12-17",
-     "t": "Publication de la carte des formations pour la session 2027.",
-     "v": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "id": "monde-sante-climat",
-   "rubrique": "Europe et monde",
-   "titre": "Autres faits du monde : climat, santé, prix Nobel",
-   "resume": "COP31 à Antalya, Ebola au Kenya, prix Nobel de la paix, mobilisation étudiante en Albanie, référendum consultatif en Alberta.",
-   "statut": "En cours",
-   "maj": "2026-11-23",
-   "enjeu": "Alimenter la culture générale : un fait précis (date, lieu, acteurs) vaut mieux qu'une généralité à l'oral.",
-   "carte": {
-    "centre": "Faits du monde",
-    "branches": [
-     {
-      "t": "Climat",
-      "f": [
-       "COP31 à Antalya (Turquie), du 9 au 20 novembre",
-       "Turquie et Australie partenaires de l'organisation",
-       "Sommet des dirigeants les 11 et 12 nov. ; premier projet de décision-cadre publié le 16 nov.",
-       "20 nov. : dernière journée de négociation sur le financement climatique"
-      ]
-     },
-     {
-      "t": "Santé mondiale",
-      "f": [
-       "Ebola : deuxième cas confirmé au Kenya le 14 oct., lié à l'épidémie en RDC",
-       "Premier malade arrivé à Nairobi par avion le 3 octobre"
-      ]
-     },
-     {
-      "t": "Droit et prix Nobel",
-      "f": [
-       "Prix Nobel de la paix 2026 : Navi Pillay, juriste sud-africaine",
-       "Ancienne juge au tribunal pénal international pour le Rwanda et à la CPI"
-      ]
-     },
-     {
-      "t": "Mobilisations",
-      "f": [
-       "Albanie : cinquième jour d'affrontements entre étudiants et forces de l'ordre à Tirana",
-       "Alberta (Canada) : environ 76 % de non à un processus d'indépendance, référendum consultatif du 19 oct."
-      ]
-     },
-     {
-      "t": "Francophonie",
-      "f": [
-       "20e sommet à Phnom Penh (15-16 nov.)",
-       "Pas de successeur élu à Louise Mushikiwabo : son mandat est prolongé de douze mois, élection en 2027"
-      ]
-     },
-     {
-      "t": "Élections",
-      "f": [
-       "Espagne : législatives le 29 novembre, après le débat Sánchez-Feijóo du 19 novembre"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-10-09",
-     "t": "Le prix Nobel de la paix est attribué à Navi Pillay.",
-     "v": "2026-10-09"
-    },
-    {
-     "d": "2026-10-14",
-     "t": "Deuxième cas d'Ebola confirmé au Kenya.",
-     "v": "2026-10-14"
-    },
-    {
-     "d": "2026-10-17",
-     "t": "Cinquième jour d'affrontements à Tirana.",
-     "v": "2026-10-17"
-    },
-    {
-     "d": "2026-10-19",
-     "t": "Référendum consultatif en Alberta.",
-     "v": "2026-10-20"
-    },
-    {
-     "d": "2026-11-09",
-     "t": "Ouverture de la COP31 à Antalya.",
-     "v": "2026-11-11"
-    },
-    {
-     "d": "2026-11-15",
-     "t": "Ouverture du 20e sommet de la Francophonie à Phnom Penh.",
-     "v": "2026-11-15"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "Le sommet de la Francophonie prolonge d'un an le mandat de Louise Mushikiwabo.",
-     "v": "2026-11-19"
-    },
-    {
-     "d": "2026-11-20",
-     "t": "COP31 : dernière journée de négociation sur le financement climatique.",
-     "v": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "id": "golfe-iran",
-   "rubrique": "Europe et monde",
-   "titre": "Golfe, Iran et détroit d'Ormuz",
-   "resume": "Frappes des Houthis, navigation entravée dans le détroit d'Ormuz et incertitude sur une reprise de la guerre entre les États-Unis et l'Iran.",
-   "statut": "En cours",
-   "maj": "2026-11-23",
-   "enjeu": "Comprendre les conséquences économiques (énergie, transport maritime, prix) et les formats de médiation, sans prendre parti dans le conflit.",
-   "carte": {
-    "centre": "Golfe et Ormuz",
-    "branches": [
-     {
-      "t": "Les incidents",
-      "f": [
-       "8 oct. : les Houthis frappent l'aéroport de Riyad (trois morts)",
-       "9 oct. : les Gardiens de la révolution frappent le pétrolier MV Sun Shine",
-       "13 oct. : frappe revendiquée par les Houthis contre le siège d'Aramco à Dhahran",
-       "10 nov. : les Gardiens de la révolution signalent deux navires en feu après une route « non autorisée »"
-      ]
-     },
-     {
-      "t": "Conséquences",
-      "f": [
-       "Trafic maritime dans le détroit d'Ormuz en baisse d'environ 90 % depuis le début de la guerre",
-       "Le FMI met en garde contre les effets sur l'économie mondiale",
-       "19 nov. : l'AIE juge essentielle la réouverture complète du détroit d'Ormuz",
-       "Cyberattaque du 11-12 octobre sur des contrôleurs de réfrigération dans environ 700 sites de la grande distribution, attribuée par la France aux Gardiens de la révolution"
-      ]
-     },
-     {
-      "t": "Diplomatie",
-      "f": [
-       "Un accord provisoire conclu en juin sous l'égide du Pakistan",
-       "L'Iran se dit prêt à rouvrir Ormuz si les États-Unis lèvent leur blocus naval",
-       "19 oct. : Sergueï Lavrov affiche à Téhéran le soutien de la Russie",
-       "Washington veut inclure le nucléaire dans toute négociation initiale (guerre en cours depuis huit mois)"
-      ]
-     },
-     {
-      "t": "Perspectives",
-      "f": [
-       "Les États du Golfe se préparent à une possible reprise de la guerre",
-       "Selon la presse, des plans de frappes américano-israéliens après les élections américaines"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-10-08",
-     "t": "Les Houthis frappent l'aéroport de Riyad.",
-     "v": "2026-10-10"
-    },
-    {
-     "d": "2026-10-09",
-     "t": "Un pétrolier frappé dans le détroit d'Ormuz.",
-     "v": "2026-10-11"
-    },
-    {
-     "d": "2026-10-13",
-     "t": "Frappe contre le siège d'Aramco ; mise en garde du FMI.",
-     "v": "2026-10-15"
-    },
-    {
-     "d": "2026-10-19",
-     "t": "Lavrov à Téhéran.",
-     "v": "2026-10-19"
-    },
-    {
-     "d": "2026-10-24",
-     "t": "Téhéran propose de rouvrir Ormuz contre la levée du blocus américain.",
-     "v": "2026-10-28"
-    },
-    {
-     "d": "2026-11-10",
-     "t": "Deux navires en feu dans le détroit d'Ormuz selon les Gardiens de la révolution ; Washington maintient son blocus.",
-     "v": "2026-11-13"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "L'AIE alerte sur la menace pour la sécurité énergétique mondiale.",
-     "v": "2026-11-23"
     }
    ]
   },
