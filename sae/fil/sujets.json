@@ -1,14 +1,170 @@
 {
- "derniere_veille": "2026-11-24",
+ "derniere_veille": "2026-11-25",
  "sujets": [
+  {
+   "id": "afghanistan-femmes",
+   "rubrique": "Action extérieure de la France",
+   "titre": "Afghanistan : accueil de femmes afghanes",
+   "resume": "Jean-Noël Barrot annonce l'accueil de davantage de femmes afghanes et dénonce un « apartheid de genre » ; les échanges avec les talibans restent « strictement techniques ».",
+   "statut": "En cours",
+   "maj": "2026-11-25",
+   "enjeu": "Diplomatie des droits humains, politique de visas, distinction entre contacts techniques et reconnaissance d'un gouvernement, contrôle parlementaire par les questions au gouvernement.",
+   "carte": {
+    "centre": "Femmes afghanes",
+    "branches": [
+     {
+      "t": "Annonces",
+      "f": [
+       "24 nov., Assemblée nationale : 200 femmes afghanes de plus accueillies l'an prochain",
+       "50 étudiantes supplémentaires dès janvier",
+       "35 bourses d'excellence en septembre 2027",
+       "Renforcement de la présence diplomatique dans la région"
+      ]
+     },
+     {
+      "t": "Talibans",
+      "f": [
+       "Échanges « strictement techniques » sur le retour d'Afghans en situation irrégulière",
+       "Aucune reconnaissance du régime"
+      ]
+     },
+     {
+      "t": "Culture",
+      "f": [
+       "Implication accrue de l'État dans un futur centre culturel afghan"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-24",
+     "t": "Barrot annonce à l'Assemblée nationale l'accueil de davantage de femmes afghanes.",
+     "v": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "budget-ue",
+   "rubrique": "Union européenne",
+   "titre": "Budget de l'Union européenne",
+   "resume": "Accord sur le budget annuel 2027 ; le Conseil européen extraordinaire des 26-27 novembre traite du cadre financier pluriannuel 2028-2034, du financement de l'Ukraine en 2027 et de la direction de la BCE.",
+   "statut": "En cours",
+   "maj": "2026-11-25",
+   "enjeu": "Distinguer budget annuel et cadre financier pluriannuel, et la procédure d'adoption (unanimité au Conseil, approbation du Parlement). Distinguer Conseil européen, Conseil de l'UE et sommet de la zone euro.",
+   "carte": {
+    "centre": "Budget de l'UE",
+    "branches": [
+     {
+      "t": "Budget annuel 2027",
+      "f": [
+       "Accord : 199,7 Md€ en engagements, 211,5 Md€ en paiements",
+       "Conseil : approbation le 23 nov.",
+       "Parlement européen : vote le 24 nov."
+      ]
+     },
+     {
+      "t": "Cadre 2028-2034",
+      "f": [
+       "Boîte de négociation de António Costa : 204 Md€ de coupes",
+       "La France juge la proposition « très décevante »",
+       "Conseil européen extraordinaire les 26-27 nov.",
+       "Repli : sommet des 17-18 décembre",
+       "24 nov. : lettre d'invitation de Costa ; sommet de la zone euro le 26 à 10 h, conclusions le 27"
+      ]
+     },
+     {
+      "t": "Ukraine 2027",
+      "f": [
+       "18 nov. : la Commission propose jusqu'à 45 Md€ supplémentaires, par emprunt de l'Union",
+       "Besoin estimé : 70 Md€",
+       "24 nov. : les ambassadeurs s'accordent sur le principe, pas sur les modalités",
+       "Bulgarie, Tchéquie, Hongrie et Slovaquie pas encore ralliées"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-18",
+     "t": "La Commission propose jusqu'à 45 Md€ supplémentaires pour l'Ukraine en 2027.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-23",
+     "t": "Le Conseil approuve le budget annuel 2027.",
+     "v": "2026-11-23"
+    },
+    {
+     "d": "2026-11-24",
+     "t": "Le Parlement européen se prononce sur le budget 2027.",
+     "v": "2026-11-24"
+    },
+    {
+     "d": "2026-11-24",
+     "t": "Costa publie sa lettre d'invitation au Conseil européen extraordinaire ; les ambassadeurs ne s'accordent pas sur les modalités du prêt.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "Conseil européen extraordinaire sur le cadre 2028-2034.",
+     "v": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "id": "commerce-vehicules-hybrides",
+   "rubrique": "Union européenne",
+   "titre": "Commerce : quotas de sauvegarde sur les véhicules hybrides",
+   "resume": "La Commission instaure des quotas provisoires sur les importations de véhicules hybrides à partir du 1er décembre 2026, pour 200 jours au plus.",
+   "statut": "À venir",
+   "maj": "2026-11-25",
+   "enjeu": "Politique commerciale commune (compétence exclusive de l'Union), défense commerciale compatible avec l'OMC, tension entre ouverture, protection de l'industrie automobile et relation avec la Chine.",
+   "carte": {
+    "centre": "Quotas hybrides",
+    "branches": [
+     {
+      "t": "Mesure",
+      "f": [
+       "Sauvegarde provisoire, entrée en vigueur le 1er déc. 2026",
+       "Hybrides complets, rechargeables et légers, toutes origines",
+       "Durée maximale : 200 jours",
+       "Plafonds en volume, pas de droits de douane"
+      ]
+     },
+     {
+      "t": "Répartition",
+      "f": [
+       "Pays au-delà de 2 % des importations 2025 : quota individuel (volumes 2025 + un peu plus de 15 %)",
+       "Autres pays : quota résiduel partagé",
+       "Chine : 191 780 unités selon CnEVPost"
+      ]
+     },
+     {
+      "t": "Réactions",
+      "f": [
+       "Pékin appelle au respect du « consensus » conclu en octobre",
+       "Royaume-Uni, Japon et Turquie également concernés"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-12-01",
+     "t": "Entrée en vigueur des quotas provisoires sur les véhicules hybrides.",
+     "v": "2026-11-25"
+    }
+   ]
+  },
   {
    "id": "ukraine-garanties",
    "rubrique": "Europe et sécurité",
    "titre": "Ukraine : négociations et garanties de sécurité",
-   "resume": "Pourparlers à Abou Dhabi, place des Européens dans la négociation et préparation des garanties de sécurité par la Coalition des volontaires.",
+   "resume": "Pourparlers à Abou Dhabi, place des Européens contestée par le Kremlin, préparation des garanties de sécurité par la Coalition des volontaires.",
    "statut": "En cours",
-   "maj": "2026-11-24",
-   "enjeu": "Savoir présenter la position française et européenne : soutien à l'Ukraine, garanties de sécurité, rôle de la Coalition des volontaires.",
+   "maj": "2026-11-25",
+   "enjeu": "Savoir présenter la position française et européenne : soutien à l'Ukraine, garanties de sécurité, rôle de la Coalition des volontaires, place de l'Europe dans le format de négociation.",
    "carte": {
     "centre": "Ukraine : négociations",
     "branches": [
@@ -18,14 +174,16 @@
        "10-11 nov. : réunion à Abou Dhabi",
        "12 nov. : rencontre au Kremlin avec les émissaires américains",
        "Échange de prisonniers annoncé",
-       "Sommet de l'APEC à Shenzhen : Trump, Xi et Poutine au cœur du jeu"
+       "Sommet de l'APEC à Shenzhen : Trump, Xi et Poutine au cœur du jeu",
+       "Kremlin : date de la prochaine session à Abou Dhabi non fixée ; Washington viserait une session avant le 25 déc."
       ]
      },
      {
       "t": "Les Européens",
       "f": [
        "13 nov. : cinq pays désignés pour parler au nom de l'Europe (France, Allemagne, Royaume-Uni, Pologne, Italie), annonce de António Costa",
-       "Conditions posées par Kaja Kallas à toute négociation"
+       "Conditions posées par Kaja Kallas à toute négociation",
+       "24 nov. : Peskov ne voit « aucune valeur ajoutée » à une participation européenne ; l'Ukraine et l'Europe demandent un format à quatre"
       ]
      },
      {
@@ -59,6 +217,11 @@
      "d": "2026-11-19",
      "t": "Coalition des volontaires réunie à Berlin.",
      "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-24",
+     "t": "Le Kremlin juge sans valeur ajoutée la participation européenne aux pourparlers d'Abou Dhabi.",
+     "v": "2026-11-25"
     }
    ]
   },
@@ -100,109 +263,6 @@
      "d": "2026-11-19",
      "t": "Arrêt de la CIJ sur les Rohingyas.",
      "v": "2026-11-22"
-    }
-   ]
-  },
-  {
-   "id": "budget-ue",
-   "rubrique": "Union européenne",
-   "titre": "Budget de l'Union européenne",
-   "resume": "Accord sur le budget annuel 2027 et négociation du cadre financier pluriannuel 2028-2034, au Conseil européen extraordinaire des 26-27 novembre.",
-   "statut": "En cours",
-   "maj": "2026-11-24",
-   "enjeu": "Distinguer budget annuel et cadre financier pluriannuel, et la procédure d'adoption (Conseil, Parlement, unanimité pour le CFP).",
-   "carte": {
-    "centre": "Budget de l'UE",
-    "branches": [
-     {
-      "t": "Budget annuel 2027",
-      "f": [
-       "Accord : 199,7 Md€ en engagements, 211,5 Md€ en paiements",
-       "Conseil : approbation le 23 nov.",
-       "Parlement européen : vote le 24 nov."
-      ]
-     },
-     {
-      "t": "Cadre 2028-2034",
-      "f": [
-       "Boîte de négociation de António Costa : 204 Md€ de coupes",
-       "La France juge la proposition « très décevante »",
-       "Conseil européen extraordinaire les 26-27 nov.",
-       "Repli : sommet des 17-18 décembre"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-23",
-     "t": "Le Conseil approuve le budget annuel 2027.",
-     "v": "2026-11-23"
-    },
-    {
-     "d": "2026-11-24",
-     "t": "Le Parlement européen se prononce sur le budget 2027.",
-     "v": "2026-11-24"
-    },
-    {
-     "d": "2026-11-26",
-     "t": "Conseil européen extraordinaire sur le cadre 2028-2034.",
-     "v": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "id": "sanctions-securite",
-   "rubrique": "Europe et sécurité",
-   "titre": "Sanctions contre la Russie et sécurité européenne",
-   "resume": "22e paquet de sanctions, incident en Pologne, complot au Danemark et frappes russes sur Kiev touchant des ambassades.",
-   "statut": "En cours",
-   "maj": "2026-11-23",
-   "enjeu": "Distinguer sanctions européennes (décidées à l'unanimité) et initiatives nationales, et savoir comment la France réagit aux violations du droit diplomatique.",
-   "carte": {
-    "centre": "Sanctions et sécurité",
-    "branches": [
-     {
-      "t": "22e paquet",
-      "f": [
-       "Annoncé le 23 nov.",
-       "Environ 60 banques visées, dont l'accès à SWIFT",
-       "Task force sur les cryptoactifs",
-       "Plus de 70 navires de la flotte fantôme"
-      ]
-     },
-     {
-      "t": "Menaces hybrides",
-      "f": [
-       "Incident en Pologne le 20 nov.",
-       "Complot au Danemark attribué à des services russes",
-       "Proposition danoise sur les visas Schengen"
-      ]
-     },
-     {
-      "t": "Frappes sur Kiev",
-      "f": [
-       "19-20 nov. : ambassades d'Autriche et des Pays-Bas endommagées",
-       "La France demande une réunion du Conseil de sécurité de l'ONU"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-19",
-     "t": "Frappes russes sur Kiev ; ambassades touchées.",
-     "v": "2026-11-20"
-    },
-    {
-     "d": "2026-11-20",
-     "t": "Incident en Pologne.",
-     "v": "2026-11-21"
-    },
-    {
-     "d": "2026-11-23",
-     "t": "Annonce du 22e paquet de sanctions.",
-     "v": "2026-11-23"
     }
    ]
   },
@@ -263,41 +323,57 @@
    ]
   },
   {
-   "id": "ue-relations-exterieures",
-   "rubrique": "Union européenne",
-   "titre": "Relations extérieures de l'Union européenne",
-   "resume": "Sommet UE-Royaume-Uni du 20 novembre, accord d'association avec la Syrie, Conseil de l'EEE.",
+   "id": "sanctions-securite",
+   "rubrique": "Europe et sécurité",
+   "titre": "Sanctions contre la Russie et sécurité européenne",
+   "resume": "22e paquet de sanctions, incident en Pologne, complot au Danemark et frappes russes sur Kiev touchant des ambassades.",
    "statut": "En cours",
-   "maj": "2026-11-22",
-   "enjeu": "Illustrer la politique extérieure de l'UE à travers des accords concrets : mobilité, normes sanitaires, carbone.",
+   "maj": "2026-11-23",
+   "enjeu": "Distinguer sanctions européennes (décidées à l'unanimité) et initiatives nationales, et savoir comment la France réagit aux violations du droit diplomatique.",
    "carte": {
-    "centre": "UE et partenaires",
+    "centre": "Sanctions et sécurité",
     "branches": [
      {
-      "t": "Sommet UE-Royaume-Uni",
+      "t": "22e paquet",
       "f": [
-       "20 nov. 2026, Bruxelles",
-       "Dispositif d'expérience jeunesse : 100 000 places de chaque côté",
-       "Accord sanitaire et phytosanitaire",
-       "Quotas carbone",
-       "Frais universitaires non réglés ; six mois pour conclure"
+       "Annoncé le 23 nov.",
+       "Environ 60 banques visées, dont l'accès à SWIFT",
+       "Task force sur les cryptoactifs",
+       "Plus de 70 navires de la flotte fantôme"
       ]
      },
      {
-      "t": "Autres partenaires",
+      "t": "Menaces hybrides",
       "f": [
-       "Accord d'association UE-Syrie",
-       "Conseil de l'Espace économique européen",
-       "Conférence d'investissement UE-Jordanie"
+       "Incident en Pologne le 20 nov.",
+       "Complot au Danemark attribué à des services russes",
+       "Proposition danoise sur les visas Schengen"
+      ]
+     },
+     {
+      "t": "Frappes sur Kiev",
+      "f": [
+       "19-20 nov. : ambassades d'Autriche et des Pays-Bas endommagées",
+       "La France demande une réunion du Conseil de sécurité de l'ONU"
       ]
      }
     ]
    },
    "chrono": [
     {
+     "d": "2026-11-19",
+     "t": "Frappes russes sur Kiev ; ambassades touchées.",
+     "v": "2026-11-20"
+    },
+    {
      "d": "2026-11-20",
-     "t": "Sommet UE-Royaume-Uni.",
+     "t": "Incident en Pologne.",
      "v": "2026-11-21"
+    },
+    {
+     "d": "2026-11-23",
+     "t": "Annonce du 22e paquet de sanctions.",
+     "v": "2026-11-23"
     }
    ]
   },
@@ -346,6 +422,45 @@
     {
      "d": "2026-11-20",
      "t": "Début du test de vote par internet.",
+     "v": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "ue-relations-exterieures",
+   "rubrique": "Union européenne",
+   "titre": "Relations extérieures de l'Union européenne",
+   "resume": "Sommet UE-Royaume-Uni du 20 novembre, accord d'association avec la Syrie, Conseil de l'EEE.",
+   "statut": "En cours",
+   "maj": "2026-11-22",
+   "enjeu": "Illustrer la politique extérieure de l'UE à travers des accords concrets : mobilité, normes sanitaires, carbone.",
+   "carte": {
+    "centre": "UE et partenaires",
+    "branches": [
+     {
+      "t": "Sommet UE-Royaume-Uni",
+      "f": [
+       "20 nov. 2026, Bruxelles",
+       "Dispositif d'expérience jeunesse : 100 000 places de chaque côté",
+       "Accord sanitaire et phytosanitaire",
+       "Quotas carbone",
+       "Frais universitaires non réglés ; six mois pour conclure"
+      ]
+     },
+     {
+      "t": "Autres partenaires",
+      "f": [
+       "Accord d'association UE-Syrie",
+       "Conseil de l'Espace économique européen",
+       "Conférence d'investissement UE-Jordanie"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-20",
+     "t": "Sommet UE-Royaume-Uni.",
      "v": "2026-11-21"
     }
    ]
@@ -437,6 +552,41 @@
    ]
   },
   {
+   "id": "presidence-g7",
+   "rubrique": "Action extérieure de la France",
+   "titre": "Présidence française du G7",
+   "resume": "Réunion des ministres des Affaires étrangères à Paris et déclaration « Children First ».",
+   "statut": "En cours",
+   "maj": "2026-11-18",
+   "enjeu": "La présidence du G7 donne à la France la maîtrise de l'ordre du jour : à connaître pour les épreuves de culture diplomatique.",
+   "carte": {
+    "centre": "G7 sous présidence française",
+    "branches": [
+     {
+      "t": "Ministres des Affaires étrangères",
+      "f": [
+       "Paris, 9-10 novembre",
+       "Déclaration « Children First », soutenue par plus de 56 pays"
+      ]
+     },
+     {
+      "t": "Autres actions",
+      "f": [
+       "Déplacement de Forissier en Jordanie",
+       "Toulouse : 350 M€ pour le CORAC"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-09",
+     "t": "G7 des ministres des Affaires étrangères à Paris.",
+     "v": "2026-11-14"
+    }
+   ]
+  },
+  {
    "id": "ue-legislation",
    "rubrique": "Union européenne",
    "titre": "Les Conseils de l'UE et les textes en cours",
@@ -484,41 +634,6 @@
      "d": "2026-11-18",
      "t": "Accord provisoire sur le paquet réseaux.",
      "v": "2026-11-19"
-    }
-   ]
-  },
-  {
-   "id": "presidence-g7",
-   "rubrique": "Action extérieure de la France",
-   "titre": "Présidence française du G7",
-   "resume": "Réunion des ministres des Affaires étrangères à Paris et déclaration « Children First ».",
-   "statut": "En cours",
-   "maj": "2026-11-18",
-   "enjeu": "La présidence du G7 donne à la France la maîtrise de l'ordre du jour : à connaître pour les épreuves de culture diplomatique.",
-   "carte": {
-    "centre": "G7 sous présidence française",
-    "branches": [
-     {
-      "t": "Ministres des Affaires étrangères",
-      "f": [
-       "Paris, 9-10 novembre",
-       "Déclaration « Children First », soutenue par plus de 56 pays"
-      ]
-     },
-     {
-      "t": "Autres actions",
-      "f": [
-       "Déplacement de Forissier en Jordanie",
-       "Toulouse : 350 M€ pour le CORAC"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-09",
-     "t": "G7 des ministres des Affaires étrangères à Paris.",
-     "v": "2026-11-14"
     }
    ]
   }
