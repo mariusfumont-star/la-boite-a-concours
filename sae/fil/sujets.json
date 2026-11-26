@@ -1,6 +1,244 @@
 {
- "derniere_veille": "2026-11-25",
+ "derniere_veille": "2026-11-26",
  "sujets": [
+  {
+   "id": "budget-ue",
+   "rubrique": "Union européenne",
+   "titre": "Budget de l'Union européenne",
+   "resume": "Le Conseil européen extraordinaire des 26-27 novembre s'ouvre sur une proposition de cadre 2028-2034 à 1 582,5 Md€, contestée par plusieurs capitales, dont Paris, et par le Parlement européen.",
+   "statut": "En cours",
+   "maj": "2026-11-26",
+   "enjeu": "Distinguer budget annuel et cadre financier pluriannuel, et la procédure d'adoption (unanimité au Conseil, approbation du Parlement). Distinguer Conseil européen, Conseil de l'UE et sommet de la zone euro.",
+   "carte": {
+    "centre": "Budget de l'UE",
+    "branches": [
+     {
+      "t": "Budget annuel 2027",
+      "f": [
+       "Accord : 199,7 Md€ en engagements, 211,5 Md€ en paiements",
+       "Conseil : approbation le 23 nov.",
+       "Parlement européen : vote le 24 nov."
+      ]
+     },
+     {
+      "t": "Cadre 2028-2034",
+      "f": [
+       "Boîte de négociation d'António Costa (21 nov.) : 1 582,5 Md€ d'engagements (prix 2025)",
+       "204 Md€ de moins (prix courants) que la proposition de la Commission de juillet 2025",
+       "23 nov., Bratislava : Visegrád et Autriche rejettent la proposition",
+       "Friedrich Merz : « un premier pas », volume encore trop élevé",
+       "Élysée : « très décevante », notamment pour l'agriculture",
+       "Négociateur du Parlement européen : proposition inacceptable",
+       "Conseil européen extraordinaire les 26-27 nov. (CFP, Ukraine 2027, direction de la BCE)",
+       "Objectif : accord avant fin 2026, au plus tard les 17-18 décembre"
+      ]
+     },
+     {
+      "t": "Ukraine 2027",
+      "f": [
+       "18 nov. : la Commission propose jusqu'à 45 Md€ supplémentaires, par emprunt de l'Union",
+       "Besoin estimé : 70 Md€",
+       "24 nov. : les ambassadeurs s'accordent sur le principe, pas sur les modalités",
+       "Bulgarie, Tchéquie, Hongrie et Slovaquie pas encore ralliées"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-18",
+     "t": "La Commission propose jusqu'à 45 Md€ supplémentaires pour l'Ukraine en 2027.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-21",
+     "t": "António Costa présente sa boîte de négociation : 1 582,5 Md€ pour 2028-2034.",
+     "v": "2026-11-26"
+    },
+    {
+     "d": "2026-11-23",
+     "t": "Le Conseil approuve le budget annuel 2027.",
+     "v": "2026-11-23"
+    },
+    {
+     "d": "2026-11-23",
+     "t": "À Bratislava, le groupe de Visegrád et l'Autriche rejettent la proposition de Costa.",
+     "v": "2026-11-26"
+    },
+    {
+     "d": "2026-11-24",
+     "t": "Le Parlement européen se prononce sur le budget 2027.",
+     "v": "2026-11-24"
+    },
+    {
+     "d": "2026-11-24",
+     "t": "Costa publie sa lettre d'invitation au Conseil européen extraordinaire ; les ambassadeurs ne s'accordent pas sur les modalités du prêt.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "Conseil européen extraordinaire sur le cadre 2028-2034.",
+     "v": "2026-11-24"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "Ouverture du Conseil européen extraordinaire sur une proposition contestée, dont par Paris et le Parlement européen.",
+     "v": "2026-11-26"
+    }
+   ]
+  },
+  {
+   "id": "elargissement-balkans",
+   "rubrique": "Union européenne",
+   "titre": "Élargissement : Balkans occidentaux",
+   "resume": "Le sommet UE-Balkans occidentaux du 25 novembre adopte une « Déclaration de Bruxelles » réaffirmant la perspective d'adhésion ; la Serbie n'y participe pas.",
+   "statut": "En cours",
+   "maj": "2026-11-26",
+   "enjeu": "Méthode fondée sur le mérite, conditionnalité et intégration graduelle ; articuler logique géopolitique et exigence de réformes, et la nécessité d'adapter l'Union avant de nouvelles adhésions.",
+   "carte": {
+    "centre": "Balkans occidentaux",
+    "branches": [
+     {
+      "t": "Sommet du 25 nov.",
+      "f": [
+       "Bruxelles, accueilli par António Costa et Ursula von der Leyen",
+       "Deuxième de l'année après Tivat (Monténégro) en juin",
+       "Nouvelle direction serbe absente"
+      ]
+     },
+     {
+      "t": "Déclaration de Bruxelles",
+      "f": [
+       "Engagement « plein et sans équivoque » envers l'adhésion",
+       "Élargissement : « investissement géostratégique »",
+       "Fonds du plan de croissance conditionnés à des progrès mesurables",
+       "Soutien au dialogue Belgrade-Pristina",
+       "Approuvée par les 27, partenaires présents alignés"
+      ]
+     },
+     {
+      "t": "Avancées",
+      "f": [
+       "Adhésion de partenaires à l'espace SEPA",
+       "Discussions sur l'itinérance au tarif national (Albanie, Monténégro, Macédoine du Nord, Kosovo)",
+       "Travaux sur le traité d'adhésion du Monténégro",
+       "Albanie : clôture de premiers chapitres"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-25",
+     "t": "Sommet UE-Balkans occidentaux à Bruxelles et adoption de la Déclaration de Bruxelles.",
+     "v": "2026-11-26"
+    }
+   ]
+  },
+  {
+   "id": "golfe-ormuz",
+   "rubrique": "Moyen-Orient et Asie-Pacifique",
+   "titre": "Golfe, Ormuz et Asie-Pacifique",
+   "resume": "L'Iran affirme que des pétroliers et un méthanier ont heurté des mines dans le détroit d'Ormuz ; Téhéran conditionne la reprise du trafic à la levée du blocus naval américain.",
+   "statut": "En cours",
+   "maj": "2026-11-26",
+   "enjeu": "Le détroit d'Ormuz est un point de passage énergétique : droit de la mer (passage en transit), sécurité énergétique et des équipages, rôle des opérations navales européennes, prudence dans la qualification de faits non vérifiés.",
+   "carte": {
+    "centre": "Golfe et Asie-Pacifique",
+    "branches": [
+     {
+      "t": "Golfe et Ormuz",
+      "f": [
+       "17 nov. : frappe américaine sur l'île de Qeshm (Iran)",
+       "Attaques contre les navires à un niveau record",
+       "25 nov. : selon les Gardiens de la révolution, deux pétroliers heurtent des mines",
+       "Fars évoque un troisième pétrolier ; un méthanier touché le soir",
+       "Reuters n'a pas pu vérifier ces affirmations",
+       "JMIC : sept pétroliers touchés depuis le 16 nov.",
+       "Téhéran exige la levée du blocus naval américain des ports iraniens"
+      ]
+     },
+     {
+      "t": "Asie-Pacifique",
+      "f": [
+       "APEC à Shenzhen",
+       "ASEAN à Manille, 15-17 novembre"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-15",
+     "t": "Sommet de l'ASEAN à Manille.",
+     "v": "2026-11-16"
+    },
+    {
+     "d": "2026-11-17",
+     "t": "Frappe américaine sur l'île de Qeshm.",
+     "v": "2026-11-18"
+    },
+    {
+     "d": "2026-11-25",
+     "t": "L'Iran affirme que des pétroliers et un méthanier ont heurté des mines dans le détroit d'Ormuz.",
+     "v": "2026-11-26"
+    }
+   ]
+  },
+  {
+   "id": "iran-droits-humains",
+   "rubrique": "Action extérieure de la France",
+   "titre": "Iran : droits humains et droits des femmes",
+   "resume": "La France condamne la peine de 74 coups de fouet infligée à la chanteuse Parastoo Ahmadi pour avoir chanté sans voile ; Jean-Noël Barrot attendu à une soirée « Voix iraniennes ».",
+   "statut": "En cours",
+   "maj": "2026-11-26",
+   "enjeu": "Droits des femmes et diplomatie féministe ; distinguer les instruments : communiqué, convocation d'ambassadeur, Conseil des droits de l'homme, sanctions européennes.",
+   "carte": {
+    "centre": "Iran, droits humains",
+    "branches": [
+     {
+      "t": "Parastoo Ahmadi",
+      "f": [
+       "74 coups de fouet pour avoir chanté sans voile",
+       "Jugement de juin 2026, confirmé en septembre",
+       "Exécutée le 23 nov. à Qom selon son avocat, aussi contre quatre musiciens"
+      ]
+     },
+     {
+      "t": "Réactions",
+      "f": [
+       "24 nov. : communiqué du ministère, effroi de la France",
+       "Peine « cruelle et inhumaine » selon la presse",
+       "Volker Türk (HCDH) : traitement cruel, inhumain ou dégradant"
+      ]
+     },
+     {
+      "t": "Action française",
+      "f": [
+       "25 nov. : Barrot attendu à la soirée « Voix iraniennes » à l'Institut du monde arabe",
+       "Journée internationale pour l'élimination de la violence à l'égard des femmes"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-23",
+     "t": "La peine de flagellation de Parastoo Ahmadi est exécutée à Qom, selon son avocat.",
+     "v": "2026-11-26"
+    },
+    {
+     "d": "2026-11-24",
+     "t": "La France condamne la peine infligée à Parastoo Ahmadi.",
+     "v": "2026-11-26"
+    },
+    {
+     "d": "2026-11-25",
+     "t": "Soirée « Voix iraniennes » à l'Institut du monde arabe, avec la participation annoncée de Jean-Noël Barrot.",
+     "v": "2026-11-26"
+    }
+   ]
+  },
   {
    "id": "afghanistan-femmes",
    "rubrique": "Action extérieure de la France",
@@ -41,74 +279,6 @@
      "d": "2026-11-24",
      "t": "Barrot annonce à l'Assemblée nationale l'accueil de davantage de femmes afghanes.",
      "v": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "id": "budget-ue",
-   "rubrique": "Union européenne",
-   "titre": "Budget de l'Union européenne",
-   "resume": "Accord sur le budget annuel 2027 ; le Conseil européen extraordinaire des 26-27 novembre traite du cadre financier pluriannuel 2028-2034, du financement de l'Ukraine en 2027 et de la direction de la BCE.",
-   "statut": "En cours",
-   "maj": "2026-11-25",
-   "enjeu": "Distinguer budget annuel et cadre financier pluriannuel, et la procédure d'adoption (unanimité au Conseil, approbation du Parlement). Distinguer Conseil européen, Conseil de l'UE et sommet de la zone euro.",
-   "carte": {
-    "centre": "Budget de l'UE",
-    "branches": [
-     {
-      "t": "Budget annuel 2027",
-      "f": [
-       "Accord : 199,7 Md€ en engagements, 211,5 Md€ en paiements",
-       "Conseil : approbation le 23 nov.",
-       "Parlement européen : vote le 24 nov."
-      ]
-     },
-     {
-      "t": "Cadre 2028-2034",
-      "f": [
-       "Boîte de négociation de António Costa : 204 Md€ de coupes",
-       "La France juge la proposition « très décevante »",
-       "Conseil européen extraordinaire les 26-27 nov.",
-       "Repli : sommet des 17-18 décembre",
-       "24 nov. : lettre d'invitation de Costa ; sommet de la zone euro le 26 à 10 h, conclusions le 27"
-      ]
-     },
-     {
-      "t": "Ukraine 2027",
-      "f": [
-       "18 nov. : la Commission propose jusqu'à 45 Md€ supplémentaires, par emprunt de l'Union",
-       "Besoin estimé : 70 Md€",
-       "24 nov. : les ambassadeurs s'accordent sur le principe, pas sur les modalités",
-       "Bulgarie, Tchéquie, Hongrie et Slovaquie pas encore ralliées"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-18",
-     "t": "La Commission propose jusqu'à 45 Md€ supplémentaires pour l'Ukraine en 2027.",
-     "v": "2026-11-25"
-    },
-    {
-     "d": "2026-11-23",
-     "t": "Le Conseil approuve le budget annuel 2027.",
-     "v": "2026-11-23"
-    },
-    {
-     "d": "2026-11-24",
-     "t": "Le Parlement européen se prononce sur le budget 2027.",
-     "v": "2026-11-24"
-    },
-    {
-     "d": "2026-11-24",
-     "t": "Costa publie sa lettre d'invitation au Conseil européen extraordinaire ; les ambassadeurs ne s'accordent pas sur les modalités du prêt.",
-     "v": "2026-11-25"
-    },
-    {
-     "d": "2026-11-26",
-     "t": "Conseil européen extraordinaire sur le cadre 2028-2034.",
-     "v": "2026-11-24"
     }
    ]
   },
@@ -462,46 +632,6 @@
      "d": "2026-11-20",
      "t": "Sommet UE-Royaume-Uni.",
      "v": "2026-11-21"
-    }
-   ]
-  },
-  {
-   "id": "golfe-ormuz",
-   "rubrique": "Moyen-Orient et Asie-Pacifique",
-   "titre": "Golfe, Ormuz et Asie-Pacifique",
-   "resume": "Frappe américaine sur l'île de Qeshm, attaques de navires à un niveau record, sommets APEC et ASEAN.",
-   "statut": "En cours",
-   "maj": "2026-11-21",
-   "enjeu": "Le détroit d'Ormuz est un point de passage énergétique ; savoir citer les acteurs et les organisations régionales.",
-   "carte": {
-    "centre": "Golfe et Asie-Pacifique",
-    "branches": [
-     {
-      "t": "Golfe et Ormuz",
-      "f": [
-       "17 nov. : frappe américaine sur l'île de Qeshm (Iran)",
-       "Attaques contre les navires à un niveau record"
-      ]
-     },
-     {
-      "t": "Asie-Pacifique",
-      "f": [
-       "APEC à Shenzhen",
-       "ASEAN à Manille, 15-17 novembre"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-15",
-     "t": "Sommet de l'ASEAN à Manille.",
-     "v": "2026-11-16"
-    },
-    {
-     "d": "2026-11-17",
-     "t": "Frappe américaine sur l'île de Qeshm.",
-     "v": "2026-11-18"
     }
    ]
   },
