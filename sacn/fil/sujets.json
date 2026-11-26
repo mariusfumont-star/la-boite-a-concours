@@ -1,5 +1,5 @@
 {
- "derniere_veille": "2026-11-25",
+ "derniere_veille": "2026-11-26",
  "sujets": [
   {
    "id": "budget-2027",
@@ -7,8 +7,8 @@
    "titre": "Budget de l'État et budget de la Sécurité sociale 2027",
    "resume": "Le PLF 2027 prévoit une création nette de 8 025 ETP dans la fonction publique de l'État, avec un point d'indice gelé. Rejeté en première lecture à l'Assemblée, il passe au Sénat ; le PLFSS a été adopté en première lecture par le Sénat le 18 novembre. L'issue n'est pas connue.",
    "statut": "En cours",
-   "maj": "2026-11-25",
-   "enjeu": "La procédure budgétaire (LOLF, deux parties, délais, rejet en première lecture) est un thème classique. Savoir distinguer emplois, ETP et masse salariale : les effectifs sont fixés par la loi de finances (plafond d'emplois), et le texte n'est pas définitif tant que la procédure n'est pas achevée.",
+   "maj": "2026-11-26",
+   "enjeu": "La procédure budgétaire (LOLF, deux parties, délais, rejet en première lecture) est un thème classique. Savoir distinguer emplois, ETP et masse salariale : les effectifs sont fixés par la loi de finances (plafond d'emplois), et le texte n'est pas définitif tant que la procédure n'est pas achevée. Distinguer une proposition de commission d'un texte adopté définitivement.",
    "carte": {
     "centre": "Budget 2027",
     "branches": [
@@ -17,7 +17,7 @@
       "f": [
        "Enregistré à l'Assemblée le 1er octobre 2026 (n° 3210)",
        "4 nov. : première partie (recettes) rejetée par 458 voix contre, aucune pour, 2 abstentions",
-       "Texte considéré comme rejeté en première lecture, transmis au Sénat dans la version du Gouvernement",
+       "Texte considéré comme rejeté en première lecture : le Sénat examine la version initiale du Gouvernement",
        "Séance au Sénat prévue à partir du 20 novembre"
       ]
      },
@@ -27,7 +27,8 @@
        "Création nette de 8 025 ETP dans la fonction publique d'État, hors opérateurs (Acteurs publics)",
        "« Réinternalisation numérique » : des agents plutôt que des prestataires",
        "Point d'indice gelé en 2027",
-       "Sénat : modification du supplément familial de traitement et du temps partiel thérapeutique"
+       "Commission des finances du Sénat : forfaitisation du supplément familial de traitement (amendement d'Albéric de Montgolfier)",
+       "Réduction de la rémunération du temps partiel thérapeutique : 100 M€ d'économie attendue"
       ]
      },
      {
@@ -84,6 +85,11 @@
      "v": "2026-11-20"
     },
     {
+     "d": "2026-11-13",
+     "t": "La commission des finances du Sénat propose de forfaitiser le SFT et de réduire la rémunération du temps partiel thérapeutique.",
+     "v": "2026-11-26"
+    },
+    {
      "d": "2026-11-18",
      "t": "Le Sénat adopte le PLFSS en première lecture (201 voix contre 124).",
      "v": "2026-11-23"
@@ -91,6 +97,215 @@
     {
      "d": "2026-11-20",
      "t": "Début prévu de l'examen du PLF au Sénat.",
+     "v": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "cop31",
+   "rubrique": "Europe et monde",
+   "titre": "COP31 à Antalya",
+   "resume": "Une conférence sur le climat marquée par des désaccords sur les financements. Le projet de décision du 19 novembre ne mentionne plus la sortie des énergies fossiles ; l'issue finale n'est pas connue.",
+   "statut": "En cours",
+   "maj": "2026-11-26",
+   "enjeu": "Distinguer la présidence formelle, la conduite des négociations et le caractère consensuel des décisions d'une COP. Une décision de COP n'a pas la force d'un traité, mais oriente les engagements des États.",
+   "carte": {
+    "centre": "COP31",
+    "branches": [
+     {
+      "t": "Cadre",
+      "f": [
+       "Antalya (Turquie), du 9 au 20 novembre 2026",
+       "La Turquie accueille et préside ; l'Australie conduit les négociations",
+       "Décision finale à adopter par près de 200 pays",
+       "Issue finale non connue dans les sources consultées"
+      ]
+     },
+     {
+      "t": "Points de blocage",
+      "f": [
+       "Querelle précoce sur les financements",
+       "Premier projet du 16 nov. : accélérer la sortie du charbon, du pétrole et du gaz",
+       "Projet suivant : plus aucune mention explicite du charbon, du pétrole ni du gaz",
+       "Projet du 19 nov. : plus de mention de la sortie des énergies fossiles, texte deux fois plus court",
+       "Greenpeace critique l'absence de voie claire de sortie",
+       "Les ONG dénoncent un recul qui rappelle la COP30 de Belém"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-09",
+     "t": "Ouverture de la COP31 à Antalya.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-16",
+     "t": "Premier projet de décision de la présidence.",
+     "v": "2026-11-22"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Nouveau projet de décision sans mention de la sortie des énergies fossiles.",
+     "v": "2026-11-26"
+    },
+    {
+     "d": "2026-11-20",
+     "t": "Date de clôture prévue, avec un projet de décision allégé.",
+     "v": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "justice-crises-internationales",
+   "rubrique": "Europe et monde",
+   "titre": "Justice internationale et crises humanitaires",
+   "resume": "La CIJ juge que la Birmanie a commis un génocide contre les Rohingyas ; l'ONU alerte sur le Soudan ; sommet UE-Royaume-Uni.",
+   "statut": "Terminé",
+   "maj": "2026-11-26",
+   "enjeu": "La CIJ, juridiction de l'ONU, tranche des différends entre États : un arrêt sur le génocide est un repère de culture générale internationale.",
+   "carte": {
+    "centre": "Justice et crises",
+    "branches": [
+     {
+      "t": "Rohingyas devant la CIJ",
+      "f": [
+       "19 nov. 2026 : la Birmanie a commis un génocide, par neuf voix contre six",
+       "Selon les médias, première fois que la Cour juge qu'un État a commis un génocide",
+       "Affaire introduite par la Gambie en 2019 sur le fondement de la Convention de 1948",
+       "Violences dans le nord de l'État de Rakhine",
+       "La Cour s'était déclarée compétente en juillet 2022",
+       "Arrêts obligatoires pour les États parties, sans mécanisme d'exécution propre"
+      ]
+     },
+     {
+      "t": "Soudan",
+      "f": [
+       "Guerre depuis avril 2023",
+       "Environ 15,4 millions de personnes ont un besoin urgent d'abris et de biens de première nécessité",
+       "Financement humanitaire jugé insuffisant"
+      ]
+     },
+     {
+      "t": "UE-Royaume-Uni",
+      "f": [
+       "Deuxième sommet à Bruxelles le 20 novembre 2026",
+       "Avec António Costa, Ursula von der Leyen et le Premier ministre britannique Andy Burnham"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-03",
+     "t": "La CIJ annonce son arrêt pour le 19 novembre.",
+     "v": "2026-11-15"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Arrêt de la CIJ : génocide contre les Rohingyas.",
+     "v": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "id": "remunerations-greves",
+   "rubrique": "Fonction publique",
+   "titre": "Salaires et grèves dans la fonction publique",
+   "resume": "Point d'indice gelé pour 2027. La grève du 17 novembre a moins mobilisé que celle du 5 (2,59 % contre près de 10 % dans la fonction publique de l'État). Une concertation d'un mois est ouverte par le Premier ministre ; rendez-vous le 11 décembre.",
+   "statut": "En cours",
+   "maj": "2026-11-26",
+   "enjeu": "Un SA doit connaître le droit de grève des agents publics et la conciliation avec la continuité du service. À l'oral, savoir expliquer la rémunération : traitement indiciaire (indice × valeur du point), primes, supplément familial ; distinguer mesure générale (point d'indice) et mesure ciblée (indice minimum). À l'oral, citer des chiffres contradictoires (ministère, syndicats) en précisant leur source.",
+   "carte": {
+    "centre": "Salaires et grèves",
+    "branches": [
+     {
+      "t": "Les mobilisations",
+      "f": [
+       "5 nov. : environ 10 % de grévistes dans la fonction publique de l'État (9,89 % à la mi-journée), 4,60 % dans la territoriale",
+       "17 nov. : 2,59 % de grévistes dans la fonction publique de l'État et 1,96 % dans la territoriale, selon le ministère",
+       "Toutes les fédérations appellent à la mobilisation le 17 nov. après l'adhésion de la CFDT",
+       "17 nov. : 146 000 manifestants selon le ministère de l'Intérieur, 500 000 selon la CGT",
+       "Revendication centrale : le dégel du point d'indice"
+      ]
+     },
+     {
+      "t": "Matignon, 13 novembre",
+      "f": [
+       "Rencontre avec les huit organisations représentatives",
+       "Discussion d'un mois sur cinq chantiers : urgence pour les bas salaires et réforme des grilles indiciaires",
+       "Nouveau rendez-vous le 11 décembre, au lendemain des élections professionnelles",
+       "Les syndicats repartent sans avancée sur les salaires ; la CFDT rejoint ensuite le mouvement"
+      ]
+     },
+     {
+      "t": "Le point d'indice",
+      "f": [
+       "Gel confirmé pour 2027, inscrit dans le PLF",
+       "L'intersyndicale demande le dégel, puis l'indexation sur les prix",
+       "Cour des comptes : gel des avancements en 2027 (3,9 Md€), une des 18 mesures proposées"
+      ]
+     },
+     {
+      "t": "Indice minimum",
+      "f": [
+       "2 oct. : David Amiel propose de relever l'indice minimum au 1er janvier 2027",
+       "Environ 400 000 agents publics auraient un salaire de base supérieur au Smic, selon le gouvernement",
+       "Les syndicats jugent la mesure insuffisante",
+       "Environ 200 000 manifestants à l'appel de l'intersyndicale"
+      ]
+     },
+     {
+      "t": "Dans le PLF 2027",
+      "f": [
+       "Création nette d'environ 8 000 postes dans la fonction publique de l'État (Acteurs publics)",
+       "Article 73 : protection fonctionnelle étendue aux agents devant les juridictions financières",
+       "Article 75 : prépare la réforme du financement des retraites des fonctionnaires",
+       "Sénat : forfaitisation du supplément familial de traitement et réduction de la rémunération en temps partiel thérapeutique"
+      ]
+     },
+     {
+      "t": "Règles à connaître",
+      "f": [
+       "Droit de grève reconnu par le Préambule de la Constitution de 1946",
+       "Il est concilié avec la continuité du service public",
+       "Fonction publique de l'État : préavis syndical nécessaire",
+       "Certains agents peuvent être requis pour assurer la continuité du service",
+       "Retenue sur traitement pour les jours de grève"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-02",
+     "t": "Le ministre David Amiel propose de relever l'indice minimum au 1er janvier 2027.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-04",
+     "t": "Le Conseil commun de la fonction publique aborde la question des retraites.",
+     "v": "2026-11-18"
+    },
+    {
+     "d": "2026-11-05",
+     "t": "Journée de grève : près de 10 % de grévistes dans la fonction publique de l'État.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Matignon ouvre une concertation d'un mois ; rendez-vous le 11 décembre.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "La commission des finances du Sénat ajoute deux mesures sur les agents publics au PLF.",
+     "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-17",
+     "t": "Grève : 2,59 % de grévistes dans la fonction publique de l'État.",
      "v": "2026-11-19"
     }
    ]
@@ -142,102 +357,6 @@
      "d": "2026-11-25",
      "t": "Annonce de 200 M€ d'urgence et d'un seuil de 5 % du budget numérique pour la cybersécurité dès 2027.",
      "v": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "id": "remunerations-greves",
-   "rubrique": "Fonction publique",
-   "titre": "Salaires et grèves dans la fonction publique",
-   "resume": "Point d'indice gelé pour 2027, grèves des 5 et 17 novembre, concertation d'un mois ouverte par le Premier ministre et proposition de relever l'indice minimum au 1er janvier 2027.",
-   "statut": "En cours",
-   "maj": "2026-11-25",
-   "enjeu": "Un SA doit connaître le droit de grève des agents publics et la conciliation avec la continuité du service. À l'oral, savoir expliquer la rémunération : traitement indiciaire (indice × valeur du point), primes, supplément familial ; distinguer mesure générale (point d'indice) et mesure ciblée (indice minimum).",
-   "carte": {
-    "centre": "Salaires et grèves",
-    "branches": [
-     {
-      "t": "Les mobilisations",
-      "f": [
-       "5 nov. : environ 10 % de grévistes dans la fonction publique de l'État (9,89 % à la mi-journée), 4,60 % dans la territoriale",
-       "17 nov. : 2,59 % de grévistes dans la fonction publique de l'État selon le ministère",
-       "Toutes les fédérations appellent à la mobilisation le 17 nov. après l'adhésion de la CFDT"
-      ]
-     },
-     {
-      "t": "Matignon, 13 novembre",
-      "f": [
-       "Rencontre avec les huit organisations représentatives",
-       "Discussion d'un mois sur cinq chantiers : urgence pour les bas salaires et réforme des grilles indiciaires",
-       "Nouveau rendez-vous le 11 décembre, au lendemain des élections professionnelles"
-      ]
-     },
-     {
-      "t": "Le point d'indice",
-      "f": [
-       "Gel confirmé pour 2027, inscrit dans le PLF",
-       "L'intersyndicale demande le dégel, puis l'indexation sur les prix",
-       "Cour des comptes : gel des avancements en 2027 (3,9 Md€), une des 18 mesures proposées"
-      ]
-     },
-     {
-      "t": "Indice minimum",
-      "f": [
-       "2 oct. : David Amiel propose de relever l'indice minimum au 1er janvier 2027",
-       "Environ 400 000 agents publics auraient un salaire de base supérieur au Smic, selon le gouvernement",
-       "Les syndicats jugent la mesure insuffisante",
-       "Environ 200 000 manifestants à l'appel de l'intersyndicale"
-      ]
-     },
-     {
-      "t": "Dans le PLF 2027",
-      "f": [
-       "Création nette d'environ 8 000 postes dans la fonction publique de l'État (Acteurs publics)",
-       "Article 73 : protection fonctionnelle étendue aux agents devant les juridictions financières",
-       "Article 75 : prépare la réforme du financement des retraites des fonctionnaires",
-       "Sénat : forfaitisation du supplément familial de traitement et réduction de la rémunération en temps partiel thérapeutique"
-      ]
-     },
-     {
-      "t": "Règles à connaître",
-      "f": [
-       "Droit de grève reconnu par le Préambule de la Constitution de 1946",
-       "Il est concilié avec la continuité du service public",
-       "Fonction publique de l'État : préavis syndical nécessaire"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-10-02",
-     "t": "Le ministre David Amiel propose de relever l'indice minimum au 1er janvier 2027.",
-     "v": "2026-11-25"
-    },
-    {
-     "d": "2026-11-04",
-     "t": "Le Conseil commun de la fonction publique aborde la question des retraites.",
-     "v": "2026-11-18"
-    },
-    {
-     "d": "2026-11-05",
-     "t": "Journée de grève : près de 10 % de grévistes dans la fonction publique de l'État.",
-     "v": "2026-11-12"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Matignon ouvre une concertation d'un mois ; rendez-vous le 11 décembre.",
-     "v": "2026-11-14"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "La commission des finances du Sénat ajoute deux mesures sur les agents publics au PLF.",
-     "v": "2026-11-20"
-    },
-    {
-     "d": "2026-11-17",
-     "t": "Grève : 2,59 % de grévistes dans la fonction publique de l'État.",
-     "v": "2026-11-19"
     }
    ]
   },
@@ -338,103 +457,6 @@
      "d": "2026-11-03",
      "t": "Décision du Conseil d'État sur le classement d'un candidat à un poste de professeur.",
      "v": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "id": "cop31",
-   "rubrique": "Europe et monde",
-   "titre": "COP31 à Antalya",
-   "resume": "Une conférence sur le climat marquée par des désaccords sur les financements et sur la mention des énergies fossiles.",
-   "statut": "En cours",
-   "maj": "2026-11-24",
-   "enjeu": "Distinguer la présidence formelle, la conduite des négociations et le caractère consensuel des décisions d'une COP.",
-   "carte": {
-    "centre": "COP31",
-    "branches": [
-     {
-      "t": "Cadre",
-      "f": [
-       "Antalya (Turquie), du 9 au 20 novembre 2026",
-       "La Turquie accueille et préside ; l'Australie conduit les négociations",
-       "Décision finale à adopter par près de 200 pays"
-      ]
-     },
-     {
-      "t": "Points de blocage",
-      "f": [
-       "Querelle précoce sur les financements",
-       "Premier projet du 16 nov. : accélérer la sortie du charbon, du pétrole et du gaz",
-       "Projet suivant : plus aucune mention explicite du charbon, du pétrole ni du gaz",
-       "Greenpeace critique l'absence de voie claire de sortie"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-09",
-     "t": "Ouverture de la COP31 à Antalya.",
-     "v": "2026-11-12"
-    },
-    {
-     "d": "2026-11-16",
-     "t": "Premier projet de décision de la présidence.",
-     "v": "2026-11-22"
-    },
-    {
-     "d": "2026-11-20",
-     "t": "Date de clôture prévue, avec un projet de décision allégé.",
-     "v": "2026-11-19"
-    }
-   ]
-  },
-  {
-   "id": "justice-crises-internationales",
-   "rubrique": "Europe et monde",
-   "titre": "Justice internationale et crises humanitaires",
-   "resume": "La CIJ juge que la Birmanie a commis un génocide contre les Rohingyas ; l'ONU alerte sur le Soudan ; sommet UE-Royaume-Uni.",
-   "statut": "Terminé",
-   "maj": "2026-11-24",
-   "enjeu": "La CIJ, juridiction de l'ONU, tranche des différends entre États : un arrêt sur le génocide est un repère de culture générale internationale.",
-   "carte": {
-    "centre": "Justice et crises",
-    "branches": [
-     {
-      "t": "Rohingyas devant la CIJ",
-      "f": [
-       "19 nov. 2026 : la Birmanie a commis un génocide, par neuf voix contre six",
-       "Affaire introduite par la Gambie en 2019 sur le fondement de la Convention de 1948",
-       "Violences dans le nord de l'État de Rakhine"
-      ]
-     },
-     {
-      "t": "Soudan",
-      "f": [
-       "Guerre depuis avril 2023",
-       "Environ 15,4 millions de personnes ont un besoin urgent d'abris et de biens de première nécessité",
-       "Financement humanitaire jugé insuffisant"
-      ]
-     },
-     {
-      "t": "UE-Royaume-Uni",
-      "f": [
-       "Deuxième sommet à Bruxelles le 20 novembre 2026",
-       "Avec António Costa, Ursula von der Leyen et le Premier ministre britannique Andy Burnham"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-03",
-     "t": "La CIJ annonce son arrêt pour le 19 novembre.",
-     "v": "2026-11-15"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "Arrêt de la CIJ : génocide contre les Rohingyas.",
-     "v": "2026-11-22"
     }
    ]
   },
