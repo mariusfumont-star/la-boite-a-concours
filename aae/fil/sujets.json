@@ -1,51 +1,188 @@
 {
- "derniere_veille": "2026-11-25",
+ "derniere_veille": "2026-11-26",
  "sujets": [
   {
-   "id": "g7-paris",
-   "rubrique": "Europe et monde",
-   "titre": "G7 à Paris : Iran, détroit d'Ormuz et Ukraine",
-   "resume": "Les ministres des Affaires étrangères du G7 se sont réunis à Paris début novembre 2026, sous présidence française, avec l'Iran, Ormuz et l'Ukraine au programme.",
+   "id": "budget-education-superieur",
+   "rubrique": "Éducation et jeunesse",
+   "titre": "Budget 2027 de l'éducation et de l'enseignement supérieur",
+   "resume": "Les crédits augmentent, mais le projet supprime des postes d'enseignants, ce qui alimente la contestation. Au Sénat, la commission des finances a examiné les crédits de la recherche et de l'enseignement supérieur.",
    "statut": "En cours",
-   "maj": "2026-11-25",
-   "enjeu": "Savoir ce qu'est le G7, qui y siège et pourquoi la présidence française compte ; le sujet relie diplomatie, énergie et budget de l'État.",
+   "maj": "2026-11-26",
+   "enjeu": "Savoir lire un budget par mission et programme : hausse des crédits et baisse des emplois ne se contredisent pas, la masse salariale et les effectifs sont deux grandeurs distinctes.",
    "carte": {
-    "centre": "G7 à Paris",
+    "centre": "Budget éducation 2027",
     "branches": [
      {
-      "t": "La réunion",
+      "t": "Enseignement scolaire",
       "f": [
-       "Ministres des Affaires étrangères du G7 réunis à Paris début novembre 2026",
-       "La France assure la présidence du G7"
+       "Mission dotée de 65,53 Md€, contre 64,43 Md€ en 2026",
+       "1 588 emplois d'enseignants supprimés, dont 1 250 dans le public (414 dans le 1er degré, 836 dans le 2nd)",
+       "Autre présentation : crédits de paiement de la mission de 89,62 à 90,86 Md€ (+ 1,24 Md€, + 1,38 %), soit un périmètre différent"
       ]
      },
      {
-      "t": "Les invités",
+      "t": "Enseignement supérieur",
       "f": [
-       "Ministres du Brésil, de la Corée du Sud, d'Égypte, d'Arabie saoudite et d'Ukraine invités par la France"
+       "Mission Recherche et enseignement supérieur : 31,8 Md€, soit + 500 M€",
+       "Repas à 1 € dans les Crous financé en année pleine (143 M€), avec 600 emplois supplémentaires dans les Crous",
+       "Le repas à 1 € est pérennisé, mais conditionné au vote du budget : 143 M€ pour les Crous",
+       "Enseignement supérieur et recherche : 29,5 Md€ selon L'Étudiant",
+       "Sénat (5 nov.) : crédits de l'ANR stabilisés, + 300 M€ pour la recherche ; non-respect de la LPR critiqué (programme 150)"
       ]
      },
      {
-      "t": "Les dossiers",
+      "t": "Une mesure retirée",
       "f": [
-       "Les Européens devaient presser Marco Rubio sur l'Ukraine",
-       "Risque de nouvelle escalade avec l'Iran"
+       "Contribution de 178 € en BTS et 270 € en classes préparatoires pour les non-boursiers",
+       "Annoncée, puis retirée le soir même face à la contestation",
+       "Elle devait rapporter environ 300 M€"
       ]
      },
      {
-      "t": "Énergie",
+      "t": "Ce qui s'y ajoute",
       "f": [
-       "Blocage du détroit d'Ormuz, par où transite une large part du pétrole mondial",
-       "Flambée des prix de l'énergie selon la presse"
+       "1 264 postes pour les BTS et 500 postes dans les lycées (annonces du 26 oct.)"
+      ]
+     },
+     {
+      "t": "Lire le budget",
+      "f": [
+       "Mission « Enseignement scolaire » : programmes du 1er degré, du 2nd degré, de la vie de l'élève…",
+       "Le budget doit être adopté pour préserver le repas à 1 €, selon le ministre",
+       "Note de commission ≠ vote : suppression du programme 191 et frais d'inscription modulés selon les revenus évoqués"
       ]
      }
     ]
    },
    "chrono": [
     {
+     "d": "2026-10-01",
+     "t": "Présentation du PLF 2027 : l'éducation et le supérieur figurent parmi les rares budgets en hausse ; la contribution BTS et CPGE est annoncée puis retirée le soir même.",
+     "v": "2026-10-09"
+    },
+    {
+     "d": "2026-10-05",
+     "t": "Le ministère de l'Enseignement supérieur détaille ses crédits : 31,8 Md€.",
+     "v": "2026-10-12"
+    },
+    {
+     "d": "2026-10-21",
+     "t": "Le ministre Geffray présente le budget de l'enseignement scolaire en commission.",
+     "v": "2026-11-07"
+    },
+    {
+     "d": "2026-11-05",
+     "t": "La commission des finances du Sénat examine la mission « Recherche et enseignement supérieur » : + 300 M€ pour la recherche selon sa note.",
+     "v": "2026-11-26"
+    },
+    {
+     "d": "2026-11-20",
+     "t": "Les crédits de paiement de la mission Enseignement scolaire passent de 89,62 à 90,86 Md€ selon France Épargne.",
+     "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-21",
+     "t": "Le budget de l'enseignement supérieur : 29,5 Md€, repas à 1 € conditionné au vote du budget.",
+     "v": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "golfe-iran",
+   "rubrique": "Europe et monde",
+   "titre": "Golfe, Iran et détroit d'Ormuz",
+   "resume": "Frappes des Houthis, détroit d'Ormuz fermé et miné selon Téhéran, et incertitude sur une reprise de la guerre entre les États-Unis et l'Iran.",
+   "statut": "En cours",
+   "maj": "2026-11-26",
+   "enjeu": "Comprendre les conséquences économiques (énergie, transport maritime, prix) et les formats de médiation, sans prendre parti dans le conflit.",
+   "carte": {
+    "centre": "Golfe et Ormuz",
+    "branches": [
+     {
+      "t": "Les incidents",
+      "f": [
+       "8 oct. : les Houthis frappent l'aéroport de Riyad (trois morts)",
+       "9 oct. : les Gardiens de la révolution frappent le pétrolier MV Sun Shine",
+       "13 oct. : frappe revendiquée par les Houthis contre le siège d'Aramco à Dhahran",
+       "10 nov. : les Gardiens de la révolution signalent deux navires en feu après une route « non autorisée »",
+       "25 nov. : deux pétroliers touchés par des mines selon les Gardiens de la révolution (non confirmé)"
+      ]
+     },
+     {
+      "t": "Conséquences",
+      "f": [
+       "Trafic maritime dans le détroit d'Ormuz en baisse d'environ 90 % depuis le début de la guerre",
+       "Le FMI met en garde contre les effets sur l'économie mondiale",
+       "19 nov. : l'AIE juge essentielle la réouverture complète du détroit d'Ormuz",
+       "Cyberattaque des 11-12 oct. sur environ 700 sites de la grande distribution, attribuée par la France aux Gardiens de la révolution",
+       "Mines : 23 incidents du 27 oct. au 21 nov. selon Téhéran ; 30 à 40 navires touchés selon Option Finance"
+      ]
+     },
+     {
+      "t": "Diplomatie",
+      "f": [
+       "Un accord provisoire conclu en juin sous l'égide du Pakistan",
+       "L'Iran se dit prêt à rouvrir Ormuz si les États-Unis lèvent leur blocus naval",
+       "19 oct. : Sergueï Lavrov affiche à Téhéran le soutien de la Russie",
+       "Washington veut inclure le nucléaire dans toute négociation initiale (guerre en cours depuis huit mois)",
+       "Les États-Unis et le Qatar réaffirment leur attachement à la liberté de navigation"
+      ]
+     },
+     {
+      "t": "Perspectives",
+      "f": [
+       "Les États du Golfe se préparent à une possible reprise de la guerre",
+       "Selon la presse, des plans de frappes américano-israéliens après les élections américaines",
+       "24 nov. : l'armée iranienne renforce la fermeture d'Ormuz jusqu'à satisfaction de sept conditions"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-08",
+     "t": "Les Houthis frappent l'aéroport de Riyad.",
+     "v": "2026-10-10"
+    },
+    {
+     "d": "2026-10-09",
+     "t": "Un pétrolier frappé dans le détroit d'Ormuz.",
+     "v": "2026-10-11"
+    },
+    {
+     "d": "2026-10-13",
+     "t": "Frappe contre le siège d'Aramco ; mise en garde du FMI.",
+     "v": "2026-10-15"
+    },
+    {
+     "d": "2026-10-19",
+     "t": "Lavrov à Téhéran.",
+     "v": "2026-10-19"
+    },
+    {
+     "d": "2026-10-24",
+     "t": "Téhéran propose de rouvrir Ormuz contre la levée du blocus américain.",
+     "v": "2026-10-28"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Deux navires en feu dans le détroit d'Ormuz selon les Gardiens de la révolution ; Washington maintient son blocus.",
+     "v": "2026-11-13"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "L'AIE alerte sur la menace pour la sécurité énergétique mondiale.",
+     "v": "2026-11-23"
+    },
+    {
+     "d": "2026-11-24",
+     "t": "Le chef de l'armée iranienne ordonne de renforcer la fermeture du détroit d'Ormuz jusqu'à satisfaction de sept conditions.",
+     "v": "2026-11-26"
+    },
+    {
      "d": "2026-11-25",
-     "t": "Réunion des ministres des Affaires étrangères du G7 à Paris (début novembre), sous présidence française.",
-     "v": "2026-11-25"
+     "t": "Les Gardiens de la révolution affirment que deux pétroliers ont heurté des mines ; information non confirmée de manière indépendante.",
+     "v": "2026-11-26"
     }
    ]
   },
@@ -53,9 +190,9 @@
    "id": "mouvement-lyceen",
    "rubrique": "Éducation et jeunesse",
    "titre": "Le mouvement lycéen et étudiant",
-   "resume": "Parti de lycées de la région parisienne à la mi-septembre, il réclame des enseignants, des classes moins chargées, des locaux dignes et une autre orientation post-bac. Selon le ministre, 190 élèves ont été blessés depuis le début du mouvement.",
+   "resume": "Parti de lycées de la région parisienne à la mi-septembre, il réclame des enseignants, des classes moins chargées, des locaux dignes et une autre orientation post-bac. Selon le ministre, environ 3 000 procédures disciplinaires ont été engagées et plus de 400 exclusions définitives prononcées.",
    "statut": "En cours",
-   "maj": "2026-11-25",
+   "maj": "2026-11-26",
    "enjeu": "Un attaché de l'Éducation nationale doit savoir distinguer ce qui relève de l'État (postes, remplacements, programmes) de ce qui relève des collectivités (bâtiments), et connaître les instances de dialogue des établissements.",
    "carte": {
     "centre": "Mouvement lycéen",
@@ -67,7 +204,7 @@
        "13 oct. : 161 000 selon l'Intérieur, 480 000 selon les organisateurs",
        "Lycées fermés : environ 800 le 6 oct., 214 le 13 oct., 49 le 10 nov. (1,3 %)",
        "Plus de 50 campus universitaires bloqués le 10 nov.",
-       "Blessés : 609 selon Public Sénat (364 élèves, 245 personnels) ; 190 élèves selon le ministre"
+       "Blessés : 609 selon Public Sénat ; 190 élèves selon le ministre, dont 98 la semaine précédant le 23 nov."
       ]
      },
      {
@@ -86,7 +223,7 @@
        "3 000 remplaçants déployés dans les lycées en tension",
        "26 oct. : 28 élèves maximum en seconde d'ici 2028, 500 postes dans les lycées, Parcoursup transformé puis remplacé",
        "Cours de rattrapage possibles en février ou à Pâques (9 nov.) ; plateforme de concertation et plus d'élus lycéens au CSE",
-       "« Judiciarisation » : saisine systématique de la justice pour les actes visant les personnels (13 nov.)"
+       "Fermeté : poursuites systématiques (13 nov.) ; télégramme aux recteurs pour systématiser les sanctions"
       ]
      },
      {
@@ -104,7 +241,8 @@
       "f": [
        "CVL : 10 lycéens élus pour deux ans, consulté sur la vie du lycée",
        "Grève au 1er degré : déclaration 48 h avant, service d'accueil (loi de 2008)",
-       "Report possible des élections au CA, au CVC et au CVL (circulaire du 6 oct.)"
+       "Report possible des élections au CA, au CVC et au CVL (circulaire du 6 oct.)",
+       "Exclusion définitive par le conseil de discipline, avec rescolarisation : plus de 400 sur ≈ 3 000 procédures (25 nov.)"
       ]
      },
      {
@@ -112,7 +250,7 @@
       "f": [
        "Grèves des 5 et 10 nov. : 1,60 % d'enseignants grévistes le 10 nov. selon le ministère",
        "9 nov. : Matignon reçoit les organisations, puis premier comité Parcoursup",
-       "Le ministre parle d'un mouvement « résiduel », les organisations poursuivent",
+       "Mouvement « résiduel » selon le ministre ; lycées bloqués au plus bas depuis le début (23 nov.)",
        "Comité lycéens-enseignants attendu fin novembre",
        "Le ministre rappelle l'illégalité des blocages et maintient les dates du baccalauréat"
       ]
@@ -196,8 +334,140 @@
      "v": "2026-11-18"
     },
     {
+     "d": "2026-11-23",
+     "t": "Sur LCI, le ministre fait état de 98 élèves blessés la semaine précédente et d'un nombre de lycées bloqués au plus bas depuis le début du mouvement.",
+     "v": "2026-11-26"
+    },
+    {
      "d": "2026-11-25",
      "t": "Selon le ministre Édouard Geffray, 190 élèves ont été blessés depuis le début du mouvement ; d'autres sources avancent des chiffres différents.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-25",
+     "t": "Devant le Sénat, le ministre indique qu'environ 3 000 procédures disciplinaires ont abouti à un peu plus de 400 exclusions définitives, avec rescolarisation.",
+     "v": "2026-11-26"
+    }
+   ]
+  },
+  {
+   "id": "organisation-education-nationale",
+   "rubrique": "Éducation et jeunesse",
+   "titre": "Organisation et fonctionnement de l'Éducation nationale",
+   "resume": "Rappels sur l'organisation déconcentrée, le budget des établissements, la propriété des bâtiments, la discipline des élèves et les décisions récentes (nouvelle direction, cérémonie du 11-Novembre).",
+   "statut": "Rappels",
+   "maj": "2026-11-26",
+   "enjeu": "Le rôle des rectorats, des DSDEN et des EPLE, et le partage État-collectivités, sont des fondamentaux du concours d'attaché de l'Éducation nationale.",
+   "carte": {
+    "centre": "Éducation nationale : qui fait quoi ?",
+    "branches": [
+     {
+      "t": "L'État",
+      "f": [
+       "Administration centrale : conçoit les politiques et fixe le cadre national",
+       "Régions académiques et académies, dirigées par un recteur",
+       "DSDEN au niveau du département",
+       "Il recrute, forme et rémunère les enseignants"
+      ]
+     },
+     {
+      "t": "Les collectivités",
+      "f": [
+       "Communes : les écoles",
+       "Départements : les collèges",
+       "Régions : les lycées"
+      ]
+     },
+     {
+      "t": "L'établissement (EPLE)",
+      "f": [
+       "Personne morale de droit public, autonome administrativement et financièrement",
+       "Budget préparé par le chef d'établissement (ordonnateur), voté par le conseil d'administration",
+       "L'agent comptable assure le paiement et la tenue des comptes"
+      ]
+     },
+     {
+      "t": "Actualité récente",
+      "f": [
+       "Nouvelle direction de la politique territoriale de l'école et de l'anticipation, sous l'autorité du ministre",
+       "11-Novembre : cérémonie obligatoire, du CM1 à la terminale (circulaire du 2 juillet 2026)",
+       "Concours d'enseignants : inscriptions ouvertes jusqu'au 25 novembre 2026"
+      ]
+     },
+     {
+      "t": "Discipline des élèves",
+      "f": [
+       "Règlement intérieur voté par le conseil d'administration",
+       "Chef d'établissement seul : avertissement, blâme, mesure de responsabilisation, exclusion temporaire courte",
+       "Conseil de discipline, présidé par le chef d'établissement : sanctions les plus lourdes, dont l'exclusion définitive",
+       "Procédure contradictoire : élève, famille et défenseur entendus ; décision écrite",
+       "Recours devant le recteur, puis contentieux administratif"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-08-31",
+     "t": "Création annoncée d'une direction de la politique territoriale de l'école et de l'anticipation, d'ici le 1er novembre.",
+     "v": "2026-11-06"
+    },
+    {
+     "d": "2026-10-06",
+     "t": "Circulaire sur le report possible des élections au CA, au CVC et au CVL.",
+     "v": "2026-10-13"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "Première cérémonie obligatoire du 11-Novembre dans les établissements.",
+     "v": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "id": "g7-paris",
+   "rubrique": "Europe et monde",
+   "titre": "G7 à Paris : Iran, détroit d'Ormuz et Ukraine",
+   "resume": "Les ministres des Affaires étrangères du G7 se sont réunis à Paris début novembre 2026, sous présidence française, avec l'Iran, Ormuz et l'Ukraine au programme.",
+   "statut": "En cours",
+   "maj": "2026-11-25",
+   "enjeu": "Savoir ce qu'est le G7, qui y siège et pourquoi la présidence française compte ; le sujet relie diplomatie, énergie et budget de l'État.",
+   "carte": {
+    "centre": "G7 à Paris",
+    "branches": [
+     {
+      "t": "La réunion",
+      "f": [
+       "Ministres des Affaires étrangères du G7 réunis à Paris début novembre 2026",
+       "La France assure la présidence du G7"
+      ]
+     },
+     {
+      "t": "Les invités",
+      "f": [
+       "Ministres du Brésil, de la Corée du Sud, d'Égypte, d'Arabie saoudite et d'Ukraine invités par la France"
+      ]
+     },
+     {
+      "t": "Les dossiers",
+      "f": [
+       "Les Européens devaient presser Marco Rubio sur l'Ukraine",
+       "Risque de nouvelle escalade avec l'Iran"
+      ]
+     },
+     {
+      "t": "Énergie",
+      "f": [
+       "Blocage du détroit d'Ormuz, par où transite une large part du pétrole mondial",
+       "Flambée des prix de l'énergie selon la presse"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-25",
+     "t": "Réunion des ministres des Affaires étrangères du G7 à Paris (début novembre), sous présidence française.",
      "v": "2026-11-25"
     }
    ]
@@ -525,149 +795,6 @@
    ]
   },
   {
-   "id": "budget-education-superieur",
-   "rubrique": "Éducation et jeunesse",
-   "titre": "Budget 2027 de l'éducation et de l'enseignement supérieur",
-   "resume": "Les crédits augmentent, mais le projet supprime des postes d'enseignants, ce qui alimente la contestation.",
-   "statut": "En cours",
-   "maj": "2026-11-24",
-   "enjeu": "Savoir lire un budget par mission et programme : hausse des crédits et baisse des emplois ne se contredisent pas, la masse salariale et les effectifs sont deux grandeurs distinctes.",
-   "carte": {
-    "centre": "Budget éducation 2027",
-    "branches": [
-     {
-      "t": "Enseignement scolaire",
-      "f": [
-       "Mission dotée de 65,53 Md€, contre 64,43 Md€ en 2026",
-       "1 588 emplois d'enseignants supprimés, dont 1 250 dans le public (414 dans le 1er degré, 836 dans le 2nd)",
-       "Autre présentation : crédits de paiement de la mission de 89,62 à 90,86 Md€ (+ 1,24 Md€, + 1,38 %), soit un périmètre différent"
-      ]
-     },
-     {
-      "t": "Enseignement supérieur",
-      "f": [
-       "Mission Recherche et enseignement supérieur : 31,8 Md€, soit + 500 M€",
-       "Repas à 1 € dans les Crous financé en année pleine (143 M€), avec 600 emplois supplémentaires dans les Crous",
-       "Le repas à 1 € est pérennisé, mais conditionné au vote du budget : 143 M€ pour les Crous",
-       "Enseignement supérieur et recherche : 29,5 Md€ selon L'Étudiant"
-      ]
-     },
-     {
-      "t": "Une mesure retirée",
-      "f": [
-       "Contribution de 178 € en BTS et 270 € en classes préparatoires pour les non-boursiers",
-       "Annoncée, puis retirée le soir même face à la contestation",
-       "Elle devait rapporter environ 300 M€"
-      ]
-     },
-     {
-      "t": "Ce qui s'y ajoute",
-      "f": [
-       "1 264 postes pour les BTS et 500 postes dans les lycées (annonces du 26 oct.)"
-      ]
-     },
-     {
-      "t": "Lire le budget",
-      "f": [
-       "Mission « Enseignement scolaire » : programmes du 1er degré, du 2nd degré, de la vie de l'élève…",
-       "Le budget doit être adopté pour préserver le repas à 1 €, selon le ministre"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-10-01",
-     "t": "Présentation du PLF 2027 : l'éducation et le supérieur figurent parmi les rares budgets en hausse ; la contribution BTS et CPGE est annoncée puis retirée le soir même.",
-     "v": "2026-10-09"
-    },
-    {
-     "d": "2026-10-05",
-     "t": "Le ministère de l'Enseignement supérieur détaille ses crédits : 31,8 Md€.",
-     "v": "2026-10-12"
-    },
-    {
-     "d": "2026-10-21",
-     "t": "Le ministre Geffray présente le budget de l'enseignement scolaire en commission.",
-     "v": "2026-11-07"
-    },
-    {
-     "d": "2026-11-20",
-     "t": "Les crédits de paiement de la mission Enseignement scolaire passent de 89,62 à 90,86 Md€ selon France Épargne.",
-     "v": "2026-11-20"
-    },
-    {
-     "d": "2026-11-21",
-     "t": "Le budget de l'enseignement supérieur : 29,5 Md€, repas à 1 € conditionné au vote du budget.",
-     "v": "2026-11-21"
-    }
-   ]
-  },
-  {
-   "id": "organisation-education-nationale",
-   "rubrique": "Éducation et jeunesse",
-   "titre": "Organisation et fonctionnement de l'Éducation nationale",
-   "resume": "Rappels sur l'organisation déconcentrée, le budget des établissements, la propriété des bâtiments et les décisions récentes (nouvelle direction, cérémonie du 11-Novembre).",
-   "statut": "Rappels",
-   "maj": "2026-11-24",
-   "enjeu": "Le rôle des rectorats, des DSDEN et des EPLE, et le partage État-collectivités, sont des fondamentaux du concours d'attaché de l'Éducation nationale.",
-   "carte": {
-    "centre": "Éducation nationale : qui fait quoi ?",
-    "branches": [
-     {
-      "t": "L'État",
-      "f": [
-       "Administration centrale : conçoit les politiques et fixe le cadre national",
-       "Régions académiques et académies, dirigées par un recteur",
-       "DSDEN au niveau du département",
-       "Il recrute, forme et rémunère les enseignants"
-      ]
-     },
-     {
-      "t": "Les collectivités",
-      "f": [
-       "Communes : les écoles",
-       "Départements : les collèges",
-       "Régions : les lycées"
-      ]
-     },
-     {
-      "t": "L'établissement (EPLE)",
-      "f": [
-       "Personne morale de droit public, autonome administrativement et financièrement",
-       "Budget préparé par le chef d'établissement (ordonnateur), voté par le conseil d'administration",
-       "L'agent comptable assure le paiement et la tenue des comptes"
-      ]
-     },
-     {
-      "t": "Actualité récente",
-      "f": [
-       "Nouvelle direction de la politique territoriale de l'école et de l'anticipation, sous l'autorité du ministre",
-       "11-Novembre : cérémonie obligatoire, du CM1 à la terminale (circulaire du 2 juillet 2026)",
-       "Concours d'enseignants : inscriptions ouvertes jusqu'au 25 novembre 2026"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-08-31",
-     "t": "Création annoncée d'une direction de la politique territoriale de l'école et de l'anticipation, d'ici le 1er novembre.",
-     "v": "2026-11-06"
-    },
-    {
-     "d": "2026-10-06",
-     "t": "Circulaire sur le report possible des élections au CA, au CVC et au CVL.",
-     "v": "2026-10-13"
-    },
-    {
-     "d": "2026-11-09",
-     "t": "Première cérémonie obligatoire du 11-Novembre dans les établissements.",
-     "v": "2026-11-12"
-    }
-   ]
-  },
-  {
    "id": "rentree-universitaire",
    "rubrique": "Éducation et jeunesse",
    "titre": "Rentrée universitaire 2026 et places en licence",
@@ -789,91 +916,6 @@
      "d": "2026-11-13",
      "t": "Conseil européen informel à Dublin.",
      "v": "2026-11-18"
-    }
-   ]
-  },
-  {
-   "id": "golfe-iran",
-   "rubrique": "Europe et monde",
-   "titre": "Golfe, Iran et détroit d'Ormuz",
-   "resume": "Frappes des Houthis, navigation entravée dans le détroit d'Ormuz et incertitude sur une reprise de la guerre entre les États-Unis et l'Iran.",
-   "statut": "En cours",
-   "maj": "2026-11-23",
-   "enjeu": "Comprendre les conséquences économiques (énergie, transport maritime, prix) et les formats de médiation, sans prendre parti dans le conflit.",
-   "carte": {
-    "centre": "Golfe et Ormuz",
-    "branches": [
-     {
-      "t": "Les incidents",
-      "f": [
-       "8 oct. : les Houthis frappent l'aéroport de Riyad (trois morts)",
-       "9 oct. : les Gardiens de la révolution frappent le pétrolier MV Sun Shine",
-       "13 oct. : frappe revendiquée par les Houthis contre le siège d'Aramco à Dhahran",
-       "10 nov. : les Gardiens de la révolution signalent deux navires en feu après une route « non autorisée »"
-      ]
-     },
-     {
-      "t": "Conséquences",
-      "f": [
-       "Trafic maritime dans le détroit d'Ormuz en baisse d'environ 90 % depuis le début de la guerre",
-       "Le FMI met en garde contre les effets sur l'économie mondiale",
-       "19 nov. : l'AIE juge essentielle la réouverture complète du détroit d'Ormuz",
-       "Cyberattaque du 11-12 octobre sur des contrôleurs de réfrigération dans environ 700 sites de la grande distribution, attribuée par la France aux Gardiens de la révolution"
-      ]
-     },
-     {
-      "t": "Diplomatie",
-      "f": [
-       "Un accord provisoire conclu en juin sous l'égide du Pakistan",
-       "L'Iran se dit prêt à rouvrir Ormuz si les États-Unis lèvent leur blocus naval",
-       "19 oct. : Sergueï Lavrov affiche à Téhéran le soutien de la Russie",
-       "Washington veut inclure le nucléaire dans toute négociation initiale (guerre en cours depuis huit mois)"
-      ]
-     },
-     {
-      "t": "Perspectives",
-      "f": [
-       "Les États du Golfe se préparent à une possible reprise de la guerre",
-       "Selon la presse, des plans de frappes américano-israéliens après les élections américaines"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-10-08",
-     "t": "Les Houthis frappent l'aéroport de Riyad.",
-     "v": "2026-10-10"
-    },
-    {
-     "d": "2026-10-09",
-     "t": "Un pétrolier frappé dans le détroit d'Ormuz.",
-     "v": "2026-10-11"
-    },
-    {
-     "d": "2026-10-13",
-     "t": "Frappe contre le siège d'Aramco ; mise en garde du FMI.",
-     "v": "2026-10-15"
-    },
-    {
-     "d": "2026-10-19",
-     "t": "Lavrov à Téhéran.",
-     "v": "2026-10-19"
-    },
-    {
-     "d": "2026-10-24",
-     "t": "Téhéran propose de rouvrir Ormuz contre la levée du blocus américain.",
-     "v": "2026-10-28"
-    },
-    {
-     "d": "2026-11-10",
-     "t": "Deux navires en feu dans le détroit d'Ormuz selon les Gardiens de la révolution ; Washington maintient son blocus.",
-     "v": "2026-11-13"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "L'AIE alerte sur la menace pour la sécurité énergétique mondiale.",
-     "v": "2026-11-23"
     }
    ]
   },
