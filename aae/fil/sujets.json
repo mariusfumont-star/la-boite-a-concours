@@ -1,13 +1,13 @@
 {
- "derniere_veille": "2026-11-26",
+ "derniere_veille": "2026-11-27",
  "sujets": [
   {
    "id": "budget-education-superieur",
    "rubrique": "Éducation et jeunesse",
    "titre": "Budget 2027 de l'éducation et de l'enseignement supérieur",
-   "resume": "Les crédits augmentent, mais le projet supprime des postes d'enseignants, ce qui alimente la contestation. Au Sénat, la commission des finances a examiné les crédits de la recherche et de l'enseignement supérieur.",
+   "resume": "Les crédits augmentent (64 Md€ selon le ministre, + 1,2 Md€) tandis que 1 588 postes d'enseignants seraient supprimés, au nom de la baisse démographique. Le débat se poursuit au Sénat, où le rapporteur LR demande une revalorisation des enseignants en milieu de carrière.",
    "statut": "En cours",
-   "maj": "2026-11-26",
+   "maj": "2026-11-27",
    "enjeu": "Savoir lire un budget par mission et programme : hausse des crédits et baisse des emplois ne se contredisent pas, la masse salariale et les effectifs sont deux grandeurs distinctes.",
    "carte": {
     "centre": "Budget éducation 2027",
@@ -17,7 +17,8 @@
       "f": [
        "Mission dotée de 65,53 Md€, contre 64,43 Md€ en 2026",
        "1 588 emplois d'enseignants supprimés, dont 1 250 dans le public (414 dans le 1er degré, 836 dans le 2nd)",
-       "Autre présentation : crédits de paiement de la mission de 89,62 à 90,86 Md€ (+ 1,24 Md€, + 1,38 %), soit un périmètre différent"
+       "Autre présentation : crédits de paiement de la mission de 89,62 à 90,86 Md€ (+ 1,24 Md€, + 1,38 %), soit un périmètre différent",
+       "Selon le ministre Geffray (21 oct.) : 64 Md€, soit + 1,2 Md€ ; les 1 588 suppressions pourraient être revues à la baisse"
       ]
      },
      {
@@ -49,7 +50,14 @@
       "f": [
        "Mission « Enseignement scolaire » : programmes du 1er degré, du 2nd degré, de la vie de l'élève…",
        "Le budget doit être adopté pour préserver le repas à 1 €, selon le ministre",
-       "Note de commission ≠ vote : suppression du programme 191 et frais d'inscription modulés selon les revenus évoqués"
+       "Note de commission ≠ vote : suppression du programme 191 et frais d'inscription modulés selon les revenus évoqués",
+       "Justification avancée : la baisse démographique des effectifs d'élèves"
+      ]
+     },
+     {
+      "t": "Au Sénat",
+      "f": [
+       "Le rapporteur LR veut une revalorisation plus forte des enseignants en milieu de carrière"
       ]
      }
     ]
@@ -71,6 +79,11 @@
      "v": "2026-11-07"
     },
     {
+     "d": "2026-10-21",
+     "t": "Devant la commission de l'Éducation de l'Assemblée, Édouard Geffray annonce 64 Md€ (+ 1,2 Md€) et 1 588 postes d'enseignants supprimés, chiffre qui pourrait être revu à la baisse.",
+     "v": "2026-11-27"
+    },
+    {
      "d": "2026-11-05",
      "t": "La commission des finances du Sénat examine la mission « Recherche et enseignement supérieur » : + 300 M€ pour la recherche selon sa note.",
      "v": "2026-11-26"
@@ -84,6 +97,428 @@
      "d": "2026-11-21",
      "t": "Le budget de l'enseignement supérieur : 29,5 Md€, repas à 1 € conditionné au vote du budget.",
      "v": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "id": "espagne-elections",
+   "rubrique": "Europe et monde",
+   "titre": "Espagne : élections générales anticipées du 29 novembre",
+   "resume": "Annoncées le 5 octobre par Pedro Sánchez, des élections générales anticipées ont lieu le 29 novembre 2026. Selon l'AFP, la majorité des sondages donnent le PP vainqueur sans majorité absolue.",
+   "statut": "À venir",
+   "maj": "2026-11-27",
+   "enjeu": "Savoir situer l'Espagne, partenaire majeur de la France dans l'UE, et lire un scrutin européen : mode de scrutin, coalitions, conséquences possibles sur les positions européennes (migrations, budget, Ukraine).",
+   "carte": {
+    "centre": "Élections en Espagne",
+    "branches": [
+     {
+      "t": "Le scrutin",
+      "f": [
+       "Élections générales anticipées le 29 novembre 2026",
+       "Annoncées le 5 octobre par le Premier ministre Pedro Sánchez"
+      ]
+     },
+     {
+      "t": "La campagne",
+      "f": [
+       "19 nov. : seul face-à-face télévisé entre Pedro Sánchez et Alberto Núñez Feijóo",
+       "Thèmes dominants : le logement et la corruption"
+      ]
+     },
+     {
+      "t": "Les acteurs",
+      "f": [
+       "Pedro Sánchez, Premier ministre",
+       "Alberto Núñez Feijóo, chef du Parti populaire (PP)",
+       "Vox, dont le PP pourrait dépendre"
+      ]
+     },
+     {
+      "t": "Les sondages",
+      "f": [
+       "Selon l'AFP, la majorité des sondages donnent le PP vainqueur",
+       "Sans majorité absolue, il dépendrait de Vox"
+      ]
+     },
+     {
+      "t": "Enjeux européens",
+      "f": [
+       "Positions possibles de l'Espagne sur les migrations, le budget européen et l'Ukraine"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-05",
+     "t": "Pedro Sánchez annonce des élections générales anticipées.",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Seul débat télévisé Sánchez–Feijóo, dominé par le logement et la corruption.",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-11-29",
+     "t": "Élections générales anticipées en Espagne.",
+     "v": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "plf-2027",
+   "rubrique": "Finances publiques",
+   "titre": "Le projet de loi de finances 2027",
+   "resume": "Déposé le 1er octobre avec un objectif de déficit de 5 % du PIB, le budget a été rejeté en première partie par l'Assemblée le 4 novembre et transmis au Sénat dans sa version initiale ; le vote solennel du Sénat est prévu le 9 décembre.",
+   "statut": "En cours",
+   "maj": "2026-11-27",
+   "enjeu": "Le calendrier budgétaire, la LOLF et les délais constitutionnels sont des classiques de l'écrit comme de l'oral : savoir expliquer pourquoi un budget peut passer au Sénat sans avoir été voté.",
+   "carte": {
+    "centre": "PLF 2027",
+    "branches": [
+     {
+      "t": "Le texte",
+      "f": [
+       "Déposé le 1er octobre 2026 (projet n° 3210)",
+       "Objectif de déficit : 5 % du PIB, contre 5,4 % en 2026"
+      ]
+     },
+     {
+      "t": "Le parcours à l'Assemblée",
+      "f": [
+       "9 oct. : la commission des finances rejette la partie recettes (31 contre, 3 pour)",
+       "13 oct. : motion de rejet repoussée par 236 voix contre 149",
+       "Vote du 20 octobre reporté, puis celui du 3 novembre non tenu",
+       "4 nov. : partie recettes rejetée par 458 voix contre, 0 pour, 2 abstentions"
+      ]
+     },
+     {
+      "t": "Conséquence",
+      "f": [
+       "Le texte est réputé rejeté en première lecture, sans examen des dépenses",
+       "Il part au Sénat dans la version initiale du Gouvernement",
+       "Le vote d'ensemble du 17 novembre n'a donc pas lieu"
+      ]
+     },
+     {
+      "t": "Les règles du jeu",
+      "f": [
+       "LOLF : le budget est réparti en missions, programmes et actions",
+       "PLF (État) et PLFSS (Sécurité sociale) : deux textes, deux délais",
+       "Un délai constitutionnel de 70 jours ; le 49.3 a été évoqué"
+      ]
+     },
+     {
+      "t": "Au Sénat",
+      "f": [
+       "La commission des finances propose d'adopter la mission Recherche et enseignement supérieur, sous réserve d'un amendement",
+       "Mission Enseignement scolaire examinée le 28 oct. : amendements en préparation sur les postes et la carrière des professeurs",
+       "Cour des comptes (9 nov.) : 18 propositions, dont la suspension d'un an des avancements en 2027",
+       "Première partie examinée jusqu'au 28 ou 29 nov. ; vote solennel sur l'ensemble prévu le 9 décembre 2026",
+       "Commission des finances : environ 900 M€ d'économies proposées sur la fonction publique"
+      ]
+     },
+     {
+      "t": "Autour du budget",
+      "f": [
+       "Cese : convention citoyenne de 150 citoyens tirés au sort, dès fin novembre",
+       "« Jaune » budgétaire : charge des pensions de l'État par ministère"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-01",
+     "t": "Dépôt du PLF 2027 à l'Assemblée nationale.",
+     "v": "2026-10-12"
+    },
+    {
+     "d": "2026-10-09",
+     "t": "La commission des finances rejette la partie recettes.",
+     "v": "2026-10-12"
+    },
+    {
+     "d": "2026-10-13",
+     "t": "Début de la séance publique ; la motion de rejet préalable est repoussée.",
+     "v": "2026-10-14"
+    },
+    {
+     "d": "2026-10-20",
+     "t": "Le vote solennel est reporté : le PLFSS est examiné d'abord, 2 828 amendements restent à examiner.",
+     "v": "2026-10-25"
+    },
+    {
+     "d": "2026-10-27",
+     "t": "Reprise de l'examen ; la seconde partie, par missions, s'ouvre.",
+     "v": "2026-10-28"
+    },
+    {
+     "d": "2026-10-28",
+     "t": "La commission des finances du Sénat examine la mission Enseignement scolaire.",
+     "v": "2026-11-23"
+    },
+    {
+     "d": "2026-11-03",
+     "t": "Le vote solennel prévu n'a pas lieu.",
+     "v": "2026-11-05"
+    },
+    {
+     "d": "2026-11-04",
+     "t": "L'Assemblée rejette la partie recettes par 458 voix contre 0 ; le texte part au Sénat.",
+     "v": "2026-11-09"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "La Cour des comptes publie 18 propositions pour redresser les finances publiques.",
+     "v": "2026-11-13"
+    },
+    {
+     "d": "2026-11-27",
+     "t": "La commission des finances du Sénat propose environ 900 M€ d'économies sur les dépenses de fonction publique, selon Acteurs publics.",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-12-09",
+     "t": "Vote solennel du Sénat sur l'ensemble du PLF 2027 prévu ; la première partie est examinée jusqu'au 28 ou 29 novembre.",
+     "v": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "remuneration-fonction-publique",
+   "rubrique": "Fonction publique",
+   "titre": "Salaires des agents publics : point d'indice gelé, grève du 17 novembre",
+   "resume": "Le point d'indice reste gelé en 2027 : le ministre David Amiel privilégie des mesures ciblées (huit points d'indice pour le bas de grille, concertation d'un mois), contestées par les syndicats. Au Sénat, la commission des finances propose environ 900 M€ d'économies sur la fonction publique, qui restent à voter.",
+   "statut": "En cours",
+   "maj": "2026-11-27",
+   "enjeu": "Un attaché doit savoir comment se construit une rémunération (indice, point d'indice, primes) et pourquoi une hausse du Smic « écrase » le bas des grilles de catégorie C.",
+   "carte": {
+    "centre": "Rémunérations publiques",
+    "branches": [
+     {
+      "t": "Les décisions",
+      "f": [
+       "Gel du point d'indice en 2027 pour les trois versants, prolongé dans le PLF 2027",
+       "2 oct. : minimum de traitement relevé de six points d'indice, environ 400 000 agents sortent de l'indemnité différentielle",
+       "9 nov. : Smic revalorisé de 1,6 % au 1er décembre, soit 1 502 €",
+       "13 nov. : hausse du Smic répercutée aux agents publics et points d'indice supplémentaires pour les agents les moins bien rémunérés",
+       "Sénat (commission des finances) : environ 900 M€ d'économies proposées, à voter en séance"
+      ]
+     },
+     {
+      "t": "Matignon, le 13 novembre",
+      "f": [
+       "Pas de hausse générale du point d'indice",
+       "Mesure ciblée : 1,35 million d'agents, gain moyen d'environ 350 € bruts par an (annonce du ministre)",
+       "Concertation d'un mois sur cinq chantiers (rémunérations et carrières), jusqu'à la mi-décembre environ",
+       "Huit points d'indice pour le bas de grille ; environ 200 000 agents au-dessus du Smic aussi concernés",
+       "Indemnité différentielle : 650 000 agents concernés contre 872 000 (presse spécialisée)"
+      ]
+     },
+     {
+      "t": "Les mobilisations",
+      "f": [
+       "Journée de grève et de manifestations le 5 novembre",
+       "17 nov. : grève dans les trois versants, maintenue par l'intersyndicale après Matignon",
+       "Cour des comptes : une des 18 propositions suspendrait en 2027 les avancements et promotions",
+       "Syndicats : pas de dégel du point ; le cabinet du ministre estime qu'aucun agent n'est payé sous le Smic horaire (rémunération globale)"
+      ]
+     },
+     {
+      "t": "Les acteurs",
+      "f": [
+       "David Amiel, ministre chargé de la fonction publique",
+       "Sébastien Lecornu, Premier ministre",
+       "Intersyndicale de la fonction publique",
+       "Christine Lavarde, rapporteure de la commission des finances du Sénat"
+      ]
+     },
+     {
+      "t": "Les notions",
+      "f": [
+       "Rémunération = traitement indiciaire (indice × point d'indice) + primes",
+       "Indemnité différentielle : elle compense un traitement inférieur au Smic",
+       "Un chantier sur la structure de la rémunération (indice, indemnités, grilles) est ouvert depuis janvier"
+      ]
+     },
+     {
+      "t": "Propositions du Sénat",
+      "f": [
+       "Rapporteure Christine Lavarde : baisse d'environ 900 M€ des dépenses de fonction publique (selon Acteurs publics)",
+       "Forfaitisation du supplément familial de traitement",
+       "Temps partiel thérapeutique rémunéré à 90 %",
+       "Proposition de commission : applicable seulement après adoption définitive du budget"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-09-17",
+     "t": "Le Premier ministre annonce un gel du point d'indice pour 2027.",
+     "v": "2026-10-21"
+    },
+    {
+     "d": "2026-10-02",
+     "t": "Rendez-vous salarial : minimum de traitement relevé, point d'indice toujours gelé.",
+     "v": "2026-10-09"
+    },
+    {
+     "d": "2026-10-05",
+     "t": "L'intersyndicale appelle à la grève le 5 novembre.",
+     "v": "2026-10-11"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "Conférence sociale : Smic revalorisé de 1,6 % au 1er décembre, gel du point confirmé.",
+     "v": "2026-11-11"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Réunions bilatérales avec les syndicats ; six organisations appellent à la grève le 17 novembre.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Réunion de Matignon : hausse du Smic répercutée, points d'indice pour les bas salaires, concertation d'un mois.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Le ministre David Amiel présente huit points d'indice pour les agents du bas de grille ; selon la presse spécialisée, 650 000 agents resteraient à l'indemnité différentielle contre 872 000.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-17",
+     "t": "Grève dans la fonction publique ; l'intersyndicale avait maintenu son appel après Matignon.",
+     "v": "2026-11-17"
+    },
+    {
+     "d": "2026-11-27",
+     "t": "Selon Acteurs publics, la commission des finances du Sénat adopte une baisse d'environ 900 M€ des dépenses de fonction publique (supplément familial de traitement forfaitisé, temps partiel thérapeutique à 90 %), à voter en séance.",
+     "v": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "ukraine-negociations",
+   "rubrique": "Europe et monde",
+   "titre": "Guerre en Ukraine : vers des négociations ?",
+   "resume": "Après Abou Dhabi (10-11 novembre), les négociations se poursuivent et les Européens cherchent leur place (équipe de sept membres décidée à Dublin, accord du Kremlin non acquis) ; le sommet de Shenzhen du 19 novembre s'est conclu par une « déclaration de paix » sans avancée sur l'Ukraine.",
+   "statut": "En cours",
+   "maj": "2026-11-27",
+   "enjeu": "Rester neutre et factuel : exposer les positions des parties, les formats de négociation et le rôle de l'Union européenne et de la France, sans prendre parti.",
+   "carte": {
+    "centre": "Ukraine : négociations",
+    "branches": [
+     {
+      "t": "Le processus",
+      "f": [
+       "21-22 oct. : Steve Witkoff à Saint-Pétersbourg avec un plan actualisé ; Vladimir Poutine se dit prêt à des pourparlers",
+       "10-11 nov. : pourparlers Russie-Ukraine-États-Unis à Abou Dhabi, premiers trilatéraux directs depuis février",
+       "12 nov. : Witkoff et Jared Kushner reçus par Poutine, puis rencontre avec Volodymyr Zelensky en Irlande"
+      ]
+     },
+     {
+      "t": "Résultats et désaccords",
+      "f": [
+       "Accord de principe sur un échange de prisonniers",
+       "Désaccords persistants, notamment sur le territoire",
+       "14 nov. : selon Zelensky, un retrait du Donbass aurait été évoqué contre une adhésion à l'OTAN",
+       "19 nov. à Shenzhen : Xi, Trump et Poutine adoptent une « déclaration de paix » en moins de deux heures, sans avancée sur l'Ukraine"
+      ]
+     },
+     {
+      "t": "La place de l'Europe",
+      "f": [
+       "13 nov. : Conseil européen informel à Dublin",
+       "13 nov. : à Dublin, équipe européenne de sept membres prévue (autres sources : cinq pays) ; le Kremlin réserve sa réponse",
+       "19 nov. : Coalition des volontaires réunie à Berlin sur la paix et les garanties de sécurité",
+       "Selon le chancelier allemand, l'Europe participera bientôt aux négociations ; le Kremlin ne l'a pas encore acceptée"
+      ]
+     },
+     {
+      "t": "Sur le terrain",
+      "f": [
+       "22 oct. : frappe sur Kiev avec des missiles à sous-munitions (au moins neuf morts)",
+       "Nuit du 29 au 30 oct. : 105 drones neutralisés sur 134",
+       "Frappe à Komyshuvakha (Zaporijjia) : au moins 26 morts, bilans divergents"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-16",
+     "t": "Rencontre Magyar - Zelensky à Bruxelles : un rapprochement diplomatique.",
+     "v": "2026-10-18"
+    },
+    {
+     "d": "2026-10-21",
+     "t": "Steve Witkoff à Saint-Pétersbourg avec un plan de paix actualisé.",
+     "v": "2026-10-21"
+    },
+    {
+     "d": "2026-10-22",
+     "t": "Poutine se dit prêt à des pourparlers ; frappe sur le centre de Kiev.",
+     "v": "2026-10-22"
+    },
+    {
+     "d": "2026-10-30",
+     "t": "Attaque massive de drones russes sur Kiev et sept régions.",
+     "v": "2026-11-01"
+    },
+    {
+     "d": "2026-11-05",
+     "t": "Frappe meurtrière à Zaporijjia, fin de la trêve locale.",
+     "v": "2026-11-06"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Ouverture des pourparlers trilatéraux à Abou Dhabi.",
+     "v": "2026-11-11"
+    },
+    {
+     "d": "2026-11-11",
+     "t": "Fin des pourparlers : échange de prisonniers, sans percée.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-12",
+     "t": "Witkoff et Kushner reçus par Poutine au Kremlin, puis rencontre avec Zelensky.",
+     "v": "2026-11-13"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Conseil européen informel à Dublin : cinq pays européens invités aux négociations.",
+     "v": "2026-11-18"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Dublin : les dirigeants conviennent que l'Europe serait représentée par une équipe de sept membres dans les pourparlers.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-14",
+     "t": "Zelensky affirme que le Donbass a été évoqué contre une adhésion à l'OTAN.",
+     "v": "2026-11-15"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Sommet de Shenzhen et Coalition des volontaires à Berlin.",
+     "v": "2026-11-21"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Après la Coalition des volontaires à Berlin, le chancelier allemand annonce une participation prochaine de l'Europe ; le Kremlin ne l'a pas encore acceptée.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "À Shenzhen, Xi Jinping, Donald Trump et Vladimir Poutine adoptent en moins de deux heures une « déclaration de paix », sans avancée sur l'Ukraine selon Euronews.",
+     "v": "2026-11-27"
     }
    ]
   },
@@ -580,221 +1015,6 @@
    ]
   },
   {
-   "id": "remuneration-fonction-publique",
-   "rubrique": "Fonction publique",
-   "titre": "Salaires des agents publics : point d'indice gelé, grève du 17 novembre",
-   "resume": "Le point d'indice reste gelé en 2027 ; après la grève du 17 novembre et la réunion de Matignon du 13, une concertation d'un mois sur les rémunérations et les carrières est ouverte. Le 13 novembre, huit points d'indice ont été prévus pour le bas de grille ; le Smic atteint 1 502 € au 1er décembre.",
-   "statut": "En cours",
-   "maj": "2026-11-25",
-   "enjeu": "Un attaché doit savoir comment se construit une rémunération (indice, point d'indice, primes) et pourquoi une hausse du Smic « écrase » le bas des grilles de catégorie C.",
-   "carte": {
-    "centre": "Rémunérations publiques",
-    "branches": [
-     {
-      "t": "Les décisions",
-      "f": [
-       "Gel du point d'indice en 2027 pour les trois versants, prolongé dans le PLF 2027",
-       "2 oct. : minimum de traitement relevé de six points d'indice, environ 400 000 agents sortent de l'indemnité différentielle",
-       "9 nov. : Smic revalorisé de 1,6 % au 1er décembre, soit 1 502 €",
-       "13 nov. : hausse du Smic répercutée aux agents publics et points d'indice supplémentaires pour les agents les moins bien rémunérés"
-      ]
-     },
-     {
-      "t": "Matignon, le 13 novembre",
-      "f": [
-       "Pas de hausse générale du point d'indice",
-       "Mesure ciblée : 1,35 million d'agents, gain moyen d'environ 350 € bruts par an (annonce du ministre)",
-       "Concertation d'un mois sur cinq chantiers (rémunérations et carrières), jusqu'à la mi-décembre environ",
-       "Huit points d'indice pour le bas de grille ; environ 200 000 agents au-dessus du Smic aussi concernés",
-       "Indemnité différentielle : 650 000 agents concernés contre 872 000 (presse spécialisée)"
-      ]
-     },
-     {
-      "t": "Les mobilisations",
-      "f": [
-       "Journée de grève et de manifestations le 5 novembre",
-       "17 nov. : grève dans les trois versants, maintenue par l'intersyndicale après Matignon",
-       "Cour des comptes : une des 18 propositions suspendrait en 2027 les avancements et promotions",
-       "Syndicats : pas de dégel du point ; le cabinet du ministre estime qu'aucun agent n'est payé sous le Smic horaire (rémunération globale)"
-      ]
-     },
-     {
-      "t": "Les acteurs",
-      "f": [
-       "David Amiel, ministre chargé de la fonction publique",
-       "Sébastien Lecornu, Premier ministre",
-       "Intersyndicale de la fonction publique"
-      ]
-     },
-     {
-      "t": "Les notions",
-      "f": [
-       "Rémunération = traitement indiciaire (indice × point d'indice) + primes",
-       "Indemnité différentielle : elle compense un traitement inférieur au Smic",
-       "Un chantier sur la structure de la rémunération (indice, indemnités, grilles) est ouvert depuis janvier"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-09-17",
-     "t": "Le Premier ministre annonce un gel du point d'indice pour 2027.",
-     "v": "2026-10-21"
-    },
-    {
-     "d": "2026-10-02",
-     "t": "Rendez-vous salarial : minimum de traitement relevé, point d'indice toujours gelé.",
-     "v": "2026-10-09"
-    },
-    {
-     "d": "2026-10-05",
-     "t": "L'intersyndicale appelle à la grève le 5 novembre.",
-     "v": "2026-10-11"
-    },
-    {
-     "d": "2026-11-09",
-     "t": "Conférence sociale : Smic revalorisé de 1,6 % au 1er décembre, gel du point confirmé.",
-     "v": "2026-11-11"
-    },
-    {
-     "d": "2026-11-10",
-     "t": "Réunions bilatérales avec les syndicats ; six organisations appellent à la grève le 17 novembre.",
-     "v": "2026-11-12"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Réunion de Matignon : hausse du Smic répercutée, points d'indice pour les bas salaires, concertation d'un mois.",
-     "v": "2026-11-14"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Le ministre David Amiel présente huit points d'indice pour les agents du bas de grille ; selon la presse spécialisée, 650 000 agents resteraient à l'indemnité différentielle contre 872 000.",
-     "v": "2026-11-25"
-    },
-    {
-     "d": "2026-11-17",
-     "t": "Grève dans la fonction publique ; l'intersyndicale avait maintenu son appel après Matignon.",
-     "v": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "id": "ukraine-negociations",
-   "rubrique": "Europe et monde",
-   "titre": "Guerre en Ukraine : vers des négociations ?",
-   "resume": "Après Abou Dhabi (10-11 novembre), les Européens cherchent leur place dans les négociations (équipe de sept membres décidée à Dublin, accord du Kremlin non acquis) ; le sommet de Shenzhen n'a pas apporté d'accord sur l'Ukraine.",
-   "statut": "En cours",
-   "maj": "2026-11-25",
-   "enjeu": "Rester neutre et factuel : exposer les positions des parties, les formats de négociation et le rôle de l'Union européenne et de la France, sans prendre parti.",
-   "carte": {
-    "centre": "Ukraine : négociations",
-    "branches": [
-     {
-      "t": "Le processus",
-      "f": [
-       "21-22 oct. : Steve Witkoff à Saint-Pétersbourg avec un plan actualisé ; Vladimir Poutine se dit prêt à des pourparlers",
-       "10-11 nov. : pourparlers Russie-Ukraine-États-Unis à Abou Dhabi, premiers trilatéraux directs depuis février",
-       "12 nov. : Witkoff et Jared Kushner reçus par Poutine, puis rencontre avec Volodymyr Zelensky en Irlande"
-      ]
-     },
-     {
-      "t": "Résultats et désaccords",
-      "f": [
-       "Accord de principe sur un échange de prisonniers",
-       "Désaccords persistants, notamment sur le territoire",
-       "14 nov. : selon Zelensky, un retrait du Donbass aurait été évoqué contre une adhésion à l'OTAN",
-       "19 nov. à Shenzhen : Trump, Xi et Poutine adoptent une « déclaration de paix », sans accord sur l'Ukraine"
-      ]
-     },
-     {
-      "t": "La place de l'Europe",
-      "f": [
-       "13 nov. : Conseil européen informel à Dublin",
-       "13 nov. : à Dublin, équipe européenne de sept membres prévue (autres sources : cinq pays) ; le Kremlin réserve sa réponse",
-       "19 nov. : Coalition des volontaires réunie à Berlin sur la paix et les garanties de sécurité",
-       "Selon le chancelier allemand, l'Europe participera bientôt aux négociations ; le Kremlin ne l'a pas encore acceptée"
-      ]
-     },
-     {
-      "t": "Sur le terrain",
-      "f": [
-       "22 oct. : frappe sur Kiev avec des missiles à sous-munitions (au moins neuf morts)",
-       "Nuit du 29 au 30 oct. : 105 drones neutralisés sur 134",
-       "Frappe à Komyshuvakha (Zaporijjia) : au moins 26 morts, bilans divergents"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-10-16",
-     "t": "Rencontre Magyar - Zelensky à Bruxelles : un rapprochement diplomatique.",
-     "v": "2026-10-18"
-    },
-    {
-     "d": "2026-10-21",
-     "t": "Steve Witkoff à Saint-Pétersbourg avec un plan de paix actualisé.",
-     "v": "2026-10-21"
-    },
-    {
-     "d": "2026-10-22",
-     "t": "Poutine se dit prêt à des pourparlers ; frappe sur le centre de Kiev.",
-     "v": "2026-10-22"
-    },
-    {
-     "d": "2026-10-30",
-     "t": "Attaque massive de drones russes sur Kiev et sept régions.",
-     "v": "2026-11-01"
-    },
-    {
-     "d": "2026-11-05",
-     "t": "Frappe meurtrière à Zaporijjia, fin de la trêve locale.",
-     "v": "2026-11-06"
-    },
-    {
-     "d": "2026-11-10",
-     "t": "Ouverture des pourparlers trilatéraux à Abou Dhabi.",
-     "v": "2026-11-11"
-    },
-    {
-     "d": "2026-11-11",
-     "t": "Fin des pourparlers : échange de prisonniers, sans percée.",
-     "v": "2026-11-12"
-    },
-    {
-     "d": "2026-11-12",
-     "t": "Witkoff et Kushner reçus par Poutine au Kremlin, puis rencontre avec Zelensky.",
-     "v": "2026-11-13"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Conseil européen informel à Dublin : cinq pays européens invités aux négociations.",
-     "v": "2026-11-18"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Dublin : les dirigeants conviennent que l'Europe serait représentée par une équipe de sept membres dans les pourparlers.",
-     "v": "2026-11-25"
-    },
-    {
-     "d": "2026-11-14",
-     "t": "Zelensky affirme que le Donbass a été évoqué contre une adhésion à l'OTAN.",
-     "v": "2026-11-15"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "Sommet de Shenzhen et Coalition des volontaires à Berlin.",
-     "v": "2026-11-21"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "Après la Coalition des volontaires à Berlin, le chancelier allemand annonce une participation prochaine de l'Europe ; le Kremlin ne l'a pas encore acceptée.",
-     "v": "2026-11-25"
-    }
-   ]
-  },
-  {
    "id": "rentree-universitaire",
    "rubrique": "Éducation et jeunesse",
    "titre": "Rentrée universitaire 2026 et places en licence",
@@ -1015,114 +1235,6 @@
      "d": "2026-11-20",
      "t": "COP31 : dernière journée de négociation sur le financement climatique.",
      "v": "2026-11-20"
-    }
-   ]
-  },
-  {
-   "id": "plf-2027",
-   "rubrique": "Finances publiques",
-   "titre": "Le projet de loi de finances 2027",
-   "resume": "Déposé le 1er octobre avec un objectif de déficit de 5 % du PIB, le budget a été rejeté en première partie par l'Assemblée le 4 novembre et part au Sénat.",
-   "statut": "En cours",
-   "maj": "2026-11-23",
-   "enjeu": "Le calendrier budgétaire, la LOLF et les délais constitutionnels sont des classiques de l'écrit comme de l'oral : savoir expliquer pourquoi un budget peut passer au Sénat sans avoir été voté.",
-   "carte": {
-    "centre": "PLF 2027",
-    "branches": [
-     {
-      "t": "Le texte",
-      "f": [
-       "Déposé le 1er octobre 2026 (projet n° 3210)",
-       "Objectif de déficit : 5 % du PIB, contre 5,4 % en 2026"
-      ]
-     },
-     {
-      "t": "Le parcours à l'Assemblée",
-      "f": [
-       "9 oct. : la commission des finances rejette la partie recettes (31 contre, 3 pour)",
-       "13 oct. : motion de rejet repoussée par 236 voix contre 149",
-       "Vote du 20 octobre reporté, puis celui du 3 novembre non tenu",
-       "4 nov. : partie recettes rejetée par 458 voix contre, 0 pour, 2 abstentions"
-      ]
-     },
-     {
-      "t": "Conséquence",
-      "f": [
-       "Le texte est réputé rejeté en première lecture, sans examen des dépenses",
-       "Il part au Sénat dans la version initiale du Gouvernement",
-       "Le vote d'ensemble du 17 novembre n'a donc pas lieu"
-      ]
-     },
-     {
-      "t": "Les règles du jeu",
-      "f": [
-       "LOLF : le budget est réparti en missions, programmes et actions",
-       "PLF (État) et PLFSS (Sécurité sociale) : deux textes, deux délais",
-       "Un délai constitutionnel de 70 jours ; le 49.3 a été évoqué"
-      ]
-     },
-     {
-      "t": "Au Sénat",
-      "f": [
-       "La commission des finances propose d'adopter la mission Recherche et enseignement supérieur, sous réserve d'un amendement",
-       "Mission Enseignement scolaire examinée le 28 oct. : amendements en préparation sur les postes et la carrière des professeurs",
-       "Cour des comptes (9 nov.) : 18 propositions, dont la suspension d'un an des avancements en 2027"
-      ]
-     },
-     {
-      "t": "Autour du budget",
-      "f": [
-       "Cese : convention citoyenne de 150 citoyens tirés au sort, dès fin novembre",
-       "« Jaune » budgétaire : charge des pensions de l'État par ministère"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-10-01",
-     "t": "Dépôt du PLF 2027 à l'Assemblée nationale.",
-     "v": "2026-10-12"
-    },
-    {
-     "d": "2026-10-09",
-     "t": "La commission des finances rejette la partie recettes.",
-     "v": "2026-10-12"
-    },
-    {
-     "d": "2026-10-13",
-     "t": "Début de la séance publique ; la motion de rejet préalable est repoussée.",
-     "v": "2026-10-14"
-    },
-    {
-     "d": "2026-10-20",
-     "t": "Le vote solennel est reporté : le PLFSS est examiné d'abord, 2 828 amendements restent à examiner.",
-     "v": "2026-10-25"
-    },
-    {
-     "d": "2026-10-27",
-     "t": "Reprise de l'examen ; la seconde partie, par missions, s'ouvre.",
-     "v": "2026-10-28"
-    },
-    {
-     "d": "2026-10-28",
-     "t": "La commission des finances du Sénat examine la mission Enseignement scolaire.",
-     "v": "2026-11-23"
-    },
-    {
-     "d": "2026-11-03",
-     "t": "Le vote solennel prévu n'a pas lieu.",
-     "v": "2026-11-05"
-    },
-    {
-     "d": "2026-11-04",
-     "t": "L'Assemblée rejette la partie recettes par 458 voix contre 0 ; le texte part au Sénat.",
-     "v": "2026-11-09"
-    },
-    {
-     "d": "2026-11-09",
-     "t": "La Cour des comptes publie 18 propositions pour redresser les finances publiques.",
-     "v": "2026-11-13"
     }
    ]
   },
