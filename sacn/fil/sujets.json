@@ -1,14 +1,14 @@
 {
- "derniere_veille": "2026-11-26",
+ "derniere_veille": "2026-11-27",
  "sujets": [
   {
    "id": "budget-2027",
    "rubrique": "Finances publiques",
    "titre": "Budget de l'État et budget de la Sécurité sociale 2027",
-   "resume": "Le PLF 2027 prévoit une création nette de 8 025 ETP dans la fonction publique de l'État, avec un point d'indice gelé. Rejeté en première lecture à l'Assemblée, il passe au Sénat ; le PLFSS a été adopté en première lecture par le Sénat le 18 novembre. L'issue n'est pas connue.",
+   "resume": "Rejeté en première lecture à l'Assemblée, le PLF 2027 a été transmis au Sénat le 19 novembre. Il repose sur une croissance de 1 %, une inflation de 1,8 % et 43 Md€ de mesures. Le PLFSS, adopté par le Sénat le 18 novembre, part en commission mixte paritaire. L'issue n'est pas connue.",
    "statut": "En cours",
-   "maj": "2026-11-26",
-   "enjeu": "La procédure budgétaire (LOLF, deux parties, délais, rejet en première lecture) est un thème classique. Savoir distinguer emplois, ETP et masse salariale : les effectifs sont fixés par la loi de finances (plafond d'emplois), et le texte n'est pas définitif tant que la procédure n'est pas achevée. Distinguer une proposition de commission d'un texte adopté définitivement.",
+   "maj": "2026-11-27",
+   "enjeu": "La procédure budgétaire (LOLF, deux parties, délais, rejet en première lecture) est un thème classique. Savoir distinguer emplois, ETP et masse salariale : les effectifs sont fixés par la loi de finances (plafond d'emplois), et le texte n'est pas définitif tant que la procédure n'est pas achevée. Distinguer une proposition de commission d'un texte adopté définitivement. Un retard budgétaire peut peser sur la gestion courante : crédits, recrutements, mesures salariales.",
    "carte": {
     "centre": "Budget 2027",
     "branches": [
@@ -18,7 +18,10 @@
        "Enregistré à l'Assemblée le 1er octobre 2026 (n° 3210)",
        "4 nov. : première partie (recettes) rejetée par 458 voix contre, aucune pour, 2 abstentions",
        "Texte considéré comme rejeté en première lecture : le Sénat examine la version initiale du Gouvernement",
-       "Séance au Sénat prévue à partir du 20 novembre"
+       "Séance au Sénat prévue à partir du 20 novembre",
+       "19 nov. : texte transmis au Sénat",
+       "Hypothèses : croissance de 1 %, inflation de 1,8 %",
+       "43 Md€ de mesures (Vie-publique)"
       ]
      },
      {
@@ -37,7 +40,8 @@
        "Rejeté par l'Assemblée le 23 octobre",
        "Sénat : recettes adoptées le 13 nov. (200 voix contre 110)",
        "18 nov. : texte adopté en première lecture (201 voix contre 124)",
-       "Déficit visé : 12,7 Md€ en 2027, contre 21,8 Md€ en 2026"
+       "Déficit visé : 12,7 Md€ en 2027, contre 21,8 Md€ en 2026",
+       "Commission mixte paritaire prévue le 26 nov."
       ]
      },
      {
@@ -53,7 +57,9 @@
       "f": [
        "Dépôt du PLF au plus tard le premier mardi d'octobre (LOLF)",
        "Deux parties : recettes et équilibre, puis dépenses",
-       "Le recours à l'article 49.3 est évoqué dans les sources"
+       "Le recours à l'article 49.3 est évoqué dans les sources",
+       "Ne pas confondre loi de finances (État) et loi de financement de la sécurité sociale",
+       "Désaccord entre les deux chambres : réunion d'une commission mixte paritaire"
       ]
      }
     ]
@@ -95,9 +101,264 @@
      "v": "2026-11-23"
     },
     {
+     "d": "2026-11-19",
+     "t": "Le PLF 2027 est transmis au Sénat.",
+     "v": "2026-11-27"
+    },
+    {
      "d": "2026-11-20",
      "t": "Début prévu de l'examen du PLF au Sénat.",
      "v": "2026-11-19"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "Commission mixte paritaire prévue sur le PLFSS 2027.",
+     "v": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "conseil-etat-classement",
+   "rubrique": "Administration de l'État",
+   "titre": "Conseil d'État : le classement ne garantit pas la nomination",
+   "resume": "Décision du 3 novembre 2026 : un candidat classé premier à un poste universitaire peut ne pas être nommé.",
+   "statut": "Terminé",
+   "maj": "2026-11-27",
+   "enjeu": "Un classement ou une liste d'aptitude ne crée pas un droit à nomination : l'administration reste liée à l'existence d'un emploi à pourvoir.",
+   "carte": {
+    "centre": "Classement et nomination",
+    "branches": [
+     {
+      "t": "La décision",
+      "f": [
+       "Conseil d'État, 3 novembre 2026, mentionnée aux tables du recueil Lebon",
+       "Recours d'un maître de conférences classé premier pour un poste de professeur à Lyon",
+       "Recours rejeté"
+      ]
+     },
+     {
+      "t": "Le raisonnement",
+      "f": [
+       "Le classement établi par l'établissement ne suffit pas à garantir la nomination",
+       "Aucun emploi n'avait été attribué à l'université Lyon 1 pour ce poste",
+       "La proposition du ministre ne peut porter que sur un poste régulièrement alloué à l'établissement"
+      ]
+     },
+     {
+      "t": "Pour le métier",
+      "f": [
+       "Un classement n'ouvre pas, en soi, un droit à nomination",
+       "Sécuriser chaque étape du recrutement et conserver les justificatifs",
+       "Illustration du contrôle du juge sur les recrutements publics"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-03",
+     "t": "Décision du Conseil d'État sur le classement d'un candidat à un poste de professeur.",
+     "v": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "etat-prefectures",
+   "rubrique": "Administration de l'État",
+   "titre": "Préfectures, État local et numérique",
+   "resume": "Titres de séjour en attente, réforme de l'action territoriale de l'État, projet de décret transformant la DITP en direction des services publics, projet de loi cybersécurité.",
+   "statut": "En cours",
+   "maj": "2026-11-27",
+   "enjeu": "Les missions du préfet, le délai de traitement des dossiers et la transformation publique sont au cœur du métier de secrétaire administratif en préfecture. Distinguer un projet de décret d'un texte publié au Journal officiel.",
+   "carte": {
+    "centre": "État local et préfectures",
+    "branches": [
+     {
+      "t": "Titres de séjour",
+      "f": [
+       "930 000 dossiers en attente en avril 2026, délai moyen de 117 jours",
+       "Objectif du plan de printemps : 55 jours",
+       "500 vacataires en préfecture, reconduction possible en 2027",
+       "Automatisation du renouvellement des attestations provisoires"
+      ]
+     },
+     {
+      "t": "Action territoriale de l'État",
+      "f": [
+       "Réforme présentée le 8 juillet 2025, trois décrets du 31 juillet 2025",
+       "Le préfet renforcé comme chef de l'action de l'État dans le département",
+       "Projet de loi sur l'État local déposé au Sénat le 20 mai 2026",
+       "France Simplification : 520 dossiers de préfets, 423 réponses"
+      ]
+     },
+     {
+      "t": "Transformation publique",
+      "f": [
+       "Projet de décret : la DITP deviendrait la direction des services publics, au périmètre élargi",
+       "Le réseau France Services reste piloté par l'ANCT",
+       "Pierre Bouillon, ancien directeur du programme France services, préfigure la future direction",
+       "Annonce d'une autorité numérique de l'État, ARIANE, rattachée au Premier ministre",
+       "Publication du décret au Journal officiel non confirmée à ce jour",
+       "Délégué interministériel rattaché au Premier ministre",
+       "Rapport d'inspections du 5 nov. : organiser l'instruction des projets plutôt qu'accorder des dérogations"
+      ]
+     },
+     {
+      "t": "Cybersécurité",
+      "f": [
+       "Projet de loi Résilience : transpose NIS 2 et la directive REC, adapte DORA",
+       "Secteurs soumis : de 6 à 18, soit près de 15 000 entités",
+       "Régions, départements et communes de plus de 30 000 habitants concernés"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-02",
+     "t": "Le ministre de l'Intérieur présente la résorption des titres de séjour comme une priorité.",
+     "v": "2026-11-13"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "L'Assemblée commence l'examen du projet de loi Résilience.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "La future direction de la transformation publique est confirmée.",
+     "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-27",
+     "t": "Un projet de décret prévoit de transformer la DITP en direction des services publics.",
+     "v": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "g7-presidence-francaise",
+   "rubrique": "Europe et monde",
+   "titre": "Présidence française du G7 en 2026",
+   "resume": "La France préside le G7 en 2026. Les ministres des Affaires étrangères se sont réunis à Paris les 9 et 10 novembre et ont publié une déclaration conjointe, malgré des désaccords entre Américains et Européens. Une autre réunion ministérielle est prévue à Marseille.",
+   "statut": "En cours",
+   "maj": "2026-11-27",
+   "enjeu": "Savoir expliquer en deux phrases ce qu'est le G7 et ce que fait la présidence : organiser les réunions et porter des déclarations communes. Présenter le contexte international de façon neutre.",
+   "carte": {
+    "centre": "G7 2026",
+    "branches": [
+     {
+      "t": "La présidence française",
+      "f": [
+       "La France préside le G7 en 2026",
+       "Elle organise réunions et déclarations communes"
+      ]
+     },
+     {
+      "t": "Réunion de Paris",
+      "f": [
+       "Ministres des Affaires étrangères, 9 et 10 nov. 2026",
+       "Déclaration conjointe publiée (Élysée)",
+       "Ton conciliant malgré les désaccords entre Américains et Européens (Le360)"
+      ]
+     },
+     {
+      "t": "À venir",
+      "f": [
+       "Autre réunion ministérielle prévue à Marseille en novembre, date non précisée"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-09",
+     "t": "Ouverture à Paris de la réunion des ministres des Affaires étrangères du G7.",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Déclaration conjointe à l'issue de la réunion du G7 de Paris.",
+     "v": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "ukraine-negociations",
+   "rubrique": "Europe et monde",
+   "titre": "Guerre en Ukraine : négociations et frappes",
+   "resume": "Pourparlers trilatéraux à Abou Dhabi, rencontre au Kremlin, échange de prisonniers, sommet Xi–Trump–Poutine à Shenzhen sans mention de l'Ukraine, Européens tenus à l'écart et frappes réciproques.",
+   "statut": "En cours",
+   "maj": "2026-11-27",
+   "enjeu": "Exposer les positions des parties de façon neutre, distinguer faits et positions, et situer le rôle de l'Union européenne et de la France (réfugiés, énergie, sanctions, sécurité).",
+   "carte": {
+    "centre": "Ukraine",
+    "branches": [
+     {
+      "t": "Négociations",
+      "f": [
+       "10-12 nov. : pourparlers Ukraine-Russie-États-Unis à Abou Dhabi, premiers de ce type depuis février",
+       "12 nov. : des émissaires américains rencontrent Poutine à Moscou",
+       "Les deux camps conviennent d'un vaste échange de prisonniers",
+       "Kiev veut un cessez-le-feu avant toute discussion territoriale ; Moscou propose un cessez-le-feu de courte durée"
+      ]
+     },
+     {
+      "t": "Sommet de Shenzhen",
+      "f": [
+       "19 nov. : Xi Jinping, Donald Trump et Vladimir Poutine réunis en marge de l'APEC",
+       "Environ 80 minutes, déclaration commune en quatre points",
+       "Le texte ne mentionne pas l'Ukraine (Kyiv Post)",
+       "Aucune percée sur l'Ukraine ni l'Iran selon Le Temps"
+      ]
+     },
+     {
+      "t": "Les Européens",
+      "f": [
+       "13 nov. : l'Europe doit participer au prochain cycle de discussions",
+       "Coalition des volontaires : sommet à Berlin le 19 nov., le même jour que Shenzhen",
+       "Plusieurs médias soulignent que les Européens sont tenus à l'écart des derniers pourparlers"
+      ]
+     },
+     {
+      "t": "Sur le terrain",
+      "f": [
+       "Frappes réciproques malgré les efforts diplomatiques",
+       "Peu de progrès selon les analystes après Abou Dhabi"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-10",
+     "t": "Ouverture des pourparlers à Abou Dhabi.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-12",
+     "t": "Rencontre des émissaires américains avec Poutine au Kremlin.",
+     "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-12",
+     "t": "Les deux camps conviennent d'un vaste échange de prisonniers.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Annonce de la participation européenne au prochain cycle.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Réunion de la Coalition des volontaires à Berlin.",
+     "v": "2026-11-16"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Sommet Xi–Trump–Poutine à Shenzhen : déclaration commune en quatre points.",
+     "v": "2026-11-27"
     }
    ]
   },
@@ -361,106 +622,6 @@
    ]
   },
   {
-   "id": "ukraine-negociations",
-   "rubrique": "Europe et monde",
-   "titre": "Guerre en Ukraine : négociations et frappes",
-   "resume": "Pourparlers trilatéraux à Abou Dhabi, rencontre au Kremlin, accord sur un vaste échange de prisonniers, place des Européens et frappes réciproques.",
-   "statut": "En cours",
-   "maj": "2026-11-25",
-   "enjeu": "Exposer les positions des parties de façon neutre, distinguer faits et positions, et situer le rôle de l'Union européenne et de la France (réfugiés, énergie, sanctions, sécurité).",
-   "carte": {
-    "centre": "Ukraine",
-    "branches": [
-     {
-      "t": "Négociations",
-      "f": [
-       "10-12 nov. : pourparlers Ukraine-Russie-États-Unis à Abou Dhabi, premiers de ce type depuis février",
-       "12 nov. : des émissaires américains rencontrent Poutine à Moscou",
-       "Les deux camps conviennent d'un vaste échange de prisonniers",
-       "Kiev veut un cessez-le-feu avant toute discussion territoriale ; Moscou propose un cessez-le-feu de courte durée"
-      ]
-     },
-     {
-      "t": "Les Européens",
-      "f": [
-       "13 nov. : l'Europe doit participer au prochain cycle de discussions",
-       "Coalition des volontaires : réunion à Berlin le 19 nov."
-      ]
-     },
-     {
-      "t": "Sur le terrain",
-      "f": [
-       "Frappes réciproques malgré les efforts diplomatiques",
-       "Peu de progrès selon les analystes après Abou Dhabi"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-10",
-     "t": "Ouverture des pourparlers à Abou Dhabi.",
-     "v": "2026-11-12"
-    },
-    {
-     "d": "2026-11-12",
-     "t": "Rencontre des émissaires américains avec Poutine au Kremlin.",
-     "v": "2026-11-20"
-    },
-    {
-     "d": "2026-11-12",
-     "t": "Les deux camps conviennent d'un vaste échange de prisonniers.",
-     "v": "2026-11-25"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Annonce de la participation européenne au prochain cycle.",
-     "v": "2026-11-14"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "Réunion de la Coalition des volontaires à Berlin.",
-     "v": "2026-11-16"
-    }
-   ]
-  },
-  {
-   "id": "conseil-etat-classement",
-   "rubrique": "Administration de l'État",
-   "titre": "Conseil d'État : le classement ne garantit pas la nomination",
-   "resume": "Décision du 3 novembre 2026 : un candidat classé premier à un poste universitaire peut ne pas être nommé.",
-   "statut": "Terminé",
-   "maj": "2026-11-24",
-   "enjeu": "Un classement ou une liste d'aptitude ne crée pas un droit à nomination : l'administration reste liée à l'existence d'un emploi à pourvoir.",
-   "carte": {
-    "centre": "Classement et nomination",
-    "branches": [
-     {
-      "t": "La décision",
-      "f": [
-       "Conseil d'État, 3 novembre 2026, mentionnée aux tables du recueil Lebon",
-       "Recours d'un maître de conférences classé premier pour un poste de professeur à Lyon",
-       "Recours rejeté"
-      ]
-     },
-     {
-      "t": "Le raisonnement",
-      "f": [
-       "Le classement établi par l'établissement ne suffit pas à garantir la nomination",
-       "Aucun emploi n'avait été attribué à l'université Lyon 1 pour ce poste"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-03",
-     "t": "Décision du Conseil d'État sur le classement d'un candidat à un poste de professeur.",
-     "v": "2026-11-17"
-    }
-   ]
-  },
-  {
    "id": "deontologie-neutralite",
    "rubrique": "Fonction publique",
    "titre": "Déontologie, neutralité et intégrité des agents publics",
@@ -519,71 +680,6 @@
      "d": "2026-11-10",
      "t": "Conseil des ministres : deux projets de loi sur la HATVP.",
      "v": "2026-11-15"
-    }
-   ]
-  },
-  {
-   "id": "etat-prefectures",
-   "rubrique": "Administration de l'État",
-   "titre": "Préfectures, État local et numérique",
-   "resume": "Titres de séjour en attente, réforme de l'action territoriale de l'État, future direction de la transformation publique, projet de loi cybersécurité.",
-   "statut": "En cours",
-   "maj": "2026-11-20",
-   "enjeu": "Les missions du préfet, le délai de traitement des dossiers et la transformation publique sont au cœur du métier de secrétaire administratif en préfecture.",
-   "carte": {
-    "centre": "État local et préfectures",
-    "branches": [
-     {
-      "t": "Titres de séjour",
-      "f": [
-       "930 000 dossiers en attente en avril 2026, délai moyen de 117 jours",
-       "Objectif du plan de printemps : 55 jours",
-       "500 vacataires en préfecture, reconduction possible en 2027",
-       "Automatisation du renouvellement des attestations provisoires"
-      ]
-     },
-     {
-      "t": "Action territoriale de l'État",
-      "f": [
-       "Réforme présentée le 8 juillet 2025, trois décrets du 31 juillet 2025",
-       "Le préfet renforcé comme chef de l'action de l'État dans le département",
-       "Projet de loi sur l'État local déposé au Sénat le 20 mai 2026",
-       "France Simplification : 520 dossiers de préfets, 423 réponses"
-      ]
-     },
-     {
-      "t": "Transformation publique",
-      "f": [
-       "Future direction héritière de la DITP, sous l'autorité du ministre chargé de la réforme de l'État",
-       "Délégué interministériel rattaché au Premier ministre",
-       "Rapport d'inspections du 5 nov. : organiser l'instruction des projets plutôt qu'accorder des dérogations"
-      ]
-     },
-     {
-      "t": "Cybersécurité",
-      "f": [
-       "Projet de loi Résilience : transpose NIS 2 et la directive REC, adapte DORA",
-       "Secteurs soumis : de 6 à 18, soit près de 15 000 entités",
-       "Régions, départements et communes de plus de 30 000 habitants concernés"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-02",
-     "t": "Le ministre de l'Intérieur présente la résorption des titres de séjour comme une priorité.",
-     "v": "2026-11-13"
-    },
-    {
-     "d": "2026-11-09",
-     "t": "L'Assemblée commence l'examen du projet de loi Résilience.",
-     "v": "2026-11-14"
-    },
-    {
-     "d": "2026-11-10",
-     "t": "La future direction de la transformation publique est confirmée.",
-     "v": "2026-11-20"
     }
    ]
   },
