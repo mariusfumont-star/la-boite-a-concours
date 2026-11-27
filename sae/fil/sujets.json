@@ -1,14 +1,14 @@
 {
- "derniere_veille": "2026-11-26",
+ "derniere_veille": "2026-11-27",
  "sujets": [
   {
    "id": "budget-ue",
    "rubrique": "Union européenne",
    "titre": "Budget de l'Union européenne",
-   "resume": "Le Conseil européen extraordinaire des 26-27 novembre s'ouvre sur une proposition de cadre 2028-2034 à 1 582,5 Md€, contestée par plusieurs capitales, dont Paris, et par le Parlement européen.",
+   "resume": "Le Conseil européen extraordinaire du 26 novembre se sépare sans accord sur le cadre 2028-2034 ni sur le prêt de 45 Md€ à l'Ukraine ; les discussions reprendront au Conseil européen des 17 et 18 décembre.",
    "statut": "En cours",
-   "maj": "2026-11-26",
-   "enjeu": "Distinguer budget annuel et cadre financier pluriannuel, et la procédure d'adoption (unanimité au Conseil, approbation du Parlement). Distinguer Conseil européen, Conseil de l'UE et sommet de la zone euro.",
+   "maj": "2026-11-27",
+   "enjeu": "Distinguer budget annuel et cadre financier pluriannuel, et la procédure d'adoption (règlement adopté à l'unanimité par le Conseil après approbation du Parlement). Comprendre la « boîte de négociation », la logique des paquets de compromis et les camps traditionnels (contributeurs nets, bénéficiaires de la cohésion et de la PAC). Distinguer Conseil européen, Conseil de l'UE et sommet de la zone euro.",
    "carte": {
     "centre": "Budget de l'UE",
     "branches": [
@@ -29,17 +29,26 @@
        "Friedrich Merz : « un premier pas », volume encore trop élevé",
        "Élysée : « très décevante », notamment pour l'agriculture",
        "Négociateur du Parlement européen : proposition inacceptable",
-       "Conseil européen extraordinaire les 26-27 nov. (CFP, Ukraine 2027, direction de la BCE)",
-       "Objectif : accord avant fin 2026, au plus tard les 17-18 décembre"
+       "26 nov. : sommet écourté, journée du 27 nov. annulée, pas d'accord",
+       "Merz : « beaucoup trop de travail préparatoire » restant",
+       "Allemagne, Autriche, Pays-Bas, Danemark, Finlande, Suède, Belgique : coupes plus fortes demandées",
+       "Pays de la cohésion et de la PAC opposés aux coupes",
+       "Macron : « erreur stratégique », pas de « coupes additionnelles », pas d'« accord déséquilibré »",
+       "Parlement européen : environ 2 200 Md€ demandés",
+       "Accord espéré au Conseil européen des 17-18 déc."
       ]
      },
      {
       "t": "Ukraine 2027",
       "f": [
-       "18 nov. : la Commission propose jusqu'à 45 Md€ supplémentaires, par emprunt de l'Union",
+       "18 nov. : la Commission propose un prêt de 45 Md€ par emprunt commun (environ 20 Md€ budgétaires, 25 Md€ défense)",
+       "S'ajoute au prêt de 90 Md€ pour 2026-2027",
+       "Remboursement conditionné aux réparations de guerre russes",
        "Besoin estimé : 70 Md€",
        "24 nov. : les ambassadeurs s'accordent sur le principe, pas sur les modalités",
-       "Bulgarie, Tchéquie, Hongrie et Slovaquie pas encore ralliées"
+       "Bulgarie, Tchéquie, Hongrie et Slovaquie pas encore ralliées",
+       "26 nov. : opposition de la Hongrie, de la Slovaquie et d'autres ; dossier lié au CFP",
+       "Retour prévu au Conseil européen des 17-18 déc."
       ]
      }
     ]
@@ -84,6 +93,173 @@
      "d": "2026-11-26",
      "t": "Ouverture du Conseil européen extraordinaire sur une proposition contestée, dont par Paris et le Parlement européen.",
      "v": "2026-11-26"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "Le Conseil européen extraordinaire se sépare sans accord sur le cadre 2028-2034 ; la journée du 27 novembre est annulée.",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "Emmanuel Macron juge les coupes proposées « erreur stratégique » et refuse « un accord déséquilibré ».",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "Le prêt de 45 Md€ à l'Ukraine pour 2027 se heurte à l'opposition de la Hongrie, de la Slovaquie et d'autres États membres.",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-12-17",
+     "t": "Conseil européen des 17 et 18 décembre : accord espéré sur le cadre 2028-2034 et le prêt à l'Ukraine.",
+     "v": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "golfe-ormuz",
+   "rubrique": "Moyen-Orient et Asie-Pacifique",
+   "titre": "Golfe, Ormuz et Asie-Pacifique",
+   "resume": "Après des attaques contre des navires dans le détroit d'Ormuz, deux techniciens italiens sont tués au Koweït par une attaque de drones attribuée à l'Iran par Rome et Koweït, ce que Téhéran dément.",
+   "statut": "En cours",
+   "maj": "2026-11-27",
+   "enjeu": "Le détroit d'Ormuz est un point de passage énergétique : droit de la mer (passage en transit), sécurité énergétique et des équipages, rôle des opérations navales européennes, prudence dans la qualification de faits non vérifiés. Protection des ressortissants européens dans les pays du Golfe : protestation diplomatique, assistance aux familles, rapatriement, conseils aux voyageurs.",
+   "carte": {
+    "centre": "Golfe et Asie-Pacifique",
+    "branches": [
+     {
+      "t": "Golfe et Ormuz",
+      "f": [
+       "17 nov. : frappe américaine sur l'île de Qeshm (Iran)",
+       "Attaques contre les navires à un niveau record",
+       "25 nov. : selon les Gardiens de la révolution, deux pétroliers heurtent des mines",
+       "Fars évoque un troisième pétrolier ; un méthanier touché le soir",
+       "Reuters n'a pas pu vérifier ces affirmations",
+       "JMIC : sept pétroliers touchés depuis le 16 nov.",
+       "Téhéran exige la levée du blocus naval américain des ports iraniens"
+      ]
+     },
+     {
+      "t": "Asie-Pacifique",
+      "f": [
+       "APEC à Shenzhen",
+       "ASEAN à Manille, 15-17 novembre"
+      ]
+     },
+     {
+      "t": "Koweït",
+      "f": [
+       "26 nov. : deux techniciens italiens (Rheinmetall Italia) tués par des drones",
+       "Cible : station de surveillance de la défense aérienne ; deux blessés",
+       "Koweït dénonce une « agression iranienne »",
+       "Antonio Tajani : drone de fabrication iranienne, protestation auprès de l'ambassade d'Iran",
+       "Abbas Araghchi dément toute implication"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-15",
+     "t": "Sommet de l'ASEAN à Manille.",
+     "v": "2026-11-16"
+    },
+    {
+     "d": "2026-11-17",
+     "t": "Frappe américaine sur l'île de Qeshm.",
+     "v": "2026-11-18"
+    },
+    {
+     "d": "2026-11-25",
+     "t": "L'Iran affirme que des pétroliers et un méthanier ont heurté des mines dans le détroit d'Ormuz.",
+     "v": "2026-11-26"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "Deux techniciens italiens tués au Koweït par une attaque de drones attribuée à l'Iran par Rome et Koweït ; Téhéran dément.",
+     "v": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "ukraine-garanties",
+   "rubrique": "Europe et sécurité",
+   "titre": "Ukraine : négociations et garanties de sécurité",
+   "resume": "Pourparlers à Abou Dhabi, place des Européens contestée par le Kremlin, préparation des garanties de sécurité ; Jean-Noël Barrot et Emmanuel Macron réaffirment le soutien de la France à Kiev.",
+   "statut": "En cours",
+   "maj": "2026-11-27",
+   "enjeu": "Savoir présenter la position française et européenne : soutien à l'Ukraine, garanties de sécurité, rôle de la Coalition des volontaires, place de l'Europe dans le format de négociation. Distinguer le débat politique interne, qu'un diplomate n'a pas à commenter, de la ligne du gouvernement qu'il porte.",
+   "carte": {
+    "centre": "Ukraine : négociations",
+    "branches": [
+     {
+      "t": "Négociations",
+      "f": [
+       "10-11 nov. : réunion à Abou Dhabi",
+       "12 nov. : rencontre au Kremlin avec les émissaires américains",
+       "Échange de prisonniers annoncé",
+       "Sommet de l'APEC à Shenzhen : Trump, Xi et Poutine au cœur du jeu",
+       "Kremlin : date de la prochaine session à Abou Dhabi non fixée ; Washington viserait une session avant le 25 déc."
+      ]
+     },
+     {
+      "t": "Les Européens",
+      "f": [
+       "13 nov. : cinq pays désignés pour parler au nom de l'Europe (France, Allemagne, Royaume-Uni, Pologne, Italie), annonce de António Costa",
+       "Conditions posées par Kaja Kallas à toute négociation",
+       "24 nov. : Peskov ne voit « aucune valeur ajoutée » à une participation européenne ; l'Ukraine et l'Europe demandent un format à quatre"
+      ]
+     },
+     {
+      "t": "Garanties de sécurité",
+      "f": [
+       "Coalition des volontaires, 18e réunion à Berlin le 19 nov.",
+       "Trois piliers de la réflexion",
+       "Force multinationale en Ukraine (MNF-U) ; exercice « Koalicja » depuis le 9 nov.",
+       "Kushner évoque des garanties de type article 5"
+      ]
+     },
+     {
+      "t": "Position française",
+      "f": [
+       "26 nov. : Jean-Noël Barrot répond à Teddy Riner : « tout est faux »",
+       "« Le combat des Ukrainiens est aussi le nôtre : c'est un combat pour la sécurité de l'Europe »",
+       "Emmanuel Macron : ne pas « créer de doute » ni « de trouble » sur l'aide",
+       "Prêt européen de 45 Md€ pour 2027 en suspens (voir Budget de l'UE)"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-09",
+     "t": "Début de l'exercice « Koalicja ».",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Réunion à Abou Dhabi.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Cinq pays désignés pour représenter l'Europe.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Coalition des volontaires réunie à Berlin.",
+     "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-24",
+     "t": "Le Kremlin juge sans valeur ajoutée la participation européenne aux pourparlers d'Abou Dhabi.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "Jean-Noël Barrot et Emmanuel Macron réaffirment le soutien de la France à l'Ukraine, au nom de la sécurité européenne.",
+     "v": "2026-11-27"
     }
    ]
   },
@@ -131,56 +307,6 @@
     {
      "d": "2026-11-25",
      "t": "Sommet UE-Balkans occidentaux à Bruxelles et adoption de la Déclaration de Bruxelles.",
-     "v": "2026-11-26"
-    }
-   ]
-  },
-  {
-   "id": "golfe-ormuz",
-   "rubrique": "Moyen-Orient et Asie-Pacifique",
-   "titre": "Golfe, Ormuz et Asie-Pacifique",
-   "resume": "L'Iran affirme que des pétroliers et un méthanier ont heurté des mines dans le détroit d'Ormuz ; Téhéran conditionne la reprise du trafic à la levée du blocus naval américain.",
-   "statut": "En cours",
-   "maj": "2026-11-26",
-   "enjeu": "Le détroit d'Ormuz est un point de passage énergétique : droit de la mer (passage en transit), sécurité énergétique et des équipages, rôle des opérations navales européennes, prudence dans la qualification de faits non vérifiés.",
-   "carte": {
-    "centre": "Golfe et Asie-Pacifique",
-    "branches": [
-     {
-      "t": "Golfe et Ormuz",
-      "f": [
-       "17 nov. : frappe américaine sur l'île de Qeshm (Iran)",
-       "Attaques contre les navires à un niveau record",
-       "25 nov. : selon les Gardiens de la révolution, deux pétroliers heurtent des mines",
-       "Fars évoque un troisième pétrolier ; un méthanier touché le soir",
-       "Reuters n'a pas pu vérifier ces affirmations",
-       "JMIC : sept pétroliers touchés depuis le 16 nov.",
-       "Téhéran exige la levée du blocus naval américain des ports iraniens"
-      ]
-     },
-     {
-      "t": "Asie-Pacifique",
-      "f": [
-       "APEC à Shenzhen",
-       "ASEAN à Manille, 15-17 novembre"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-15",
-     "t": "Sommet de l'ASEAN à Manille.",
-     "v": "2026-11-16"
-    },
-    {
-     "d": "2026-11-17",
-     "t": "Frappe américaine sur l'île de Qeshm.",
-     "v": "2026-11-18"
-    },
-    {
-     "d": "2026-11-25",
-     "t": "L'Iran affirme que des pétroliers et un méthanier ont heurté des mines dans le détroit d'Ormuz.",
      "v": "2026-11-26"
     }
    ]
@@ -323,74 +449,6 @@
     {
      "d": "2026-12-01",
      "t": "Entrée en vigueur des quotas provisoires sur les véhicules hybrides.",
-     "v": "2026-11-25"
-    }
-   ]
-  },
-  {
-   "id": "ukraine-garanties",
-   "rubrique": "Europe et sécurité",
-   "titre": "Ukraine : négociations et garanties de sécurité",
-   "resume": "Pourparlers à Abou Dhabi, place des Européens contestée par le Kremlin, préparation des garanties de sécurité par la Coalition des volontaires.",
-   "statut": "En cours",
-   "maj": "2026-11-25",
-   "enjeu": "Savoir présenter la position française et européenne : soutien à l'Ukraine, garanties de sécurité, rôle de la Coalition des volontaires, place de l'Europe dans le format de négociation.",
-   "carte": {
-    "centre": "Ukraine : négociations",
-    "branches": [
-     {
-      "t": "Négociations",
-      "f": [
-       "10-11 nov. : réunion à Abou Dhabi",
-       "12 nov. : rencontre au Kremlin avec les émissaires américains",
-       "Échange de prisonniers annoncé",
-       "Sommet de l'APEC à Shenzhen : Trump, Xi et Poutine au cœur du jeu",
-       "Kremlin : date de la prochaine session à Abou Dhabi non fixée ; Washington viserait une session avant le 25 déc."
-      ]
-     },
-     {
-      "t": "Les Européens",
-      "f": [
-       "13 nov. : cinq pays désignés pour parler au nom de l'Europe (France, Allemagne, Royaume-Uni, Pologne, Italie), annonce de António Costa",
-       "Conditions posées par Kaja Kallas à toute négociation",
-       "24 nov. : Peskov ne voit « aucune valeur ajoutée » à une participation européenne ; l'Ukraine et l'Europe demandent un format à quatre"
-      ]
-     },
-     {
-      "t": "Garanties de sécurité",
-      "f": [
-       "Coalition des volontaires, 18e réunion à Berlin le 19 nov.",
-       "Trois piliers de la réflexion",
-       "Force multinationale en Ukraine (MNF-U) ; exercice « Koalicja » depuis le 9 nov.",
-       "Kushner évoque des garanties de type article 5"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-09",
-     "t": "Début de l'exercice « Koalicja ».",
-     "v": "2026-11-14"
-    },
-    {
-     "d": "2026-11-10",
-     "t": "Réunion à Abou Dhabi.",
-     "v": "2026-11-14"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Cinq pays désignés pour représenter l'Europe.",
-     "v": "2026-11-14"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "Coalition des volontaires réunie à Berlin.",
-     "v": "2026-11-20"
-    },
-    {
-     "d": "2026-11-24",
-     "t": "Le Kremlin juge sans valeur ajoutée la participation européenne aux pourparlers d'Abou Dhabi.",
      "v": "2026-11-25"
     }
    ]
