@@ -1,4 +1,234 @@
 {
- "derniere_veille": "",
- "sujets": []
+ "derniere_veille": "2026-11-27",
+ "sujets": [
+  {
+   "id": "afghanistan",
+   "rubrique": "Pays d'origine et géopolitique",
+   "titre": "Afghanistan : retours massifs et recul de l'aide internationale",
+   "resume": "Cinq ans après le retour des talibans au pouvoir, l'ONU décrit une crise aggravée par le retour de 6,7 millions d'Afghans depuis fin 2023 et la chute des financements humanitaires.",
+   "statut": "Rappels",
+   "maj": "2026-11-27",
+   "enjeu": "Pays d'origine majeur de la demande d'asile en France : la situation des femmes et des filles et celle des personnes renvoyées d'Iran et du Pakistan sont au cœur de l'instruction, qui doit s'appuyer sur une information récente et sourcée.",
+   "carte": {
+    "centre": "Afghanistan",
+    "branches": [
+     {
+      "t": "Retours",
+      "f": [
+       "6,7 millions d'Afghans rentrés depuis fin 2023, principalement d'Iran et du Pakistan (ONU)",
+       "Crise aggravée cinq ans après le retour des talibans au pouvoir (ONU, 6 novembre 2026)"
+      ]
+     },
+     {
+      "t": "Femmes et filles",
+      "f": [
+       "Plus de 2,6 millions de filles privées d'enseignement secondaire depuis 2021",
+       "Inscriptions féminines à l'université tombées à zéro"
+      ]
+     },
+     {
+      "t": "Aide humanitaire",
+      "f": [
+       "Financements passés de 2 milliards de dollars en 2023 à 1 milliard en 2025",
+       "Plan d'aide 2026 financé à 33 % seulement",
+       "16,3 millions d'Afghans auront besoin d'une assistance en 2027"
+      ]
+     },
+     {
+      "t": "Pour l'attaché",
+      "f": [
+       "Situation des femmes et des filles au cœur de l'instruction",
+       "Examiner la situation des personnes renvoyées d'Iran et du Pakistan"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-06",
+     "t": "Bruno Lemarquis, coordonnateur humanitaire de l'ONU en Afghanistan, alerte sur les retours massifs et le désengagement international.",
+     "v": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "budget-2027-mission-immigration-asile-integration",
+   "rubrique": "Finances publiques",
+   "titre": "Budget 2027 : mission « Immigration, asile et intégration »",
+   "resume": "Le Sénat examinera en séance publique le 5 décembre 2026 les crédits de la mission « Immigration, asile et intégration » du projet de loi de finances pour 2027, avant un vote sur l'ensemble le 9 décembre.",
+   "statut": "À venir",
+   "maj": "2026-11-27",
+   "enjeu": "La mission porte le programme 303 « Immigration et asile », dont relèvent la subvention de l'OFPRA et l'allocation pour demandeur d'asile : l'attaché doit connaître le circuit budgétaire de la LOLF et relier les moyens votés aux délais d'instruction.",
+   "carte": {
+    "centre": "PLF 2027 – mission « Immigration, asile et intégration »",
+    "branches": [
+     {
+      "t": "Calendrier au Sénat",
+      "f": [
+       "Examen en séance publique le samedi 5 décembre 2026, durée prévisionnelle maximale de deux heures",
+       "Dépôt des amendements au plus tard le mercredi 2 décembre à 11 heures",
+       "Explications de vote et scrutin public sur l'ensemble du PLF le mercredi 9 décembre à 16 h 30",
+       "Calendrier prévisionnel : dimanche 6 décembre réservé aux missions non achevées"
+      ]
+     },
+     {
+      "t": "Contenu",
+      "f": [
+       "Programme 303 « Immigration et asile »",
+       "Subvention de l'OFPRA et allocation pour demandeur d'asile relèvent du programme 303",
+       "145 210 demandes de protection internationale enregistrées par l'OFPRA en 2025, dont 730 demandes de statut d'apatride"
+      ]
+     },
+     {
+      "t": "Pour l'attaché",
+      "f": [
+       "Connaître le circuit budgétaire de la loi organique relative aux lois de finances (LOLF)",
+       "Relier les moyens votés aux délais d'instruction"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-03",
+     "t": "Le Sénat publie le calendrier budgétaire du PLF 2027 fixant l'examen de la mission au 5 décembre.",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-12-02",
+     "t": "Date limite de dépôt des amendements sur la mission (11 heures).",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-12-05",
+     "t": "Examen prévu en séance publique au Sénat de la mission « Immigration, asile et intégration ».",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-12-09",
+     "t": "Explications de vote et scrutin public prévus sur l'ensemble du PLF 2027 au Sénat (16 h 30).",
+     "v": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "convention-ofii-ofpra-victimes-violences",
+   "rubrique": "Asile et protection",
+   "titre": "Convention OFII-OFPRA pour la protection des demandeurs d'asile victimes de violences et de traite",
+   "resume": "L'OFII et l'OFPRA ont programmé le 25 novembre 2026 la signature d'une convention pour mieux repérer, signaler, mettre en sécurité et suivre les demandeurs d'asile victimes de violences sexuelles, sexistes ou de traite.",
+   "statut": "En cours",
+   "maj": "2026-11-27",
+   "enjeu": "La vulnérabilité se repère à tous les stades, de l'accueil par l'OFII à l'entretien à l'OFPRA : l'attaché doit savoir articuler les deux offices et connaître les garanties procédurales propres aux personnes vulnérables.",
+   "carte": {
+    "centre": "Convention OFII-OFPRA (25 novembre 2026)",
+    "branches": [
+     {
+      "t": "Signature",
+      "f": [
+       "Annoncée par l'OFPRA le 9 novembre 2026, prévue le mercredi 25 novembre 2026",
+       "Date choisie : Journée internationale pour l'élimination de la violence à l'égard des femmes",
+       "Lieu prévu : siège parisien de l'association Amicale du Nid"
+      ]
+     },
+     {
+      "t": "Acteurs",
+      "f": [
+       "Didier Leschi, directeur général de l'OFII",
+       "Alain Espinasse, directeur général de l'OFPRA",
+       "Annoncées : directrice de l'asile de la DGEF et représentante du HCR en France"
+      ]
+     },
+     {
+      "t": "Objectifs",
+      "f": [
+       "Renforcer la coordination entre les deux offices",
+       "Faciliter le repérage, le signalement et la mise en sécurité des victimes",
+       "Suivre les situations signalées pendant tout le parcours d'asile"
+      ]
+     },
+     {
+      "t": "Cadre",
+      "f": [
+       "S'inscrit dans le troisième plan national de lutte contre l'exploitation et la traite des êtres humains (2024-2027)",
+       "Publics visés : victimes de violences sexuelles, sexistes ou de traite"
+      ]
+     },
+     {
+      "t": "Pour l'attaché",
+      "f": [
+       "Repérer la vulnérabilité à l'accueil (OFII) comme à l'instruction et à l'entretien (OFPRA)",
+       "Exemple de coopération interadministrative et associative à présenter à l'oral"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-09",
+     "t": "L'OFPRA annonce la signature prochaine d'une convention avec l'OFII sur la protection des victimes de violences et de traite.",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-11-25",
+     "t": "Date prévue de signature de la convention OFII-OFPRA au siège de l'Amicale du Nid à Paris.",
+     "v": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "soudan",
+   "rubrique": "Pays d'origine et géopolitique",
+   "titre": "Soudan : guerre entre l'armée et les Forces de soutien rapide",
+   "resume": "Le conflit qui oppose depuis avril 2023 l'armée régulière aux Forces de soutien rapide est de plus en plus meurtrier pour les civils : selon l'ONU, au moins 2 230 civils ont été tués entre janvier et fin octobre 2026, dont plus de 1 630 par des drones.",
+   "statut": "En cours",
+   "maj": "2026-11-27",
+   "enjeu": "Pays d'origine important à l'OFPRA, le Soudan connaît des violences généralisées, une extension des combats au Kordofan et des frappes sur les infrastructures civiles, à apprécier pour la protection subsidiaire et le risque de violence aveugle.",
+   "carte": {
+    "centre": "Soudan",
+    "branches": [
+     {
+      "t": "Conflit",
+      "f": [
+       "Depuis avril 2023, l'armée régulière affronte les Forces de soutien rapide (FSR)",
+       "Extension des combats au Kordofan, frappes jusqu'au Darfour du Sud et à Khartoum"
+      ]
+     },
+     {
+      "t": "Bilan civil 2026",
+      "f": [
+       "Au moins 2 230 civils tués entre janvier et fin octobre 2026 (Haut-Commissariat aux droits de l'homme)",
+       "Plus de 1 630 tués par des drones, soit près des trois quarts",
+       "Le Kordofan concentre plus des deux tiers des victimes civiles recensées"
+      ]
+     },
+     {
+      "t": "Frappes récentes",
+      "f": [
+       "22 novembre 2026 : drones sur des quartiers résidentiels de Khartoum, bâtiment occupé par du personnel de l'ONU endommagé (OCHA)",
+       "Frappes sur Nyala, capitale du Darfour du Sud, près de locaux humanitaires"
+      ]
+     },
+     {
+      "t": "Pour l'attaché",
+      "f": [
+       "Apprécier le caractère généralisé des violences et le risque de violence aveugle (protection subsidiaire)",
+       "Tenir compte de l'extension des combats au Kordofan et des frappes sur les infrastructures civiles"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-17",
+     "t": "Le Haut-Commissariat aux droits de l'homme recense au moins 2 230 civils tués de janvier à fin octobre 2026, dont plus de 1 630 par des drones.",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-11-22",
+     "t": "Des drones frappent des quartiers résidentiels de Khartoum et endommagent un bâtiment occupé par du personnel de l'ONU ; Nyala est aussi touchée.",
+     "v": "2026-11-27"
+    }
+   ]
+  }
+ ]
 }
