@@ -1,14 +1,14 @@
 {
- "derniere_veille": "2026-11-27",
+ "derniere_veille": "2026-11-28",
  "sujets": [
   {
    "id": "budget-2027",
    "rubrique": "Finances publiques",
    "titre": "Budget de l'État et budget de la Sécurité sociale 2027",
-   "resume": "Rejeté en première lecture à l'Assemblée, le PLF 2027 a été transmis au Sénat le 19 novembre. Il repose sur une croissance de 1 %, une inflation de 1,8 % et 43 Md€ de mesures. Le PLFSS, adopté par le Sénat le 18 novembre, part en commission mixte paritaire. L'issue n'est pas connue.",
+   "resume": "Rejeté à l'Assemblée (première partie repoussée le 4 novembre par 458 voix contre 0), le PLF 2027 est examiné au Sénat dans sa version initiale. Vote sur la première partie annoncé les 28-29 novembre, vote sur l'ensemble le 9 décembre. Le rapport du Sénat relève un déficit de l'État en hausse d'environ 20 Md€. Objectif : déficit public à 5 % du PIB. Le PLFSS, adopté par le Sénat le 18 novembre, part en commission mixte paritaire. L'issue n'est pas connue.",
    "statut": "En cours",
-   "maj": "2026-11-27",
-   "enjeu": "La procédure budgétaire (LOLF, deux parties, délais, rejet en première lecture) est un thème classique. Savoir distinguer emplois, ETP et masse salariale : les effectifs sont fixés par la loi de finances (plafond d'emplois), et le texte n'est pas définitif tant que la procédure n'est pas achevée. Distinguer une proposition de commission d'un texte adopté définitivement. Un retard budgétaire peut peser sur la gestion courante : crédits, recrutements, mesures salariales.",
+   "maj": "2026-11-28",
+   "enjeu": "La procédure budgétaire (LOLF, deux parties, délais, rejet en première lecture) est un thème classique. Savoir distinguer emplois, ETP et masse salariale : les effectifs sont fixés par la loi de finances (plafond d'emplois), et le texte n'est pas définitif tant que la procédure n'est pas achevée. Distinguer une proposition de commission d'un texte adopté définitivement. Un retard budgétaire peut peser sur la gestion courante : crédits, recrutements, mesures salariales. À l'oral, savoir expliquer pourquoi un rejet à l'Assemblée n'arrête pas la navette.",
    "carte": {
     "centre": "Budget 2027",
     "branches": [
@@ -21,7 +21,11 @@
        "Séance au Sénat prévue à partir du 20 novembre",
        "19 nov. : texte transmis au Sénat",
        "Hypothèses : croissance de 1 %, inflation de 1,8 %",
-       "43 Md€ de mesures (Vie-publique)"
+       "43 Md€ de mesures (Vie-publique)",
+       "Rapport de Christine Lavarde (Sénat) : plus fort déficit de l'État depuis 2023, en hausse d'environ 20 Md€ par rapport à 2026",
+       "Vote sur la première partie au Sénat annoncé les 28-29 nov.",
+       "Vote sur l'ensemble du texte au Sénat annoncé le 9 déc. ; calendrier parlementaire jusqu'au 17 déc.",
+       "Objectif : déficit public à 5 % du PIB en 2027"
       ]
      },
      {
@@ -59,7 +63,8 @@
        "Deux parties : recettes et équilibre, puis dépenses",
        "Le recours à l'article 49.3 est évoqué dans les sources",
        "Ne pas confondre loi de finances (État) et loi de financement de la sécurité sociale",
-       "Désaccord entre les deux chambres : réunion d'une commission mixte paritaire"
+       "Désaccord entre les deux chambres : réunion d'une commission mixte paritaire",
+       "Première partie (recettes) votée avant la seconde (dépenses)"
       ]
      }
     ]
@@ -114,6 +119,268 @@
      "d": "2026-11-26",
      "t": "Commission mixte paritaire prévue sur le PLFSS 2027.",
      "v": "2026-11-27"
+    },
+    {
+     "d": "2026-11-28",
+     "t": "Vote prévu au Sénat sur la première partie du PLF (éventuellement le 29).",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-12-09",
+     "t": "Vote annoncé au Sénat sur l'ensemble du PLF 2027.",
+     "v": "2026-11-28"
+    }
+   ]
+  },
+  {
+   "id": "remunerations-greves",
+   "rubrique": "Fonction publique",
+   "titre": "Salaires et grèves dans la fonction publique",
+   "resume": "Point d'indice gelé pour 2027. La grève du 17 novembre a moins mobilisé que celle du 5 (2,59 % contre près de 10 % dans la fonction publique de l'État). Une concertation d'un mois est ouverte par le Premier ministre ; rendez-vous le 11 décembre.",
+   "statut": "En cours",
+   "maj": "2026-11-28",
+   "enjeu": "Un SA doit connaître le droit de grève des agents publics et la conciliation avec la continuité du service. À l'oral, savoir expliquer la rémunération : traitement indiciaire (indice × valeur du point), primes, supplément familial ; distinguer mesure générale (point d'indice) et mesure ciblée (indice minimum). À l'oral, citer des chiffres contradictoires (ministère, syndicats) en précisant leur source.",
+   "carte": {
+    "centre": "Salaires et grèves",
+    "branches": [
+     {
+      "t": "Les mobilisations",
+      "f": [
+       "5 nov. : environ 10 % de grévistes dans la fonction publique de l'État (9,89 % à la mi-journée), 4,60 % dans la territoriale",
+       "17 nov. : 2,59 % de grévistes dans la fonction publique de l'État et 1,96 % dans la territoriale, selon le ministère",
+       "Toutes les fédérations appellent à la mobilisation le 17 nov. après l'adhésion de la CFDT",
+       "17 nov. : 146 000 manifestants selon le ministère de l'Intérieur, 500 000 selon la CGT",
+       "Revendication centrale : le dégel du point d'indice"
+      ]
+     },
+     {
+      "t": "Matignon, 13 novembre",
+      "f": [
+       "Rencontre avec les huit organisations représentatives",
+       "Discussion d'un mois sur cinq chantiers : urgence pour les bas salaires et réforme des grilles indiciaires",
+       "Nouveau rendez-vous le 11 décembre, au lendemain des élections professionnelles",
+       "Les syndicats repartent sans avancée sur les salaires ; la CFDT rejoint ensuite le mouvement"
+      ]
+     },
+     {
+      "t": "Le point d'indice",
+      "f": [
+       "Gel confirmé pour 2027, inscrit dans le PLF",
+       "L'intersyndicale demande le dégel, puis l'indexation sur les prix",
+       "Cour des comptes : gel des avancements en 2027 (3,9 Md€), une des 18 mesures proposées",
+       "Coût d'une hausse de 1 % du point d'indice : 2,4 Md€ (Acteurs publics)"
+      ]
+     },
+     {
+      "t": "Indice minimum",
+      "f": [
+       "2 oct. : David Amiel propose de relever l'indice minimum au 1er janvier 2027",
+       "Environ 400 000 agents publics auraient un salaire de base supérieur au Smic, selon le gouvernement",
+       "Les syndicats jugent la mesure insuffisante",
+       "Environ 200 000 manifestants à l'appel de l'intersyndicale"
+      ]
+     },
+     {
+      "t": "Dans le PLF 2027",
+      "f": [
+       "Création nette d'environ 8 000 postes dans la fonction publique de l'État (Acteurs publics)",
+       "Article 73 : protection fonctionnelle étendue aux agents devant les juridictions financières",
+       "Article 75 : prépare la réforme du financement des retraites des fonctionnaires",
+       "Sénat : forfaitisation du supplément familial de traitement et réduction de la rémunération en temps partiel thérapeutique"
+      ]
+     },
+     {
+      "t": "Règles à connaître",
+      "f": [
+       "Droit de grève reconnu par le Préambule de la Constitution de 1946",
+       "Il est concilié avec la continuité du service public",
+       "Fonction publique de l'État : préavis syndical nécessaire",
+       "Certains agents peuvent être requis pour assurer la continuité du service",
+       "Retenue sur traitement pour les jours de grève"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-02",
+     "t": "Le ministre David Amiel propose de relever l'indice minimum au 1er janvier 2027.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-04",
+     "t": "Le Conseil commun de la fonction publique aborde la question des retraites.",
+     "v": "2026-11-18"
+    },
+    {
+     "d": "2026-11-05",
+     "t": "Journée de grève : près de 10 % de grévistes dans la fonction publique de l'État.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Matignon ouvre une concertation d'un mois ; rendez-vous le 11 décembre.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "La commission des finances du Sénat ajoute deux mesures sur les agents publics au PLF.",
+     "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-17",
+     "t": "Grève : 2,59 % de grévistes dans la fonction publique de l'État.",
+     "v": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "id": "rupture-conventionnelle",
+   "rubrique": "Fonction publique",
+   "titre": "La rupture conventionnelle dans la fonction publique",
+   "resume": "Expérimentée à partir de 2020, la rupture conventionnelle a été pérennisée dans la fonction publique à la suite de la loi de finances pour 2026. Elle permet à l'agent et à l'administration de mettre fin d'un commun accord à la relation de travail.",
+   "statut": "Rappels",
+   "maj": "2026-11-28",
+   "enjeu": "À l'oral, distinguer rupture conventionnelle, démission, détachement et disponibilité, et citer le principe : accord des deux parties, procédure encadrée, indemnité. En cas pratique, orienter l'agent vers la bonne procédure et le bon interlocuteur RH sans promettre de décision.",
+   "carte": {
+    "centre": "Rupture conventionnelle",
+    "branches": [
+     {
+      "t": "Le principe",
+      "f": [
+       "Fin de la relation de travail d'un commun accord",
+       "Distincte de la démission et du licenciement"
+      ]
+     },
+     {
+      "t": "Historique",
+      "f": [
+       "Expérimentée à partir de 2020",
+       "Pérennisée à la suite de la loi de finances pour 2026",
+       "Rappel sur fonction-publique.gouv.fr le 7 août 2026"
+      ]
+     },
+     {
+      "t": "Bénéficiaires",
+      "f": [
+       "Fonctionnaires",
+       "Contractuels en CDI, sous une autre forme"
+      ]
+     },
+     {
+      "t": "La procédure",
+      "f": [
+       "Un entretien",
+       "Une convention",
+       "Une indemnité spécifique"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2020-01-01",
+     "t": "Début de l'expérimentation de la rupture conventionnelle dans la fonction publique.",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-08-07",
+     "t": "Fonction-publique.gouv.fr rappelle la pérennisation du dispositif après la loi de finances pour 2026.",
+     "v": "2026-11-28"
+    }
+   ]
+  },
+  {
+   "id": "ukraine-negociations",
+   "rubrique": "Europe et monde",
+   "titre": "Guerre en Ukraine : négociations et frappes",
+   "resume": "Pourparlers à Abou Dhabi, sommet Xi–Trump–Poutine à Shenzhen sans mention de l'Ukraine, Européens tenus à l'écart. Volodymyr Zelensky confirme de nouvelles discussions russo-ukrainiennes sous médiation américaine en novembre ; Moscou refuse toute pause des combats avant un accord. L'issue n'est pas confirmée.",
+   "statut": "En cours",
+   "maj": "2026-11-28",
+   "enjeu": "Exposer les positions des parties de façon neutre, distinguer faits et positions, et situer le rôle de l'Union européenne et de la France (réfugiés, énergie, sanctions, sécurité).",
+   "carte": {
+    "centre": "Ukraine",
+    "branches": [
+     {
+      "t": "Négociations",
+      "f": [
+       "10-12 nov. : pourparlers Ukraine-Russie-États-Unis à Abou Dhabi, premiers de ce type depuis février",
+       "12 nov. : des émissaires américains rencontrent Poutine à Moscou",
+       "Les deux camps conviennent d'un vaste échange de prisonniers",
+       "Kiev veut un cessez-le-feu avant toute discussion territoriale ; Moscou propose un cessez-le-feu de courte durée",
+       "Zelensky confirme des discussions sous médiation américaine en novembre (Ouest-France)",
+       "Délégation ukrainienne conduite par Roustem Oumerov",
+       "Steve Witkoff s'est entretenu avec Zelensky puis avec Poutine",
+       "Moscou refuse toute pause des combats avant un accord sur le fond",
+       "Précédents en 2026 : trêve de Pâques (avril), cessez-le-feu de trois jours (9-11 mai)"
+      ]
+     },
+     {
+      "t": "Sommet de Shenzhen",
+      "f": [
+       "19 nov. : Xi Jinping, Donald Trump et Vladimir Poutine réunis en marge de l'APEC",
+       "Environ 80 minutes, déclaration commune en quatre points",
+       "Le texte ne mentionne pas l'Ukraine (Kyiv Post)",
+       "Aucune percée sur l'Ukraine ni l'Iran selon Le Temps"
+      ]
+     },
+     {
+      "t": "Les Européens",
+      "f": [
+       "13 nov. : l'Europe doit participer au prochain cycle de discussions",
+       "Coalition des volontaires : sommet à Berlin le 19 nov., le même jour que Shenzhen",
+       "Plusieurs médias soulignent que les Européens sont tenus à l'écart des derniers pourparlers"
+      ]
+     },
+     {
+      "t": "Sur le terrain",
+      "f": [
+       "Frappes réciproques malgré les efforts diplomatiques",
+       "Peu de progrès selon les analystes après Abou Dhabi"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-05-09",
+     "t": "Début d'un cessez-le-feu annoncé de trois jours (9-11 mai).",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Ouverture des pourparlers à Abou Dhabi.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-12",
+     "t": "Rencontre des émissaires américains avec Poutine au Kremlin.",
+     "v": "2026-11-20"
+    },
+    {
+     "d": "2026-11-12",
+     "t": "Les deux camps conviennent d'un vaste échange de prisonniers.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Annonce de la participation européenne au prochain cycle.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Réunion de la Coalition des volontaires à Berlin.",
+     "v": "2026-11-16"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Sommet Xi–Trump–Poutine à Shenzhen : déclaration commune en quatre points.",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-11-28",
+     "t": "Zelensky confirme des discussions russo-ukrainiennes sous médiation américaine en novembre.",
+     "v": "2026-11-28"
     }
    ]
   },
@@ -284,85 +551,6 @@
    ]
   },
   {
-   "id": "ukraine-negociations",
-   "rubrique": "Europe et monde",
-   "titre": "Guerre en Ukraine : négociations et frappes",
-   "resume": "Pourparlers trilatéraux à Abou Dhabi, rencontre au Kremlin, échange de prisonniers, sommet Xi–Trump–Poutine à Shenzhen sans mention de l'Ukraine, Européens tenus à l'écart et frappes réciproques.",
-   "statut": "En cours",
-   "maj": "2026-11-27",
-   "enjeu": "Exposer les positions des parties de façon neutre, distinguer faits et positions, et situer le rôle de l'Union européenne et de la France (réfugiés, énergie, sanctions, sécurité).",
-   "carte": {
-    "centre": "Ukraine",
-    "branches": [
-     {
-      "t": "Négociations",
-      "f": [
-       "10-12 nov. : pourparlers Ukraine-Russie-États-Unis à Abou Dhabi, premiers de ce type depuis février",
-       "12 nov. : des émissaires américains rencontrent Poutine à Moscou",
-       "Les deux camps conviennent d'un vaste échange de prisonniers",
-       "Kiev veut un cessez-le-feu avant toute discussion territoriale ; Moscou propose un cessez-le-feu de courte durée"
-      ]
-     },
-     {
-      "t": "Sommet de Shenzhen",
-      "f": [
-       "19 nov. : Xi Jinping, Donald Trump et Vladimir Poutine réunis en marge de l'APEC",
-       "Environ 80 minutes, déclaration commune en quatre points",
-       "Le texte ne mentionne pas l'Ukraine (Kyiv Post)",
-       "Aucune percée sur l'Ukraine ni l'Iran selon Le Temps"
-      ]
-     },
-     {
-      "t": "Les Européens",
-      "f": [
-       "13 nov. : l'Europe doit participer au prochain cycle de discussions",
-       "Coalition des volontaires : sommet à Berlin le 19 nov., le même jour que Shenzhen",
-       "Plusieurs médias soulignent que les Européens sont tenus à l'écart des derniers pourparlers"
-      ]
-     },
-     {
-      "t": "Sur le terrain",
-      "f": [
-       "Frappes réciproques malgré les efforts diplomatiques",
-       "Peu de progrès selon les analystes après Abou Dhabi"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-10",
-     "t": "Ouverture des pourparlers à Abou Dhabi.",
-     "v": "2026-11-12"
-    },
-    {
-     "d": "2026-11-12",
-     "t": "Rencontre des émissaires américains avec Poutine au Kremlin.",
-     "v": "2026-11-20"
-    },
-    {
-     "d": "2026-11-12",
-     "t": "Les deux camps conviennent d'un vaste échange de prisonniers.",
-     "v": "2026-11-25"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Annonce de la participation européenne au prochain cycle.",
-     "v": "2026-11-14"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "Réunion de la Coalition des volontaires à Berlin.",
-     "v": "2026-11-16"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "Sommet Xi–Trump–Poutine à Shenzhen : déclaration commune en quatre points.",
-     "v": "2026-11-27"
-    }
-   ]
-  },
-  {
    "id": "cop31",
    "rubrique": "Europe et monde",
    "titre": "COP31 à Antalya",
@@ -467,107 +655,6 @@
      "d": "2026-11-19",
      "t": "Arrêt de la CIJ : génocide contre les Rohingyas.",
      "v": "2026-11-22"
-    }
-   ]
-  },
-  {
-   "id": "remunerations-greves",
-   "rubrique": "Fonction publique",
-   "titre": "Salaires et grèves dans la fonction publique",
-   "resume": "Point d'indice gelé pour 2027. La grève du 17 novembre a moins mobilisé que celle du 5 (2,59 % contre près de 10 % dans la fonction publique de l'État). Une concertation d'un mois est ouverte par le Premier ministre ; rendez-vous le 11 décembre.",
-   "statut": "En cours",
-   "maj": "2026-11-26",
-   "enjeu": "Un SA doit connaître le droit de grève des agents publics et la conciliation avec la continuité du service. À l'oral, savoir expliquer la rémunération : traitement indiciaire (indice × valeur du point), primes, supplément familial ; distinguer mesure générale (point d'indice) et mesure ciblée (indice minimum). À l'oral, citer des chiffres contradictoires (ministère, syndicats) en précisant leur source.",
-   "carte": {
-    "centre": "Salaires et grèves",
-    "branches": [
-     {
-      "t": "Les mobilisations",
-      "f": [
-       "5 nov. : environ 10 % de grévistes dans la fonction publique de l'État (9,89 % à la mi-journée), 4,60 % dans la territoriale",
-       "17 nov. : 2,59 % de grévistes dans la fonction publique de l'État et 1,96 % dans la territoriale, selon le ministère",
-       "Toutes les fédérations appellent à la mobilisation le 17 nov. après l'adhésion de la CFDT",
-       "17 nov. : 146 000 manifestants selon le ministère de l'Intérieur, 500 000 selon la CGT",
-       "Revendication centrale : le dégel du point d'indice"
-      ]
-     },
-     {
-      "t": "Matignon, 13 novembre",
-      "f": [
-       "Rencontre avec les huit organisations représentatives",
-       "Discussion d'un mois sur cinq chantiers : urgence pour les bas salaires et réforme des grilles indiciaires",
-       "Nouveau rendez-vous le 11 décembre, au lendemain des élections professionnelles",
-       "Les syndicats repartent sans avancée sur les salaires ; la CFDT rejoint ensuite le mouvement"
-      ]
-     },
-     {
-      "t": "Le point d'indice",
-      "f": [
-       "Gel confirmé pour 2027, inscrit dans le PLF",
-       "L'intersyndicale demande le dégel, puis l'indexation sur les prix",
-       "Cour des comptes : gel des avancements en 2027 (3,9 Md€), une des 18 mesures proposées"
-      ]
-     },
-     {
-      "t": "Indice minimum",
-      "f": [
-       "2 oct. : David Amiel propose de relever l'indice minimum au 1er janvier 2027",
-       "Environ 400 000 agents publics auraient un salaire de base supérieur au Smic, selon le gouvernement",
-       "Les syndicats jugent la mesure insuffisante",
-       "Environ 200 000 manifestants à l'appel de l'intersyndicale"
-      ]
-     },
-     {
-      "t": "Dans le PLF 2027",
-      "f": [
-       "Création nette d'environ 8 000 postes dans la fonction publique de l'État (Acteurs publics)",
-       "Article 73 : protection fonctionnelle étendue aux agents devant les juridictions financières",
-       "Article 75 : prépare la réforme du financement des retraites des fonctionnaires",
-       "Sénat : forfaitisation du supplément familial de traitement et réduction de la rémunération en temps partiel thérapeutique"
-      ]
-     },
-     {
-      "t": "Règles à connaître",
-      "f": [
-       "Droit de grève reconnu par le Préambule de la Constitution de 1946",
-       "Il est concilié avec la continuité du service public",
-       "Fonction publique de l'État : préavis syndical nécessaire",
-       "Certains agents peuvent être requis pour assurer la continuité du service",
-       "Retenue sur traitement pour les jours de grève"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-10-02",
-     "t": "Le ministre David Amiel propose de relever l'indice minimum au 1er janvier 2027.",
-     "v": "2026-11-25"
-    },
-    {
-     "d": "2026-11-04",
-     "t": "Le Conseil commun de la fonction publique aborde la question des retraites.",
-     "v": "2026-11-18"
-    },
-    {
-     "d": "2026-11-05",
-     "t": "Journée de grève : près de 10 % de grévistes dans la fonction publique de l'État.",
-     "v": "2026-11-12"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Matignon ouvre une concertation d'un mois ; rendez-vous le 11 décembre.",
-     "v": "2026-11-14"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "La commission des finances du Sénat ajoute deux mesures sur les agents publics au PLF.",
-     "v": "2026-11-20"
-    },
-    {
-     "d": "2026-11-17",
-     "t": "Grève : 2,59 % de grévistes dans la fonction publique de l'État.",
-     "v": "2026-11-19"
     }
    ]
   },
