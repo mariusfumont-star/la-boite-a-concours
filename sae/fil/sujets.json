@@ -1,6 +1,235 @@
 {
- "derniere_veille": "2026-11-27",
+ "derniere_veille": "2026-11-28",
  "sujets": [
+  {
+   "id": "bce-presidence",
+   "rubrique": "Union européenne",
+   "titre": "Présidence de la Banque centrale européenne",
+   "resume": "Le Conseil européen extraordinaire des 26 et 27 novembre a désigné l'Espagnol Pablo Hernández de Cos pour succéder à Christine Lagarde, qui part le 7 février 2027. Audition au Parlement européen le 7 décembre, nomination formelle attendue les 17 et 18 décembre.",
+   "statut": "En cours",
+   "maj": "2026-11-28",
+   "enjeu": "Illustre la procédure de nomination aux postes de direction de l'Union, souvent négociée en « paquet ». Distinguer la recommandation du Conseil, la consultation du Parlement européen et de la BCE, et la décision du Conseil européen.",
+   "carte": {
+    "centre": "Présidence de la BCE",
+    "branches": [
+     {
+      "t": "Le candidat",
+      "f": [
+       "Pablo Hernández de Cos, Espagnol",
+       "Gouverneur de la Banque d'Espagne de 2018 à juin 2024",
+       "Dirige la BRI depuis le 1er juillet 2025"
+      ]
+     },
+     {
+      "t": "Désignation",
+      "f": [
+       "Conseil européen extraordinaire, 26-27 nov., Bruxelles",
+       "Choix annoncé par Emmanuel Macron sur X le 26 nov.",
+       "Christine Lagarde quitte ses fonctions le 7 février 2027"
+      ]
+     },
+     {
+      "t": "Prochaines étapes",
+      "f": [
+       "7 déc. : audition devant la commission ECON du Parlement européen",
+       "17-18 déc. : nomination formelle attendue au Conseil européen"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-26",
+     "t": "Le Conseil européen désigne Pablo Hernández de Cos pour présider la BCE.",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-12-07",
+     "t": "Audition prévue devant la commission ECON du Parlement européen.",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-12-17",
+     "t": "Nomination formelle attendue au Conseil européen des 17 et 18 décembre.",
+     "v": "2026-11-28"
+    }
+   ]
+  },
+  {
+   "id": "libye-mediterranee",
+   "rubrique": "Action extérieure de la France",
+   "titre": "Libye : attaque de Benghazi et sécurité en Méditerranée",
+   "resume": "Des navires russes ont été visés à Benghazi le 22 novembre par une attaque revendiquée par l'Ukraine ; deux militaires libyens sont morts. La France a présenté ses condoléances et réaffirmé son attachement à l'unité, à la stabilité et à la souveraineté de la Libye.",
+   "statut": "En cours",
+   "maj": "2026-11-28",
+   "enjeu": "Registre classique de la diplomatie française face à un incident complexe : condoléances, rappel de principes, absence de mise en cause nominative. Illustre l'extension de la guerre en Ukraine à d'autres théâtres, dont la Méditerranée.",
+   "carte": {
+    "centre": "Benghazi",
+    "branches": [
+     {
+      "t": "Les faits",
+      "f": [
+       "22 nov. : navires russes visés au port de Benghazi",
+       "Attaque revendiquée par l'Ukraine ; Zelensky affirme qu'une corvette a été coulée et un cargo touché",
+       "25 nov. : deux militaires libyens morts de leurs blessures"
+      ]
+     },
+     {
+      "t": "Position française",
+      "f": [
+       "Déclaration de la porte-parole du ministère, 26 nov.",
+       "Condoléances aux familles des victimes",
+       "Unité, stabilité et souveraineté de la Libye ; sécurité en Méditerranée"
+      ]
+     },
+     {
+      "t": "Réactions",
+      "f": [
+       "Le gouvernement d'union nationale demande des explications à Kiev",
+       "La MANUL appelle à une enquête indépendante"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-22",
+     "t": "Attaque contre des navires russes au port de Benghazi, revendiquée par l'Ukraine.",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-11-25",
+     "t": "Les autorités de l'est libyen annoncent la mort de deux militaires.",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "La France présente ses condoléances et rappelle son attachement à la souveraineté de la Libye.",
+     "v": "2026-11-28"
+    }
+   ]
+  },
+  {
+   "id": "onu",
+   "rubrique": "Organisations internationales",
+   "titre": "ONU et organisations internationales",
+   "resume": "Course à la succession d'António Guterres, réélection à l'OIT, Conseil de la paix pour Gaza, arrêt de la CIJ sur les Rohingyas ; la FAO et le PAM recensent 16 foyers de faim aiguë et un risque de famine au Soudan.",
+   "statut": "En cours",
+   "maj": "2026-11-28",
+   "enjeu": "Le mandat de Guterres s'achève le 31 décembre 2026 ; savoir présenter le processus de désignation et les organes de l'ONU. La sécurité alimentaire croise conflits, climat et financement de l'aide humanitaire ; l'accès humanitaire est un point d'oral classique.",
+   "carte": {
+    "centre": "ONU",
+    "branches": [
+     {
+      "t": "Succession de Guterres",
+      "f": [
+       "Mandat achevé le 31 décembre 2026",
+       "Straw polls : Grynspan en tête (12 encouragements, 3 découragements au 5 nov.)"
+      ]
+     },
+     {
+      "t": "Autres",
+      "f": [
+       "Houngbo réélu à la tête de l'OIT",
+       "Conseil de la paix pour Gaza",
+       "CIJ, 19 nov. : génocide contre les Rohingyas (neuf voix contre six), affaire ouverte par la Gambie"
+      ]
+     },
+     {
+      "t": "Sécurité alimentaire",
+      "f": [
+       "27 nov. : rapport FAO-PAM « Hunger Hotspots » (déc. 2026 - mai 2027)",
+       "16 foyers de faim aiguë, contre 13 en juin",
+       "Plus haut niveau : Soudan, Soudan du Sud, Somalie, une partie du Nigeria, Yémen",
+       "El Niño : entrée de l'Afrique australe, du corridor sec d'Amérique centrale et du nord-est de l'Ouganda",
+       "Tchad ajouté (conflit soudanais) ; Liban sorti de la liste",
+       "Risque de famine dans 13 zones du Nord-Darfour et du Sud-Kordofan d'ici janvier 2027 (pire scénario)"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-05",
+     "t": "Nouveau sondage indicatif pour la succession de Guterres.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Arrêt de la CIJ sur les Rohingyas.",
+     "v": "2026-11-22"
+    },
+    {
+     "d": "2026-11-27",
+     "t": "La FAO et le PAM recensent 16 foyers de faim aiguë et un risque de famine au Soudan.",
+     "v": "2026-11-28"
+    }
+   ]
+  },
+  {
+   "id": "reseau-consulaire",
+   "rubrique": "Action extérieure de la France",
+   "titre": "Réseau diplomatique et action consulaire",
+   "resume": "Crédits du programme 151, élections consulaires, vote par internet, alertes sanitaires, sécurité des missions et rôle des « Conseils aux voyageurs ».",
+   "statut": "En cours",
+   "maj": "2026-11-28",
+   "enjeu": "Le programme 151 finance l'action consulaire : un thème budgétaire et administratif directement lié au métier. Les « Conseils aux voyageurs » sont au cœur de la gestion de crise et de la protection consulaire : savoir qui les rédige, comment ils sont mis à jour et quelle est leur portée.",
+   "carte": {
+    "centre": "Réseau et consulats",
+    "branches": [
+     {
+      "t": "Budget",
+      "f": [
+       "Programme 151 : 166,7 M€, en hausse de 13,75 M€"
+      ]
+     },
+     {
+      "t": "Élections consulaires 2026",
+      "f": [
+       "30-31 mai : 433 conseillers, 77 délégués",
+       "Participation de 13,98 %",
+       "Conseil d'État, 4 nov. : un recours contre un scrutin (Émirats) rejeté",
+       "Test du vote par internet du 20 au 27 nov."
+      ]
+     },
+     {
+      "t": "Sécurité",
+      "f": [
+       "Alerte Ebola à Madagascar",
+       "Vigilance El Niño",
+       "Protection des missions diplomatiques"
+      ]
+     },
+     {
+      "t": "Conseils aux voyageurs",
+      "f": [
+       "Fiches pays sur diplomatie.gouv.fr, mises à jour par des alertes datées",
+       "Carte de vigilance en couleurs ; sécurité, entrée, santé, transports",
+       "Rédigées avec les ambassades et le Centre de crise et de soutien",
+       "27 nov. : alerte relative à une pénurie de carburant",
+       "Service Ariane : signalement des voyageurs, alertes en cas de crise"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-04",
+     "t": "Le Conseil d'État rejette un recours sur une élection consulaire.",
+     "v": "2026-11-14"
+    },
+    {
+     "d": "2026-11-20",
+     "t": "Début du test de vote par internet.",
+     "v": "2026-11-21"
+    },
+    {
+     "d": "2026-11-27",
+     "t": "Une alerte sur une pénurie de carburant est publiée dans les « Conseils aux voyageurs ».",
+     "v": "2026-11-28"
+    }
+   ]
+  },
   {
    "id": "budget-ue",
    "rubrique": "Union européenne",
@@ -454,47 +683,6 @@
    ]
   },
   {
-   "id": "onu",
-   "rubrique": "Organisations internationales",
-   "titre": "ONU et organisations internationales",
-   "resume": "Course à la succession d'António Guterres, réélection à l'OIT, Conseil de la paix pour Gaza, arrêt de la CIJ sur les Rohingyas.",
-   "statut": "En cours",
-   "maj": "2026-11-24",
-   "enjeu": "Le mandat de Guterres s'achève le 31 décembre 2026 ; savoir présenter le processus de désignation et les organes de l'ONU.",
-   "carte": {
-    "centre": "ONU",
-    "branches": [
-     {
-      "t": "Succession de Guterres",
-      "f": [
-       "Mandat achevé le 31 décembre 2026",
-       "Straw polls : Grynspan en tête (12 encouragements, 3 découragements au 5 nov.)"
-      ]
-     },
-     {
-      "t": "Autres",
-      "f": [
-       "Houngbo réélu à la tête de l'OIT",
-       "Conseil de la paix pour Gaza",
-       "CIJ, 19 nov. : génocide contre les Rohingyas (neuf voix contre six), affaire ouverte par la Gambie"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-05",
-     "t": "Nouveau sondage indicatif pour la succession de Guterres.",
-     "v": "2026-11-14"
-    },
-    {
-     "d": "2026-11-19",
-     "t": "Arrêt de la CIJ sur les Rohingyas.",
-     "v": "2026-11-22"
-    }
-   ]
-  },
-  {
    "id": "cop31",
    "rubrique": "Climat et environnement",
    "titre": "COP31 à Antalya",
@@ -602,55 +790,6 @@
      "d": "2026-11-23",
      "t": "Annonce du 22e paquet de sanctions.",
      "v": "2026-11-23"
-    }
-   ]
-  },
-  {
-   "id": "reseau-consulaire",
-   "rubrique": "Action extérieure de la France",
-   "titre": "Réseau diplomatique et action consulaire",
-   "resume": "Crédits du programme 151, élections consulaires, vote par internet, alertes sanitaires et sécurité des missions.",
-   "statut": "En cours",
-   "maj": "2026-11-22",
-   "enjeu": "Le programme 151 finance l'action consulaire : un thème budgétaire et administratif directement lié au métier.",
-   "carte": {
-    "centre": "Réseau et consulats",
-    "branches": [
-     {
-      "t": "Budget",
-      "f": [
-       "Programme 151 : 166,7 M€, en hausse de 13,75 M€"
-      ]
-     },
-     {
-      "t": "Élections consulaires 2026",
-      "f": [
-       "30-31 mai : 433 conseillers, 77 délégués",
-       "Participation de 13,98 %",
-       "Conseil d'État, 4 nov. : un recours contre un scrutin (Émirats) rejeté",
-       "Test du vote par internet du 20 au 27 nov."
-      ]
-     },
-     {
-      "t": "Sécurité",
-      "f": [
-       "Alerte Ebola à Madagascar",
-       "Vigilance El Niño",
-       "Protection des missions diplomatiques"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-11-04",
-     "t": "Le Conseil d'État rejette un recours sur une élection consulaire.",
-     "v": "2026-11-14"
-    },
-    {
-     "d": "2026-11-20",
-     "t": "Début du test de vote par internet.",
-     "v": "2026-11-21"
     }
    ]
   },
