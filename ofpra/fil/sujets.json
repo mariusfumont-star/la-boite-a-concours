@@ -1,6 +1,240 @@
 {
- "derniere_veille": "2026-11-27",
+ "derniere_veille": "2026-11-28",
  "sujets": [
+  {
+   "id": "cnda-azerbaidjan-orientation-sexuelle",
+   "rubrique": "Droit et contentieux",
+   "titre": "CNDA : les personnes homosexuelles d'Azerbaïdjan reconnues comme groupe social",
+   "resume": "Par une décision du 24 novembre 2026 (n° 26006340 C), la CNDA juge que les personnes homosexuelles constituent en Azerbaïdjan un groupe social exposé à des persécutions et reconnaît la qualité de réfugié au requérant.",
+   "statut": "Terminé",
+   "maj": "2026-11-28",
+   "enjeu": "Une dépénalisation ne suffit pas à écarter des persécutions venant de la société ou de l'entourage, faute de protection effective des autorités ; on ne peut exiger d'un demandeur qu'il dissimule son orientation sexuelle.",
+   "carte": {
+    "centre": "CNDA, 24 novembre 2026, n° 26006340 C",
+    "branches": [
+     {
+      "t": "Faits",
+      "f": [
+       "Ressortissant azerbaïdjanais craignant des persécutions de sa famille et de la société",
+       "Motif : son orientation sexuelle",
+       "Demande rejetée par l'OFPRA le 2 décembre 2025"
+      ]
+     },
+     {
+      "t": "Contexte pays",
+      "f": [
+       "Relations homosexuelles dépénalisées en septembre 2000",
+       "« Perception particulièrement hostile » des personnes homosexuelles selon la Cour"
+      ]
+     },
+     {
+      "t": "Raisonnement",
+      "f": [
+       "Ostracisme de la société envers les personnes homosexuelles",
+       "Insuffisance de la protection des autorités",
+       "Ces personnes constituent un groupe social au sens de la convention de Genève"
+      ]
+     },
+     {
+      "t": "Solution",
+      "f": [
+       "Annulation de la décision de l'OFPRA",
+       "Reconnaissance de la qualité de réfugié"
+      ]
+     },
+     {
+      "t": "Pour l'attaché",
+      "f": [
+       "La dépénalisation n'exclut pas des persécutions par des acteurs non étatiques",
+       "Pas d'exigence de dissimulation de l'orientation sexuelle",
+       "Mobiliser les sources sur le pays d'origine dans l'instruction"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2025-12-02",
+     "t": "L'OFPRA rejette la demande d'asile d'un ressortissant azerbaïdjanais invoquant son orientation sexuelle.",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-11-24",
+     "t": "La CNDA annule ce rejet et reconnaît que les personnes homosexuelles forment en Azerbaïdjan un groupe social exposé à des persécutions.",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "La CNDA met en ligne la décision n° 26006340 C au titre de son actualité jurisprudentielle.",
+     "v": "2026-11-28"
+    }
+   ]
+  },
+  {
+   "id": "hcr-financement",
+   "rubrique": "Asile et protection",
+   "titre": "HCR : appel 2027 et baisse des financements humanitaires",
+   "resume": "Le HCR a lancé le 27 novembre 2026 un appel global de 7,1 milliards de dollars pour 2027, après n'avoir obtenu que 2,9 des 8,5 milliards demandés en 2026.",
+   "statut": "En cours",
+   "maj": "2026-11-28",
+   "enjeu": "La baisse des financements fragilise l'accueil dans les pays de premier asile et peut accroître les départs vers l'Europe ; le HCR est un partenaire de l'OFPRA, notamment pour la réinstallation.",
+   "carte": {
+    "centre": "Financement du HCR",
+    "branches": [
+     {
+      "t": "Appels",
+      "f": [
+       "2027 : appel global de 7,1 milliards de dollars, lancé à Genève le 27 novembre 2026",
+       "2026 : 8,5 milliards demandés, 2,9 milliards obtenus"
+      ]
+     },
+     {
+      "t": "Déplacements forcés",
+      "f": [
+       "117,8 millions de personnes déplacées de force fin 2025",
+       "Record de 123,2 millions fin 2024",
+       "Deux tiers viennent d'Afghanistan, du Soudan, de Syrie, d'Ukraine et du Venezuela"
+      ]
+     },
+     {
+      "t": "Effets de la baisse",
+      "f": [
+       "Près de 8 000 employés ont quitté le HCR depuis 2024 (AFP)",
+       "Forte baisse de l'aide des États-Unis et d'autres donateurs"
+      ]
+     },
+     {
+      "t": "Pour l'attaché",
+      "f": [
+       "Replacer la demande d'asile en France dans le contexte mondial du déplacement",
+       "Risque de départs accrus depuis les pays de premier asile",
+       "Le HCR, partenaire de l'OFPRA pour la réinstallation"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-27",
+     "t": "Le HCR lance à Genève son appel global de 7,1 milliards de dollars pour 2027, contre 8,5 milliards demandés en 2026.",
+     "v": "2026-11-28"
+    }
+   ]
+  },
+  {
+   "id": "pacte-migration-asile",
+   "rubrique": "Union européenne",
+   "titre": "Pacte européen sur la migration et l'asile : la solidarité en pratique",
+   "resume": "Pour 2026, première année du Pacte, seuls 1 283 demandeurs d'asile seront relocalisés entre États membres selon Euronews, loin du minimum annuel de 30 000 fixé par le règlement.",
+   "statut": "En cours",
+   "maj": "2026-11-28",
+   "enjeu": "La solidarité du Pacte combine relocalisations, contributions financières et compensations de responsabilité ; la France figure parmi les pays d'accueil de personnes relocalisées. L'écart entre objectifs et mise en œuvre est un bon angle de note ou d'oral.",
+   "carte": {
+    "centre": "Pacte sur la migration et l'asile",
+    "branches": [
+     {
+      "t": "Outils de solidarité",
+      "f": [
+       "Relocalisations de demandeurs d'asile entre États membres",
+       "Contributions financières",
+       "« Compensation de responsabilité », sans transfert physique"
+      ]
+     },
+     {
+      "t": "Objectifs du règlement",
+      "f": [
+       "Minimum annuel de 30 000 relocalisations",
+       "Minimum annuel de 600 millions d'euros de contributions financières",
+       "Décembre 2025 : les ministres de l'Intérieur retiennent 420 millions d'euros de contributions"
+      ]
+     },
+     {
+      "t": "Bilan 2026 (Euronews)",
+      "f": [
+       "1 283 relocalisations prévues pour 2026",
+       "562 transferts réalisés, tous au départ de Chypre",
+       "Pays d'accueil notamment : Roumanie, Bulgarie, Lituanie, France"
+      ]
+     },
+     {
+      "t": "Acteurs",
+      "f": [
+       "Agence de l'Union européenne pour l'asile (AUEA), dirigée par Nina Gregori",
+       "Espagne, Italie et Grèce bénéficient surtout de la compensation de responsabilité"
+      ]
+     },
+     {
+      "t": "Pour l'attaché",
+      "f": [
+       "Mesurer l'écart entre les objectifs du Pacte et sa mise en œuvre",
+       "Savoir présenter avantages et limites de la solidarité flexible"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-24",
+     "t": "Euronews révèle que 1 283 demandeurs d'asile seront relocalisés en 2026, dont 562 déjà transférés depuis Chypre, pour un objectif de 30 000.",
+     "v": "2026-11-28"
+    }
+   ]
+  },
+  {
+   "id": "ukraine",
+   "rubrique": "Pays d'origine et géopolitique",
+   "titre": "Ukraine : bilan civil et infrastructures énergétiques visées",
+   "resume": "Selon l'ONU, 2026 est déjà plus meurtrière pour les civils que 2025, avec 372 civils tués et 1 981 blessés en octobre 2026, et les attaques contre le réseau électrique atteignent un niveau inédit à l'approche de l'hiver.",
+   "statut": "En cours",
+   "maj": "2026-11-28",
+   "enjeu": "La situation sécuritaire et humanitaire en Ukraine est un contexte central pour ses ressortissants, majoritairement couverts par la protection temporaire dans l'Union européenne ; suivre les risques pour les civils, notamment à l'est et au sud.",
+   "carte": {
+    "centre": "Ukraine",
+    "branches": [
+     {
+      "t": "Bilan civil",
+      "f": [
+       "Octobre 2026 : 372 civils tués et 1 981 blessés, soit 95 % de plus qu'en octobre 2025",
+       "Dix premiers mois de 2026 plus meurtriers pour les civils que toute l'année 2025"
+      ]
+     },
+     {
+      "t": "Enfants",
+      "f": [
+       "Au moins 1 144 enfants tués ou blessés de janvier à octobre 2026 (UNICEF, 20 novembre)"
+      ]
+     },
+     {
+      "t": "Énergie et hiver",
+      "f": [
+       "Attaques vérifiées contre l'énergie au plus haut depuis l'invasion à grande échelle",
+       "Coupures de 4 à 18 heures dans la plupart des régions",
+       "Plan hivernal de l'ONU : plus de deux millions de personnes vulnérables à aider"
+      ]
+     },
+     {
+      "t": "Pour l'attaché",
+      "f": [
+       "Ressortissants majoritairement couverts par la protection temporaire dans l'UE",
+       "Suivre les risques pour les civils, notamment dans l'est et le sud",
+       "Données utiles pour l'information sur les pays d'origine et l'oral"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-11-20",
+     "t": "L'UNICEF indique qu'au moins 1 144 enfants ont été tués ou blessés en Ukraine de janvier à octobre 2026.",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-11-28",
+     "t": "L'ONU recense 372 civils tués et 1 981 blessés en octobre 2026 et des attaques record contre les infrastructures énergétiques.",
+     "v": "2026-11-28"
+    }
+   ]
+  },
   {
    "id": "afghanistan",
    "rubrique": "Pays d'origine et géopolitique",
