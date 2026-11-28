@@ -59,6 +59,21 @@
      "v": "2026-11-28"
     },
     {
+     "d": "2026-10-01",
+     "t": "L'OFPRA annonce sa matinée « Perspectives Asile » du 15 octobre sur la protection contre l'homophobie, la biphobie et la transphobie.",
+     "v": "2026-10-04"
+    },
+    {
+     "d": "2026-10-20",
+     "t": "L'OFPRA publie un focus sur l'orientation sexuelle et l'identité de genre.",
+     "v": "2026-10-25"
+    },
+    {
+     "d": "2026-11-04",
+     "t": "La CNDA reconnaît un groupe social des personnes homosexuelles à Djibouti et accorde la qualité de réfugié à un requérant.",
+     "v": "2026-11-08"
+    },
+    {
      "d": "2026-11-24",
      "t": "La CNDA annule ce rejet et reconnaît que les personnes homosexuelles forment en Azerbaïdjan un groupe social exposé à des persécutions.",
      "v": "2026-11-28"
@@ -174,6 +189,31 @@
    },
    "chrono": [
     {
+     "d": "2026-04-08",
+     "t": "Le gouvernement dépose le projet de loi n° 526 l'habilitant à prendre par ordonnances les mesures d'application du Pacte.",
+     "v": "2026-10-04"
+    },
+    {
+     "d": "2026-05-07",
+     "t": "La commission des affaires européennes du Sénat publie son rapport n° 606 et alerte sur une « vulnérabilité juridique » après le 12 juin.",
+     "v": "2026-10-04"
+    },
+    {
+     "d": "2026-05-20",
+     "t": "Le Sénat adopte le projet de loi d'habilitation ; l'Assemblée nationale doit l'examiner en juillet.",
+     "v": "2026-10-04"
+    },
+    {
+     "d": "2026-06-11",
+     "t": "La Cimade dénonce un tri et un enfermement aux frontières à la veille de l'application du Pacte.",
+     "v": "2026-10-04"
+    },
+    {
+     "d": "2026-06-12",
+     "t": "Le Pacte sur la migration et l'asile devient opérationnel, certains textes s'appliquant dès le 1er juillet.",
+     "v": "2026-10-04"
+    },
+    {
      "d": "2026-11-24",
      "t": "Euronews révèle que 1 283 demandeurs d'asile seront relocalisés en 2026, dont 562 déjà transférés depuis Chypre, pour un objectif de 30 000.",
      "v": "2026-11-28"
@@ -223,6 +263,16 @@
     ]
    },
    "chrono": [
+    {
+     "d": "2026-07-15",
+     "t": "Les États membres de l'UE conviennent de prolonger la protection temporaire jusqu'au 4 mars 2028, avec une condition liée aux obligations militaires pour les nouveaux demandeurs.",
+     "v": "2026-10-11"
+    },
+    {
+     "d": "2026-10-24",
+     "t": "Kiev et Moscou se disent prêts à reprendre les pourparlers soutenus par les États-Unis ; un cycle est évoqué vers la mi-novembre à Abou Dhabi, sans rapprochement de fond.",
+     "v": "2026-10-25"
+    },
     {
      "d": "2026-11-20",
      "t": "L'UNICEF indique qu'au moins 1 144 enfants ont été tués ou blessés en Ukraine de janvier à octobre 2026.",
@@ -279,6 +329,11 @@
    },
    "chrono": [
     {
+     "d": "2026-10-09",
+     "t": "L'OIM indique que plus de 6,5 millions d'Afghans sont rentrés d'Iran et du Pakistan en trois ans et que le pays manque de capacité pour les accueillir.",
+     "v": "2026-10-11"
+    },
+    {
      "d": "2026-11-06",
      "t": "Bruno Lemarquis, coordonnateur humanitaire de l'ONU en Afghanistan, alerte sur les retours massifs et le désengagement international.",
      "v": "2026-11-27"
@@ -323,6 +378,11 @@
     ]
    },
    "chrono": [
+    {
+     "d": "2026-10-28",
+     "t": "La commission des finances du Sénat propose d'adopter sans modification les crédits de la mission : 2,26 Md€ en AE et 2,09 Md€ en CP.",
+     "v": "2026-11-01"
+    },
     {
      "d": "2026-11-03",
      "t": "Le Sénat publie le calendrier budgétaire du PLF 2027 fixant l'examen de la mission au 5 décembre.",
@@ -453,6 +513,11 @@
    },
    "chrono": [
     {
+     "d": "2026-11-06",
+     "t": "Le HCR et l'OIM alertent : 8,5 millions de déplacés internes, 4,6 millions de réfugiés, plan de réponse financé à 47 % et abris à 35 %.",
+     "v": "2026-11-08"
+    },
+    {
      "d": "2026-11-17",
      "t": "Le Haut-Commissariat aux droits de l'homme recense au moins 2 230 civils tués de janvier à fin octobre 2026, dont plus de 1 630 par des drones.",
      "v": "2026-11-27"
@@ -461,6 +526,245 @@
      "d": "2026-11-22",
      "t": "Des drones frappent des quartiers résidentiels de Khartoum et endommagent un bâtiment occupé par du personnel de l'ONU ; Nyala est aussi touchée.",
      "v": "2026-11-27"
+    }
+   ]
+  },
+  {
+   "id": "fonction-publique-remunerations",
+   "rubrique": "Fonction publique et État",
+   "titre": "Fonction publique : salaires, indice minimum et mobilisation du 17 novembre",
+   "resume": "Le gouvernement propose de relever l'indice minimum au 1er janvier 2027 alors que le point d'indice est gelé ; les syndicats appellent à la grève le 17 novembre et réclament une hausse générale.",
+   "statut": "En cours",
+   "maj": "2026-11-22",
+   "enjeu": "Un attaché doit distinguer point d'indice, indice minimum et indemnité différentielle, et comprendre le dialogue social qui entoure ces sujets.",
+   "carte": {
+    "centre": "Salaires des agents publics",
+    "branches": [
+     {
+      "t": "Mesures annoncées",
+      "f": [
+       "2 octobre : le ministre Amiel propose de relever l'indice minimum au 1er janvier",
+       "Environ 400 000 agents sortiraient de l'indemnité différentielle",
+       "Des points d'indice ajoutés aux premiers échelons"
+      ]
+     },
+     {
+      "t": "Revendications",
+      "f": [
+       "Hausse immédiate du point d'indice",
+       "Fin du tassement des grilles face au Smic",
+       "CFDT : plus de 16 % de pouvoir d'achat perdu depuis 2017"
+      ]
+     },
+     {
+      "t": "Mobilisation",
+      "f": [
+       "29 septembre : 200 000 manifestants selon LCP",
+       "17 novembre : grève de tous les syndicats",
+       "220 000 à 300 000 manifestants selon des sources policières (AFP)"
+      ]
+     },
+     {
+      "t": "Calendrier",
+      "f": [
+       "13 novembre : syndicats reçus à Matignon, sans satisfaction",
+       "1er décembre : hausse du Smic",
+       "Mi-décembre : élections professionnelles puis discussion de cinq réformes des grilles"
+      ]
+     },
+     {
+      "t": "Pour l'attaché",
+      "f": [
+       "Savoir distinguer traitement et indemnité",
+       "Assurer la continuité du service les jours de grève",
+       "Rendre compte du climat social"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-09-29",
+     "t": "Mobilisation des agents publics : 200 000 manifestants selon LCP.",
+     "v": "2026-10-04"
+    },
+    {
+     "d": "2026-10-02",
+     "t": "Le ministre David Amiel propose de relever l'indice minimum au 1er janvier 2027, malgré le gel du point d'indice prévu au projet de loi de finances.",
+     "v": "2026-10-04"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Les syndicats sont reçus à Matignon par le Premier ministre et ne sont pas satisfaits.",
+     "v": "2026-11-22"
+    },
+    {
+     "d": "2026-11-17",
+     "t": "Journée de grève et de manifestations dans la fonction publique : 220 000 à 300 000 manifestants en France selon des sources policières citées par l'AFP.",
+     "v": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "id": "cnda-grande-formation-cisjordanie",
+   "rubrique": "Droit et contentieux",
+   "titre": "CNDA : grande formation sur le recours d'un Palestinien de Cisjordanie et office du juge à la frontière",
+   "resume": "La CNDA précise le 7 octobre l'étendue de son office dans une procédure à la frontière et siège le 19 novembre en grande formation sur le recours d'un ressortissant palestinien de Cisjordanie.",
+   "statut": "En cours",
+   "maj": "2026-11-15",
+   "enjeu": "La grande formation traite les questions de droit nouvelles ou sensibles ; sa décision servira de repère pour l'instruction.",
+   "carte": {
+    "centre": "CNDA, décisions de principe",
+    "branches": [
+     {
+      "t": "Office du juge",
+      "f": [
+       "7 octobre : précisions pour les recours formés à la frontière",
+       "Lien avec la procédure à la frontière du Pacte"
+      ]
+     },
+     {
+      "t": "Grande formation",
+      "f": [
+       "Annoncée le 13 novembre",
+       "Audience le 19 novembre à 9 h",
+       "Recours d'un ressortissant palestinien de Cisjordanie"
+      ]
+     },
+     {
+      "t": "Suite",
+      "f": [
+       "Décision attendue après l'audience",
+       "À relire à la source avant de la citer"
+      ]
+     },
+     {
+      "t": "Pour l'attaché",
+      "f": [
+       "Suivre la jurisprudence",
+       "Adapter l'instruction"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-07",
+     "t": "La CNDA précise l'étendue de son office pour les recours formés dans le cadre d'une procédure d'asile à la frontière.",
+     "v": "2026-10-11"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "La CNDA annonce qu'elle siège en grande formation le 19 novembre pour le recours d'un ressortissant palestinien de Cisjordanie.",
+     "v": "2026-11-15"
+    }
+   ]
+  },
+  {
+   "id": "conseil-etat-protection-subsidiaire-menace",
+   "rubrique": "Droit et contentieux",
+   "titre": "Conseil d'État : menace grave à l'ordre public et protection subsidiaire",
+   "resume": "Selon une analyse d'avocats, le Conseil d'État juge le 20 octobre 2026 (n° 503186) que la menace grave s'apprécie à la date de la décision, au vu de l'ensemble du comportement et du temps écoulé.",
+   "statut": "Terminé",
+   "maj": "2026-10-25",
+   "enjeu": "La décision rappelle l'appréciation à la date où l'on statue ; à relire à la source avant de la citer.",
+   "carte": {
+    "centre": "Menace et protection subsidiaire",
+    "branches": [
+     {
+      "t": "Faits",
+      "f": [
+       "Interpellation en juin 2023 et propos menaçants",
+       "Hospitalisation en psychiatrie",
+       "État stabilisé et suivi effectif selon les certificats"
+      ]
+     },
+     {
+      "t": "Règle posée",
+      "f": [
+       "Tenir compte de l'ensemble des agissements",
+       "Pas besoin de caractériser un crime",
+       "Tenir compte du temps écoulé et des circonstances à la date de la décision"
+      ]
+     },
+     {
+      "t": "Solution",
+      "f": [
+       "Rejet du pourvoi de l'OFPRA",
+       "Protection subsidiaire maintenue"
+      ]
+     },
+     {
+      "t": "Pour l'attaché",
+      "f": [
+       "Documenter la situation actuelle",
+       "Appréciation individuelle",
+       "Source : analyse d'un cabinet d'avocats"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-20",
+     "t": "Le Conseil d'État rejette, sous le n° 503186, le pourvoi de l'OFPRA contre une décision de la CNDA accordant la protection subsidiaire (d'après une analyse d'avocats).",
+     "v": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "ofpra-demenagement-archives",
+   "rubrique": "Fonction publique et État",
+   "titre": "OFPRA : déménagement des archives et fermeture de la salle de lecture",
+   "resume": "L'OFPRA déménage ses archives (environ 12 km de dossiers) de fin 2026 au début 2027 ; la salle de lecture ferme du 30 novembre 2026 au 26 février 2027.",
+   "statut": "À venir",
+   "maj": "2026-10-18",
+   "enjeu": "Cas pratique de gestion : continuité du service, information des usagers, sécurité des dossiers et dialogue social.",
+   "carte": {
+    "centre": "Déménagement de l'OFPRA",
+    "branches": [
+     {
+      "t": "Calendrier",
+      "f": [
+       "Annonce le 13 octobre 2026",
+       "Demandes de recherche après le 30 octobre non prises en compte",
+       "Salle de lecture fermée du 30 novembre au 26 février 2027"
+      ]
+     },
+     {
+      "t": "Nouveaux locaux",
+      "f": [
+       "198, rue Carnot, à Fontenay-sous-Bois",
+       "En face du bâtiment actuel"
+      ]
+     },
+     {
+      "t": "Usagers",
+      "f": [
+       "Urgences (succession, nationalité) traitées dans la mesure du possible",
+       "Renvoi possible vers les Archives nationales ou départementales"
+      ]
+     },
+     {
+      "t": "Pour l'attaché",
+      "f": [
+       "Plan de communication",
+       "Continuité du service",
+       "Écoute des représentants du personnel"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-13",
+     "t": "L'OFPRA annonce le déménagement de ses archives (environ 12 km) et les dates de fermeture de la salle de lecture.",
+     "v": "2026-10-18"
+    },
+    {
+     "d": "2026-10-13",
+     "t": "Un communiqué unitaire publié par la CGT État appelle les agents de l'OFPRA à la grève (contenu détaillé non consulté).",
+     "v": "2026-10-18"
     }
    ]
   }
