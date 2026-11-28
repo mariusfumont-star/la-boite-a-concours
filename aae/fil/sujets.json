@@ -1,13 +1,13 @@
 {
- "derniere_veille": "2026-11-27",
+ "derniere_veille": "2026-11-28",
  "sujets": [
   {
    "id": "budget-education-superieur",
    "rubrique": "Éducation et jeunesse",
    "titre": "Budget 2027 de l'éducation et de l'enseignement supérieur",
-   "resume": "Les crédits augmentent (64 Md€ selon le ministre, + 1,2 Md€) tandis que 1 588 postes d'enseignants seraient supprimés, au nom de la baisse démographique. Le débat se poursuit au Sénat, où le rapporteur LR demande une revalorisation des enseignants en milieu de carrière.",
+   "resume": "Les crédits augmentent (64 Md€ pour l'école selon le ministre, + 500 M€ pour l'enseignement supérieur dont 143 M€ pour les Crous) tandis que 1 588 postes d'enseignants seraient supprimés. Les annonces restent conditionnées au vote du budget, débattu au Sénat.",
    "statut": "En cours",
-   "maj": "2026-11-27",
+   "maj": "2026-11-28",
    "enjeu": "Savoir lire un budget par mission et programme : hausse des crédits et baisse des emplois ne se contredisent pas, la masse salariale et les effectifs sont deux grandeurs distinctes.",
    "carte": {
     "centre": "Budget éducation 2027",
@@ -18,17 +18,18 @@
        "Mission dotée de 65,53 Md€, contre 64,43 Md€ en 2026",
        "1 588 emplois d'enseignants supprimés, dont 1 250 dans le public (414 dans le 1er degré, 836 dans le 2nd)",
        "Autre présentation : crédits de paiement de la mission de 89,62 à 90,86 Md€ (+ 1,24 Md€, + 1,38 %), soit un périmètre différent",
-       "Selon le ministre Geffray (21 oct.) : 64 Md€, soit + 1,2 Md€ ; les 1 588 suppressions pourraient être revues à la baisse"
+       "Selon le ministre Geffray (21 oct.) : 64 Md€, soit + 1,2 Md€ ; les 1 588 suppressions pourraient être revues à la baisse",
+       "Stagiaires et élèves-fonctionnaires : + 3 041 emplois (réforme de la formation initiale) ; 2027, dernier concours à bac+5"
       ]
      },
      {
       "t": "Enseignement supérieur",
       "f": [
-       "Mission Recherche et enseignement supérieur : 31,8 Md€, soit + 500 M€",
+       "+ 500 M€ en 2027 par rapport à 2026 (annonce de Philippe Baptiste), enveloppe menacée si le PLF n'est pas voté",
        "Repas à 1 € dans les Crous financé en année pleine (143 M€), avec 600 emplois supplémentaires dans les Crous",
-       "Le repas à 1 € est pérennisé, mais conditionné au vote du budget : 143 M€ pour les Crous",
        "Enseignement supérieur et recherche : 29,5 Md€ selon L'Étudiant",
-       "Sénat (5 nov.) : crédits de l'ANR stabilisés, + 300 M€ pour la recherche ; non-respect de la LPR critiqué (programme 150)"
+       "Sénat (5 nov.) : crédits de l'ANR stabilisés, + 300 M€ pour la recherche ; non-respect de la LPR critiqué (programme 150)",
+       "Repas à 1 € généralisé à tous les étudiants depuis mai 2026, « victime de son succès » : 143 M€ pour les Crous"
       ]
      },
      {
@@ -97,72 +98,179 @@
      "d": "2026-11-21",
      "t": "Le budget de l'enseignement supérieur : 29,5 Md€, repas à 1 € conditionné au vote du budget.",
      "v": "2026-11-21"
+    },
+    {
+     "d": "2026-11-28",
+     "t": "Philippe Baptiste annonce 500 M€ supplémentaires pour l'enseignement supérieur en 2027, dont 143 M€ pour les Crous, enveloppe menacée si le PLF n'est pas voté.",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-11-28",
+     "t": "Le PLF 2027 prévoit + 3 041 emplois de stagiaires et d'élèves-fonctionnaires, lié à la réforme de la formation initiale ; 2027 serait la dernière année de concours à bac+5.",
+     "v": "2026-11-28"
     }
    ]
   },
   {
-   "id": "espagne-elections",
+   "id": "cij-birmanie-genocide",
    "rubrique": "Europe et monde",
-   "titre": "Espagne : élections générales anticipées du 29 novembre",
-   "resume": "Annoncées le 5 octobre par Pedro Sánchez, des élections générales anticipées ont lieu le 29 novembre 2026. Selon l'AFP, la majorité des sondages donnent le PP vainqueur sans majorité absolue.",
-   "statut": "À venir",
-   "maj": "2026-11-27",
-   "enjeu": "Savoir situer l'Espagne, partenaire majeur de la France dans l'UE, et lire un scrutin européen : mode de scrutin, coalitions, conséquences possibles sur les positions européennes (migrations, budget, Ukraine).",
+   "titre": "La CIJ juge que la Birmanie a commis un génocide contre les Rohingyas",
+   "resume": "Le 19 novembre 2026, la Cour internationale de justice a jugé, dans l'affaire Gambie contre Birmanie, que la Birmanie avait commis un génocide contre les Rohingyas. C'est la première fois que la Cour conclut qu'un État a lui-même commis ce crime.",
+   "statut": "Terminé",
+   "maj": "2026-11-28",
+   "enjeu": "Savoir distinguer la CIJ, qui juge les États, de la Cour pénale internationale, qui juge des individus, et mesurer les limites de l'exécution des décisions internationales.",
    "carte": {
-    "centre": "Élections en Espagne",
+    "centre": "CIJ : Gambie c. Birmanie",
     "branches": [
      {
-      "t": "Le scrutin",
+      "t": "La décision",
       "f": [
-       "Élections générales anticipées le 29 novembre 2026",
-       "Annoncées le 5 octobre par le Premier ministre Pedro Sánchez"
+       "19 nov. 2026 : génocide contre les Rohingyas dans le nord de l'État de Rakhine",
+       "Décision prise par neuf voix contre six, selon la presse",
+       "Première fois que la Cour conclut qu'un État a lui-même commis un génocide"
       ]
      },
      {
-      "t": "La campagne",
+      "t": "La procédure",
       "f": [
-       "19 nov. : seul face-à-face télévisé entre Pedro Sánchez et Alberto Núñez Feijóo",
-       "Thèmes dominants : le logement et la corruption"
+       "La Gambie saisit la Cour en 2019",
+       "La Cour se déclare compétente en 2022",
+       "La Birmanie rejetait les accusations comme infondées"
       ]
      },
      {
-      "t": "Les acteurs",
+      "t": "Les notions",
       "f": [
-       "Pedro Sánchez, Premier ministre",
-       "Alberto Núñez Feijóo, chef du Parti populaire (PP)",
-       "Vox, dont le PP pourrait dépendre"
+       "CIJ : juge les États ; CPI : juge des individus",
+       "Fondement : la Convention de 1948 sur le génocide"
       ]
      },
      {
-      "t": "Les sondages",
+      "t": "Les limites",
       "f": [
-       "Selon l'AFP, la majorité des sondages donnent le PP vainqueur",
-       "Sans majorité absolue, il dépendrait de Vox"
-      ]
-     },
-     {
-      "t": "Enjeux européens",
-      "f": [
-       "Positions possibles de l'Espagne sur les migrations, le budget européen et l'Ukraine"
+       "La Cour n'a pas de moyen direct de faire appliquer ses décisions"
       ]
      }
     ]
    },
    "chrono": [
     {
-     "d": "2026-10-05",
-     "t": "Pedro Sánchez annonce des élections générales anticipées.",
-     "v": "2026-11-27"
-    },
-    {
      "d": "2026-11-19",
-     "t": "Seul débat télévisé Sánchez–Feijóo, dominé par le logement et la corruption.",
-     "v": "2026-11-27"
+     "t": "La CIJ juge, par neuf voix contre six selon la presse, que la Birmanie a commis un génocide contre les Rohingyas.",
+     "v": "2026-11-28"
+    }
+   ]
+  },
+  {
+   "id": "parcoursup",
+   "rubrique": "Éducation et jeunesse",
+   "titre": "Parcoursup : réforme en 2027, remplacement en 2028",
+   "resume": "Contesté par les lycéens, Parcoursup doit connaître une « évolution forte » à la session 2027 avant d'être remplacé en 2028. Le paramétrage des formations pour 2027 se déroule du 12 novembre au 10 décembre.",
+   "statut": "En cours",
+   "maj": "2026-11-28",
+   "enjeu": "Parcoursup est un sujet d'oral classique : il faut en connaître le principe, les limites (transparence, quotas ORE) et le calendrier de la réforme, sans prendre parti.",
+   "carte": {
+    "centre": "Parcoursup",
+    "branches": [
+     {
+      "t": "Le bilan 2026",
+      "f": [
+       "1 046 000 candidats pour environ 25 000 formations",
+       "+ 66 000 candidats par rapport à 2025",
+       "Hausse tirée surtout par les étudiants en réorientation (+ 23 000)",
+       "Taux d'acceptation des lycéens stable à 84 % ; procédure close le 10 septembre",
+       "33 établissements déréférencés pour difficultés économiques"
+      ]
+     },
+     {
+      "t": "Les critiques",
+      "f": [
+       "Manque de transparence des critères et des algorithmes",
+       "Quotas de boursiers (loi ORE de 2018) mal appliqués selon deux chercheurs",
+       "Une proposition de loi pour le supprimer (député Hendrik Davi, 10 nov.)"
+      ]
+     },
+     {
+      "t": "Les annonces du 26 octobre",
+      "f": [
+       "« Évolution forte » dès la session 2027",
+       "Remplacement de la plateforme en 2028",
+       "Jusqu'à 15 000 places supplémentaires pour la rentrée 2027",
+       "Réponses expliquées aux candidats sans qu'ils aient à les demander"
+      ]
+     },
+     {
+      "t": "Le comité de réforme",
+      "f": [
+       "Réunit lycéens, enseignants, syndicats, parents, parlementaires, établissements",
+       "Première réunion le 9 nov., quittée par une partie des organisations",
+       "Premières recommandations attendues courant novembre",
+       "Paramétrage 2027 du 12 nov. au 10 déc. ; carte des formations publiée le 17 déc.",
+       "Selon L'Étudiant, les formations n'ont reçu aucune consigne sur les nouveautés"
+      ]
+     },
+     {
+      "t": "Les trois volets (ministre)",
+      "f": [
+       "L'avant : orientation et choix des spécialités",
+       "L'outil : amélioration de la plateforme",
+       "L'après : réponses données aux candidats",
+       "Concertation sur Parcoursup, l'orientation et l'accès au supérieur, présidée par Gilles Roussel"
+      ]
+     },
+     {
+      "t": "Limite",
+      "f": [
+       "Certains paramètres relèvent de la loi : seule la loi peut les modifier"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-14",
+     "t": "Note de chercheurs sur l'application des quotas de boursiers.",
+     "v": "2026-10-15"
     },
     {
-     "d": "2026-11-29",
-     "t": "Élections générales anticipées en Espagne.",
-     "v": "2026-11-27"
+     "d": "2026-10-15",
+     "t": "Le ministre annonce des mesures « d'ici fin octobre » sur l'avant, l'outil et l'après.",
+     "v": "2026-10-16"
+    },
+    {
+     "d": "2026-10-19",
+     "t": "Bilan Parcoursup 2026 : 1 046 000 candidats.",
+     "v": "2026-10-24"
+    },
+    {
+     "d": "2026-10-26",
+     "t": "Annonce d'une évolution forte en 2027 et d'un remplacement en 2028.",
+     "v": "2026-10-27"
+    },
+    {
+     "d": "2026-11-09",
+     "t": "Premier comité de réforme, dans un climat tendu.",
+     "v": "2026-11-11"
+    },
+    {
+     "d": "2026-11-10",
+     "t": "Dépôt d'une proposition de loi pour supprimer Parcoursup.",
+     "v": "2026-11-12"
+    },
+    {
+     "d": "2026-11-12",
+     "t": "Début du paramétrage de Parcoursup 2027, jusqu'au 10 décembre ; selon L'Étudiant, les universités ne savent pas encore précisément quelles évolutions seront mises en œuvre.",
+     "v": "2026-11-25"
+    },
+    {
+     "d": "2026-11-28",
+     "t": "Une concertation sur Parcoursup, l'orientation et l'accès à l'enseignement supérieur, présidée par Gilles Roussel, est engagée.",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-12-17",
+     "t": "Publication de la carte des formations pour la session 2027.",
+     "v": "2026-11-17"
     }
    ]
   },
@@ -170,9 +278,9 @@
    "id": "plf-2027",
    "rubrique": "Finances publiques",
    "titre": "Le projet de loi de finances 2027",
-   "resume": "Déposé le 1er octobre avec un objectif de déficit de 5 % du PIB, le budget a été rejeté en première partie par l'Assemblée le 4 novembre et transmis au Sénat dans sa version initiale ; le vote solennel du Sénat est prévu le 9 décembre.",
+   "resume": "Déposé le 1er octobre avec un objectif de déficit de 5 % du PIB, le budget a été rejeté en première partie par l'Assemblée le 4 novembre et est examiné par le Sénat depuis le 20 novembre ; le vote solennel est prévu le 9 décembre. Le PLFSS, distinct, est passé en CMP le 26 novembre.",
    "statut": "En cours",
-   "maj": "2026-11-27",
+   "maj": "2026-11-28",
    "enjeu": "Le calendrier budgétaire, la LOLF et les délais constitutionnels sont des classiques de l'écrit comme de l'oral : savoir expliquer pourquoi un budget peut passer au Sénat sans avoir été voté.",
    "carte": {
     "centre": "PLF 2027",
@@ -206,7 +314,9 @@
       "f": [
        "LOLF : le budget est réparti en missions, programmes et actions",
        "PLF (État) et PLFSS (Sécurité sociale) : deux textes, deux délais",
-       "Un délai constitutionnel de 70 jours ; le 49.3 a été évoqué"
+       "Un délai constitutionnel de 70 jours ; le 49.3 a été évoqué",
+       "PLFSS 2027 adopté au Sénat en 1re lecture le 18 nov. (201 voix contre 124) ; CMP prévue le 26 nov.",
+       "Navette : la commission mixte paritaire (CMP) cherche un accord entre Assemblée et Sénat"
       ]
      },
      {
@@ -275,6 +385,21 @@
      "v": "2026-11-13"
     },
     {
+     "d": "2026-11-18",
+     "t": "Le Sénat adopte le PLFSS 2027 en première lecture par 201 voix contre 124.",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-11-20",
+     "t": "Le Sénat commence l'examen du PLF 2027.",
+     "v": "2026-11-28"
+    },
+    {
+     "d": "2026-11-26",
+     "t": "Commission mixte paritaire prévue sur le PLFSS 2027 pour chercher un accord avec l'Assemblée nationale.",
+     "v": "2026-11-28"
+    },
+    {
      "d": "2026-11-27",
      "t": "La commission des finances du Sénat propose environ 900 M€ d'économies sur les dépenses de fonction publique, selon Acteurs publics.",
      "v": "2026-11-27"
@@ -292,7 +417,7 @@
    "titre": "Salaires des agents publics : point d'indice gelé, grève du 17 novembre",
    "resume": "Le point d'indice reste gelé en 2027 : le ministre David Amiel privilégie des mesures ciblées (huit points d'indice pour le bas de grille, concertation d'un mois), contestées par les syndicats. Au Sénat, la commission des finances propose environ 900 M€ d'économies sur la fonction publique, qui restent à voter.",
    "statut": "En cours",
-   "maj": "2026-11-27",
+   "maj": "2026-11-28",
    "enjeu": "Un attaché doit savoir comment se construit une rémunération (indice, point d'indice, primes) et pourquoi une hausse du Smic « écrase » le bas des grilles de catégorie C.",
    "carte": {
     "centre": "Rémunérations publiques",
@@ -314,7 +439,7 @@
        "Mesure ciblée : 1,35 million d'agents, gain moyen d'environ 350 € bruts par an (annonce du ministre)",
        "Concertation d'un mois sur cinq chantiers (rémunérations et carrières), jusqu'à la mi-décembre environ",
        "Huit points d'indice pour le bas de grille ; environ 200 000 agents au-dessus du Smic aussi concernés",
-       "Indemnité différentielle : 650 000 agents concernés contre 872 000 (presse spécialisée)"
+       "Indemnité différentielle : 650 000 agents contre 872 000 selon Acteurs publics (862 000 depuis le 1er juin selon un autre média)"
       ]
      },
      {
@@ -398,6 +523,157 @@
     {
      "d": "2026-11-27",
      "t": "Selon Acteurs publics, la commission des finances du Sénat adopte une baisse d'environ 900 M€ des dépenses de fonction publique (supplément familial de traitement forfaitisé, temps partiel thérapeutique à 90 %), à voter en séance.",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-11-28",
+     "t": "Selon Acteurs publics, environ 650 000 agents resteraient sous le Smic indiciaire contre 872 000 ; un autre média cite 862 000 agents depuis le 1er juin 2026.",
+     "v": "2026-11-28"
+    }
+   ]
+  },
+  {
+   "id": "union-europeenne",
+   "rubrique": "Europe et monde",
+   "titre": "Union européenne : énergie, commerce et budget",
+   "resume": "Le Conseil européen des 15 et 16 octobre, l'accord avec la Chine sur les hybrides, les inquiétudes sur l'énergie et, le 18 novembre, la proposition d'un nouveau prêt de 45 Md€ à l'Ukraine.",
+   "statut": "En cours",
+   "maj": "2026-11-28",
+   "enjeu": "Savoir présenter le rôle du Conseil européen (orientations, sans pouvoir législatif) et la compétence commerciale de l'Union, des questions fréquentes à l'oral.",
+   "carte": {
+    "centre": "Union européenne",
+    "branches": [
+     {
+      "t": "Conseil européen (15-16 oct.)",
+      "f": [
+       "Énergie : une « réponse européenne coordonnée », avec des mesures ciblées et temporaires",
+       "Soutien à l'Ukraine",
+       "Budget de l'Union et élargissement à l'ordre du jour"
+      ]
+     },
+     {
+      "t": "Commerce",
+      "f": [
+       "12 oct. : accord UE-Chine limitant à 350 000 par an les importations de véhicules hybrides chinois",
+       "Hausse annuelle prévue de 6 %",
+       "Négociation menée par le commissaire Maroš Šefčovič"
+      ]
+     },
+     {
+      "t": "Énergie",
+      "f": [
+       "Accord Trump-Poutine sur le diesel russe : il inquiète les alliés européens",
+       "Première livraison annoncée : 2,25 millions de barils en octobre"
+      ]
+     },
+     {
+      "t": "Ukraine et sécurité",
+      "f": [
+       "13 nov. : Conseil européen informel à Dublin sur la place de l'Europe dans les négociations",
+       "Cinq pays européens associés aux prochains échanges (annonce d'António Costa)"
+      ]
+     },
+     {
+      "t": "Prêt à l'Ukraine",
+      "f": [
+       "18 nov. : Ursula von der Leyen propose un prêt de 45 Md€ adossé à une dette commune, versé en 2027 (Euronews)",
+       "20 Md€ d'aide financière et 25 Md€ pour l'achat d'armements",
+       "S'ajoute au prêt de 90 Md€ approuvé fin 2025 ; remboursement lié aux réparations russes (Toute l'Europe)",
+       "Avoirs russes gelés écartés (opposition de plusieurs États dont la Belgique) ; texte à négocier à 27"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-12",
+     "t": "Accord UE-Chine sur les hybrides.",
+     "v": "2026-10-12"
+    },
+    {
+     "d": "2026-10-13",
+     "t": "Inquiétude européenne sur l'accord Trump-Poutine sur le diesel.",
+     "v": "2026-10-13"
+    },
+    {
+     "d": "2026-10-16",
+     "t": "Conclusions du Conseil européen sur l'énergie et l'Ukraine.",
+     "v": "2026-10-16"
+    },
+    {
+     "d": "2026-11-13",
+     "t": "Conseil européen informel à Dublin.",
+     "v": "2026-11-18"
+    },
+    {
+     "d": "2026-11-18",
+     "t": "La Commission européenne propose un prêt de 45 Md€ à l'Ukraine adossé à une dette commune (20 Md€ d'aide financière, 25 Md€ pour l'armement).",
+     "v": "2026-11-28"
+    }
+   ]
+  },
+  {
+   "id": "espagne-elections",
+   "rubrique": "Europe et monde",
+   "titre": "Espagne : élections générales anticipées du 29 novembre",
+   "resume": "Annoncées le 5 octobre par Pedro Sánchez, des élections générales anticipées ont lieu le 29 novembre 2026. Selon l'AFP, la majorité des sondages donnent le PP vainqueur sans majorité absolue.",
+   "statut": "À venir",
+   "maj": "2026-11-27",
+   "enjeu": "Savoir situer l'Espagne, partenaire majeur de la France dans l'UE, et lire un scrutin européen : mode de scrutin, coalitions, conséquences possibles sur les positions européennes (migrations, budget, Ukraine).",
+   "carte": {
+    "centre": "Élections en Espagne",
+    "branches": [
+     {
+      "t": "Le scrutin",
+      "f": [
+       "Élections générales anticipées le 29 novembre 2026",
+       "Annoncées le 5 octobre par le Premier ministre Pedro Sánchez"
+      ]
+     },
+     {
+      "t": "La campagne",
+      "f": [
+       "19 nov. : seul face-à-face télévisé entre Pedro Sánchez et Alberto Núñez Feijóo",
+       "Thèmes dominants : le logement et la corruption"
+      ]
+     },
+     {
+      "t": "Les acteurs",
+      "f": [
+       "Pedro Sánchez, Premier ministre",
+       "Alberto Núñez Feijóo, chef du Parti populaire (PP)",
+       "Vox, dont le PP pourrait dépendre"
+      ]
+     },
+     {
+      "t": "Les sondages",
+      "f": [
+       "Selon l'AFP, la majorité des sondages donnent le PP vainqueur",
+       "Sans majorité absolue, il dépendrait de Vox"
+      ]
+     },
+     {
+      "t": "Enjeux européens",
+      "f": [
+       "Positions possibles de l'Espagne sur les migrations, le budget européen et l'Ukraine"
+      ]
+     }
+    ]
+   },
+   "chrono": [
+    {
+     "d": "2026-10-05",
+     "t": "Pedro Sánchez annonce des élections générales anticipées.",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-11-19",
+     "t": "Seul débat télévisé Sánchez–Feijóo, dominé par le logement et la corruption.",
+     "v": "2026-11-27"
+    },
+    {
+     "d": "2026-11-29",
+     "t": "Élections générales anticipées en Espagne.",
      "v": "2026-11-27"
     }
    ]
@@ -908,113 +1184,6 @@
    ]
   },
   {
-   "id": "parcoursup",
-   "rubrique": "Éducation et jeunesse",
-   "titre": "Parcoursup : réforme en 2027, remplacement en 2028",
-   "resume": "Contesté par les lycéens, Parcoursup doit connaître une « évolution forte » à la session 2027 avant d'être remplacé en 2028. Le paramétrage des formations pour 2027 se déroule du 12 novembre au 10 décembre.",
-   "statut": "En cours",
-   "maj": "2026-11-25",
-   "enjeu": "Parcoursup est un sujet d'oral classique : il faut en connaître le principe, les limites (transparence, quotas ORE) et le calendrier de la réforme, sans prendre parti.",
-   "carte": {
-    "centre": "Parcoursup",
-    "branches": [
-     {
-      "t": "Le bilan 2026",
-      "f": [
-       "1 046 000 candidats pour environ 25 000 formations",
-       "+ 66 000 candidats par rapport à 2025",
-       "Hausse tirée surtout par les étudiants en réorientation (+ 23 000)",
-       "Taux d'acceptation des lycéens stable à 84 % ; procédure close le 10 septembre",
-       "33 établissements déréférencés pour difficultés économiques"
-      ]
-     },
-     {
-      "t": "Les critiques",
-      "f": [
-       "Manque de transparence des critères et des algorithmes",
-       "Quotas de boursiers (loi ORE de 2018) mal appliqués selon deux chercheurs",
-       "Une proposition de loi pour le supprimer (député Hendrik Davi, 10 nov.)"
-      ]
-     },
-     {
-      "t": "Les annonces du 26 octobre",
-      "f": [
-       "« Évolution forte » dès la session 2027",
-       "Remplacement de la plateforme en 2028",
-       "Jusqu'à 15 000 places supplémentaires pour la rentrée 2027",
-       "Réponses expliquées aux candidats sans qu'ils aient à les demander"
-      ]
-     },
-     {
-      "t": "Le comité de réforme",
-      "f": [
-       "Réunit lycéens, enseignants, syndicats, parents, parlementaires, établissements",
-       "Première réunion le 9 nov., quittée par une partie des organisations",
-       "Premières recommandations attendues courant novembre",
-       "Paramétrage 2027 du 12 nov. au 10 déc. ; carte des formations publiée le 17 déc.",
-       "Selon L'Étudiant, les formations n'ont reçu aucune consigne sur les nouveautés"
-      ]
-     },
-     {
-      "t": "Les trois volets (ministre)",
-      "f": [
-       "L'avant : orientation et choix des spécialités",
-       "L'outil : amélioration de la plateforme",
-       "L'après : réponses données aux candidats"
-      ]
-     },
-     {
-      "t": "Limite",
-      "f": [
-       "Certains paramètres relèvent de la loi : seule la loi peut les modifier"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-10-14",
-     "t": "Note de chercheurs sur l'application des quotas de boursiers.",
-     "v": "2026-10-15"
-    },
-    {
-     "d": "2026-10-15",
-     "t": "Le ministre annonce des mesures « d'ici fin octobre » sur l'avant, l'outil et l'après.",
-     "v": "2026-10-16"
-    },
-    {
-     "d": "2026-10-19",
-     "t": "Bilan Parcoursup 2026 : 1 046 000 candidats.",
-     "v": "2026-10-24"
-    },
-    {
-     "d": "2026-10-26",
-     "t": "Annonce d'une évolution forte en 2027 et d'un remplacement en 2028.",
-     "v": "2026-10-27"
-    },
-    {
-     "d": "2026-11-09",
-     "t": "Premier comité de réforme, dans un climat tendu.",
-     "v": "2026-11-11"
-    },
-    {
-     "d": "2026-11-10",
-     "t": "Dépôt d'une proposition de loi pour supprimer Parcoursup.",
-     "v": "2026-11-12"
-    },
-    {
-     "d": "2026-11-12",
-     "t": "Début du paramétrage de Parcoursup 2027, jusqu'au 10 décembre ; selon L'Étudiant, les universités ne savent pas encore précisément quelles évolutions seront mises en œuvre.",
-     "v": "2026-11-25"
-    },
-    {
-     "d": "2026-12-17",
-     "t": "Publication de la carte des formations pour la session 2027.",
-     "v": "2026-11-17"
-    }
-   ]
-  },
-  {
    "id": "rentree-universitaire",
    "rubrique": "Éducation et jeunesse",
    "titre": "Rentrée universitaire 2026 et places en licence",
@@ -1070,72 +1239,6 @@
      "d": "2026-11-24",
      "t": "Dossier de presse de la rentrée universitaire.",
      "v": "2026-11-24"
-    }
-   ]
-  },
-  {
-   "id": "union-europeenne",
-   "rubrique": "Europe et monde",
-   "titre": "Union européenne : énergie, commerce et budget",
-   "resume": "Le Conseil européen des 15 et 16 octobre, l'accord avec la Chine sur les hybrides et les inquiétudes sur l'énergie.",
-   "statut": "En cours",
-   "maj": "2026-11-24",
-   "enjeu": "Savoir présenter le rôle du Conseil européen (orientations, sans pouvoir législatif) et la compétence commerciale de l'Union, des questions fréquentes à l'oral.",
-   "carte": {
-    "centre": "Union européenne",
-    "branches": [
-     {
-      "t": "Conseil européen (15-16 oct.)",
-      "f": [
-       "Énergie : une « réponse européenne coordonnée », avec des mesures ciblées et temporaires",
-       "Soutien à l'Ukraine",
-       "Budget de l'Union et élargissement à l'ordre du jour"
-      ]
-     },
-     {
-      "t": "Commerce",
-      "f": [
-       "12 oct. : accord UE-Chine limitant à 350 000 par an les importations de véhicules hybrides chinois",
-       "Hausse annuelle prévue de 6 %",
-       "Négociation menée par le commissaire Maroš Šefčovič"
-      ]
-     },
-     {
-      "t": "Énergie",
-      "f": [
-       "Accord Trump-Poutine sur le diesel russe : il inquiète les alliés européens",
-       "Première livraison annoncée : 2,25 millions de barils en octobre"
-      ]
-     },
-     {
-      "t": "Ukraine et sécurité",
-      "f": [
-       "13 nov. : Conseil européen informel à Dublin sur la place de l'Europe dans les négociations",
-       "Cinq pays européens associés aux prochains échanges (annonce d'António Costa)"
-      ]
-     }
-    ]
-   },
-   "chrono": [
-    {
-     "d": "2026-10-12",
-     "t": "Accord UE-Chine sur les hybrides.",
-     "v": "2026-10-12"
-    },
-    {
-     "d": "2026-10-13",
-     "t": "Inquiétude européenne sur l'accord Trump-Poutine sur le diesel.",
-     "v": "2026-10-13"
-    },
-    {
-     "d": "2026-10-16",
-     "t": "Conclusions du Conseil européen sur l'énergie et l'Ukraine.",
-     "v": "2026-10-16"
-    },
-    {
-     "d": "2026-11-13",
-     "t": "Conseil européen informel à Dublin.",
-     "v": "2026-11-18"
     }
    ]
   },
